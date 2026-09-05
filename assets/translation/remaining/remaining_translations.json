@@ -35587,6 +35587,122 @@
       "reuse_sources": [
         "eternal_lovers"
       ]
+    },
+    {
+      "id": "remaining:04827",
+      "original": "敵艦隊の全滅\n",
+      "translation": "적 함대의 전멸\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04828",
+      "original": "敵旗艦の破壊\n",
+      "translation": "적 기함의 파괴\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04829",
+      "original": "敵艦隊の撃退\n",
+      "translation": "적 함대의 격퇴\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04830",
+      "original": "エルシオールの目標地点\n",
+      "translation": "에르시올의 목표 지점\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04831",
+      "original": "シャトルの目標地点到達\n",
+      "translation": "셔틀의 목표 지점 도달\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04832",
+      "original": "民間船の目標地点到達\n",
+      "translation": "민간선의 목표 지점 도달\n",
+      "state": "reused_from_image",
+      "use_translation": true,
+      "reuse_sources": [
+        "condition_texture"
+      ]
+    },
+    {
+      "id": "remaining:04833",
+      "original": "F2:カメラスムーズON\n",
+      "translation": "F2:카메라 스무스 ON\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04834",
+      "original": "F3:カメラ回転の同期ON\n",
+      "translation": "F3:카메라 회전 동기화 ON\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04835",
+      "original": "F4:オートカメラモードON\n",
+      "translation": "F4:오토 카메라 모드 ON\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04836",
+      "original": "F5:ユニットインフォすべて表示\n",
+      "translation": "F5:유닛 인포 전체 표시\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04837",
+      "original": "F6:レーダーパネル開\n",
+      "translation": "F6:레이더 패널 열기\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04838",
+      "original": "F7:ボタンパネル開\n",
+      "translation": "F7:버튼 패널 열기\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04839",
+      "original": "F8:ロックオンマーカー表示\n",
+      "translation": "F8:록온 마커 표시\n",
+      "state": "battle_ui",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04840",
+      "original": "移動するポイントを選択してください\n",
+      "translation": "이동할 지점을 선택해 주세요\n",
+      "state": "battle_ui",
+      "use_translation": true
     }
   ]
 }

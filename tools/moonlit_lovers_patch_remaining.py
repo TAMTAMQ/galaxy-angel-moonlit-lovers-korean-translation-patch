@@ -20,6 +20,7 @@ import mmap
 import shutil
 from pathlib import Path
 
+import eternal_lovers_backing
 import eternal_lovers_patch_remaining as engine
 import galaxy_angel_build as builder
 import galaxy_angel_translation as translation
@@ -308,6 +309,14 @@ def main() -> None:
     parser.add_argument("--report", type=Path, required=True)
     parser.add_argument("--cache-dir", type=Path)
     parser.add_argument(
+        "--backing-region",
+        type=Path,
+        help=(
+            "JSON from eternal_lovers_reserve_backing_region.py. A container "
+            "that outgrows its allocation puts the overflow there."
+        ),
+    )
+    parser.add_argument(
         "--verify-source-iso",
         type=Path,
         help=(
@@ -359,6 +368,7 @@ def main() -> None:
         raise SystemExit("--tbi-manifest/--tbi-raw-root require --tbi-overlay")
     custom_map = translation.load_custom_map(args.encoding_map)
     assert custom_map is not None
+    region = eternal_lovers_backing.load(args.backing_region)
     targets = engine.collect_targets(payload)
     requested = {item.upper() for item in args.containers or []}
     if requested:
@@ -408,6 +418,7 @@ def main() -> None:
                 args.dry_run,
                 cache_dir,
                 compressed_cache,
+                region,
             )
             result["target_offsets"] = sorted(blocks)
             report["containers"][stem] = result
