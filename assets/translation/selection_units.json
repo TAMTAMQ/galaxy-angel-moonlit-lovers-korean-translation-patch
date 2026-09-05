@@ -1,0 +1,4586 @@
+{
+  "schema": "galaxy-angel-selection-units/v1",
+  "blocks": 152,
+  "unique_options": 286,
+  "units": [
+    {
+      "id": "selection:0001",
+      "original": "……ちょっと太った？",
+      "translation": "……좀 쪘어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 8,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0002",
+      "original": "……わからん、なぜだろう？",
+      "translation": "……모르겠어, 왜일까？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0003",
+      "original": "「変」なんだと思う",
+      "translation": "「이상」인 것 같아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0004",
+      "original": "「怒」なんだと思う",
+      "translation": "「분노」인 것 같아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0005",
+      "original": "「恋」なんだと思う",
+      "translation": "「사랑」인 것 같아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0006",
+      "original": "ああ、もちろんだとも",
+      "translation": "아아, 물론이지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0007",
+      "original": "あの艦隊を追ってきたのかい？",
+      "translation": "저 함대를 쫓아온 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0008",
+      "original": "あの黒い艦隊を追ってきたんだろう",
+      "translation": "저 검은 함대를 쫓아온 거겠지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0009",
+      "original": "あまりお父さんにこだわるのも……",
+      "translation": "너무 아버지에게 집착하는 것도……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0010",
+      "original": "あまり役に立つとは思えないよ",
+      "translation": "별로 도움이 될 것 같지는 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 7,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0011",
+      "original": "ありがとう、もう大丈夫だよ",
+      "translation": "고마워, 이제 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0012",
+      "original": "ありがとう、気をつけるよ",
+      "translation": "고마워, 조심할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0013",
+      "original": "いいよ、付き合うよ",
+      "translation": "좋아, 같이 갈게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0014",
+      "original": "いい先輩だなと思って",
+      "translation": "좋은 선배라고 생각해서",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0015",
+      "original": "いい香りだね、似合うよ",
+      "translation": "좋은 향기네, 잘 어울려",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0016",
+      "original": "いかに美しく撃つことかな",
+      "translation": "어떻게 아름답게 쏘느냐 하는 것이지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0017",
+      "original": "いや、それにはおよばないよ",
+      "translation": "아니, 그럴 필요까지는 없어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000b1000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000e4000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0018",
+      "original": "いや、もう一度説明してくれないか",
+      "translation": "아니, 다시 한번 설명해 줄래？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00124800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0019",
+      "original": "いや、オレもつきあうよ",
+      "translation": "아니, 나도 같이 갈게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000db800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0020",
+      "original": "いや、全然",
+      "translation": "아니, 전혀",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 9,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0021",
+      "original": "いや、大丈夫だよ",
+      "translation": "아니, 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ef800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0022",
+      "original": "いや、悪いのはミントのほうだ",
+      "translation": "아니, 잘못한 건 민트 쪽이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0023",
+      "original": "いや、遠慮するよ",
+      "translation": "아니, 사양할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0024",
+      "original": "うん、お願いするよ",
+      "translation": "응, 부탁할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ef800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0025",
+      "original": "うん、ぜひやろう",
+      "translation": "응, 꼭 하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0026",
+      "original": "うん、オススメだよ！",
+      "translation": "응, 추천해！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0027",
+      "original": "おすすめメニューがいいと思うよ",
+      "translation": "추천 메뉴가 좋을 것 같아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0028",
+      "original": "おせっかいでもいいんじゃないか？",
+      "translation": "참견이라도 괜찮지 않아？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0029",
+      "original": "おばさんの手伝いをするんだね？",
+      "translation": "아주머니를 도와드리는 거구나？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 8,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0030",
+      "original": "おーっと、間違えて隣のボタンを！",
+      "translation": "어이쿠, 실수로 옆 버튼을！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 8,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0031",
+      "original": "お化け屋敷に入ろう",
+      "translation": "귀신의 집에 들어가자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 1,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0032",
+      "original": "お安いご用さ",
+      "translation": "식은 죽 먹기지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0033",
+      "original": "お願いするよ",
+      "translation": "부탁할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0034",
+      "original": "かわいい声だね",
+      "translation": "귀여운 목소리네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0035",
+      "original": "ここで見てようか？",
+      "translation": "여기서 보고 있을까？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0036",
+      "original": "ここはオレに任せろ！",
+      "translation": "여기는 내게 맡겨！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0037",
+      "original": "こちらこそ",
+      "translation": "나야말로",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0038",
+      "original": "こんなことはやめるんだ",
+      "translation": "이런 건 그만둬",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000db800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0039",
+      "original": "ごめん、ランファを捜さないと",
+      "translation": "미안, 란파를 찾아야 해",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0040",
+      "original": "さっさとこの戦いを終わらせるぞ！",
+      "translation": "빨리 이 전투를 끝내자！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00023000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00044800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00065000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00087000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0041",
+      "original": "じゃあ、もっとがんばらないなとな",
+      "translation": "그럼, 좀 더 열심히 해야겠네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0042",
+      "original": "じゃあ、試しにひとつ",
+      "translation": "그럼, 시험 삼아 하나만",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0043",
+      "original": "ずっと捜してたんだぞ",
+      "translation": "계속 찾고 있었다고",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0044",
+      "original": "せっかくだけど、遠慮しとくよ",
+      "translation": "모처럼이지만, 사양할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0045",
+      "original": "ぜったい、やめといたほうがいい！",
+      "translation": "절대로, 하지 않는 게 좋아！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0046",
+      "original": "そこをオレたちで食い止めるんだ",
+      "translation": "거기를 우리가 막아내는 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00026000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0047",
+      "original": "その必要はない",
+      "translation": "그럴 필요는 없다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0000d000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0000d800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00019800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00020000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0002c000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00033800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00034000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0003c800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00041800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0004d800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00053800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00054000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0005c000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00061800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0006e000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00075800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00076000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0007f800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00084800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0008e000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00093800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00094000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0009d800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000a5000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000b0800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000b9000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000b9800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000c3000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000cd000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000d1800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000e3800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00108000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00112800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_0011f000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0048",
+      "original": "その箱には何が入ってるんだい？",
+      "translation": "그 상자에는 뭐가 들어 있니？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0049",
+      "original": "そりゃあ、大切に想ってるよ",
+      "translation": "그야, 소중하게 생각하고 있지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0050",
+      "original": "それより、大事な話があるんだ",
+      "translation": "그것보다, 중요한 이야기가 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0051",
+      "original": "それより、強制的に運動って？",
+      "translation": "그것보다, 강제로 운동이라니？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0052",
+      "original": "そんなことより、オレの話を……",
+      "translation": "그런 것보다, 내 이야기를……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0053",
+      "original": "そんなのわかるもんか",
+      "translation": "그걸 내가 어떻게 알아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0054",
+      "original": "そんなの無理に決まってるじゃないか",
+      "translation": "그건 무리인 게 당연하잖아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0055",
+      "original": "そんな風に見えるかな？",
+      "translation": "그렇게 보여？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0056",
+      "original": "ちとせ、がんばって",
+      "translation": "치토세, 힘내",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0057",
+      "original": "ちとせ、ここが腕の見せどころだぞ",
+      "translation": "치토세, 여기가 실력을 보여줄 때야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0058",
+      "original": "ちとせ、見てきてよ",
+      "translation": "치토세, 보고 와",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0059",
+      "original": "ちとせさん、お先にどうぞ",
+      "translation": "치토세 씨, 먼저 드세요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0060",
+      "original": "ちとせなら自分でなんとかするさ",
+      "translation": "치토세라면 스스로 어떻게든 하겠지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0061",
+      "original": "ちとせには手加減してやってくれ",
+      "translation": "치토세에게는 적당히 봐줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0062",
+      "original": "ちとせの部屋だからさ",
+      "translation": "치토세의 방이니까 말이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0063",
+      "original": "ちとせはいいご家族を持ってるね",
+      "translation": "치토세는 좋은 가족이 있네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 7,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0064",
+      "original": "ちとせは貧乏じゃないんだよ",
+      "translation": "치토세는 가난하지 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 7,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0065",
+      "original": "ちとせを見つけてからにしたら？",
+      "translation": "치토세를 찾고 나서 하는 게 어때？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0066",
+      "original": "ちとせ次第かな",
+      "translation": "치토세에게 달렸으려나",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0067",
+      "original": "でも、それは無理なんじゃないかな",
+      "translation": "하지만 그건 무리가 아닐까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0068",
+      "original": "でも、まだ早いかな",
+      "translation": "하지만 아직 이르려나",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0069",
+      "original": "でも、クッキーも食べたかったなぁ",
+      "translation": "하지만 쿠키도 먹고 싶었는데 말이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0070",
+      "original": "とりあえず様子を見よう",
+      "translation": "일단 상황을 지켜보자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0071",
+      "original": "どうして逃げたりするんだ",
+      "translation": "왜 도망치거나 하는 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0072",
+      "original": "なめこのみそ汁は好きじゃないんだ",
+      "translation": "나메코 된장국은 좋아하지 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0073",
+      "original": "なるようにしかなりませんよ",
+      "translation": "될 대로 될 거예요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0074",
+      "original": "なんとかなるさ",
+      "translation": "어떻게든 되겠지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0075",
+      "original": "のんきにお茶してる場合じゃないよ",
+      "translation": "한가하게 차 마실 때가 아니야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0076",
+      "original": "ひとつと言わず、まとめてもらうよ",
+      "translation": "하나 말고 한꺼번에 받을게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0077",
+      "original": "ふたつの月について聞きたい",
+      "translation": "두 개의 달에 대해 묻고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00113800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0078",
+      "original": "ほかのエンジェル隊はいいの？",
+      "translation": "다른 엔젤대는 괜찮은 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00081800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0079",
+      "original": "ほかの隊員と、はぐれたのかい？",
+      "translation": "다른 대원과, 떨어져 버린 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0080",
+      "original": "まあ、才能ってやつだね",
+      "translation": "뭐, 재능이라는 거지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 7,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0081",
+      "original": "まずは友達から始めよう",
+      "translation": "우선 친구부터 시작하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ed000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0082",
+      "original": "まずは落ち着こうよ",
+      "translation": "우선 진정하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0083",
+      "original": "まずヴァニラを手伝おう",
+      "translation": "먼저 바닐라를 돕자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0084",
+      "original": "また何か起きなきゃいいけど……",
+      "translation": "또 아무 일 없으면 좋겠는데……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0085",
+      "original": "また銃を撃ってくるといいよ",
+      "translation": "다시 총을 쏘러 오면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0008a000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0086",
+      "original": "まだ大丈夫",
+      "translation": "아직 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0087",
+      "original": "まだ見回り中だから……",
+      "translation": "아직 순찰 중이니까……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0088",
+      "original": "みんな、油断するなよ！",
+      "translation": "모두, 방심하지 마！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00023000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00044800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00065000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00087000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0089",
+      "original": "みんなの手伝いをするべきだ",
+      "translation": "모두를 도와야 해",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0090",
+      "original": "みんなの気持ちを聞くって、なに？",
+      "translation": "모두의 마음을 듣는다는 게 뭐야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0091",
+      "original": "みんなの無事を祈ってたのかい？",
+      "translation": "모두의 무사함을 빌고 있었던 거니？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0092",
+      "original": "もうエンジェル隊の一員ですよ",
+      "translation": "이미 엔젤대의 일원이에요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00108800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0093",
+      "original": "もう一度確認する",
+      "translation": "다시 한번 확인한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0000d000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0000d800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00019800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00020000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0002c000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00033800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00034000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0003c800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00041800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0004d800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00053800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00054000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0005c000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00061800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0006e000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00075800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00076000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0007f800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00084800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0008e000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00093800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00094000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0009d800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000a5000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000b0800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000b9000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000b9800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000c3000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000cd000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000d1800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000e3800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00108000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00112800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_0011f000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0094",
+      "original": "もう一度見せてくれないか",
+      "translation": "다시 한번 보여주지 않을래",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0095",
+      "original": "もう十分だよ、ありがとう",
+      "translation": "이제 충분해, 고마워",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00113800.txt",
+          "block": 1,
+          "option": 5
+        }
+      ]
+    },
+    {
+      "id": "selection:0096",
+      "original": "もう大丈夫だよ",
+      "translation": "이제 괜찮아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00124800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0097",
+      "original": "もう少し考えてみるよ",
+      "translation": "조금 더 생각해 볼게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0098",
+      "original": "もう少し考えよう",
+      "translation": "조금 더 생각하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 3,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 4,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0099",
+      "original": "もしも戦闘に支障が出たら……",
+      "translation": "만약 전투에 지장이 생긴다면……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0100",
+      "original": "もちろん、わかるよ",
+      "translation": "물론, 알고 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0101",
+      "original": "もちろん、オレだって楽しみだよ！",
+      "translation": "물론, 나도 기대돼！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0102",
+      "original": "やってみないと、わからないだろ？",
+      "translation": "해보지 않으면 모르는 거잖아？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00026000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0103",
+      "original": "やってみようかな",
+      "translation": "해볼까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ed000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0104",
+      "original": "やっぱり、イタズラかなぁ",
+      "translation": "역시, 장난인가",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 1,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_000a6000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0105",
+      "original": "やっぱりプリンかな",
+      "translation": "역시 푸딩인가",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0106",
+      "original": "やっぱり占いかな",
+      "translation": "역시 점인가",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0107",
+      "original": "やめておくよ",
+      "translation": "그만둘게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 9,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0108",
+      "original": "やめといたほうがいいよ",
+      "translation": "안 하는 게 좋아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0109",
+      "original": "よし、やろう",
+      "translation": "좋아, 하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 9,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0110",
+      "original": "よし、オレが見に行こう",
+      "translation": "좋아, 내가 보러 갈게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0111",
+      "original": "わかった、ランファを信じるよ",
+      "translation": "알았어, 란파를 믿을게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0112",
+      "original": "アメとムチがうまいなぁ、と思って",
+      "translation": "당근과 채찍을 잘 쓰네, 싶어서",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0113",
+      "original": "イヤなら無理しなくていいよ",
+      "translation": "싫다면 무리하지 않아도 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0114",
+      "original": "オレがシャトルを操縦する",
+      "translation": "내가 셔틀을 조종할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0115",
+      "original": "オレがトレーニングにつきあうよ",
+      "translation": "내가 훈련을 같이해 줄게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0116",
+      "original": "オレが戻しに行くよ",
+      "translation": "내가 돌려주러 갈게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0117",
+      "original": "オレが残るから、君は戻るんだ",
+      "translation": "내가 남을 테니까, 너는 돌아가",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000db800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0118",
+      "original": "オレが渡しておくよ",
+      "translation": "내가 전해둘게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0119",
+      "original": "オレが疲れてるのを知ってたんだね",
+      "translation": "내가 피곤하다는 걸 알고 있었구나",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0120",
+      "original": "オレが相談に乗ります",
+      "translation": "제가 상담해 드리겠습니다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0121",
+      "original": "オレたちの獲物を取らないでね",
+      "translation": "우리 사냥감을 뺏지 말아줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 2,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0122",
+      "original": "オレたちも食事にしよう",
+      "translation": "우리도 식사하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0123",
+      "original": "オレにとって大切な子だよ",
+      "translation": "내게 소중한 아이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0124",
+      "original": "オレにまかせてくれ",
+      "translation": "나에게 맡겨줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0125",
+      "original": "オレの言うことに間違いはない！",
+      "translation": "내 말은 틀림없어！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0126",
+      "original": "オレは不安に思ってないよ",
+      "translation": "난 불안해하지 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0127",
+      "original": "オレもがんばらないとな",
+      "translation": "나도 노력해야겠네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0128",
+      "original": "オレもプレゼントをあげよう",
+      "translation": "나도 선물을 줄게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0129",
+      "original": "オレも何か手伝おうか？",
+      "translation": "나도 뭐 좀 도와줄까？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0130",
+      "original": "オレも勝てない気がする",
+      "translation": "나도 이길 수 없을 것 같아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0131",
+      "original": "オレも射撃の練習をしよう",
+      "translation": "나도 사격 연습을 해야지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0132",
+      "original": "オレを倒してからにしてくれ",
+      "translation": "나를 쓰러뜨린 뒤에 해줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0133",
+      "original": "オレを迎えに来たのかい？",
+      "translation": "나를 마중하러 온 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0134",
+      "original": "ガンガンいけば勝てるさ",
+      "translation": "거침없이 밀어붙이면 이길 수 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0135",
+      "original": "キ、キスしてあげようか……？",
+      "translation": "키, 키스해 줄까……？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0136",
+      "original": "キッチンに寝泊りするんだね？",
+      "translation": "주방에서 지내는 거구나？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 8,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0137",
+      "original": "ケーキがおいしく焼けるように？",
+      "translation": "케이크가 맛있게 구워지도록？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0138",
+      "original": "ケーキでも作ってみるとか",
+      "translation": "케이크라도 만들어 본다든가",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0008a000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0139",
+      "original": "コーヒーの淹れ方がうまくなったよ",
+      "translation": "커피 내리는 솜씨가 좋아졌어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0140",
+      "original": "ジェットコースターに乗ろう",
+      "translation": "롤러코스터를 타자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0141",
+      "original": "ダメなときはダメなんだよ",
+      "translation": "안 될 때는 안 되는 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0142",
+      "original": "ノアとシャトヤーン様に任せよう",
+      "translation": "노아와 샤토얀 님께 맡기자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0143",
+      "original": "ノア自身のことが聞きたい",
+      "translation": "노아 자신에 대해 듣고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00113800.txt",
+          "block": 1,
+          "option": 4
+        }
+      ]
+    },
+    {
+      "id": "selection:0144",
+      "original": "ヒラヒラの服を着てるのかも",
+      "translation": "하늘거리는 옷을 입었나 봐",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0145",
+      "original": "ピンクは少し恥ずかしいかも……",
+      "translation": "핑크색은 조금 부끄러울지도……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0146",
+      "original": "フォルテ、ちとせを頼むよ",
+      "translation": "포르테, 치토세를 부탁해",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0147",
+      "original": "フォルテに任せておけば大丈夫さ",
+      "translation": "포르테에게 맡겨두면 괜찮을 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0148",
+      "original": "フォルテのおかげさ",
+      "translation": "포르테 덕분이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 7,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0149",
+      "original": "フォルテは何か知ってる？",
+      "translation": "포르테는 뭔가 알고 있어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0150",
+      "original": "フォルテも努力してくれるなら",
+      "translation": "포르테도 노력해 준다면",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0151",
+      "original": "フォルテをパートナーに誘う",
+      "translation": "포르테를 파트너로 초대한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0152",
+      "original": "ホント、おせじ抜きでおいしいよ！",
+      "translation": "정말, 빈말이 아니라 맛있어！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0153",
+      "original": "ミルフィー、なんとかしてくれ",
+      "translation": "밀피, 어떻게 좀 해줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0154",
+      "original": "ミルフィー、シャトルを操縦してくれ",
+      "translation": "밀피, 셔틀을 조종해 줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0155",
+      "original": "ミルフィーに会ったら喜ぶだろうな",
+      "translation": "밀피를 만나면 기뻐하겠지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 9,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0156",
+      "original": "ミルフィーのところに行こう",
+      "translation": "밀피가 있는 곳으로 가자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0157",
+      "original": "ミルフィーは何をしてるんだい？",
+      "translation": "밀피는 뭘 하고 있니？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0158",
+      "original": "ミルフィーは渡さないぞ",
+      "translation": "밀피는 못 넘겨줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 7,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0159",
+      "original": "ミルフィーユをパートナーに誘う",
+      "translation": "밀피유를 파트너로 초대한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0160",
+      "original": "ミント、何かいい手はないか？",
+      "translation": "민트, 뭔가 좋은 방법은 없어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0161",
+      "original": "ミント、本当に大丈夫？",
+      "translation": "민트, 정말 괜찮아？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0162",
+      "original": "ミントが戻すのが筋だろう",
+      "translation": "민트가 돌려주는 게 도리잖아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0163",
+      "original": "ミントにはかなわないなぁ",
+      "translation": "민트에게는 못 당하겠네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0164",
+      "original": "ミントの分も買ってあげるよ",
+      "translation": "민트 몫까지 사줄게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 8,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0165",
+      "original": "ミントの言うとおりだね",
+      "translation": "민트 말대로네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0166",
+      "original": "ミントは不安なんだろう？",
+      "translation": "민트는 불안한 거겠지？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00068000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0167",
+      "original": "ミントは何か知ってる？",
+      "translation": "민트가 뭔가 알고 있어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0168",
+      "original": "ミントは疲れているんだろう？",
+      "translation": "민트는 피곤한 거겠지？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00068000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0169",
+      "original": "ミントをパートナーに誘う",
+      "translation": "민트를 파트너로 초대한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0170",
+      "original": "メッセージの続きがあるのかも",
+      "translation": "메시지의 뒷내용이 더 있을지도 몰라",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00063000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0171",
+      "original": "メリーゴーラウンドに乗ろう",
+      "translation": "회전목마를 타자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 3,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0172",
+      "original": "ランファ、見てきてよ",
+      "translation": "란파, 보고 와",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0173",
+      "original": "ランファの言うことは正しい",
+      "translation": "란파의 말이 맞아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0174",
+      "original": "ランファは何か知ってる？",
+      "translation": "란파는 뭔가 알고 있어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0175",
+      "original": "ランファも教わったら？",
+      "translation": "란파도 배우는 게 어때？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 7,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0176",
+      "original": "ランファをパートナーに誘う",
+      "translation": "란파를 파트너로 초대한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0177",
+      "original": "ヴァニラ、がんばれよー！",
+      "translation": "바닐라, 힘내라！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0178",
+      "original": "ヴァニラ、呼んでるよー！",
+      "translation": "바닐라, 부르고 있어！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 6,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0179",
+      "original": "ヴァニラの花嫁姿、見てみたいな",
+      "translation": "바닐라의 신부 모습, 보고 싶네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0180",
+      "original": "ヴァニラの言うことは正しい",
+      "translation": "바닐라의 말이 맞아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0181",
+      "original": "ヴァニラはどんなお嫁さんになるかな",
+      "translation": "바닐라는 어떤 신부가 될까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0182",
+      "original": "ヴァニラは何か知ってる？",
+      "translation": "바닐라는 뭔가 알고 있어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0183",
+      "original": "ヴァニラをパートナーに誘う",
+      "translation": "바닐라를 파트너로 초대한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00003000.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0184",
+      "original": "一応見回りだからね",
+      "translation": "일단은 순찰이니까 말이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0185",
+      "original": "一緒に話でもしようか",
+      "translation": "같이 이야기라도 할까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0008a000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0186",
+      "original": "一緒に走ろう",
+      "translation": "함께 달리자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 5,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0187",
+      "original": "七味唐辛子をふりかけて……",
+      "translation": "시치미 고춧가루를 뿌려서……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0188",
+      "original": "七色の虹をまとい……",
+      "translation": "일곱 빛깔 무지개를 두르고……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0189",
+      "original": "今ある服でもいいじゃないか",
+      "translation": "지금 있는 옷이라도 괜찮잖아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0190",
+      "original": "今はミントを捜すのが先決だ",
+      "translation": "지금은 민트를 찾는 게 우선이다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0191",
+      "original": "今度、どこかへ遊びに行こう！",
+      "translation": "다음에 어디 놀러 가자！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0192",
+      "original": "仲間だもの、当然だろ",
+      "translation": "동료니까 당연하잖아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 9,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0193",
+      "original": "休息を取る",
+      "translation": "휴식을 취한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0194",
+      "original": "何かをがんばるのはいいことだよ",
+      "translation": "뭔가 열심히 하는 건 좋은 일이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0195",
+      "original": "何かオレにできることはある？",
+      "translation": "내가 할 수 있는 일이 있을까？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0196",
+      "original": "何か料理を作るんだね？",
+      "translation": "무언가 요리를 만드는 거구나？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 8,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0197",
+      "original": "何してるんだ、しっかりしろー！",
+      "translation": "뭐 하고 있는 거야, 정신 차려！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0198",
+      "original": "信じることが大切なんです",
+      "translation": "믿는 것이 중요합니다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0199",
+      "original": "先にちとせを手伝おう",
+      "translation": "먼저 치토세를 돕자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0200",
+      "original": "別に構わないんじゃないかな",
+      "translation": "별로 상관없지 않을까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0201",
+      "original": "別の乗り物にしよう",
+      "translation": "다른 놀이기구로 하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 2,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 3,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0202",
+      "original": "前よりも表情が明るくなったね",
+      "translation": "전보다 표정이 밝아졌네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0203",
+      "original": "努力しないと難しいなぁ",
+      "translation": "노력하지 않으면 어렵겠는걸",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0204",
+      "original": "動物なんてどうかな",
+      "translation": "동물 같은 건 어때",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0205",
+      "original": "勝つに決まってるさ",
+      "translation": "이기는 게 당연하지",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0206",
+      "original": "勝者はちとせだ！",
+      "translation": "승자는 치토세다！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0207",
+      "original": "勝者はフォルテだ！",
+      "translation": "승자는 포르테다！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0208",
+      "original": "勝者はランファだ！",
+      "translation": "승자는 란파다！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0209",
+      "original": "合流を待つ必要はないんじゃない？",
+      "translation": "합류를 기다릴 필요는 없지 않아？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0210",
+      "original": "同時に探せば問題ないよ",
+      "translation": "동시에 찾으면 문제없어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0211",
+      "original": "名乗りたくなかったのかも",
+      "translation": "이름을 밝히고 싶지 않았던 걸지도",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00063000.txt",
+          "block": 1,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_000a6000.txt",
+          "block": 1,
+          "option": 3
+        },
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 1,
+          "option": 4
+        }
+      ]
+    },
+    {
+      "id": "selection:0212",
+      "original": "君が自分から言い出すのを待ってる",
+      "translation": "네가 직접 말하기를 기다리고 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0213",
+      "original": "君とお近づきになりたいんだよ！",
+      "translation": "너와 친해지고 싶단 말이야！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 3,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0214",
+      "original": "君には自然の花のほうが似合うよ",
+      "translation": "너에겐 생화가 더 잘 어울려",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0215",
+      "original": "君の負ける姿は見たくないよ",
+      "translation": "네가 지는 모습은 보고 싶지 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0216",
+      "original": "大丈夫、守れるさ",
+      "translation": "괜찮아, 지켜낼 수 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0217",
+      "original": "大丈夫だって言ったら大丈夫だ",
+      "translation": "괜찮다고 하면 괜찮은 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00048000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0218",
+      "original": "大丈夫だよ、心配ないさ",
+      "translation": "괜찮아, 걱정할 거 없어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0219",
+      "original": "大切なエンジェル隊の一員だよ",
+      "translation": "소중한 엔젤대의 일원이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0220",
+      "original": "守れるさ、ちとせなら",
+      "translation": "치토세라면 지켜낼 수 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000d2000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0221",
+      "original": "実はそのとおりなんだ",
+      "translation": "사실은 그 말이 맞아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0222",
+      "original": "実はオレ、ランファのほうが……",
+      "translation": "사실 난, 란파 쪽이……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0223",
+      "original": "実は自分が飲みたいだけなんだろ？",
+      "translation": "사실 네가 마시고 싶은 것뿐이지？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0224",
+      "original": "少しきびしすぎるかもな",
+      "translation": "조금 너무 엄격할지도 모르겠네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00081800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0225",
+      "original": "少しずつ慣れていけばいいよ",
+      "translation": "조금씩 익숙해지면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ed000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0226",
+      "original": "少し背が伸びたんじゃないか？",
+      "translation": "키가 좀 큰 거 아니야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 5,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0227",
+      "original": "巨大艦オ・ガウブについて聞きたい",
+      "translation": "거대함 오・가우브에 대해 묻고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00113800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0228",
+      "original": "店員さんに任せようよ",
+      "translation": "점원 씨에게 맡기자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00056000.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0229",
+      "original": "急いでちとせを探そう！",
+      "translation": "서둘러 치토세를 찾자！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0230",
+      "original": "恋愛成就を祈ってたのかい？",
+      "translation": "연애 성취를 빌고 있었던 거야？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0231",
+      "original": "恥ずかしがり屋さんなんだ",
+      "translation": "부끄럼쟁이구나",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00021000.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 1,
+          "option": 2
+        },
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0232",
+      "original": "手取り足取り教えてあげるよ",
+      "translation": "하나부터 열까지 가르쳐 줄게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0003e800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0233",
+      "original": "敵について聞きたい",
+      "translation": "적에 대해 묻고 싶어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00113800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0234",
+      "original": "敵のニセ情報だ",
+      "translation": "적의 가짜 정보다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00021000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0235",
+      "original": "敵の出方にも注意が必要だ",
+      "translation": "적의 움직임에도 주의가 필요해",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0236",
+      "original": "敵は強いけど、大丈夫かい？",
+      "translation": "적은 강하지만, 괜찮겠어？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00116000.txt",
+          "block": 6,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0237",
+      "original": "敵を倒すことかな",
+      "translation": "적을 쓰러뜨리는 거려나",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0238",
+      "original": "普段どおりにするのが一番さ",
+      "translation": "평소대로 하는 게 제일이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0239",
+      "original": "普段どおりの服じゃないかな",
+      "translation": "평소와 같은 옷이 아닐까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0240",
+      "original": "普通は、ああなりますよ",
+      "translation": "보통은 그렇게 돼요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00108800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0241",
+      "original": "期待してるよ",
+      "translation": "기대하고 있어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 5,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0242",
+      "original": "期待してるよ、フォルテ",
+      "translation": "기대하고 있어, 포르테",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00087000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0243",
+      "original": "期待してるよ、ミルフィー",
+      "translation": "기대하고 있어, 밀피",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00023000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0244",
+      "original": "期待してるよ、ミント",
+      "translation": "기대하고 있어, 민트",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00065000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0245",
+      "original": "期待してるよ、ランファ",
+      "translation": "기대하고 있어, 란파",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00044800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0246",
+      "original": "期待してるよ、ヴァニラ",
+      "translation": "기대하고 있어, 바닐라",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a7800.txt",
+          "block": 2,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0247",
+      "original": "本人を捜し出して聞こう",
+      "translation": "본인을 찾아내서 물어보자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0248",
+      "original": "来てくれて心強いよ",
+      "translation": "와줘서 든든해",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 2,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0249",
+      "original": "楽勝だね",
+      "translation": "식은 죽 먹기네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00078800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0250",
+      "original": "正体を隠しているのかも",
+      "translation": "정체를 숨기고 있는 걸지도 몰라",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00085800.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0251",
+      "original": "気にしすぎだよ",
+      "translation": "너무 신경 쓰는 거야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 3,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0252",
+      "original": "気にすることはないさ",
+      "translation": "신경 쓸 것 없어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0005e000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0253",
+      "original": "気を引きしめていこう",
+      "translation": "긴장을 늦추지 말자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0254",
+      "original": "気楽にいこう",
+      "translation": "편하게 생각하자",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0255",
+      "original": "活き活きしてるよ",
+      "translation": "생기가 넘치네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 8,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0256",
+      "original": "激辛料理にチャレンジしてみたら？",
+      "translation": "매운 요리에 도전해 보는 건 어때？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0257",
+      "original": "無理につきあうことはないよ",
+      "translation": "무리해서 어울려 줄 필요는 없어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ed000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0258",
+      "original": "無謀な志望動機だね",
+      "translation": "무모한 지원 동기네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 7,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0259",
+      "original": "特殊選択肢その２を選ぶ",
+      "translation": "특수 선택지 그 두 번째를 선택한다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00120800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0260",
+      "original": "男は一気飲みで誠意を見せるべし！",
+      "translation": "남자는 원샷으로 성의를 보여야 해！",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0261",
+      "original": "男装をしているのかも",
+      "translation": "남장을 하고 있는 걸지도",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0262",
+      "original": "相談に乗ってやってください",
+      "translation": "상담을 좀 해 주세요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 4,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0263",
+      "original": "確かに問題はあるかも……",
+      "translation": "확실히 문제가 있을지도……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000bc800.txt",
+          "block": 4,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0264",
+      "original": "確かに心配だ",
+      "translation": "확실히 걱정된다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 3,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0265",
+      "original": "立派な志望動機だね",
+      "translation": "훌륭한 지원 동기네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 7,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0266",
+      "original": "統計報告はウソはつかないぞ",
+      "translation": "통계 보고는 거짓말을 하지 않아",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 3,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0267",
+      "original": "肩車してあげようか？",
+      "translation": "목마를 태워줄까？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 8,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0268",
+      "original": "自分でよく考えて決めるといいよ",
+      "translation": "스스로 잘 생각해서 정하면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00096800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0269",
+      "original": "自分に勝つことかな",
+      "translation": "자신을 이기는 것일까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000f1800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0270",
+      "original": "自分の好きなものを食べるといいよ",
+      "translation": "네가 좋아하는 걸 먹으면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0271",
+      "original": "自分の得意なものを見つければいいさ",
+      "translation": "자신이 잘하는 걸 찾으면 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0001c800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0272",
+      "original": "自分の意志が大切ということさ",
+      "translation": "자신의 의지가 중요하다는 뜻이야",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ab000.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0273",
+      "original": "自力で解決させてください",
+      "translation": "스스로 해결하게 해주세요",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000c5800.txt",
+          "block": 4,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0274",
+      "original": "虹色の雫をまとい……",
+      "translation": "무지갯빛 이슬을 두르고……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0275",
+      "original": "見てるだけでいいよ",
+      "translation": "보고만 있어도 돼",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000fe800.txt",
+          "block": 9,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0276",
+      "original": "見込みはあります",
+      "translation": "가능성은 있습니다",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00108800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0277",
+      "original": "説明してくれ",
+      "translation": "설명해 줘",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000b1000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000e4000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0278",
+      "original": "誰か味見してくれないかなぁ……",
+      "translation": "누가 맛 좀 봐주지 않으려나……",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000a1800.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0279",
+      "original": "買い物でもするか",
+      "translation": "쇼핑이라도 할까",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_0011f800.txt",
+          "block": 2,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0280",
+      "original": "逃げ切れるかどうかもわからないな",
+      "translation": "도망쳐낼 수 있을지조차 모르겠네",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00026000.txt",
+          "block": 1,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0281",
+      "original": "途中で力つきたのかも",
+      "translation": "도중에 힘이 다 떨어진 걸지도 몰라",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00021000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00042800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00063000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_00085800.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000a6000.txt",
+          "block": 1,
+          "option": 1
+        },
+        {
+          "file": "SCENARIO_DAT_000ce000.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0282",
+      "original": "遠慮しておくよ",
+      "translation": "사양할게",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_000ed000.txt",
+          "block": 2,
+          "option": 2
+        }
+      ]
+    },
+    {
+      "id": "selection:0283",
+      "original": "間違ってないさ",
+      "translation": "틀리지 않았어",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00081800.txt",
+          "block": 1,
+          "option": 1
+        }
+      ]
+    },
+    {
+      "id": "selection:0284",
+      "original": "頼もしく見えるよ",
+      "translation": "든든해 보여",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00036800.txt",
+          "block": 8,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0285",
+      "original": "駄菓子を食べたいんだろう？",
+      "translation": "싸구려 과자가 먹고 싶은 거지？",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00068000.txt",
+          "block": 1,
+          "option": 3
+        }
+      ]
+    },
+    {
+      "id": "selection:0286",
+      "original": "４６４９",
+      "translation": "４６４９",
+      "state": "draft",
+      "use_translation": true,
+      "occurrences": [
+        {
+          "file": "SCENARIO_DAT_00010800.txt",
+          "block": 6,
+          "option": 3
+        }
+      ]
+    }
+  ]
+}

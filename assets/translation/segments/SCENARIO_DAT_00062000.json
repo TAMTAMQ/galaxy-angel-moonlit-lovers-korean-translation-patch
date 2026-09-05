@@ -1,0 +1,710 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00062000.txt",
+    "encoding": "cp932",
+    "sha256": "7ebc0da76ae5545a2307e206a972c417f00f40cbaa382b681718bc98ed5bde39",
+    "dialogue_count": 54
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "voice": "GB330600,3",
+        "speaker": "25,0250101"
+      },
+      "original": "いらっしゃいませ～。\n",
+      "translation": "어서 오세요～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "voice": "GB330600,3",
+        "speaker": "1,0010101"
+      },
+      "original": "スペシャル３色ソフトクリームひとつ。\n",
+      "translation": "스페셜 ３색 소프트크림 하나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "voice": "GB330601,3",
+        "speaker": "25,0250101"
+      },
+      "original": "まいどありがとうございます～。\n",
+      "translation": "매번 이용해 주셔서 감사합니다～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GB330602,3",
+        "speaker": "4,0040101",
+        "face": "0,0040101,0"
+      },
+      "original": "ごめんくださいませ。\n",
+      "translation": "실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GB330603,3",
+        "speaker": "25,0250101",
+        "face": "0,0040101,0"
+      },
+      "original": "いらっしゃいませ～。\n",
+      "translation": "어서 오세요～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GB330603,3",
+        "speaker": "1,0010101",
+        "face": "0,0040101,0"
+      },
+      "original": "やあ、ミント。\n",
+      "translation": "안녕, 민트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GB330604,3",
+        "speaker": "4,0040101",
+        "face": "0,0040704,0"
+      },
+      "original": "まあ、タクトさんもいらしてたんですの？\n",
+      "translation": "어머, 택트 씨도 와 계셨던 건가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "voice": "GB330605,3",
+        "speaker": "4,0040101",
+        "face": "0,0040702,0"
+      },
+      "original": "あら？\nもしかして、タクトさんがお持ちになってい\nるのは……。\n",
+      "translation": "어라？ 혹시 택트 씨가 들고 계신 건…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "voice": "GB330605,3",
+        "speaker": "1,0010101",
+        "face": "0,0040702,0"
+      },
+      "original": "うん、スペシャル３色ソフトだよ。\n急に食べたくなってね。\n",
+      "translation": "응, 스페셜 ３색 소프트야. 갑자기 먹고\n싶어져서 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "voice": "GB330606,3",
+        "speaker": "4,0040101",
+        "face": "0,0040102,0"
+      },
+      "original": "奇遇ですわね。\n実は、私もなんですの。\n",
+      "translation": "기우네요. 사실 저도 그렇답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GB330607,3",
+        "speaker": "4,0040101",
+        "face": "0,0040704,0"
+      },
+      "original": "店員さん、私にも、おひとついただけます？\n",
+      "translation": "점원 씨, 저에게도 하나 주시겠어요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "voice": "GB330608,3",
+        "speaker": "25,0250101",
+        "face": "0,0040704,0"
+      },
+      "original": "まいどありがとうございます～。\n",
+      "translation": "매번 감사합니다～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "voice": "GB330609,3",
+        "speaker": "4,0040101",
+        "face": "0,0040704,0"
+      },
+      "original": "おいしいですわよね、このソフトクリーム。\nイチゴとバナナとチョコの味が混じり合って、\nたまりませんわ。\n",
+      "translation": "맛있네요, 이 소프트크림. 딸기와 바나나와\n초코 맛이 어우러져서, 참을 수가 없어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GB330609,3",
+        "speaker": "1,0010201",
+        "face": "0,0040704,0"
+      },
+      "original": "うん、絶妙なコンビネーションだ。\n大好きなんだよ、これ。\n",
+      "translation": "응, 절묘한 조합이야. 정말 좋아해, 이거.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "face": "0,0040301,0",
+        "voice": "GB330610,3",
+        "speaker": "4,0040101"
+      },
+      "original": "タクトさんも、なかなか通ですわね。\n",
+      "translation": "택트 씨도 제법 안목이 있으시네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "voice": "GB330611,3",
+        "speaker": "4,0040101",
+        "face": "0,0040102,0"
+      },
+      "original": "では、よいことを教えて差し上げますわ。\nこれに、クッキーとマシュマロをトッピング\nしても、おいしいんですのよ。\n",
+      "translation": "그럼, 좋은 방법을 알려드릴게요. 여기에\n쿠키와 마시멜로를 토핑해도 맛있답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0040102,0",
+        "voice": "GB330611,3"
+      },
+      "original": "そこまでやると、甘すぎないかなぁ？\n",
+      "translation": "거기까지 하면 너무 달지 않을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GB330612,3",
+        "speaker": "4,0040101"
+      },
+      "original": "そんなことありませんわ。\nこう、舌に絡みついて、ノドごしもこってり\nと……また違った味わいになりますのよ。\n",
+      "translation": "그렇지 않아요. 이렇게, 혀에 감겨서 목\n넘김도 걸쭉하게…… 또 다른 맛이\n된답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GB330612,3",
+        "speaker": "1,0010105"
+      },
+      "original": "うーん、そこまではわからないや。\n",
+      "translation": "으음, 거기까지는 모르겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040101,0",
+        "voice": "GB330613,3"
+      },
+      "original": "タクトさん、まだまだ修行が足りませんわね。\n",
+      "translation": "택트 씨, 아직 수행이 부족하시네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "face": "0,0040101,0",
+        "voice": "GB330613,3",
+        "speaker": "1,0010102"
+      },
+      "original": "あはは。\n……おっと、早く食べないと溶けちゃうな。\n",
+      "translation": "아하하. ……앗, 빨리 먹지 않으면\n녹아버리겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "face": "0,0040101,0",
+        "voice": "GB330614,3",
+        "speaker": "4,0040101"
+      },
+      "original": "そうですわ、ホールで一緒に食べませんか？\n",
+      "translation": "맞아요, 홀에서 같이 드시지 않겠어요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "voice": "GB330615,3",
+        "speaker": "4,0040101",
+        "face": "0,0040203,0"
+      },
+      "original": "そのう……お話ししたいこともありますし。\n",
+      "translation": "그게…… 이야기하고 싶은 것도 있고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040203,0",
+        "voice": "GB330615,3"
+      },
+      "original": "オレに話……？\nああ、いいよ。\nそれじゃ行こうか。\n",
+      "translation": "나한테 할 이야기……？ 아아, 좋아. 그럼\n갈까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB330615,3",
+        "speaker": "1,0010201"
+      },
+      "original": "ソフトクリームって、このコーンの部分が好\nきなんだよな～。\n",
+      "translation": "소프트크림은 말이야, 이 콘 부분이 좋단\n말이지～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "face": "0,0040204,0",
+        "voice": "GB330616,3",
+        "speaker": "4,0040101"
+      },
+      "original": "ええ、おいしいですわよね。\n",
+      "translation": "네, 맛있지요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "voice": "GB330616,3",
+        "speaker": "1,0010101",
+        "face": "0,0040204,0"
+      },
+      "original": "コーンってさ、固いのと柔らかいのがあるよ\nね。\nミントは、どっちが好き？\n",
+      "translation": "콘 말이야, 딱딱한 거랑 부드러운 게\n있잖아. 민트는 어느 쪽이 좋아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB330617,3",
+        "face": "0,0040702,0"
+      },
+      "original": "え？\nええ……柔らかいの、ですかしら。\n",
+      "translation": "에？ 에에…… 부드러운 쪽, 인가요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "voice": "GB330617,3",
+        "speaker": "1,0010201",
+        "face": "0,0040702,0"
+      },
+      "original": "そっか～。\nオレは固いヤツのほうが、なんか高級っぽく\nて好きなんだよな。\n",
+      "translation": "그렇구나～. 나는 딱딱한 녀석이 뭔가\n고급스러워서 좋단 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040204,0",
+        "voice": "GB330618,3"
+      },
+      "original": "そうですか……。\n",
+      "translation": "그렇군요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "voice": "GB330619,3",
+        "speaker": "4,0040101",
+        "face": "0,0040204,0"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0040204,0",
+        "voice": "GB330619,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "face": "0,0040204,0",
+        "voice": "GB330620,3",
+        "speaker": "4,0040101"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "face": "0,0040204,0",
+        "voice": "GB330620,3",
+        "speaker": "1,0010102"
+      },
+      "original": "……ミント、もうソフトクリーム食べ終わっ\nてるよ？\n包み紙だけ持ってて、どうするんだい。\n",
+      "translation": "……민트, 벌써 소프트크림 다 먹었어.\n포장지만 들고서 어쩌려는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040702,0",
+        "voice": "GB330621,3"
+      },
+      "original": "えっ？\n",
+      "translation": "엣？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "face": "0,0040203,0",
+        "speaker": "4,0040101",
+        "voice": "GB330622,3"
+      },
+      "original": "あら、いやだ。\n私としたことが、お恥ずかしいですわ。\n",
+      "translation": "어머, 세상에. 저답지 않게 정말\n부끄럽네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "face": "0,0040203,0",
+        "speaker": "1,0010102",
+        "voice": "GB330622,3"
+      },
+      "original": "何か考え事でもしていたの？\n",
+      "translation": "무슨 생각이라도 하고 있었던 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040201,0",
+        "voice": "GB330623,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "voice": "GB330624,3",
+        "speaker": "4,0040101"
+      },
+      "original": "あのう、タクトさん。\nお話というのは、ですね……。\n",
+      "translation": "저기, 택트 씨. 하려던 말씀은 말이죠…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040202,0",
+        "voice": "GB330624,3"
+      },
+      "original": "なんだい？\n",
+      "translation": "뭔데？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "face": "0,0040203,0",
+        "voice": "GB330625,3",
+        "speaker": "4,0040101"
+      },
+      "original": "その……ふたりっきりになりたいなー……な\nんて、お考えになったこと、ありますか？\n",
+      "translation": "그…… 둘이서만 있고 싶다â～～... 같은\n생각, 해보신 적 있나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0040203,0",
+        "voice": "GB330625,3"
+      },
+      "original": "えっ……？\n",
+      "translation": "엣……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "face": "0,0040201,0",
+        "voice": "GB330626,3",
+        "speaker": "4,0040101"
+      },
+      "original": "エンジェル隊のみなさんと一緒にいるのも楽\nしいのですけれど、その、なんと申しましょ\nうか……たまには……。\n",
+      "translation": "엔젤대 여러분과 함께 있는 것도\n즐겁습니다만, 그게, 뭐라고 해야\n할까요…… 가끔은…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "voice": "GB330626,3",
+        "speaker": "1,0010101",
+        "face": "0,0040201,0"
+      },
+      "original": "そういえば、ミントは今夜は非番だったよね。\n",
+      "translation": "그러고 보니, 민트는 오늘 밤 비번이었지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB330627,3",
+        "face": "0,0040202,0"
+      },
+      "original": "あ、はい。\n今日は１８時に、ちとせさんと引き継ぎをし\nたら、あとはずっとヒマですわ。\n",
+      "translation": "아, 네. 오늘은 １８시에 치토세 씨와\n인수인계를 하고 나면, 그다음부터는 계속\n한가해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040202,0",
+        "voice": "GB330627,3"
+      },
+      "original": "それなら、今夜オレと、どこかに行かないか。\n",
+      "translation": "그렇다면, 오늘 밤 나와 함께 어디론가\n가지 않겠나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "face": "0,0040702,0",
+        "voice": "GB330628,3",
+        "speaker": "4,0040101"
+      },
+      "original": "えっ？\nよろしいんですの？\n",
+      "translation": "엣？ 괜찮으신 건가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0040702,0",
+        "voice": "GB330628,3"
+      },
+      "original": "まぁ、出かけるといっても、エルシオールの\n中しか行けないわけだけど。\n",
+      "translation": "뭐, 나간다고 해도 에르시올 안에서밖에 못\n가겠지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040702,0",
+        "voice": "GB330628,3"
+      },
+      "original": "このところ忙しくて、なかなかふたりっきり\nになれなかったもんな。\n行きたいところがあれば、つき合うよ。\n",
+      "translation": "요즘 바빠서 좀처럼 둘이서만 있을 수가\n없었으니까. 가고 싶은 곳이 있다면 같이\n가줄게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "voice": "GB330629,3",
+        "speaker": "4,0040101",
+        "face": "0,0040102,0"
+      },
+      "original": "ありがとうございます、タクトさん。\nそれでは……。\n",
+      "translation": "감사합니다, 택트 씨. 그럼…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "voice": "GB330630,3",
+        "speaker": "4,0040101",
+        "face": "0,0040704,0"
+      },
+      "original": "今夜２２時、格納庫でお待ちしておりますわ！\n",
+      "translation": "오늘 밤 ２２시, 격납고에서 기다리고\n있겠습니다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "voice": "GB330630,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "あ、ミント？\n行っちゃった……。\n",
+      "translation": "아, 민트？ 가버렸네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB330630,3"
+      },
+      "original": "待ち合わせ場所が格納庫っていうのも変わっ\nてるけど……まぁいいか。\n",
+      "translation": "만나는 장소가 격납고라는 것도\n특이하지만…… 뭐 상관없나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00062000:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB330630,3",
+        "speaker": "1,0010201"
+      },
+      "original": "ミントとデートか。\n楽しみだなぁ。\n",
+      "translation": "민트와 데이트인가. 기대되네.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

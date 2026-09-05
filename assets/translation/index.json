@@ -1,0 +1,709 @@
+{
+  "schema": "galaxy-angel-translation-index/v1",
+  "game": "Galaxy Angel (Japan) [PS2]",
+  "source_encoding": "cp932",
+  "target_language": "ko",
+  "scope": "all @N(...@@) scenario dialogue blocks in the supplied 271-file corpus",
+  "population": {
+    "dialogue_units": 25510,
+    "id_sha256": "d35de91447c70be92892ede5d7c80f6eabcd9e2e4c204bf0eebb983e3e1e107a"
+  },
+  "release_approval": null,
+  "segments": [
+    {
+      "path": "segments/SCENARIO_DAT_00003000.json",
+      "source": "SCENARIO_DAT_00003000.txt",
+      "units": 246
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00006800.json",
+      "source": "SCENARIO_DAT_00006800.txt",
+      "units": 689
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0000d000.json",
+      "source": "SCENARIO_DAT_0000d000.txt",
+      "units": 23
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0000d800.json",
+      "source": "SCENARIO_DAT_0000d800.txt",
+      "units": 19
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0000e000.json",
+      "source": "SCENARIO_DAT_0000e000.txt",
+      "units": 230
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00010800.json",
+      "source": "SCENARIO_DAT_00010800.txt",
+      "units": 168
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00012800.json",
+      "source": "SCENARIO_DAT_00012800.txt",
+      "units": 726
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00019800.json",
+      "source": "SCENARIO_DAT_00019800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0001a000.json",
+      "source": "SCENARIO_DAT_0001a000.txt",
+      "units": 242
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0001c800.json",
+      "source": "SCENARIO_DAT_0001c800.txt",
+      "units": 57
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0001d800.json",
+      "source": "SCENARIO_DAT_0001d800.txt",
+      "units": 258
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00020000.json",
+      "source": "SCENARIO_DAT_00020000.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00020800.json",
+      "source": "SCENARIO_DAT_00020800.txt",
+      "units": 22
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00021000.json",
+      "source": "SCENARIO_DAT_00021000.txt",
+      "units": 10
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00021800.json",
+      "source": "SCENARIO_DAT_00021800.txt",
+      "units": 147
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00023800.json",
+      "source": "SCENARIO_DAT_00023800.txt",
+      "units": 173
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00025800.json",
+      "source": "SCENARIO_DAT_00025800.txt",
+      "units": 15
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00026000.json",
+      "source": "SCENARIO_DAT_00026000.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00026800.json",
+      "source": "SCENARIO_DAT_00026800.txt",
+      "units": 611
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0002c000.json",
+      "source": "SCENARIO_DAT_0002c000.txt",
+      "units": 17
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0002c800.json",
+      "source": "SCENARIO_DAT_0002c800.txt",
+      "units": 661
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00033800.json",
+      "source": "SCENARIO_DAT_00033800.txt",
+      "units": 25
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00034000.json",
+      "source": "SCENARIO_DAT_00034000.txt",
+      "units": 20
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00034800.json",
+      "source": "SCENARIO_DAT_00034800.txt",
+      "units": 147
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00036800.json",
+      "source": "SCENARIO_DAT_00036800.txt",
+      "units": 203
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00039000.json",
+      "source": "SCENARIO_DAT_00039000.txt",
+      "units": 307
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0003c800.json",
+      "source": "SCENARIO_DAT_0003c800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0003d000.json",
+      "source": "SCENARIO_DAT_0003d000.txt",
+      "units": 155
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0003e800.json",
+      "source": "SCENARIO_DAT_0003e800.txt",
+      "units": 89
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0003f800.json",
+      "source": "SCENARIO_DAT_0003f800.txt",
+      "units": 160
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00041800.json",
+      "source": "SCENARIO_DAT_00041800.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00042000.json",
+      "source": "SCENARIO_DAT_00042000.txt",
+      "units": 33
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00042800.json",
+      "source": "SCENARIO_DAT_00042800.txt",
+      "units": 41
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00043000.json",
+      "source": "SCENARIO_DAT_00043000.txt",
+      "units": 92
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00045000.json",
+      "source": "SCENARIO_DAT_00045000.txt",
+      "units": 228
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00047800.json",
+      "source": "SCENARIO_DAT_00047800.txt",
+      "units": 9
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00048000.json",
+      "source": "SCENARIO_DAT_00048000.txt",
+      "units": 62
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00049000.json",
+      "source": "SCENARIO_DAT_00049000.txt",
+      "units": 460
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0004d800.json",
+      "source": "SCENARIO_DAT_0004d800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0004e000.json",
+      "source": "SCENARIO_DAT_0004e000.txt",
+      "units": 532
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00053800.json",
+      "source": "SCENARIO_DAT_00053800.txt",
+      "units": 22
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00054000.json",
+      "source": "SCENARIO_DAT_00054000.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00054800.json",
+      "source": "SCENARIO_DAT_00054800.txt",
+      "units": 115
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00056000.json",
+      "source": "SCENARIO_DAT_00056000.txt",
+      "units": 89
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00057000.json",
+      "source": "SCENARIO_DAT_00057000.txt",
+      "units": 561
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0005c000.json",
+      "source": "SCENARIO_DAT_0005c000.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0005c800.json",
+      "source": "SCENARIO_DAT_0005c800.txt",
+      "units": 153
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0005e000.json",
+      "source": "SCENARIO_DAT_0005e000.txt",
+      "units": 76
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0005f000.json",
+      "source": "SCENARIO_DAT_0005f000.txt",
+      "units": 214
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00061800.json",
+      "source": "SCENARIO_DAT_00061800.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00062000.json",
+      "source": "SCENARIO_DAT_00062000.txt",
+      "units": 54
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00063000.json",
+      "source": "SCENARIO_DAT_00063000.txt",
+      "units": 9
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00063800.json",
+      "source": "SCENARIO_DAT_00063800.txt",
+      "units": 118
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00065800.json",
+      "source": "SCENARIO_DAT_00065800.txt",
+      "units": 159
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00067800.json",
+      "source": "SCENARIO_DAT_00067800.txt",
+      "units": 24
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00068000.json",
+      "source": "SCENARIO_DAT_00068000.txt",
+      "units": 12
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00068800.json",
+      "source": "SCENARIO_DAT_00068800.txt",
+      "units": 647
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0006e000.json",
+      "source": "SCENARIO_DAT_0006e000.txt",
+      "units": 17
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0006e800.json",
+      "source": "SCENARIO_DAT_0006e800.txt",
+      "units": 687
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00075800.json",
+      "source": "SCENARIO_DAT_00075800.txt",
+      "units": 31
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00076000.json",
+      "source": "SCENARIO_DAT_00076000.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00076800.json",
+      "source": "SCENARIO_DAT_00076800.txt",
+      "units": 167
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00078800.json",
+      "source": "SCENARIO_DAT_00078800.txt",
+      "units": 95
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0007a000.json",
+      "source": "SCENARIO_DAT_0007a000.txt",
+      "units": 543
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0007f800.json",
+      "source": "SCENARIO_DAT_0007f800.txt",
+      "units": 23
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00080000.json",
+      "source": "SCENARIO_DAT_00080000.txt",
+      "units": 127
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00081800.json",
+      "source": "SCENARIO_DAT_00081800.txt",
+      "units": 29
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00082000.json",
+      "source": "SCENARIO_DAT_00082000.txt",
+      "units": 221
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00084800.json",
+      "source": "SCENARIO_DAT_00084800.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00085000.json",
+      "source": "SCENARIO_DAT_00085000.txt",
+      "units": 27
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00085800.json",
+      "source": "SCENARIO_DAT_00085800.txt",
+      "units": 8
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00086000.json",
+      "source": "SCENARIO_DAT_00086000.txt",
+      "units": 83
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00087800.json",
+      "source": "SCENARIO_DAT_00087800.txt",
+      "units": 168
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00089800.json",
+      "source": "SCENARIO_DAT_00089800.txt",
+      "units": 20
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0008a000.json",
+      "source": "SCENARIO_DAT_0008a000.txt",
+      "units": 23
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0008a800.json",
+      "source": "SCENARIO_DAT_0008a800.txt",
+      "units": 401
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0008e000.json",
+      "source": "SCENARIO_DAT_0008e000.txt",
+      "units": 17
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0008e800.json",
+      "source": "SCENARIO_DAT_0008e800.txt",
+      "units": 535
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00093800.json",
+      "source": "SCENARIO_DAT_00093800.txt",
+      "units": 27
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00094000.json",
+      "source": "SCENARIO_DAT_00094000.txt",
+      "units": 20
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00094800.json",
+      "source": "SCENARIO_DAT_00094800.txt",
+      "units": 186
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00096800.json",
+      "source": "SCENARIO_DAT_00096800.txt",
+      "units": 223
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00099000.json",
+      "source": "SCENARIO_DAT_00099000.txt",
+      "units": 507
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0009d800.json",
+      "source": "SCENARIO_DAT_0009d800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0009e000.json",
+      "source": "SCENARIO_DAT_0009e000.txt",
+      "units": 379
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a1800.json",
+      "source": "SCENARIO_DAT_000a1800.txt",
+      "units": 156
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a3000.json",
+      "source": "SCENARIO_DAT_000a3000.txt",
+      "units": 194
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a5000.json",
+      "source": "SCENARIO_DAT_000a5000.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a5800.json",
+      "source": "SCENARIO_DAT_000a5800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a6000.json",
+      "source": "SCENARIO_DAT_000a6000.txt",
+      "units": 10
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a6800.json",
+      "source": "SCENARIO_DAT_000a6800.txt",
+      "units": 67
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a7800.json",
+      "source": "SCENARIO_DAT_000a7800.txt",
+      "units": 63
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000a8800.json",
+      "source": "SCENARIO_DAT_000a8800.txt",
+      "units": 189
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000aa800.json",
+      "source": "SCENARIO_DAT_000aa800.txt",
+      "units": 12
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ab000.json",
+      "source": "SCENARIO_DAT_000ab000.txt",
+      "units": 54
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ac000.json",
+      "source": "SCENARIO_DAT_000ac000.txt",
+      "units": 505
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000b0800.json",
+      "source": "SCENARIO_DAT_000b0800.txt",
+      "units": 19
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000b1000.json",
+      "source": "SCENARIO_DAT_000b1000.txt",
+      "units": 776
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000b9000.json",
+      "source": "SCENARIO_DAT_000b9000.txt",
+      "units": 17
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000b9800.json",
+      "source": "SCENARIO_DAT_000b9800.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ba000.json",
+      "source": "SCENARIO_DAT_000ba000.txt",
+      "units": 219
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000bc800.json",
+      "source": "SCENARIO_DAT_000bc800.txt",
+      "units": 121
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000be000.json",
+      "source": "SCENARIO_DAT_000be000.txt",
+      "units": 464
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000c3000.json",
+      "source": "SCENARIO_DAT_000c3000.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000c3800.json",
+      "source": "SCENARIO_DAT_000c3800.txt",
+      "units": 187
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000c5800.json",
+      "source": "SCENARIO_DAT_000c5800.txt",
+      "units": 135
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000c7000.json",
+      "source": "SCENARIO_DAT_000c7000.txt",
+      "units": 543
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000cd000.json",
+      "source": "SCENARIO_DAT_000cd000.txt",
+      "units": 21
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000cd800.json",
+      "source": "SCENARIO_DAT_000cd800.txt",
+      "units": 12
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ce000.json",
+      "source": "SCENARIO_DAT_000ce000.txt",
+      "units": 27
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ce800.json",
+      "source": "SCENARIO_DAT_000ce800.txt",
+      "units": 294
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000d1800.json",
+      "source": "SCENARIO_DAT_000d1800.txt",
+      "units": 24
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000d2000.json",
+      "source": "SCENARIO_DAT_000d2000.txt",
+      "units": 34
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000d2800.json",
+      "source": "SCENARIO_DAT_000d2800.txt",
+      "units": 866
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000db000.json",
+      "source": "SCENARIO_DAT_000db000.txt",
+      "units": 7
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000db800.json",
+      "source": "SCENARIO_DAT_000db800.txt",
+      "units": 37
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000dc000.json",
+      "source": "SCENARIO_DAT_000dc000.txt",
+      "units": 758
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000e3800.json",
+      "source": "SCENARIO_DAT_000e3800.txt",
+      "units": 18
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000e4000.json",
+      "source": "SCENARIO_DAT_000e4000.txt",
+      "units": 708
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000eb000.json",
+      "source": "SCENARIO_DAT_000eb000.txt",
+      "units": 155
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ed000.json",
+      "source": "SCENARIO_DAT_000ed000.txt",
+      "units": 108
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ee800.json",
+      "source": "SCENARIO_DAT_000ee800.txt",
+      "units": 67
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000ef800.json",
+      "source": "SCENARIO_DAT_000ef800.txt",
+      "units": 147
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000f1800.json",
+      "source": "SCENARIO_DAT_000f1800.txt",
+      "units": 67
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000f2800.json",
+      "source": "SCENARIO_DAT_000f2800.txt",
+      "units": 529
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000f8000.json",
+      "source": "SCENARIO_DAT_000f8000.txt",
+      "units": 678
+    },
+    {
+      "path": "segments/SCENARIO_DAT_000fe800.json",
+      "source": "SCENARIO_DAT_000fe800.txt",
+      "units": 220
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00101000.json",
+      "source": "SCENARIO_DAT_00101000.txt",
+      "units": 710
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00108000.json",
+      "source": "SCENARIO_DAT_00108000.txt",
+      "units": 30
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00108800.json",
+      "source": "SCENARIO_DAT_00108800.txt",
+      "units": 54
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00109800.json",
+      "source": "SCENARIO_DAT_00109800.txt",
+      "units": 844
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00112800.json",
+      "source": "SCENARIO_DAT_00112800.txt",
+      "units": 36
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00113800.json",
+      "source": "SCENARIO_DAT_00113800.txt",
+      "units": 241
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00116000.json",
+      "source": "SCENARIO_DAT_00116000.txt",
+      "units": 150
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00117800.json",
+      "source": "SCENARIO_DAT_00117800.txt",
+      "units": 788
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0011f000.json",
+      "source": "SCENARIO_DAT_0011f000.txt",
+      "units": 29
+    },
+    {
+      "path": "segments/SCENARIO_DAT_0011f800.json",
+      "source": "SCENARIO_DAT_0011f800.txt",
+      "units": 39
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00120800.json",
+      "source": "SCENARIO_DAT_00120800.txt",
+      "units": 28
+    },
+    {
+      "path": "segments/SCENARIO_DAT_00124800.json",
+      "source": "SCENARIO_DAT_00124800.txt",
+      "units": 50
+    }
+  ]
+}

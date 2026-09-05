@@ -1,0 +1,880 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000f1800.txt",
+    "encoding": "cp932",
+    "sha256": "b79cea8c4d27716de075db4915e8b8c63287699218e0f037f29700d8a388f794",
+    "dialogue_count": 67
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070201",
+        "speaker": "1,0010101"
+      },
+      "original": "それじゃあ、まずヴァニラの探し物を３人で\n見つけて、その後でちとせの探し物を手伝お\nうか？\n",
+      "translation": "그럼, 우선 바닐라의 찾을 것을 세 명이서\n찾아내고, 그 후에 치토세의 찾을 것을\n도와줄까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070201",
+        "speaker": "1,0010101"
+      },
+      "original": "そうすれば、きっと効率よく見つけられると\n思うんだ。\n",
+      "translation": "그러면 분명 효율적으로 찾아낼 수 있을\n거라고 생각해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070102",
+        "speaker": "107,1070101",
+        "voice": "GB920900,3"
+      },
+      "original": "はい。\n私は、それでかまいません。\n",
+      "translation": "네. 저는, 그걸로 상관없습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0060302,0,-1",
+        "speaker": "6,0060101",
+        "voice": "GB920901,3"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0060302,0,-1",
+        "speaker": "1,0010201",
+        "voice": "GB920901,3"
+      },
+      "original": "それじゃあ、みんなで手分けして探そう！\n",
+      "translation": "그럼, 다 같이 분담해서 찾자！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070102",
+        "speaker": "1,0010101",
+        "voice": "GB920901,3"
+      },
+      "original": "……よし、これでちとせの探し物も見つかっ\nたか。\n",
+      "translation": "……좋아, 이걸로 치토세의 찾을 것도\n발견했나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070102",
+        "speaker": "1,0010101",
+        "voice": "GB920901,3"
+      },
+      "original": "ヴァニラのアンプルも見つかったし、これで\nもう大丈夫だな。\n",
+      "translation": "바닐라의 앰플도 찾았으니, 이제 이것으로\n괜찮겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070305",
+        "speaker": "107,1070101",
+        "voice": "GB920902,3"
+      },
+      "original": "ありがとうございました。\nそれでは、私、急ぎますので。\n失礼します。\n",
+      "translation": "감사합니다. 그럼, 저는 서둘러야 해서.\n실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,0",
+        "speaker": "6,0060101",
+        "voice": "GB920903,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,0",
+        "speaker": "1,0010102",
+        "voice": "GB920903,3"
+      },
+      "original": "ん？\nヴァニラは急がなくていいのかい？\n",
+      "translation": "응？ 바닐라는 서두르지 않아도 되는\n거니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,0",
+        "speaker": "6,0060101",
+        "voice": "GB920904,3"
+      },
+      "original": "……お礼を、言っていませんでしたから……。\n",
+      "translation": "……감사 인사를, 드리지\n않았으니까요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0060102,0,0",
+        "voice": "GB920905,3"
+      },
+      "original": "ありがとうございました……。\n",
+      "translation": "감사했습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0060102,0,0",
+        "voice": "GB920905,3"
+      },
+      "original": "そんな、いいのに。\n",
+      "translation": "아니, 괜찮은데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "0060102,0,0",
+        "voice": "GB920906,3",
+        "speaker": "6,0060101"
+      },
+      "original": "それでは……。\n",
+      "translation": "그럼…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB920906,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ヴァニラは相変わらず律儀だなぁ。\n……さてと、オレもそろそろ行くか。\n",
+      "translation": "바닐라는 여전히 성실하구나. ……자, 그럼\n나도 슬슬 가볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0060301,0,1070201",
+        "voice": "GB920906,3"
+      },
+      "original": "それじゃあ、まずちとせの探し物を３人で見\nつけて、その後でヴァニラの探し物を手伝お\nうか？\n",
+      "translation": "그럼, 우선 치토세가 찾는 물건을 셋이서\n찾아내고, 그다음에 바닐라가 찾는 물건을\n도와줄까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070201",
+        "speaker": "1,0010101",
+        "voice": "GB920906,3"
+      },
+      "original": "そうすれば、きっと効率よく見つけられると\n思うんだ。\n",
+      "translation": "그러면 분명 효율적으로 찾을 수 있을\n거라고 생각해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0060101,0,1070201",
+        "voice": "GB920907,3"
+      },
+      "original": "……わかりました……。\n",
+      "translation": "……알겠습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070304",
+        "voice": "GB920908,3",
+        "speaker": "107,1070101"
+      },
+      "original": "よろしいのですか？\nでは、お願いします。\n",
+      "translation": "괜찮으신가요？ 그럼, 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070201",
+        "voice": "GB920909,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ヴァニラ先輩、申し訳ありません。\n",
+      "translation": "바닐라 선배, 죄송합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB920910,3",
+        "face": "0060101,0,1070201"
+      },
+      "original": "……いえ……。\n",
+      "translation": "……아니요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "voice": "GB920910,3",
+        "face": "0060101,0,1070201"
+      },
+      "original": "それじゃあ、みんなで手分けして探そう！\n",
+      "translation": "그럼, 다 같이 나누어서 찾자！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "voice": "GB920910,3",
+        "speaker": "1,0010101",
+        "face": "0060101,0,1070102"
+      },
+      "original": "……よし、これでヴァニラの探し物も見つかっ\nたか。\n",
+      "translation": "……좋아, 이걸로 바닐라의 찾는 물건도\n찾았나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB920910,3",
+        "face": "0060101,0,1070102"
+      },
+      "original": "ちとせの交換部品も見つかったし、これでも\nう大丈夫だな。\n",
+      "translation": "치토세의 교환 부품도 찾았으니, 이제\n이것으로 괜찮겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0060102,0,1070102",
+        "speaker": "6,0060101",
+        "voice": "GB920911,3"
+      },
+      "original": "……感謝します。\n",
+      "translation": "……감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,0,1070201",
+        "voice": "GB920912,3"
+      },
+      "original": "あ、あの……。\n",
+      "translation": "저, 저기…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,1070201",
+        "voice": "GB920912,3"
+      },
+      "original": "ん？\nちとせは急がなくていいのかい？\n",
+      "translation": "응？ 치토세는 서두르지 않아도 되는\n거니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "face": "0,0,1070201",
+        "voice": "GB920913,3",
+        "speaker": "107,1070101"
+      },
+      "original": "お礼を、まだ言ってませんでしたから。\n",
+      "translation": "감사 인사를, 아직 못 드려서요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "face": "0,0,1070305",
+        "voice": "GB920914,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ありがとうございました、タクトさん。\n",
+      "translation": "감사했습니다, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,1070305",
+        "voice": "GB920914,3"
+      },
+      "original": "そんな、いいのに。\n",
+      "translation": "아니, 괜찮은데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "face": "0,0,1070305",
+        "voice": "GB920915,3",
+        "speaker": "107,1070101"
+      },
+      "original": "それでは、失礼します。\n",
+      "translation": "그럼, 실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "voice": "GB920915,3",
+        "speaker": "1,0010101",
+        "face": "0,0,0"
+      },
+      "original": "ちとせは礼儀正しいんだな。\n……さてと、オレもそろそろ行くか。\n",
+      "translation": "치토세는 예의가 바르구나. ……자, 그럼\n나도 슬슬 가볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070201",
+        "speaker": "1,0010101",
+        "voice": "GB920915,3"
+      },
+      "original": "それじゃあ、こうしよう……。\n",
+      "translation": "그럼 이렇게 하자…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "face": "0060301,0,1070201",
+        "speaker": "1,0010101",
+        "voice": "GB920915,3"
+      },
+      "original": "どちらの探し物も、３人で一緒に探す。\nそうすれば、きっと効率よく探し出せると思\nうよ。\n",
+      "translation": "양쪽의 찾는 물건 모두, 셋이서 함께\n찾는다. 그렇게 하면 분명 효율적으로\n찾아낼 수 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0060301,0,1070201",
+        "voice": "GB920915,3"
+      },
+      "original": "ふたりとも、それでいいね？\n",
+      "translation": "둘 다, 그걸로 괜찮지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070201",
+        "voice": "GB920916,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,1070102",
+        "speaker": "107,1070101",
+        "voice": "GB920917,3"
+      },
+      "original": "私も、かまいません。\n",
+      "translation": "저도, 상관없습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "voice": "GB920917,3",
+        "speaker": "1,0010105",
+        "face": "0060101,0,1070102"
+      },
+      "original": "ふぅ……。\n時間は結構かかったけど、ふたりとも探し物\nは見つけ出せたね。\n",
+      "translation": "후우……. 시간은 꽤 걸렸지만, 둘 다 찾는\n물건은 찾아냈네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "face": "0060101,0,0",
+        "voice": "GB920918,3",
+        "speaker": "6,0060101"
+      },
+      "original": "ありがとうございます……。\nそれでは……急ぎますので……。\n",
+      "translation": "감사합니다……. 그럼…… 서둘러야\n하니까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB920919,3",
+        "face": "0,0,1070102"
+      },
+      "original": "私も急ぎますので、失礼します。\n手伝っていただいて、ありがとうございまし\nた。\n",
+      "translation": "저도 서둘러야 해서, 실례하겠습니다.\n도와주셔서 감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB920919,3"
+      },
+      "original": "よかった。\nさて、オレも行くか。\n",
+      "translation": "다행이다. 자, 나도 가볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070102,0",
+        "voice": "GB920919,3"
+      },
+      "original": "自分に勝つこと……かな？\n",
+      "translation": "자신에게 이기는 것……일까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "voice": "GB921000,3",
+        "speaker": "107,1070101",
+        "face": "0,1070304,0"
+      },
+      "original": "えっ？\n",
+      "translation": "엣？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070304,0",
+        "voice": "GB921000,3"
+      },
+      "original": "今ちとせが言った「試合で勝つ」も「弓の腕\n前を上げる」も「他者に勝つこと」を目的と\nした行為だよね。\n",
+      "translation": "방금 치토세가 말한 「시합 승리」도 「활\n실력 향상」도 「타인에게 이기는 것」을\n목적으로 한 행위잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070304,0",
+        "voice": "GB921000,3"
+      },
+      "original": "でも、それより大切なことと君は言った。\nだとしたら、方向性が違うってことじゃない\nかなと思ったんだ。\n",
+      "translation": "하지만, 그것보다 중요한 것이라고 너는\n말했어. 그렇다면 방향성이 다르다는 뜻이\n아닐까 생각했거든.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070304,0",
+        "voice": "GB921000,3"
+      },
+      "original": "でも、弓道も武術である以上は勝負ごと。\n勝つ負けるは必須の要素だ。\nだとしたら、勝つ対象が違うのかなって。\n",
+      "translation": "하지만 궁도도 무술인 이상 승부의 세계.\n이기고 지는 건 필수야. 그렇다면, 이겨야\n할 대상이 다른 걸까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB921001,3"
+      },
+      "original": "正解です……。\nすごいです、タクトさん！\n",
+      "translation": "정답입니다……. 대단해요, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB921001,3",
+        "speaker": "1,0010102"
+      },
+      "original": "あ、当たった？\n",
+      "translation": "아, 맞혔어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "voice": "GB921002,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "弓道の真の目的は、修練による自己鍛錬。\nつまり、邪念を打ち払い、己に克つことです。\n",
+      "translation": "궁도의 진정한 목적은, 수련을 통한 자기\n단련. 즉, 사념을 물리치고 자신에게\n이기는 것입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "speaker": "107,1070101",
+        "voice": "GB921003,3"
+      },
+      "original": "今の短い会話の中で、それに思い当たるとは\nお見事としか言いようがありません。\n",
+      "translation": "지금의 짧은 대화 속에서, 그것을\n알아차리다니 훌륭하다고밖에 할 말이\n없습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "speaker": "107,1070101",
+        "voice": "GB921004,3"
+      },
+      "original": "論理的に物事を見つめ、わずかな情報だけで\n正確な結論を導き出す……。\n",
+      "translation": "논리적으로 사물을 바라보고, 아주 적은\n정보만으로 정확한 결론을 이끌어낸다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "speaker": "107,1070101",
+        "voice": "GB921005,3"
+      },
+      "original": "やはりタクトさんは、皇国の英雄と呼ばれる\nにふさわしい方です。\n",
+      "translation": "역시 택트 씨는 황국의 영웅이라 불리기에\n어울리는 분입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "speaker": "1,0010104",
+        "voice": "GB921005,3"
+      },
+      "original": "いやぁ、たまたま思い当たっただけだよ。\n",
+      "translation": "아니, 그저 우연히 떠올랐을 뿐이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB921005,3",
+        "speaker": "1,0010401"
+      },
+      "original": "敵を倒すことかな。\n武術っていうぐらいだから、実践的なものな\nんだろう？\n",
+      "translation": "적을 쓰러뜨리는 것일까. 무술이라고 하는\n걸 보니, 실전적인 것이겠지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0055",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB921006,3"
+      },
+      "original": "古来にあったと言われる「弓術」では、タク\nトさんのおっしゃるとおりです。\n",
+      "translation": "고대로부터 있었다고 전해지는\n「궁술」에서는, 택트 씨가 말씀하신\n대로입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0056",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB921007,3"
+      },
+      "original": "ですが、弓道は弓術の後に出来たもので、方\n向性が異なっています。\n",
+      "translation": "하지만 궁도는 궁술 이후에 만들어진\n것으로, 지향점이 다릅니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0057",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB921008,3"
+      },
+      "original": "弓道の真の目的は、修練による自己鍛錬。\nつまり、邪念を打ち払い、己に克つことです。\n",
+      "translation": "궁도의 진정한 목적은 수련을 통한 자기\n단련. 즉, 사념을 물리치고 자신을 이기는\n것입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0058",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB921008,3",
+        "speaker": "1,0010105"
+      },
+      "original": "そうか……おしいな。\n",
+      "translation": "그런가…… 아쉽네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0059",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB921009,3"
+      },
+      "original": "いえ、軍人としては当然の結論だと思います。\n敵を倒し、味方を守るためには、いかに敵を\n倒すかが重視されます。\n",
+      "translation": "아니요, 군인으로서 당연한 결론입니다.\n적을 쓰러뜨리고 아군을 지키려면 어떻게\n적을 처치할지가 중요하니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0060",
+      "channel": 1,
+      "context": {
+        "voice": "GB921010,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "士官学校時代の友人たちも、タクトさんと同\nじ結論にいたりました。\n",
+      "translation": "사관학교 시절의 친구들도 택트 씨와 같은\n결론에 도달했습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0061",
+      "channel": 1,
+      "context": {
+        "voice": "GB921010,3",
+        "speaker": "1,0010401",
+        "face": "0,1070102,0"
+      },
+      "original": "いかに美しく撃つことかな。\n",
+      "translation": "얼마나 아름답게 쏘느냐 하는 것이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0062",
+      "channel": 1,
+      "context": {
+        "voice": "GB921010,3",
+        "speaker": "1,0010201",
+        "face": "0,1070102,0"
+      },
+      "original": "ほら、アーチェリーの構えって、かっこいい\nだろ？\nあれをもっと、つきつめたものじゃないの？\n",
+      "translation": "봐, 양궁 자세라는 건 멋있잖아？ 그걸 좀\n더, 극한까지 밀어붙인 게 아닐까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0063",
+      "channel": 1,
+      "context": {
+        "voice": "GB921011,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "いえ、弓道も弓を使う以上、アーチェリーと\nあまり変わりはありません。\n",
+      "translation": "아니요, 궁도도 활을 사용하는 이상,\n양궁과 크게 다르지 않습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0064",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "speaker": "107,1070101",
+        "voice": "GB921012,3"
+      },
+      "original": "それに……見た目に惑わされてしまっては、\n本質がつきとめられないと思います。\n",
+      "translation": "게다가…… 겉모습에 현혹되어 버리면,\n본질을 파악할 수 없다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0065",
+      "channel": 1,
+      "context": {
+        "voice": "GB921012,3",
+        "speaker": "1,0010105",
+        "face": "0,1070201,0"
+      },
+      "original": "……どうやら、的からは大きく外れたみたい\nだね。\n",
+      "translation": "……아무래도, 과녁에서는 크게 벗어난\n모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0066",
+      "channel": 1,
+      "context": {
+        "voice": "GB921013,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "弓道の真の目的は、修練による自己鍛錬。\nつまり、邪念を打ち払い、己に克つことです。\n",
+      "translation": "궁도의 진정한 목적은, 수련을 통한 자기\n단련. 즉, 사념을 물리치고 자신을 이기는\n것입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000f1800:dialogue:0067",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB921013,3",
+        "face": "0,1070102,0"
+      },
+      "original": "なるほど。\nもっと精神的なことだったのか。\n",
+      "translation": "그렇군. 좀 더 정신적인 것이었나.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

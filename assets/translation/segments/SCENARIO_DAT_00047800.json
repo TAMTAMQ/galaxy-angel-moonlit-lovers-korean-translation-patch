@@ -1,0 +1,123 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00047800.txt",
+    "encoding": "cp932",
+    "sha256": "1bbe0d26d306e4f5e8d7ee9362f4e197af850f783e7ea2cb7af4b25b9820e9dd",
+    "dialogue_count": 9
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102"
+      },
+      "original": "ランファ、戻ってるかい？\n",
+      "translation": "란파, 돌아왔어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030202",
+        "voice": "GB250500,3"
+      },
+      "original": "あ、タクト……。\nいいわよ、入って。\n",
+      "translation": "아, 택트……. 괜찮아, 들어와.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB250500,3"
+      },
+      "original": "なんか、元気がないな。\nどうしたんだ？\n",
+      "translation": "왠지 기운이 없네. 무슨 일이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB250500,3"
+      },
+      "original": "ランファ、何かあったのか？\nさっきは、あんなに威勢がよかったのに。\n",
+      "translation": "란파, 무슨 일 있었어？ 아까는 그렇게\n기세가 좋더니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB250501,3",
+        "face": "0,0030202,0"
+      },
+      "original": "うん、ちょっと……。\n部屋に戻ったら、なんか急にね……。\n",
+      "translation": "응, 조금……. 방으로 돌아오니까, 왠지\n갑자기 말이야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB250501,3",
+        "face": "0,0030202,0"
+      },
+      "original": "不安……なのかい？\n",
+      "translation": "불안……한 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB250502,3",
+        "face": "0,0030201,0"
+      },
+      "original": "……うん、そうかも……。\n",
+      "translation": "……응, 그럴지도…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB250503,3",
+        "face": "0,0030201,0"
+      },
+      "original": "ねぇタクト、アタシたち、ホントにあの敵に\n勝てるのかなぁ……？\n",
+      "translation": "있지 택트, 우리들, 정말로 저 적에게 이길\n수 있을까……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00047800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB250503,3",
+        "face": "0,0030201,0"
+      },
+      "original": "ランファ……。\n",
+      "translation": "란파…….\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

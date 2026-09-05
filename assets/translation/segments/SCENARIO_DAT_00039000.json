@@ -1,0 +1,3948 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00039000.txt",
+    "encoding": "cp932",
+    "sha256": "e10630dc4f95b97da2f4dc021881529b259bc14299ec307e4700286ec42f49dc",
+    "dialogue_count": 307
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0001",
+      "channel": 0,
+      "context": {
+        "voice": "GB220000,3",
+        "speaker": "3,0"
+      },
+      "original": "前略、タクト様。\n　\n早いもので、アタシがタクトにお別れを言っ\nてから、もう丸１日が過ぎました。\nタクトはお元気ですか？　変わらずやってい\nますか？\nアタシは……今でもあなたのことを思い出し\nます。\n今でもあなたのことを、宇宙で一番愛してい\nます。\nそれは紛れもない事実です。\n",
+      "translation": "서두를 생략하겠습니다, 택트 님. 벌써\n제가 택트에게 작별 인사를 하고 나서,\n어느덧 꼬박 하루가 지났습니다. 택트는 잘\n지내고 있나요？ 변함없이 잘하고 있나요？\n저는…… 지금도 당신을 떠올립니다.\n지금도 당신을, 우주에서 가장 사랑하고\n있습니다. 그것은 틀림없는 사실입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0002",
+      "channel": 0,
+      "context": {
+        "voice": "GB220001,3",
+        "speaker": "3,0"
+      },
+      "original": "でも……タクトとちとせのことを考えたら、\nアタシからお別れを告げて、身を引くしかな\nかったのです。\nちとせの家は貧しくて、生活が大変なのです。\nきっと毎日借金取りが来て、家具を勝手に持っ\nていってしまうほど貧乏に違いありません。\nすさんだ毎日の生活の中でも、ちとせは気丈\nに振る舞っていますが、アタシにはわかりま\nす。\n今にも折れてしまいそうなあの子には、支え\nが必要なのです。\n",
+      "translation": "하지만…… 택트와 치토세를 생각하면,\n제가 작별을 고하고 물러날 수밖에\n없었습니다. 치토세의 집은 가난해서\n생활이 힘들거든요. 분명 매일 빚쟁이가\n찾아와서, 가구를 마음대로 가져가 버릴\n정도로 가난할 것이 틀림없습니다. 거친\n일상 속에서도 치토세는 의연하게 행동하고\n있지만, 저에게는 보입니다. 금방이라도\n꺾여버릴 것 같은 그 아이에게는 지탱해 줄\n사람이 필요합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0003",
+      "channel": 0,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "3,0"
+      },
+      "original": "だから、ちとせを支えてあげてください。\nそして、ふたりで幸せになってください。\nちとせは本当にいい子です。\nタクトとなら、きっとお似合いのカップルに\nなれると思います。\n　\nさようなら、タクト。\nふたりの幸せを祈っています。\n　\n　　　　　　　　　　　　　　ランファ\n",
+      "translation": "그러니 치토세를 지탱해 주세요. 그리고\n둘이서 행복해지세요. 치토세는 정말 착한\n아이입니다. 택트와 함께라면, 분명 잘\n어울리는 커플이 될 수 있을 거라\n생각합니다. 안녕히, 택트. 두 사람의\n행복을 빌고 있겠습니다. 란파\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010105"
+      },
+      "original": "……なんなんだ、この手紙は……。\n",
+      "translation": "……뭐냐고, 이 편지는…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010105"
+      },
+      "original": "ランファのやつ、ちとせが貧乏だと誤解した\nままなんだ。\nそれで、オレにちとせを幸せにしろ、と。\n",
+      "translation": "란파 녀석, 치토세가 가난하다고 오해한\n채로 있잖아. 그래서 나한테 치토세를\n행복하게 해주라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010105"
+      },
+      "original": "そのために自分が身を引くなんて、こないだ\n見た恋愛映画そのまんまじゃないか。\n影響受けやすいんだから……。\n",
+      "translation": "그러기 위해 자신이 물러나다니, 요전에 본\n연애 영화 그대로잖아. 영향을 잘\n받으니까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010301"
+      },
+      "original": "とにかく、ランファのカン違いだってことを\n説明しなきゃ。\n",
+      "translation": "어쨌든, 란파의 착각이라는 걸 설명해야\n해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010404"
+      },
+      "original": "ランファ、ランファ！\n",
+      "translation": "란파, 란파！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010404"
+      },
+      "original": "オレだよ、タクトだよ。\n返事してくれ！\n",
+      "translation": "나야, 택트라고. 대답 좀 해줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB220002,3"
+      },
+      "original": "……ダメか。\nこれは通信をオフにしてるな。\n",
+      "translation": "……안 되는 건가. 이건 통신을 꺼두었군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GB220002,3",
+        "speaker": "1,0010302"
+      },
+      "original": "だったら、直接会って言うまでだ！\n",
+      "translation": "그렇다면, 직접 만나서 말할 수밖에 없어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301"
+      },
+      "original": "ランファ、自分の部屋にいるのかな？\n早く本当のことを言わないと……。\n",
+      "translation": "란파, 자기 방에 있으려나？ 빨리 사실대로\n말해야 해…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301"
+      },
+      "original": "幸い、今はクロノ・ドライヴ中だから、敵と\n出くわす心配はない。\n今のうちに、ランファを見つけよう。\n",
+      "translation": "다행히 지금은 크로노・드라이브 중이니까,\n적과 마주칠 걱정은 없어. 지금 사이에\n란파를 찾자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB220003,3"
+      },
+      "original": "あ、タクトさん。\nこちらにいらっしゃいましたか。\n",
+      "translation": "아, 택트 씨. 이쪽에 계셨나요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,1070102,0",
+        "voice": "GB220003,3"
+      },
+      "original": "ちとせ、ランファを見かけなかった？\n",
+      "translation": "치토세, 란파를 못 봤어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220004,3"
+      },
+      "original": "ランファ先輩ですか？\nいえ、今日はまだお会いしていませんが。\n",
+      "translation": "란파 선배 말씀이신가요？ 아니요, 오늘은\n아직 뵙지 못했습니다만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070201,0",
+        "voice": "GB220004,3"
+      },
+      "original": "そうか……。\n",
+      "translation": "그런가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,1070201,0",
+        "voice": "GB220004,3"
+      },
+      "original": "ところで、オレに何か用事？\n",
+      "translation": "그건 그렇고, 나한테 무슨 용무 있어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB220100,3"
+      },
+      "original": "はい。\n気をつかっていただいて、恐縮です。\n",
+      "translation": "네. 신경 써 주셔서 감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB220101,3"
+      },
+      "original": "私は、これからホールで飲み物を買ってから\n戻るつもりですが、タクトさんは？\n",
+      "translation": "저는 이제 홀에서 음료를 좀 사서 돌아갈\n생각입니다만, 택트 씨는요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070205,0",
+        "voice": "GB220101,3"
+      },
+      "original": "そうだな、オレも何か飲んでいくか。\n",
+      "translation": "그렇군, 나도 뭐 좀 마시고 갈까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070205,0",
+        "voice": "GB220101,3"
+      },
+      "original": "……あの手紙を読んでから、どうも頭がクラ\nクラする。\n少し気を落ち着けよう。\n",
+      "translation": "……그 편지를 읽고 나서, 왠지 머리가\n어질어질해. 조금 마음을 가라앉히자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220102,3"
+      },
+      "original": "手紙ですか？\n",
+      "translation": "편지 말입니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070201,0",
+        "voice": "GB220102,3"
+      },
+      "original": "いや、なんでもないんだ。\nそれより、ジュースを買いに行こう。\n",
+      "translation": "아니, 아무것도 아니야. 그것보다 주스를\n사러 가자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB220103,3",
+        "speaker": "107,1070101"
+      },
+      "original": "はい、ではご一緒いたします。\n",
+      "translation": "네, 그럼 같이 가겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB220103,3"
+      },
+      "original": "さて、何を飲もうかなっと。\n",
+      "translation": "자, 뭘 마실까나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB220104,3",
+        "speaker": "107,1070101"
+      },
+      "original": "う～ん……。\n種類があって、迷ってしまいますね。\n",
+      "translation": "으음…… 종류가 많아서 고민되네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,1070205,0",
+        "voice": "GB220104,3"
+      },
+      "original": "そういえば、飲み物はどんなもの好きなの？\n",
+      "translation": "그러고 보니, 마시는 건 어떤 걸 좋아해？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB220105,3"
+      },
+      "original": "よく飲むのは緑茶です。\nですが、たまにはそれ以外のものを飲もうか\nと思って。\n",
+      "translation": "자주 마시는 건 녹차입니다. 하지만 가끔은\n그것 이외의 것을 마셔볼까 해서요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB220105,3",
+        "speaker": "1,0010101"
+      },
+      "original": "それなら、アップルジュースなんかどう？\nここのはオススメだよ。\n",
+      "translation": "그렇다면, 애플 주스 같은 건 어때？\n여기는 추천이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "voice": "GB220106,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "そうなのですか。\nでは、それを……。\n",
+      "translation": "그런가요. 그럼, 그것을…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070304,0",
+        "voice": "GB220107,3"
+      },
+      "original": "あっ！\nお金が……。\n",
+      "translation": "앗！ 돈이…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070304,0",
+        "voice": "GB220107,3"
+      },
+      "original": "……あちゃー。\n自動販売機の下に入っちゃったなぁ。\n",
+      "translation": "……아차차. 자동판매기 밑으로 들어가\n버렸네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220108,3"
+      },
+      "original": "……手、届きそうにありませんね。\n",
+      "translation": "……손이, 닿을 것 같지 않네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070201,0",
+        "voice": "GB220108,3"
+      },
+      "original": "うーん、そうだね。たった１ギャラだし、あ\nきらめたほうがいいと思うよ。\n",
+      "translation": "으음, 그렇네. 고작 １갤러리니까,\n포기하는 게 좋을 것 같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "face": "0,1070101,0",
+        "speaker": "107,1070101",
+        "voice": "GB220109,3"
+      },
+      "original": "ですが「１ギャラを笑う者は１ギャラに泣く」\nということわざもあります。\n",
+      "translation": "하지만 「１갤러리를 비웃는 자는\n１갤러리에 운다」라는 속담도 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "face": "0,1070101,0",
+        "speaker": "1,0010105",
+        "voice": "GB220109,3"
+      },
+      "original": "だけど、これはさすがになぁ……。\n奥のほうに入っちゃったみたいだよ。\n",
+      "translation": "그렇지만, 이건 아무래도 좀…… 안쪽까지\n들어가 버린 것 같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070207,0",
+        "voice": "GB220110,3"
+      },
+      "original": "そうですね……仕方ありません。\n",
+      "translation": "그렇네요…… 어쩔 수 없군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "face": "0,1070207,0",
+        "voice": "GB220110,3",
+        "speaker": "1,0010101"
+      },
+      "original": "よかったら、オレがおごろうか？\n",
+      "translation": "괜찮다면, 내가 살까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB220111,3",
+        "face": "0,1070201,0"
+      },
+      "original": "いえ、そんな。\nお金なら、まだありますから。\n",
+      "translation": "아니요, 그렇게까지. 돈이라면 아직\n있으니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "voice": "GB220111,3",
+        "speaker": "1,0010101",
+        "face": "0,1070201,0"
+      },
+      "original": "解読を手伝ってもらってるお礼だよ。\nアップルジュースでいいんだよね？\n",
+      "translation": "해독을 도와주고 있는 것에 대한 답례야.\n애플 주스면 되지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB220112,3",
+        "speaker": "107,1070101"
+      },
+      "original": "あ、はい……。\nでは、お言葉に甘えさせていただきます。\n",
+      "translation": "아, 네……. 그럼, 호의를\n받아들이겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB220112,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そんなに、かしこまらなくてもいいよ。\nじゃ、オレも同じのにしようかな。\n",
+      "translation": "그렇게 격식 차리지 않아도 돼. 그럼, 나도\n같은 걸로 할까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB220112,3",
+        "speaker": "1,0010101"
+      },
+      "original": "はい、出てきたよ。\nどうぞ。\n",
+      "translation": "자, 나왔어. 여기 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB220113,3"
+      },
+      "original": "ありがとうございます。\nそれでは、いただきます。\n",
+      "translation": "감사합니다. 그럼, 잘 마시겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB220113,3",
+        "speaker": "1,0010201"
+      },
+      "original": "……うん、やっぱりここのアップルジュース\nは最高だ。\n",
+      "translation": "……음, 역시 여기 애플 주스는 최고야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070305,0",
+        "voice": "GB220114,3"
+      },
+      "original": "確かに、おいしいですね。\n適度な酸味が頭をスッキリさせてくれます。\n",
+      "translation": "확실히, 맛있네요. 적당한 산미가 머리를\n맑게 해줍니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "face": "0,1070305,0",
+        "voice": "GB220114,3",
+        "speaker": "1,0010201"
+      },
+      "original": "よーし、気合が入ったところで、ランファを\n捜しに行くとするか。\n",
+      "translation": "좋아, 기운이 좀 났으니, 란파를 찾으러\n가볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070304,0",
+        "voice": "GB220115,3"
+      },
+      "original": "ランファ先輩が、どうかなさったのですか？\n",
+      "translation": "란파 선배님께 무슨 일이라도 생겼나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "face": "0,1070304,0",
+        "voice": "GB220115,3",
+        "speaker": "1,0010105"
+      },
+      "original": "うーん……話せば長くなるんだけど……。\n",
+      "translation": "으음…… 이야기가 길어지겠지만\n말이야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220116,3"
+      },
+      "original": "先輩でしたら、通路の角から、こちらを見て\nおられますが。\n",
+      "translation": "선배라면, 통로 모퉁이에서 이쪽을 보고\n계십니다만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB220116,3",
+        "speaker": "1,0010403"
+      },
+      "original": "えっ！？\n",
+      "translation": "엣！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030202",
+        "face": "0,0,0",
+        "voice": "GB220116,3"
+      },
+      "original": "………………………。\n",
+      "translation": "………………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220116,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ランファ！\nちょっと待って！\n",
+      "translation": "란파！ 잠깐 기다려！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0055",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB220116,3"
+      },
+      "original": "ごめん、ちとせ！\nオレはこれで！\n",
+      "translation": "미안, 치토세！ 난 이걸로！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0056",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070304,0",
+        "voice": "GB220119,3"
+      },
+      "original": "あっ、タクトさん！？\n",
+      "translation": "앗, 택트 씨！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0057",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220119,3",
+        "speaker": "1,0010403"
+      },
+      "original": "……はぁ……はぁ……。\n",
+      "translation": "……하아……하아…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0058",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB220119,3"
+      },
+      "original": "み、見失ったか……。\n",
+      "translation": "놓, 놓쳐버린 건가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0059",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB220119,3"
+      },
+      "original": "ぜぇ……はぁ……。\nこんなことなら、もっと身体をきたえておく\nんだったなぁ。\n",
+      "translation": "허억……하아……. 이럴 줄 알았으면 좀 더\n몸을 단련해 둘걸 그랬어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0060",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220119,3",
+        "speaker": "1,0010302"
+      },
+      "original": "いや、ここであきらめてどうする。\nランファを見つけて、誤解を解かないと。\n",
+      "translation": "아니, 여기서 포기해서 어떡할 거야.\n란파를 찾아서 오해를 풀어야지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0061",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220119,3",
+        "speaker": "1,0010401"
+      },
+      "original": "ランファは、オレとちとせがいるところを、\nずっと見てたのか？\n",
+      "translation": "란파는, 나와 치토세가 있는 곳을 계속\n보고 있었던 건가？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0062",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB220119,3"
+      },
+      "original": "だとしたら、ちとせにジュースをおごったの\nを見て、また誤解を深めた可能性が高いなぁ。\nやれやれ……。\n",
+      "translation": "그렇다면, 치토세에게 주스를 사주는 걸\n보고, 다시 오해를 깊게 했을 가능성이\n높겠네. 이런이런…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0063",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010401",
+        "voice": "GB220119,3"
+      },
+      "original": "これ以上誤解されないためにも、早くランファ\nを見つけなきゃ。\n",
+      "translation": "이 이상 오해받지 않기 위해서라도, 빨리\n란파를 찾아야겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0064",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GB220119,3"
+      },
+      "original": "こうなったら、艦内中を捜し回ってやる！\n",
+      "translation": "이렇게 된 이상, 함선 안을 샅샅이\n뒤져주마！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0065",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220119,3",
+        "speaker": "1,0010402"
+      },
+      "original": "……まいったなぁ。\n結局、ランファをつかまえて誤解を解くこと\nができなかった。\n",
+      "translation": "……곤란하네. 결국, 란파를 붙잡아서\n오해를 풀지 못했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0066",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "ああ、疲れたぁ……。\nとりあえず部屋に戻って、ひと休みするか。\n",
+      "translation": "아아, 피곤해라……. 일단 방으로\n돌아가서, 좀 쉴까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0067",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "ふぅ……どうしたもんかなぁ？\n",
+      "translation": "후우…… 어떻게 해야 할까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0068",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102"
+      },
+      "original": "……ん？\n机の上に、何か置いてある。\nこれは……。\n",
+      "translation": "……응？ 책상 위에, 뭔가 놓여 있어.\n이건…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0069",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105"
+      },
+      "original": "……て、手紙だ……。\n今度は何が書いてあるんだろう。\n",
+      "translation": "……편지다……. 이번에는 뭐라고 적혀\n있을까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0070",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "なんか……開けるの怖いけど、とにかく読ん\nでみよう。\n",
+      "translation": "왠지…… 여는 게 무섭지만, 일단\n읽어보자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0071",
+      "channel": 0,
+      "context": {
+        "speaker": "3,0",
+        "voice": "GB220200,3"
+      },
+      "original": "前略、タクト様。\n　\nアタシが心配するまでもなく、ふたりの愛は、\n順調に深まっているようですね。\nどうかこれからも、ちとせのことを助けてあ\nげてください。\n",
+      "translation": "서두를 생략하겠습니다, 택트 님. 제가\n걱정할 필요도 없이, 두 사람의 사랑은\n순조롭게 깊어지고 있는 것 같군요. 부디\n앞으로도 치토세를 도와주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0072",
+      "channel": 0,
+      "context": {
+        "speaker": "3,0",
+        "voice": "GB220201,3"
+      },
+      "original": "ところで、タクトの今日のラッキースポット\nを占いました。\nそれはズバリ、『銀河展望公園』です。\nそこに行けば、きっとステキな出会いが待っ\nているはずです。\nこれを読んだら、今すぐ公園に行ってみてく\nださい。\nそれがアタシからの、最後のお願いです。\nふたりの幸せを、遠い空から祈っています。\n　\n　　　　　　　　　　　　　　ランファ\n",
+      "translation": "그건 그렇고, 택트의 오늘 럭키 스팟을\n점쳐 보았습니다. 그것은 바로, 『은하\n전망공원』입니다. 그곳에 가면 분명 멋진\n만남이 기다리고 있을 거예요. 이것을\n읽으면 지금 당장 공원으로 가보세요.\n그것이 저로부터의, 마지막 부탁입니다. 두\n사람의 행복을, 먼 하늘에서 기도하고\n있겠습니다. 란파\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0073",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB220201,3"
+      },
+      "original": "……どんどん自分に酔ってきてるな。\n同じ艦の中にいるのに、「遠い空から」って\n言われても。\n",
+      "translation": "……점점 자기 자신에게 취해가고 있네.\n같은 함선 안에 있는데, 「먼\n하늘에서」라니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0074",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB220201,3"
+      },
+      "original": "今日のラッキースポットは公園？\nステキな出会いって、なんのことだろう。\n",
+      "translation": "오늘의 럭키 스팟은 공원？ 멋진\n만남이라니, 무슨 뜻일까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0075",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB220201,3"
+      },
+      "original": "ひょっとして、ランファが公園にいるのか？\nともかく行ってみよう。\n",
+      "translation": "혹시, 란파가 공원에 있는 건가？ 어쨌든\n가보자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0076",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB220201,3",
+        "face": "0,0,0"
+      },
+      "original": "言われたとおり公園に来たけど、ランファは\nどこに……。\n",
+      "translation": "말한 대로 공원에 왔는데, 란파는\n어디에…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0077",
+      "channel": 1,
+      "context": {
+        "voice": "GB220202,3",
+        "speaker": "107,1070101",
+        "face": "0,1070304,0"
+      },
+      "original": "タクトさん……どうしてこちらへ？\n",
+      "translation": "택트 씨…… 어째서 이쪽으로？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0078",
+      "channel": 1,
+      "context": {
+        "voice": "GB220202,3",
+        "speaker": "1,0010102",
+        "face": "0,1070304,0"
+      },
+      "original": "ちとせ、君も来てたのか。\nランファを見なかった？\n",
+      "translation": "치토세, 너도 와 있었던 거야？ 란파를 못\n봤어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0079",
+      "channel": 1,
+      "context": {
+        "voice": "GB220203,3",
+        "speaker": "107,1070101",
+        "face": "0,1070201,0"
+      },
+      "original": "いいえ。\n私もランファ先輩をお待ちしているのですが。\n",
+      "translation": "아니요. 저도 란파 선배를 기다리고\n있습니다만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0080",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,1070201,0",
+        "voice": "GB220203,3"
+      },
+      "original": "ちとせも？\nどういうことだい？\n",
+      "translation": "치토세도？ 그게 무슨 소리야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0081",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220204,3"
+      },
+      "original": "さっき、ランファ先輩からお手紙をいただき\nまして。\n",
+      "translation": "아까, 란파 선배님으로부터 편지를\n받아서요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0082",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070207,0",
+        "voice": "GB220205,3"
+      },
+      "original": "それによると、今日のラッキースポットは公\n園で、ステキな出会いが待っているから、足\nを運んでほしいと……。\n",
+      "translation": "그 내용에 따르면, 오늘의 럭키 스팟은\n공원이고, 멋진 만남이 기다리고 있으니\n발걸음을 해달라고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0083",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070207,0",
+        "voice": "GB220205,3"
+      },
+      "original": "……なるほど、オレと同じ手で呼び出された\nわけか。\n",
+      "translation": "……과연, 나랑 같은 수법으로 불러낸\n셈인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0084",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB220206,3"
+      },
+      "original": "タクトさんもですか？\n",
+      "translation": "택트 씨도 말인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0085",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "speaker": "107,1070101",
+        "voice": "GB220207,3"
+      },
+      "original": "ランファ先輩は、いったいなぜ、こんなこと\nを……。\n",
+      "translation": "란파 선배님은, 도대체 왜 이런 일을…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0086",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "speaker": "1,0010401",
+        "voice": "GB220207,3"
+      },
+      "original": "実はね……。\n",
+      "translation": "사실은 말이지…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0087",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB220207,3"
+      },
+      "original": "……というわけで、オレたちをくっつけよう\nとしているらしいんだ。\n",
+      "translation": "……라는 이유로, 우리를 엮어주려는\n모양이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0088",
+      "channel": 1,
+      "context": {
+        "voice": "GB220208,3",
+        "speaker": "107,1070101",
+        "face": "0,1070207,0"
+      },
+      "original": "なるほど……私の部屋を見て、貧しいと誤解\nしてしまわれたのですね。\n",
+      "translation": "과연…… 제 방을 보고 가난하다고\n오해하신 거군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0089",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB220209,3",
+        "speaker": "107,1070101"
+      },
+      "original": "私の実家は、裕福とは申しませんが、かといっ\nて生活に困るほどではないのですが……。\n",
+      "translation": "제 본가는, 부유하다고는 할 수 없지만,\n그렇다고 생활이 곤란할 정도도 아닌데\n말이죠…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0090",
+      "channel": 1,
+      "context": {
+        "voice": "GB220209,3",
+        "speaker": "1,0010401",
+        "face": "0,1070201,0"
+      },
+      "original": "オレは君から聞いて、単に生活習慣が違うだ\nけだっていうことは知ってる。\nただ、ランファの誤解が……。\n",
+      "translation": "난 너한테 들어서, 단순히 생활 습관이\n다를 뿐이라는 건 알고 있어. 다만, 란파의\n오해가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0091",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB220209,3",
+        "face": "0,1070201,0"
+      },
+      "original": "そうそう、あれもあった。\nみんなで一緒に食事をしたときのことを覚え\nてるかい？\n",
+      "translation": "맞아 맞아, 그것도 있었지. 다 같이 함께\n식사했을 때를 기억하고 있나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0092",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB220210,3",
+        "speaker": "107,1070101"
+      },
+      "original": "はい、私がエルシオールに着任した日のこと\nですね。\n",
+      "translation": "네, 제가 에르시올에 부임한 날의 일\n말이죠.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0093",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070201,0",
+        "voice": "GB220210,3"
+      },
+      "original": "あのとき、ちょっとしか注文しようとしなかっ\nただろ？\n",
+      "translation": "그때, 조금밖에 주문하려고 하지\n않았었지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0094",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070201,0",
+        "voice": "GB220210,3"
+      },
+      "original": "あれもランファから見ると、食費がないせい\nだって思ったんじゃないかな。\n",
+      "translation": "그것도 란파가 보기에는 식비가 없는\n탓이라고 생각하지 않았을까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0095",
+      "channel": 1,
+      "context": {
+        "voice": "GB220211,3",
+        "speaker": "107,1070101",
+        "face": "0,1070204,0"
+      },
+      "original": "あれは、その……。\nまだ慣れていなくて、ちょっと緊張していた\nだけなんです。\n",
+      "translation": "그건, 그…… 아직 익숙해지지 않아서,\n조금 긴장했을 뿐이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0096",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070204,0",
+        "voice": "GB220212,3"
+      },
+      "original": "結局あの後、お腹がすいて、宇宙コンビニで\nおにぎりを買って食べました。\n",
+      "translation": "결국 그 후, 배가 고파져서 우주\n편의점에서 주먹밥을 사 먹었습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0097",
+      "channel": 1,
+      "context": {
+        "face": "0,1070204,0",
+        "speaker": "1,0010105",
+        "voice": "GB220212,3"
+      },
+      "original": "なんだ、そういうことか。\n別に少食ってわけでもないんだね。\n",
+      "translation": "뭐야, 그런 거였나. 딱히 소식하는 건\n아니구나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0098",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070204,0",
+        "voice": "GB220212,3"
+      },
+      "original": "とにかく巻き込んでしまって、ごめん。\n",
+      "translation": "어쨌든 휘말리게 해서, 미안해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0099",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB220213,3",
+        "speaker": "107,1070101"
+      },
+      "original": "私のことなら、気になさらないでください。\nそれよりも、早くランファ先輩の誤解を解か\nないと。\n",
+      "translation": "제 일이라면, 신경 쓰지 마세요. 그것보다\n빨리 란파 선배의 오해를 풀어야 해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0100",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB220214,3",
+        "speaker": "107,1070101"
+      },
+      "original": "このままではランファ先輩、本当にタクトさ\nんから離れていってしまうかもしれません。\n",
+      "translation": "이대로라면 란파 선배, 정말로 택트\n씨에게서 멀어져 버릴지도 몰라요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0101",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070201,0",
+        "voice": "GB220214,3"
+      },
+      "original": "うん、なんとかしなきゃ。\nだけど、当のランファが見つからないんじゃ\nなぁ……。\n",
+      "translation": "응, 어떻게든 해야 해. 하지만 정작 란파를\n찾을 수가 없네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0102",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070304,0",
+        "voice": "GB220215,3"
+      },
+      "original": "あっ……お静かに！\n",
+      "translation": "앗…… 조용히 하세요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0103",
+      "channel": 1,
+      "context": {
+        "face": "0,1070304,0",
+        "voice": "GB220215,3",
+        "speaker": "1,0010103"
+      },
+      "original": "えっ、なに！？\n",
+      "translation": "엣, 뭐야！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0104",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070302,0",
+        "voice": "GB220216,3"
+      },
+      "original": "ランファ先輩を見つけました。\n",
+      "translation": "란파 선배를 찾았습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0105",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,1070302,0",
+        "voice": "GB220216,3"
+      },
+      "original": "ど、どこに？\n",
+      "translation": "어, 어디에？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0106",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070302,0",
+        "voice": "GB220217,3"
+      },
+      "original": "タクトさんの、約１０メートル後方です。\n木の陰から、こちらの様子をうかがっていま\nす。\n",
+      "translation": "택트 씨의 약 １０미터 후방입니다. 나무\n그늘에서 이쪽의 상황을 살피고 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0107",
+      "channel": 1,
+      "context": {
+        "voice": "GB220217,3",
+        "speaker": "1,0010403",
+        "face": "0,1070302,0"
+      },
+      "original": "どうしよう。\n下手に動くと、また逃げられそうだしなぁ。\n",
+      "translation": "어쩌지. 어설프게 움직이면 또 도망쳐 버릴\n것 같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0108",
+      "channel": 1,
+      "context": {
+        "voice": "GB220217,3",
+        "speaker": "1,0010301",
+        "face": "0,1070302,0"
+      },
+      "original": "……よし、仲よく会話しているフリをして、\nさりげなく近づこう。\n",
+      "translation": "……좋아, 사이좋게 대화하는 척하면서\n자연스럽게 접근하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0109",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070103,0",
+        "voice": "GB220218,3"
+      },
+      "original": "了解しました。\n",
+      "translation": "알겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0110",
+      "channel": 1,
+      "context": {
+        "face": "0,1070103,0",
+        "voice": "GB220218,3",
+        "speaker": "1,0010201"
+      },
+      "original": "そうそう、ちとせの故郷って、どんなところ\nなんだい？\n",
+      "translation": "맞다 맞다, 치토세의 고향은 어떤 곳이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0111",
+      "channel": 1,
+      "context": {
+        "voice": "GB220219,3",
+        "speaker": "107,1070101",
+        "face": "0,1070305,0"
+      },
+      "original": "自然が豊かで、いいところですよ。\n空気も水も、とてもおいしいんです。\n",
+      "translation": "자연이 풍부해서, 좋은 곳이에요. 공기도\n물도, 아주 맛있답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0112",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,1070305,0",
+        "voice": "GB220219,3"
+      },
+      "original": "へぇー、そうなんだ。\n行ってみたいなぁ。\n",
+      "translation": "헤에-, 그렇구나. 가보고 싶네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0113",
+      "channel": 1,
+      "context": {
+        "face": "0,1070305,0",
+        "voice": "GB220220,3",
+        "speaker": "107,1070101"
+      },
+      "original": "機会がありましたら、ぜひおいでください。\n温泉もたくさんありますから、ゆったりとく\nつろげますよ。\n",
+      "translation": "기회가 된다면, 꼭 와주세요. 온천도 많이\n있으니까, 느긋하게 휴식할 수 있어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0114",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,1070305,0",
+        "voice": "GB220220,3"
+      },
+      "original": "うんうん、この戦いが終わったら、遊びに行\nこうかなぁ。\n",
+      "translation": "응응, 이 싸움이 끝나면, 놀러 갈까나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0115",
+      "channel": 1,
+      "context": {
+        "face": "0,1070305,0",
+        "voice": "GB220220,3",
+        "speaker": "1,0010301"
+      },
+      "original": "（……よし、今だ！）\n",
+      "translation": "（……좋아, 지금이다！）\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0116",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "face": "0,0,0",
+        "voice": "GB220220,3"
+      },
+      "original": "ランファ、話を聞いてくれ！\n",
+      "translation": "란파, 내 말을 들어줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0117",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030301,0",
+        "voice": "GB220221,3"
+      },
+      "original": "きゃっ！\n",
+      "translation": "꺄악！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0118",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220221,3",
+        "speaker": "1,0010403"
+      },
+      "original": "しまった、逃げられた！\n待ってくれ！\n",
+      "translation": "이런, 도망쳤다！ 기다려！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0119",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "face": "0,0,0",
+        "voice": "GB220221,3"
+      },
+      "original": "ランファ！\n",
+      "translation": "란파！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0120",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB220222,3",
+        "speaker": "3,0030101"
+      },
+      "original": "は、離してよ！\n",
+      "translation": "하, 놓아줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0121",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "voice": "GB220222,3",
+        "face": "0,0030202,0"
+      },
+      "original": "……はぁ……はぁ……。\nや、やっとつかまえたぞ。\n",
+      "translation": "……하아……하아……. 겨, 겨우 붙잡았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0122",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "voice": "GB220222,3",
+        "face": "0,0030202,0"
+      },
+      "original": "いいから、聞いてくれ。\n大事な話があるんだ。\n",
+      "translation": "됐으니까, 내 말 좀 들어줘. 중요한\n이야기가 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0123",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB220222,3"
+      },
+      "original": "……というわけだ。\nちとせは貧乏じゃないんだよ。\n",
+      "translation": "……라는 말씀이야. 치토세는 가난하지\n않아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0124",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030202,0",
+        "voice": "GB220223,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0125",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "speaker": "1,0010403",
+        "voice": "GB220223,3"
+      },
+      "original": "だからランファが、オレとちとせを無理やり\nくっつけようとする必要なんてないんだ。\n",
+      "translation": "그러니까 란파가, 나랑 치토세를 억지로\n이어주려고 할 필요 같은 건 없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0126",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030201,0",
+        "voice": "GB220224,3"
+      },
+      "original": "……そうなんだ。\nアタシが勝手に思いこんでただけなのね。\n",
+      "translation": "……그렇구나. 내가 멋대로 착각하고\n있었던 거네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0127",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0030201,0",
+        "voice": "GB220224,3"
+      },
+      "original": "そうさ。\nやっとわかってくれたみたいだね。\n",
+      "translation": "그래. 이제야 겨우 알아준 모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0128",
+      "channel": 1,
+      "context": {
+        "face": "0,0030201,0",
+        "speaker": "3,0030101",
+        "voice": "GB220225,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0129",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030201,0",
+        "voice": "GB220226,3"
+      },
+      "original": "……でも……。\n",
+      "translation": "……하지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0130",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030402,0",
+        "voice": "GB220227,3"
+      },
+      "original": "でも、やっぱり恋は終わったのよ！\n",
+      "translation": "하지만, 역시 사랑은 끝났다고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0131",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "face": "0,0030402,0",
+        "voice": "GB220227,3"
+      },
+      "original": "えええええ！？\n",
+      "translation": "에에에에에！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0132",
+      "channel": 1,
+      "context": {
+        "voice": "GB220228,3",
+        "speaker": "3,0030101",
+        "face": "0,0030204,0"
+      },
+      "original": "アタシ、これ以上タクトのそばにいられない！\n",
+      "translation": "나, 더 이상 택트의 곁에 있을 수 없어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0133",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0030204,0",
+        "voice": "GB220228,3"
+      },
+      "original": "な、なんでだよ！\nちとせが貧乏じゃないってことは、もうわかっ\nたはずだろう？\n",
+      "translation": "왜, 왜냐고！ 치토세가 가난하지 않다는 건\n이미 알았을 거 아냐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0134",
+      "channel": 1,
+      "context": {
+        "face": "0,0030201,0",
+        "speaker": "3,0030101",
+        "voice": "GB220229,3"
+      },
+      "original": "それはわかってる……。\n",
+      "translation": "그건 알고 있어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0135",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030402,0",
+        "voice": "GB220230,3"
+      },
+      "original": "だけど違うの、そうじゃないの！\n",
+      "translation": "하지만 그게 아냐, 그런 게 아니라고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0136",
+      "channel": 1,
+      "context": {
+        "face": "0,0030201,0",
+        "voice": "GB220231,3",
+        "speaker": "3,0030101"
+      },
+      "original": "だって、アタシといると、タクトは幸せにな\nれないんだもの！\n",
+      "translation": "왜냐하면, 나랑 있으면 택트는 행복해질 수\n없는걸！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0137",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0030201,0",
+        "voice": "GB220231,3"
+      },
+      "original": "オレが、幸せになれない？\n",
+      "translation": "내가, 행복해질 수 없다고？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0138",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB220232,3",
+        "speaker": "3,0030101"
+      },
+      "original": "覚えてる？\n公園でタクトが居眠りしてたときのこと。\n",
+      "translation": "기억나？ 공원에서 택트가 졸고 있었을 때\n말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0139",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0030202,0",
+        "voice": "GB220232,3"
+      },
+      "original": "居眠り？\n……ああ、ちとせと一緒にいたときのことか。\n",
+      "translation": "졸고 있었다고？…… 아아, 치토세와 함께\n있었을 때를 말하는 건가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0140",
+      "channel": 1,
+      "context": {
+        "face": "0,0030201,0",
+        "voice": "GB220233,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ちとせの隣で、タクトは幸せそうに眠ってた。\nあんなに無防備で安らかなタクトの寝顔……\nアタシ、見たことなかったわ。\n",
+      "translation": "치토세의 옆에서, 택트는 행복한 듯이\n잠들어 있었어. 그렇게 무방비하고 평온한\n택트의 자는 얼굴…… 난 본 적 없었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0141",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB220234,3",
+        "speaker": "3,0030101"
+      },
+      "original": "……ねぇ、タクト。\nアタシの隣だと、タクトはゆっくり眠れない\nんじゃない？\n",
+      "translation": "……있지, 택트. 내 옆에 있으면, 택트는\n편히 잠들 수 없는 거 아냐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0142",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0030202,0",
+        "voice": "GB220234,3"
+      },
+      "original": "えっ？\nそ、そんな……。\n",
+      "translation": "엣？ 그, 그럴 리가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0143",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB220235,3",
+        "speaker": "3,0030101"
+      },
+      "original": "アタシ、タクトに無理させてるんじゃない？\n",
+      "translation": "나, 택트에게 무리를 시키고 있는 거\n아닐까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0144",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030402,0",
+        "voice": "GB220236,3"
+      },
+      "original": "ううん、きっと無理させてるんだわ！\nそうにちがいない！\n",
+      "translation": "아니, 분명 무리를 시키고 있어！\n틀림없어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0145",
+      "channel": 1,
+      "context": {
+        "face": "0,0030402,0",
+        "voice": "GB220236,3",
+        "speaker": "1,0010103"
+      },
+      "original": "お、落ちついて、ランファ！\n",
+      "translation": "진, 진정해, 란파！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0146",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030402,0",
+        "voice": "GB220237,3"
+      },
+      "original": "アタシは好きな人と激辛料理を食べたいし、\n絶叫マシンにも乗りたいし、ペアルックで街\nを歩きたいの。\n",
+      "translation": "나는 좋아하는 사람이랑 아주 매운 요리도\n먹고 싶고, 절규 머신도 타고 싶고,\n커플룩으로 거리를 걷고 싶단 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0147",
+      "channel": 1,
+      "context": {
+        "face": "0,0030201,0",
+        "voice": "GB220238,3",
+        "speaker": "3,0030101"
+      },
+      "original": "だけど……この先も付き合い続けたら、アタ\nシきっと、タクトにいっぱい無理させちゃう\nと思う。\n",
+      "translation": "하지만…… 앞으로도 계속 함께한다면, 나\n분명 택트에게 잔뜩 무리를 시키게 될 것\n같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0148",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030201,0",
+        "voice": "GB220239,3"
+      },
+      "original": "もし、それでタクトが疲れちゃったり、ツラ\nいなって感じちゃったら……。\nアタシ、そんなのイヤ！\n",
+      "translation": "만약, 그래서 택트가 지쳐버리거나,\n힘들다고 느껴버린다면…… 아타시, 그런\n건 싫어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0149",
+      "channel": 1,
+      "context": {
+        "voice": "GB220239,3",
+        "speaker": "1,0010302",
+        "face": "0,0030201,0"
+      },
+      "original": "違う！\nオレは無理なんてしていない！\n",
+      "translation": "아니야！ 나는 전혀 무리하고 있지 않아！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0150",
+      "channel": 1,
+      "context": {
+        "face": "0,0030204,0",
+        "voice": "GB220240,3",
+        "speaker": "3,0030101"
+      },
+      "original": "タクトに負担をかけてるんだとしたら、アタ\nシは自分が許せないの。\nだから……。\n",
+      "translation": "택트에게 부담을 주고 있는 거라면, 나는\n나 자신을 용서할 수 없어. 그러니까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0151",
+      "channel": 1,
+      "context": {
+        "face": "0,0030402,0",
+        "voice": "GB220241,3",
+        "speaker": "3,0030101"
+      },
+      "original": "……さよならっ！\n",
+      "translation": "……잘 가！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0152",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "voice": "GB220241,3",
+        "face": "0,0,0"
+      },
+      "original": "あっ、ランファ！\n待ってくれ！\n",
+      "translation": "앗, 란파！ 기다려줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0153",
+      "channel": 1,
+      "context": {
+        "voice": "GB220241,3",
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "……ランファ。\n君は……君ってやつは……。\n",
+      "translation": "……란파. 너는…… 너라는 애는…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0154",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB220241,3"
+      },
+      "original": "……オレは、いったいどうすればいいんだ。\n",
+      "translation": "……나는, 도대체 어떻게 해야 하는 거냐.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0155",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220241,3",
+        "speaker": "1,0010403"
+      },
+      "original": "オレが、ランファのために無理してるって？\nそんなことはない。\n",
+      "translation": "내가, 란파를 위해서 무리하고 있다고？\n그런 건 없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0156",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220241,3",
+        "speaker": "1,0010105"
+      },
+      "original": "そりゃあ、ランファのテンションの高さに、\n置いて行かれそうになることもあるけど……。\n",
+      "translation": "그건, 란파의 높은 텐션에, 뒤처질 것 같을\n때도 있지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0157",
+      "channel": 1,
+      "context": {
+        "voice": "GB220241,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "でも、オレはそんなランファが好きなんだ。\n",
+      "translation": "하지만, 나는 그런 란파가 좋아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0158",
+      "channel": 1,
+      "context": {
+        "voice": "GB220241,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "そうさ。\n元気いっぱいなランファに、必死でついてい\nくことさえも楽しいんだ。\n",
+      "translation": "그래. 활기 넘치는 란파를, 필사적으로\n따라가는 것조차 즐거워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0159",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "face": "0,0,0",
+        "voice": "GB220241,3"
+      },
+      "original": "オレはランファが好きだ！\nランファの笑顔が見たい！\n",
+      "translation": "나는 란파가 좋아！ 란파의 웃는 얼굴을\n보고 싶어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0160",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "face": "0,0,0",
+        "voice": "GB220241,3"
+      },
+      "original": "そばにいてほしい！\nそのためなら、なんだってできる。\n",
+      "translation": "곁에 있어줬으면 좋겠어！ 그러기\n위해서라면, 뭐든지 할 수 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0161",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220241,3",
+        "speaker": "1,0010403"
+      },
+      "original": "ペアルックで街を歩いたって恥ずかしくない。\n何をためらってたんだ、オレは。\n",
+      "translation": "커플룩으로 거리를 걸어도 부끄럽지 않아.\n난 대체 뭘 망설였던 거지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0162",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB220241,3",
+        "speaker": "1,0010401"
+      },
+      "original": "どうやったら、この気持ちをわかってもらえ\nるんだろう？\nはっきりとランファに伝える方法は……。\n",
+      "translation": "어떻게 해야, 이 마음을 알아줄까？\n확실하게 란파에게 전할 방법은…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0163",
+      "channel": 1,
+      "context": {
+        "voice": "GB220241,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "……待てよ……ペアルック？\n",
+      "translation": "……잠깐…… 커플룩？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0164",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0,0,0"
+      },
+      "original": "これだ！\nランファにオレの気持ちを伝えるには、これ\nしか……。\n",
+      "translation": "이거다！ 란파에게 내 마음을 전하려면,\n이것밖에…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0165",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0"
+      },
+      "original": "……いや、それだけじゃ足りない。\nオレの想いは、ペアルックを着たぐらいじゃ\n伝わらない。\n",
+      "translation": "……아니, 그것만으로는 부족해. 내 마음은\n커플룩을 입는 정도로는 전해지지 않아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0166",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0"
+      },
+      "original": "全身全霊で、ランファに想いを伝えなくちゃ\nいけないんだ！\nだとしたら……。\n",
+      "translation": "전신전령으로, 란파에게 마음을 전해야\n해！ 그렇다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0167",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "……よし、これでいこう！\nそうと決まれば、さっそく準備にとりかから\nないと！\n",
+      "translation": "……좋아, 이걸로 가자！ 결정했으면\n곧바로 준비에 들어가야지！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0168",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "エルシオール、ただいま通常空間に復帰しま\nした。\n",
+      "translation": "에르시올, 방금 통상 공간으로\n복귀했습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0169",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "おっと、もうドライヴ・アウトしたのか。\n作業してる間に、すっかり時間を忘れてたな。\n",
+      "translation": "이런, 벌써 드라이브・아웃한 건가.\n작업하는 사이에 완전히 시간을 잊고\n있었네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0170",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "そろそろブリッジに戻らないといけないけど、\nもう少しで完成なんだ。\nここをこうして……。\n",
+      "translation": "슬슬 브릿지로 돌아가야겠지만, 조금만 더\n하면 완성이야. 여기를 이렇게 해서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0171",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "……よし、できた！\nこれで完成だ！\n",
+      "translation": "……좋아, 됐다！ 이걸로 완성이다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0172",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "ふぅ～、急ごしらえの割には、我ながらいい\n出来だな。\nこれならランファにも、きっと……。\n",
+      "translation": "후우～, 급하게 만든 것치고는 나쁘지 않은\n결과물이야. 이 정도면 란파에게도,\n분명…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0173",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB220300,3"
+      },
+      "original": "な、なんだ！？\n",
+      "translation": "뭐, 뭐야！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0174",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170103",
+        "face": "0,0,0",
+        "voice": "GB220301,3"
+      },
+      "original": "前方に敵艦隊を発見！\n総員、第１戦闘配備についてください！\n",
+      "translation": "전방에 적 함대 발견！ 전원, 제１전투배치\n실시！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0175",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0,0,0",
+        "voice": "GB220302,3"
+      },
+      "original": "マイヤーズ司令、至急ブリッジにお越しくだ\nさい！\n",
+      "translation": "마이어스 사령관님, 즉시 브리지로 와\n주십시오！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0176",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB220302,3"
+      },
+      "original": "なんてこった。\nこんな大事なときに、敵だなんて！\n",
+      "translation": "이런 세상에. 이런 중요한 때에 적이라니！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0177",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070301",
+        "face": "0,0,0",
+        "voice": "GB220303,3"
+      },
+      "original": "タクト、いったい何やってるんだ？\n早くブリッジに来い！\n",
+      "translation": "택트, 도대체 뭘 하고 있는 거야？ 빨리\n브리지로 와！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0178",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0,0,0",
+        "voice": "GB220303,3"
+      },
+      "original": "悪いけど、その前にちょっと寄り道しないと\nいけないんだ。\n少しの間、指揮を頼む！\n",
+      "translation": "미안하지만, 그전에 잠깐 들러야 할 곳이\n있어. 잠시 동안 지휘를 부탁한다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0179",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "7,0070301",
+        "voice": "GB220304,3"
+      },
+      "original": "なんだと！？\nお前、今がどういう状況か、わかってるのか！\n",
+      "translation": "뭐라고！？ 너, 지금 상황이 어떤지 알고\n있는 거냐！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0180",
+      "channel": 1,
+      "context": {
+        "voice": "GB220304,3",
+        "speaker": "1,0010404"
+      },
+      "original": "わかってるさ。\nオレとランファ、ふたりの未来の危機なんだ！\n",
+      "translation": "알고 있어. 나와 란파, 둘의 미래가 걸린\n위기라고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0181",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070301",
+        "voice": "GB220305,3"
+      },
+      "original": "……はぁ！？\n",
+      "translation": "……하아！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0182",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "voice": "GB220305,3"
+      },
+      "original": "とにかく急いでるんだ。\nそれじゃ、また後で！\n",
+      "translation": "어쨌든 급해. 그럼, 나중에 봐！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0183",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "voice": "GB220305,3"
+      },
+      "original": "早くランファに、オレの本当の気持ちを伝え\nるんだ！\n",
+      "translation": "빨리 란파에게, 내 진심을 전해야 해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0184",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "voice": "GB220305,3",
+        "face": "0,0,0"
+      },
+      "original": "はぁ、はぁ……。\nランファはどこだ！？\n",
+      "translation": "하아, 하아……. 란파는 어디 있지！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0185",
+      "channel": 1,
+      "context": {
+        "voice": "GB220306,3",
+        "speaker": "4,0040101",
+        "face": "0040702,0,0"
+      },
+      "original": "あら、タクトさん。\nなんで格納庫へ……。\n",
+      "translation": "어머, 택트 씨. 왜 격납고에…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0186",
+      "channel": 1,
+      "context": {
+        "voice": "GB220307,3",
+        "speaker": "4,0040101",
+        "face": "0040103,0,0"
+      },
+      "original": "……って、なんなんですの、そのお姿は！？\n",
+      "translation": "……아니, 그 모습은 대체 뭔가요！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0187",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "voice": "GB220308,3",
+        "face": "0040103,0,0020301"
+      },
+      "original": "タ、タクトさん！？\nいったいどうしちゃったんですか！？\n",
+      "translation": "택, 택트 씨！？ 도대체 왜 그러시는\n거예요！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0188",
+      "channel": 1,
+      "context": {
+        "voice": "GB220308,3",
+        "speaker": "1,0",
+        "face": "0040103,0,0020301"
+      },
+      "original": "ランファは、ランファはどこにいるんだ！？\n",
+      "translation": "란파는, 란파는 어디에 있는 거야！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0189",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB220309,3",
+        "face": "1070306,0,-1"
+      },
+      "original": "ラ、ランファ先輩でしたら、２番機のところ\nに……。\n",
+      "translation": "라, 란파 선배라면, ２호기 쪽으로…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0190",
+      "channel": 1,
+      "context": {
+        "voice": "GB220309,3",
+        "speaker": "1,0",
+        "face": "1070306,0,-1"
+      },
+      "original": "ありがとう！\nそれじゃ、急いでるんで！\n",
+      "translation": "고마워！ 그럼, 급하니까 이만！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0191",
+      "channel": 1,
+      "context": {
+        "voice": "GB220309,3",
+        "speaker": "1,0",
+        "face": "1070306,0,-1"
+      },
+      "original": "ランファーーーっ！！\n",
+      "translation": "란파아아앗！！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0192",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030802,0",
+        "voice": "GB220310,3"
+      },
+      "original": "……えっ、タクト？\n",
+      "translation": "……엣, 택트？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0193",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "face": "0,0030802,0",
+        "voice": "GB220310,3"
+      },
+      "original": "ランファ、見てくれ！\n",
+      "translation": "란파, 봐줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0194",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010805",
+        "face": "0,0030802,0",
+        "voice": "GB220310,3"
+      },
+      "original": "これが、オレの気持ちだーーーーーーっ！\n",
+      "translation": "이게, 내 마음이다아아아앗！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0195",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030802",
+        "face": "0,0030802,0",
+        "voice": "GB220311,3"
+      },
+      "original": "……！\nタクト……！？\n",
+      "translation": "……！ 택트……！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0196",
+      "channel": 1,
+      "context": {
+        "face": "0,0030802,0",
+        "voice": "GB220311,3",
+        "speaker": "1,0010805"
+      },
+      "original": "ランファ、好きだーーーーーっ！\nＬ・Ｏ・Ｖ・Ｅ、ラ・ン・ファ！\n",
+      "translation": "란파, 좋아해애애애앳！\nＬ・Ｏ・Ｖ・Ｅ, 란・파！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0197",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010805",
+        "face": "0,0030802,0",
+        "voice": "GB220311,3"
+      },
+      "original": "君に届けたいんだ！\nこのオレの、あふれんばかりの想いを！\nはちきれんばかりの愛を！\n",
+      "translation": "너에게 전하고 싶어！ 나의, 넘쳐흐를 듯한\n마음을！ 터져나갈 듯한 사랑을！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0198",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010805",
+        "face": "0,0030802,0",
+        "voice": "GB220311,3"
+      },
+      "original": "オレの胸の中は、君への愛で燃え上がってい\nる！\nそう、ラヴ・ファイヤーだ！\n",
+      "translation": "내 가슴 속은 너를 향한 사랑으로 타오르고\n있어！ 그래, 러브・파이어다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0199",
+      "channel": 1,
+      "context": {
+        "voice": "GB220311,3",
+        "speaker": "1,0010805",
+        "face": "0,0030802,0"
+      },
+      "original": "ランファ、感じてくれ！\nオレのラヴ・ファイヤーを！\n",
+      "translation": "란파, 느껴줘！ 나의 러브・파이어를！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0200",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010805",
+        "face": "0,0030802,0",
+        "voice": "GB220311,3"
+      },
+      "original": "そして、ふたりで燃え上がろう！\n身を焦がすほどの愛に、ふたり包まれよう！\n",
+      "translation": "그리고, 둘이서 타오르자！ 몸을 태울\n정도의 사랑에, 둘이서 휩싸이자！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0201",
+      "channel": 1,
+      "context": {
+        "face": "0,0030802,0",
+        "voice": "GB220312,3",
+        "speaker": "2,0020901"
+      },
+      "original": "タクトさん……なんかよくわかんないけど、\nすごい……。\n",
+      "translation": "택트 씨…… 왠지 잘 모르겠지만,\n대단해…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0202",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040704",
+        "face": "0,0030802,0",
+        "voice": "GB220313,3"
+      },
+      "original": "あらあら。\nようやくタクトさんも、覚悟をお決めになり\nましたのね。\n",
+      "translation": "어머나. 겨우 택트 씨도, 각오를\n정하셨군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0203",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070401",
+        "face": "0,0030802,0",
+        "voice": "GB220314,3"
+      },
+      "original": "い、いったい、何が起こっているのですか！？\n",
+      "translation": "이, 도대체, 무슨 일이 일어나고 있는\n겁니까！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0204",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "face": "0,0030802,0",
+        "voice": "GB220314,3"
+      },
+      "original": "ランファ、聞いてくれ！\n",
+      "translation": "란파, 들어줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0205",
+      "channel": 1,
+      "context": {
+        "face": "0,0030802,0",
+        "voice": "GB220315,3",
+        "speaker": "3,0030103"
+      },
+      "original": "な、なに？\n",
+      "translation": "뭐, 뭐야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0206",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220315,3"
+      },
+      "original": "ランファと付き合いはじめてから今日まで、\nオレは何度も、君を見失いそうになった。\n",
+      "translation": "란파와 사귀기 시작한 날부터 오늘까지,\n나는 몇 번이나, 너를 놓칠 뻔했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0207",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220315,3"
+      },
+      "original": "だって、君は歩いていくのがとても速いから。\n",
+      "translation": "그치만, 네가 걸어가는 게 너무 빠르니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0208",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030202",
+        "voice": "GB220316,3"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0209",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220316,3"
+      },
+      "original": "このペアルックのときも、そうだ。\nランファがひとりで、どんどん先に行っちゃ\nうから、不安で立ち止まってしまったんだ。\n",
+      "translation": "이 커플룩 때도 그랬어. 란파가 혼자서,\n계속 앞서가 버리니까, 불안해서 멈춰 서고\n말았어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0210",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220316,3"
+      },
+      "original": "でも、そうしたらランファの背中が、どんど\nん小さくなっちゃって。\n",
+      "translation": "하지만, 그러면 란파의 뒷모습이, 점점\n작아져 버려서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0211",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220316,3"
+      },
+      "original": "オレのせいだってわかっていても、正直言っ\nて、すごくつらかった。\n",
+      "translation": "내 탓이라는 걸 알고 있어도, 솔직히\n말해서, 정말 괴로웠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0212",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030202",
+        "voice": "GB220317,3"
+      },
+      "original": "それはタクトのせいじゃないわ！\nアタシが勝手に突っ走っちゃったから……。\n",
+      "translation": "그건 택트의 잘못이 아니야！ 내가 멋대로\n앞서 나가버려서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0213",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220317,3"
+      },
+      "original": "オレは、ランファを失いたくない。\nいつでもランファの隣にいたい。\n",
+      "translation": "나는, 란파를 잃고 싶지 않아. 언제라도\n란파의 옆에 있고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0214",
+      "channel": 1,
+      "context": {
+        "voice": "GB220318,3",
+        "speaker": "3,0030802"
+      },
+      "original": "えっ……？\n",
+      "translation": "엣……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0215",
+      "channel": 1,
+      "context": {
+        "voice": "GB220318,3",
+        "speaker": "1,0010805"
+      },
+      "original": "だから、もう立ち止まらない。\nどこまでもついていくって決めたんだ！\n",
+      "translation": "그러니까, 이제 멈춰 서지 않아.\n어디까지든 따라가겠다고 결심했어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0216",
+      "channel": 1,
+      "context": {
+        "voice": "GB220318,3",
+        "speaker": "1,0010804"
+      },
+      "original": "ランファがマッハのスピードで走っていくな\nら、オレは光の速さで追いかける！\n",
+      "translation": "란파가 마하의 스피드로 달려간다면, 나는\n빛의 속도로 뒤쫓을게！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0217",
+      "channel": 1,
+      "context": {
+        "voice": "GB220318,3",
+        "speaker": "1,0010804"
+      },
+      "original": "もう二度と、ランファをひとりにはしない。\n君の背中を見失いはしない。\n",
+      "translation": "이제 두 번 다시, 란파를 혼자 두지 않아.\n너의 뒷모습을 놓치지 않을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0218",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010805",
+        "voice": "GB220318,3"
+      },
+      "original": "絶対に追いついて、いつでもランファを抱き\nしめる！\n",
+      "translation": "반드시 따라잡아서, 언제든 란파를 안아줄\n거야！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0219",
+      "channel": 1,
+      "context": {
+        "voice": "GB220319,3",
+        "speaker": "3,0030103"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0220",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "voice": "GB220319,3"
+      },
+      "original": "オレは、ランファが大好きだ～～～っ！！！\n",
+      "translation": "나는, 란파가 너무 좋아아아앗！！！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0221",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030103",
+        "voice": "GB220320,3"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0222",
+      "channel": 1,
+      "context": {
+        "voice": "GB220321,3",
+        "speaker": "3,0030205"
+      },
+      "original": "アタシのダーリン……！\n",
+      "translation": "나의 달링……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0223",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB220322,3",
+        "face": "0,0030105,0"
+      },
+      "original": "ダーリン！\n愛してるっ！！！\n",
+      "translation": "달링！ 사랑해！！！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0224",
+      "channel": 1,
+      "context": {
+        "voice": "GB220322,3",
+        "speaker": "1,0010802",
+        "face": "0,0030105,0"
+      },
+      "original": "オレも愛してるよ。\nマイ・スウィート・ハニー！！！\n",
+      "translation": "나도 사랑해. 마이 스위트 허니！！！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0225",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB220323,3",
+        "face": "0,0030205,0"
+      },
+      "original": "ああ、ダーリン！\nやっぱりアタシには、ダーリンしかいないわ！\n",
+      "translation": "아아, 달링！ 역시 나에겐 달링밖에 없어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0226",
+      "channel": 1,
+      "context": {
+        "voice": "GB220323,3",
+        "speaker": "1,0010802",
+        "face": "0,0030205,0"
+      },
+      "original": "オレもさ！\nオレにはランファしかいないんだ！\n",
+      "translation": "나도 말이야！ 나에겐 란파밖에 없어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0227",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB220324,3",
+        "face": "0040103,0,0"
+      },
+      "original": "もう完全に、おふたりの世界に旅立たれてし\nまいましたわね。\n",
+      "translation": "이제 완전히, 두 분만의 세계로 떠나가\n버리셨군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0228",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "voice": "GB220325,3",
+        "face": "0040103,0,0020103"
+      },
+      "original": "ぐすっ……。\nランファ、良かったね！\n幸せになってね！\n",
+      "translation": "흑…… 란파, 잘됐네！ 행복해져야 해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0229",
+      "channel": 1,
+      "context": {
+        "voice": "GB220326,3",
+        "speaker": "107,1070101",
+        "face": "1070305,0,0020103"
+      },
+      "original": "これが、おふたりの愛なのですね。\n日記に書いておかなくては。\n",
+      "translation": "이것이 두 분의 사랑이군요. 일기에\n써두어야겠어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0230",
+      "channel": 1,
+      "context": {
+        "voice": "GB220327,3",
+        "speaker": "17,0170101",
+        "face": "0,0,0"
+      },
+      "original": "マイヤーズ司令、もう敵は目の前です！\n至急ブリッジに戻ってください！\n",
+      "translation": "마이어스 사령관님, 이제 적은\n눈앞입니다！ 즉시 브릿지로 돌아가\n주십시오！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0231",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010801",
+        "face": "0,0,0",
+        "voice": "GB220327,3"
+      },
+      "original": "ランファ……オレは行くよ。\nブリッジで君のことを見守っているからね。\n",
+      "translation": "란파…… 난 갈게. 브릿지에서 너를\n지켜보고 있을 테니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0232",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB220328,3",
+        "speaker": "3,0030101"
+      },
+      "original": "うん！\nアタシをちゃんと指揮してね。\nそしたら、絶対に負けないわ。\n",
+      "translation": "응！ 나를 제대로 지휘해 줘. 그러면,\n절대로 지지 않을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0233",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030205,0",
+        "voice": "GB220329,3"
+      },
+      "original": "だってアタシたちは、宇宙最高のカップルな\nんだもん！\n",
+      "translation": "그치만 우리들은, 우주 최고의 커플인걸！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0234",
+      "channel": 1,
+      "context": {
+        "face": "0,0030205,0",
+        "voice": "GB220329,3",
+        "speaker": "1,0010802"
+      },
+      "original": "ああ、そうとも！\nオレたちは宇宙最高のカップルさ！\n",
+      "translation": "아아, 그렇지！ 우리들은 우주 최고의\n커플이야！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0235",
+      "channel": 1,
+      "context": {
+        "voice": "GB220329,3",
+        "speaker": "1,0010801",
+        "face": "0,0030205,0"
+      },
+      "original": "それじゃ気をつけてね、ランファ。\n",
+      "translation": "그럼 조심해, 란파.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0236",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB220330,3"
+      },
+      "original": "うん、ダーリン！\n",
+      "translation": "응, 달링！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0237",
+      "channel": 1,
+      "context": {
+        "voice": "GB220330,3",
+        "speaker": "1,0010804",
+        "face": "0,0030105,0"
+      },
+      "original": "お待たせ！\nレスター、敵の状況は？\n",
+      "translation": "기다렸지！ 레스터, 적의 상황은？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0238",
+      "channel": 1,
+      "context": {
+        "face": "0,0070301,0",
+        "voice": "GB220400,3",
+        "speaker": "7,0070101"
+      },
+      "original": "遅いぞ！\nなにしてたんだ……。\n",
+      "translation": "늦었어！ 뭘 하고 있었던 거냐…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0239",
+      "channel": 1,
+      "context": {
+        "face": "0,0070301,0",
+        "speaker": "7,0070101",
+        "voice": "GB220401,3"
+      },
+      "original": "……って、なんだお前、その格好は！？\n",
+      "translation": "……라고, 뭐야 너, 그 차림은！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0240",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010801",
+        "voice": "GB220401,3",
+        "face": "0,0070301,0"
+      },
+      "original": "決まってるじゃないか。\nランファへの愛の証さ。\n",
+      "translation": "당연하잖아. 란파를 향한 사랑의 증거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0241",
+      "channel": 1,
+      "context": {
+        "voice": "GB220401,3",
+        "speaker": "1,0010804",
+        "face": "0,0070301,0"
+      },
+      "original": "それより敵の状況はどうなっているんだ？\nレスター、報告を。\n",
+      "translation": "그보다 적의 상황은 어떻게 되어가고\n있지？ 레스터, 보고를.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0242",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070301,0",
+        "voice": "GB220402,3"
+      },
+      "original": "ちょ、ちょっと待て！\nお前まさか、その格好で指揮をとるつもりじゃ\nないだろうな！？\n",
+      "translation": "잠, 잠깐 기다려！ 너 설마, 그 차림으로\n지휘를 할 셈은 아니겠지！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0243",
+      "channel": 1,
+      "context": {
+        "face": "0,0070301,0",
+        "voice": "GB220402,3",
+        "speaker": "1,0010803"
+      },
+      "original": "何か問題でも？\n",
+      "translation": "무슨 문제라도？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0244",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070301,0",
+        "voice": "GB220403,3"
+      },
+      "original": "大ありだっ！\nそんな格好で恥ずかしいと思わないのか！？\n",
+      "translation": "아주 많다！ 그런 차림으로 부끄럽다고\n생각하지 않는 거냐！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0245",
+      "channel": 1,
+      "context": {
+        "face": "0,0070301,0",
+        "voice": "GB220403,3",
+        "speaker": "1,0010801"
+      },
+      "original": "何を言っているんだ、レスター。\n愛を表現することに、恥ずかしいことなど何\nもないよ。\n",
+      "translation": "무슨 소리를 하는 거야, 레스터. 사랑을\n표현하는 데에, 부끄러운 것 따위는 없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0246",
+      "channel": 1,
+      "context": {
+        "speaker": "16,0160101",
+        "face": "0,0,0160103",
+        "voice": "GB220404,3"
+      },
+      "original": "マイヤーズ司令が、壊れた……？\n",
+      "translation": "마이어스 사령관이, 망가졌다……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0247",
+      "channel": 1,
+      "context": {
+        "face": "0170101,0,0160103",
+        "voice": "GB220405,3",
+        "speaker": "17,0170101"
+      },
+      "original": "っていうか、もう恐れるものは何もないって\n感じ……？\n",
+      "translation": "라기보다, 이제 두려울 게 없다는\n느낌……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0248",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070501,0",
+        "voice": "GB220406,3"
+      },
+      "original": "……タクト、お前の愛はよーくわかった。\nわかったから、着がえてきてくれ。\n",
+      "translation": "……택트, 네 사랑은 잘 알았어.\n알았으니까 옷 좀 갈아입고 와줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0249",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010804",
+        "face": "0,0070501,0",
+        "voice": "GB220406,3"
+      },
+      "original": "だがレスター、これはオレの愛の……。\n",
+      "translation": "하지만 레스터, 이것은 나의 사랑의…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0250",
+      "channel": 1,
+      "context": {
+        "face": "0,0070301,0",
+        "voice": "GB220407,3",
+        "speaker": "7,0070101"
+      },
+      "original": "頼む！　頼むから着がえてきてくれ！\n頭をさげろというならさげるから！\nその格好だけは勘弁してくれ！\n",
+      "translation": "부탁이야！ 부탁이니까 옷 좀 갈아입어\n줘！ 머리를 숙이라고 한다면 숙일\n테니까！ 그 차림만큼은 제발 봐줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0251",
+      "channel": 1,
+      "context": {
+        "voice": "GB220407,3",
+        "speaker": "1,0010801",
+        "face": "0,0070301,0"
+      },
+      "original": "……しょうがないなぁ。\nそれじゃ、いつもの服に着替えてくるよ。\n",
+      "translation": "……어쩔 수 없네. 그럼, 평소에 입는\n옷으로 갈아입고 올게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0252",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070301,0",
+        "voice": "GB220407,3"
+      },
+      "original": "お待たせ。\n",
+      "translation": "기다렸지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0253",
+      "channel": 1,
+      "context": {
+        "face": "0,0070501,0",
+        "voice": "GB220408,3",
+        "speaker": "7,0070101"
+      },
+      "original": "ふう……。\nこれでやっと普通に話せる。\n",
+      "translation": "후우……. 이제야 겨우 평범하게 말할 수\n있겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0254",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070501,0",
+        "voice": "GB220408,3"
+      },
+      "original": "それで、敵の状況は？\n",
+      "translation": "그래서, 적의 상황은？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0255",
+      "channel": 1,
+      "context": {
+        "face": "0,0070501,0",
+        "voice": "GB220500,3",
+        "speaker": "2,0020902"
+      },
+      "original": "任せてください、タクトさん。\n",
+      "translation": "맡겨 주세요, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0256",
+      "channel": 1,
+      "context": {
+        "face": "0,0070501,0",
+        "voice": "GB220501,3",
+        "speaker": "4,0040101"
+      },
+      "original": "いつでも出撃できますわ。\n",
+      "translation": "언제든 출격할 수 있어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0257",
+      "channel": 1,
+      "context": {
+        "face": "0,0070501,0",
+        "voice": "GB220502,3",
+        "speaker": "3,0030205"
+      },
+      "original": "ダーリン、すぐに戻ってくるから待っててね。\nそしたら……ごほうびに、アタシを力いっぱ\nい抱きしめて★\n",
+      "translation": "달링, 금방 돌아올 테니까 기다려 줘.\n그러면…… 보상으로, 나를 힘껏 안아줘★\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0258",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0070501,0",
+        "voice": "GB220502,3"
+      },
+      "original": "ああ、もちろんオーケーさ。\nもう君を離しはしないよ。\n",
+      "translation": "아아, 물론 오케이야. 이제 너를 놓아주지\n않을게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0259",
+      "channel": 1,
+      "context": {
+        "face": "0,0070501,0",
+        "voice": "GB220503,3",
+        "speaker": "3,0030105"
+      },
+      "original": "うれしいわ、ダーリン★\n",
+      "translation": "기뻐, 달링★\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0260",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070301,0",
+        "voice": "GB220504,3"
+      },
+      "original": "お前ら、時と場合をわきまえろっ！\n",
+      "translation": "너희들, 때와 장소를 가려라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0261",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070301,0",
+        "voice": "GB220504,3"
+      },
+      "original": "そんなに怒るなよ、レスター。\nそのうち脳の神経が切れちゃうぞ。\n",
+      "translation": "그렇게 화내지 마, 레스터. 그러다 뇌\n신경이 끊어지겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0262",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070301,0",
+        "voice": "GB220505,3"
+      },
+      "original": "誰が切れそうにさせてるんだ、誰が！\n",
+      "translation": "누가 그렇게 만들고 있는 거야, 누구\n말이냐！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0263",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0170101,0,0",
+        "voice": "GB220506,3"
+      },
+      "original": "いいなぁ、ランファさん。\nあたしもあんな風に言われてみたいなぁ……。\n",
+      "translation": "좋겠다, 란파 씨. 나도 저런 식으로\n말해보고 싶어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0264",
+      "channel": 1,
+      "context": {
+        "voice": "GB220507,3",
+        "speaker": "16,0160101",
+        "face": "0170101,0,0160102"
+      },
+      "original": "大丈夫よ。\nそのうちきっと、チャンスはあるわよ。\n",
+      "translation": "괜찮아. 머지않아 분명 기회는 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0265",
+      "channel": 1,
+      "context": {
+        "voice": "GB220508,3",
+        "speaker": "7,0070101",
+        "face": "0,0070301,0"
+      },
+      "original": "そこ、なにを話してる！\n私語はつつしめ！\n",
+      "translation": "거기, 무슨 이야기를 하는 거야！ 사담은\n삼가라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0266",
+      "channel": 1,
+      "context": {
+        "voice": "GB220508,3",
+        "speaker": "1,0010401",
+        "face": "0,0070301,0"
+      },
+      "original": "レスター、落ち着けって。\nオレたちがうらやましいからって、八つ当た\nりは見苦しいぞ。\n",
+      "translation": "레스터, 진정해. 우리가 부러워서\n화풀이하는 건 보기 흉하다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0267",
+      "channel": 1,
+      "context": {
+        "voice": "GB220509,3",
+        "speaker": "7,0070101",
+        "face": "0,0070301,0"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0268",
+      "channel": 1,
+      "context": {
+        "voice": "GB220510,3",
+        "speaker": "7,0070101",
+        "face": "0,0070501,0"
+      },
+      "original": "わかったから、早く始めてくれ。\n",
+      "translation": "알았으니까, 빨리 시작해 줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0269",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "voice": "GB220510,3",
+        "face": "0,0070501,0"
+      },
+      "original": "よし、それじゃ戦闘開始だ！\n",
+      "translation": "좋아, 그럼 전투 개시다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0270",
+      "channel": 1,
+      "context": {
+        "face": "0040301,0,0",
+        "voice": "GB220700,3",
+        "speaker": "4,0040101"
+      },
+      "original": "ただいま戻りましたわ。\n私の実力、ご覧いただけまして？\n",
+      "translation": "방금 돌아왔습니다. 제 실력,\n확인하셨나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0271",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB220700,3",
+        "face": "0040301,0,0"
+      },
+      "original": "うん、すごかったよ。\n今日は大活躍だったね。\n",
+      "translation": "응, 대단했어. 오늘은 큰 활약을 했네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0272",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0040101,0,0",
+        "voice": "GB220701,3"
+      },
+      "original": "今回は、少し物足りない戦果でしたわ。\nもっとうまく戦えると思ったのですが。\n",
+      "translation": "이번에는, 조금 아쉬운 전과였습니다. 좀\n더 잘 싸울 수 있을 거라 생각했습니다만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0273",
+      "channel": 1,
+      "context": {
+        "voice": "GB220701,3",
+        "speaker": "1,0010101",
+        "face": "0040101,0,0"
+      },
+      "original": "いや、十分な働きだったよ。\nゆっくり身体を休めてくれ。\n",
+      "translation": "아니, 충분히 제 역할을 해줬어. 푹 몸을\n쉬도록 해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0274",
+      "channel": 1,
+      "context": {
+        "voice": "GB220702,3",
+        "speaker": "4,0040101",
+        "face": "0040202,0,0"
+      },
+      "original": "タクトさん、ランファさんばかりでなく、私\nたちの状況にも気を配ってくださいましね。\n",
+      "translation": "택트 씨, 란파 씨뿐만 아니라 저희의\n상황에도 신경 써 주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0275",
+      "channel": 1,
+      "context": {
+        "face": "0040202,0,0",
+        "voice": "GB220702,3",
+        "speaker": "1,0010401"
+      },
+      "original": "うう……ごめんなさい。\n気をつけます。\n",
+      "translation": "으우…… 죄송해요. 조심하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0276",
+      "channel": 1,
+      "context": {
+        "voice": "GB220703,3",
+        "speaker": "2,0020101",
+        "face": "-1,0,0020102"
+      },
+      "original": "今日は、いっぱいがんばれました！\nタクトさんのおかげです！\n",
+      "translation": "오늘은, 정말 열심히 했어요！ 택트 씨\n덕분이에요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0277",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0020102",
+        "voice": "GB220703,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ミルフィーのおかげで、こっちも大助かりだっ\nたよ。\n",
+      "translation": "밀피 덕분에, 이쪽도 큰 도움이 됐어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0278",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0020902",
+        "voice": "GB220704,3",
+        "speaker": "2,0020101"
+      },
+      "original": "みんな無事でよかったですね。\nタクトさんも、お疲れさまです。\n",
+      "translation": "모두 무사해서 다행이네요. 택트 씨도,\n수고하셨습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0279",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0020902",
+        "voice": "GB220704,3",
+        "speaker": "1,0010101"
+      },
+      "original": "うん、これでひと安心だな。\nお疲れさま。\n",
+      "translation": "응, 이걸로 한시름 놓았군. 수고했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0280",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "-1,0,0020202",
+        "voice": "GB220705,3"
+      },
+      "original": "ラッキースター、壊れちゃいました。\nすいません、タクトさん。\n",
+      "translation": "럭키 스타, 부서져 버렸어요. 죄송해요,\n택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0281",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0020202",
+        "voice": "GB220705,3",
+        "speaker": "1,0010401"
+      },
+      "original": "いや、オレの指揮が悪かったんだ。\n本当にごめんよ。\n",
+      "translation": "아니, 내 지휘가 나빴어. 정말 미안해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0282",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "-1,0,0020202",
+        "voice": "GB220705,3"
+      },
+      "original": "……ところで、ランファは？\n",
+      "translation": "……그런데, 란파는？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0283",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "-1,0,0020902",
+        "voice": "GB220706,3"
+      },
+      "original": "ランファだったら、今来ますよ。\n",
+      "translation": "란파라면, 지금 옵니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0284",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB220707,3"
+      },
+      "original": "ダーリーンっ！\nただいまーっ！\n",
+      "translation": "달링！ 다녀왔어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0285",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB220707,3",
+        "speaker": "1,0010201"
+      },
+      "original": "お帰り、マイハニーっ！\n",
+      "translation": "어서 와, 마이 허니！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0286",
+      "channel": 1,
+      "context": {
+        "face": "0,0030205,0",
+        "voice": "GB220708,3",
+        "speaker": "3,0030101"
+      },
+      "original": "う～ん、タクト！\n愛してるわ！\n",
+      "translation": "으음～ 택트！ 사랑해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0287",
+      "channel": 1,
+      "context": {
+        "face": "0,0030205,0",
+        "voice": "GB220708,3",
+        "speaker": "1,0010201"
+      },
+      "original": "オレだって、負けないくらい愛してるぞ！\n",
+      "translation": "나도, 지지 않을 만큼 사랑한다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0288",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB220709,3"
+      },
+      "original": "ダーリーンっ！\n",
+      "translation": "달링！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0289",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB220709,3",
+        "speaker": "1,0010201"
+      },
+      "original": "マイハニーっ！\n",
+      "translation": "마이 허니！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0290",
+      "channel": 1,
+      "context": {
+        "voice": "GB220710,3",
+        "speaker": "3,0030101",
+        "face": "0,0030105,0"
+      },
+      "original": "ダーリーンっ！\n",
+      "translation": "달링！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0291",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0030105,0",
+        "voice": "GB220710,3"
+      },
+      "original": "マイハニーっ！\n",
+      "translation": "마이 허니！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0292",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0020102",
+        "voice": "GB220711,3",
+        "speaker": "2,0020101"
+      },
+      "original": "わ～、タクトさんとランファ、幸せそう。\nうらやましいなぁ。\n",
+      "translation": "와～, 택트 씨랑 란파, 행복해 보여.\n부럽다아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0293",
+      "channel": 1,
+      "context": {
+        "speaker": "19,0190101",
+        "face": "0,0190106,0",
+        "voice": "GB220712,3"
+      },
+      "original": "あのー……できれば格納庫の外でやってもら\nえませんか？\n整備のじゃまなんで。\n",
+      "translation": "저기…… 가능하다면 격납고 밖에서 해주지\n않을래요？ 정비에 방해가 돼서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0294",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0040301,0,0",
+        "voice": "GB220713,3"
+      },
+      "original": "当分、無理ですわよ。\n完全に、ふたりだけの世界に入ってしまわれ\nましたから。\n",
+      "translation": "당분간은 무리예요. 완전히, 두 사람만의\n세계에 빠져버렸으니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0295",
+      "channel": 1,
+      "context": {
+        "face": "0,0190106,0",
+        "voice": "GB220714,3",
+        "speaker": "19,0190101"
+      },
+      "original": "確かに、前よりもさらにグレードアップして\nますね……。\n",
+      "translation": "확실히, 전보다 훨씬 더\n업그레이드됐네요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0296",
+      "channel": 1,
+      "context": {
+        "voice": "GB220715,3",
+        "speaker": "107,1070101",
+        "face": "1070201,0,0"
+      },
+      "original": "あの、とりあえずこういう場合は、拍手でも\nしたほうがよろしいのでしょうか……？\n",
+      "translation": "저기, 일단 이런 경우에는 박수라도 쳐\n드리는 게 좋을까요……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0297",
+      "channel": 1,
+      "context": {
+        "face": "1070201,0,0020102",
+        "voice": "GB220716,3",
+        "speaker": "2,0020101"
+      },
+      "original": "うん、そうね。\nおめでとう、ランファ、タクトさん！\n",
+      "translation": "응, 그렇네. 축하해, 란파, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0298",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0040101,0,0020102",
+        "voice": "GB220717,3"
+      },
+      "original": "まぁ、「おめでたい」ということには違いあ\nりませんわね。\n",
+      "translation": "뭐, 「경사스럽다」는 점에는\n틀림없겠네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0299",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030205",
+        "face": "0040101,0,0020102",
+        "voice": "GB220718,3"
+      },
+      "original": "ねぇダーリン、みんな見てるわ。\n",
+      "translation": "있지 달링, 모두 보고 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0300",
+      "channel": 1,
+      "context": {
+        "face": "0040101,0,0020102",
+        "voice": "GB220718,3",
+        "speaker": "1,0010101"
+      },
+      "original": "見せてあげればいいさ。\nオレとハニーのラブラブっぷりをね。\n",
+      "translation": "보여주면 그만이야. 나와 허니의\n러브러브한 모습을 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0301",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030205",
+        "face": "0040101,0,0020102",
+        "voice": "GB220719,3"
+      },
+      "original": "もう、ダーリンったら……。\n",
+      "translation": "정말이지, 달링이란…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0302",
+      "channel": 1,
+      "context": {
+        "face": "0040101,0,0020102",
+        "voice": "GB220719,3",
+        "speaker": "1,0010101"
+      },
+      "original": "情熱的すぎて、困らせちゃったかい？\n",
+      "translation": "너무 정열적이라서, 곤란하게 해버렸나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0303",
+      "channel": 1,
+      "context": {
+        "face": "0040101,0,0020102",
+        "voice": "GB220720,3",
+        "speaker": "3,0030105"
+      },
+      "original": "ううん……。\nそんな情熱的なダーリンが、好き★\n",
+      "translation": "아니……. 그런 정열적인 달링이 좋아★\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0304",
+      "channel": 1,
+      "context": {
+        "voice": "GB220720,3",
+        "speaker": "1,0010101",
+        "face": "0040101,0,0020102"
+      },
+      "original": "ランファ、オレのスウィート・ハニー。\n",
+      "translation": "란파, 나의 스위트 허니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0305",
+      "channel": 1,
+      "context": {
+        "face": "0040101,0,0020102",
+        "voice": "GB220721,3",
+        "speaker": "3,0030205"
+      },
+      "original": "タクト、アタシの大切なひと……。\n",
+      "translation": "택트, 나의 소중한 사람…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0306",
+      "channel": 1,
+      "context": {
+        "voice": "GB220721,3",
+        "speaker": "1,0010201",
+        "face": "0040101,0,0020102"
+      },
+      "original": "大好きだよ、ハニー！\n",
+      "translation": "정말 좋아해, 허니！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00039000:dialogue:0307",
+      "channel": 1,
+      "context": {
+        "face": "0040101,0,0020102",
+        "voice": "GB220722,3",
+        "speaker": "3,0030205"
+      },
+      "original": "大好きよ、ダーリン★\n",
+      "translation": "정말 좋아해, 달링★\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

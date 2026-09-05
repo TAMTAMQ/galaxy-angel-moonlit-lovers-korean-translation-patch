@@ -1,0 +1,611 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00124800.txt",
+    "encoding": "cp932",
+    "sha256": "cc9bdbea612d02db80b7c7bab7188106f1cf917d6295339491334ff5299484de",
+    "dialogue_count": 50
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00100,3",
+        "speaker": "107,1070101"
+      },
+      "original": "これが新しい指揮システムの画面です。\n",
+      "translation": "이것이 새로운 지휘 시스템의 화면입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00101,3",
+        "speaker": "107,1070101"
+      },
+      "original": "画面右上に表示されているのは、ステージの\n残り時間です。\n",
+      "translation": "화면 오른쪽 상단에 표시되어 있는 것은,\n스테이지의 남은 시간입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00102,3",
+        "speaker": "107,1070201"
+      },
+      "original": "ステージによっては、時間切れでゲームオー\nバーとなる場合もありますので、残り時間に\nはご注意ください。\n",
+      "translation": "스테이지에 따라서는, 시간 초과로 게임\n오버가 되는 경우도 있으므로, 남은 시간에\n주의해 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00103,3",
+        "speaker": "107,1070101"
+      },
+      "original": "残り時間の下にあるのがレーダーパネルです。\nレーダーには、味方ユニットは青い点で、敵\nユニットは赤い点で表示されます。\n",
+      "translation": "남은 시간 아래는 레이더 패널입니다.\n아군은 파란 점, 적 유닛은 빨간 점으로\n표시됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00104,3",
+        "speaker": "107,1070101"
+      },
+      "original": "画面左下は、ユニットアイコンパネルです。\n各ユニットの状態が簡単に表示されます。\n",
+      "translation": "화면 왼쪽 하단은, 유닛 아이콘\n패널입니다. 각 유닛의 상태가 간략하게\n표시됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00105,3",
+        "speaker": "107,1070101"
+      },
+      "original": "このアイコンからユニットに命令を出すこと\nができます。\n",
+      "translation": "이 아이콘으로부터 유닛에게 명령을 내릴\n수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00106,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ユニットアイコンパネルには、そのマップ内\nに存在するユニットの状態が簡易表示されて\nいます。\n",
+      "translation": "유닛 아이콘 패널에는, 그 맵 안에\n존재하는 유닛의 상태가 간략하게 표시되어\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00107,3",
+        "speaker": "107,1070101"
+      },
+      "original": "それぞれのユニットは、その機体の種別を示\nすアイコンと、現在の状態を示す３つのゲー\nジによって表されています。\n",
+      "translation": "각각의 유닛은, 그 기체의 종별을 나타내는\n아이콘과, 현재 상태를 나타내는 ３개의\n게이지에 의해 표현됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00108,3",
+        "speaker": "107,1070101"
+      },
+      "original": "『Ｈ』のゲージは、耐久力（ＨＰ）。\n『Ｅ』が、エネルギー（ＥＮ）。\n『Ｓ』が、気力（ＳＰ）を表します。\n",
+      "translation": "『Ｈ』의 게이지는, 내구력（ＨＰ）.\n『Ｅ』가, 에너지（ＥＮ）. 『Ｓ』가,\n기력（ＳＰ）을 나타냅니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00109,3",
+        "speaker": "107,1070101"
+      },
+      "original": "アイコンの表示と、ユニットの状態の関係は、\nこのようになっています。\n",
+      "translation": "아이콘의 표시와, 유닛 상태의 관계는,\n이와 같이 되어 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00110,3",
+        "speaker": "107,1070201"
+      },
+      "original": "特に、アイコンが赤く点滅しているときは、\n耐久力が低下して、撃墜寸前であることを教\nえていますので、ご注意ください。\n",
+      "translation": "특히, 아이콘이 빨간색으로 점멸하고 있을\n때는 내구력이 저하되어 격추 직전임을\n알려주는 것이므로 주의해 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00111,3"
+      },
+      "original": "また、紋章機だけは、気力（ＳＰ）ゲージが\n１００パーセントになると、アイコンが緑色\nに点滅します。\n",
+      "translation": "또한, 문장기만은 기력（ＳＰ） 게이지가\n１００퍼센트가 되면 아이콘이 녹색으로\n점멸합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00112,3",
+        "speaker": "107,1070102"
+      },
+      "original": "アイコンの点滅中は、戦闘を有利に進められ\nる『必殺技』が使えるようになりますので、\n覚えておいてください。\n",
+      "translation": "아이콘이 점멸하는 동안에는 전투를\n유리하게 이끌 수 있는 『필살기』를\n사용할 수 있게 되므로, 기억해 두십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00113,3",
+        "speaker": "107,1070101"
+      },
+      "original": "方向キーの左右を押すことで、パネルに表示\nされるユニットの陣営を選択できます。\n",
+      "translation": "방향키의 좌우를 누름으로써 패널에\n표시되는 유닛의 진영을 선택할 수\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00114,3",
+        "speaker": "107,1070101"
+      },
+      "original": "青色のユニットがエルシオールとエンジェル\n隊。\n緑色は味方の皇国軍艦隊。\n",
+      "translation": "청색 유닛은 에르시올과 엔젤대. 녹색은\n아군인 황국 군함대입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00115,3",
+        "speaker": "107,1070101"
+      },
+      "original": "黄色は中立ユニット。\nそして赤色は敵ユニットと、それぞれ表示を\n切り替えることができます。\n",
+      "translation": "황색은 중립 유닛. 그리고 적색은 적\n유닛으로, 각각 표시를 전환할 수\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00116,3",
+        "speaker": "107,1070101"
+      },
+      "original": "選択した陣営のユニット数が８つ以上のとき\nは、方向キー上下でスクロールさせてくださ\nい。\n",
+      "translation": "선택한 진영의 유닛 수가 ８개 이상일 때는\n방향키 상하로 스크롤해 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00117,3"
+      },
+      "original": "アイコンにカーソルを合わせて○ボタンを押\nすと、そのユニットが選択され、カメラの視\n点が移ります。\n",
+      "translation": "아이콘에 커서를 맞추고 ○ 버튼을 누르면\n해당 유닛이 선택되고, 카메라 시점이\n이동합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00118,3"
+      },
+      "original": "ユニットを選択した状態で○ボタンを押すと、\nユニットメニューを呼び出すことができます。\n",
+      "translation": "유닛을 선택한 상태에서 ○ 버튼을 누르면\n유닛 메뉴를 불러올 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00119,3",
+        "speaker": "107,1070101"
+      },
+      "original": "次に、画面表示や情報の表示についてご説明\nします。\n",
+      "translation": "다음으로, 화면 표시 및 정보 표시에 대해\n설명하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00120,3",
+        "speaker": "107,1070101"
+      },
+      "original": "画面の表示状態は、カメラから見た視点のカ\nメラビューと、ステージ全体の様子がわかる\nマップビューの２種類から選べます。\n",
+      "translation": "화면 상태는 카메라 뷰와 스테이지 전체를\n보는 맵 뷰의 ２종류 중 선택할 수\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00121,3",
+        "speaker": "107,1070101"
+      },
+      "original": "これは、△ボタンで切り替えることができま\nす。\n",
+      "translation": "이것은 △버튼으로 전환할 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00122,3",
+        "speaker": "107,1070101"
+      },
+      "original": "これがマップビュー、\n",
+      "translation": "이것이 맵 뷰,\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00123,3",
+        "speaker": "107,1070101"
+      },
+      "original": "これがカメラビューです。\n",
+      "translation": "이것이 카메라 뷰입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00124,3",
+        "speaker": "107,1070101"
+      },
+      "original": "なお、カメラビューでＬ３ボタンを押すと、\nオートカメラモードに切り替わり、もう一度\n押すとコクピットビューになります。\n",
+      "translation": "또한, 카메라 뷰에서 Ｌ３ 버튼을 누르면\n오토 카메라 모드로 전환되며, 다시 한번\n누르면 콕핏 뷰가 됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00125,3"
+      },
+      "original": "□ボタンは、画面内のユニット情報の表示状\n態を切り替えます。\n",
+      "translation": "□버튼은 화면 내 유닛 정보의 표시 상태를\n전환합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00126,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ユニット情報表示は、選択ユニットのみ表示、\n全て表示、全て非表示、の３種類の中から選\nべます。\n",
+      "translation": "유닛 정보 표시는 선택한 유닛만 표시,\n전부 표시, 전부 숨기기,의 ３종류 중에서\n선택할 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00127,3",
+        "speaker": "107,1070101"
+      },
+      "original": "次にカメラの操作についてです。\n",
+      "translation": "다음은 카메라 조작에 대해서입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00128,3",
+        "speaker": "107,1070101"
+      },
+      "original": "左スティックを動かすと、カメラの向きを変\nえることができます。\n",
+      "translation": "왼쪽 스틱을 움직이면 카메라의 방향을\n바꿀 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00129,3",
+        "speaker": "107,1070101"
+      },
+      "original": "右スティックを動かすと、カメラの中心位置\nを変えることができます。\n",
+      "translation": "오른쪽 스틱을 움직이면 카메라의 중심\n위치를 바꿀 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00130,3",
+        "speaker": "107,1070101"
+      },
+      "original": "画面の拡大・縮小を行うには、Ｒ２ボタン・\nＬ２ボタンを押してください。\n",
+      "translation": "화면의 확대・축소를 하려면, Ｒ２\n버튼・Ｌ２ 버튼을 눌러 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00131,3",
+        "speaker": "107,1070101"
+      },
+      "original": "そしてＲ１ボタン・Ｌ１ボタン。\nこのボタンを押すたびに、選択中のユニット\nが次々に切り替わります。\n",
+      "translation": "그리고 Ｒ１ 버튼・Ｌ１ 버튼. 이 버튼을\n누를 때마다, 선택 중인 유닛이 차례차례\n전환됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00132,3",
+        "speaker": "107,1070101"
+      },
+      "original": "タイトル画面に戻りたい場合などには、\nＳＥＬＥＣＴボタンを押してください。\n",
+      "translation": "타이틀 화면으로 돌아가고 싶은 경우\n등에는, ＳＥＬＥＣＴ 버튼을 눌러\n주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00133,3",
+        "speaker": "107,1070201"
+      },
+      "original": "ただし、戦闘中にタイトル画面に戻っても、\nデータのセーブは行われませんので、ご注意\nください。\n",
+      "translation": "단, 전투 중에 타이틀 화면으로 돌아가도,\n데이터 저장은 이루어지지 않으므로 주의해\n주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00134,3"
+      },
+      "original": "続いて、ユニットへの命令のしかたをご説明\nします。\n",
+      "translation": "이어서, 유닛에게 명령을 내리는 방법을\n설명하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00135,3",
+        "speaker": "107,1070101"
+      },
+      "original": "命令を出せるユニットは、エルシオールとエ\nンジェル隊、味方の皇国軍艦隊です。\n当然ですが、敵には命令できません。\n",
+      "translation": "명령 가능 유닛은 에르시올, 엔젤대, 아군\n황국 군 함대입니다. 적에게는 명령할 수\n없습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00136,3",
+        "speaker": "107,1070101"
+      },
+      "original": "命令を出したいときは、ユニットのアイコン\nを選択し、○ボタンを押してください。\n",
+      "translation": "명령을 내리고 싶을 때는, 유닛 아이콘을\n선택하고, ○ 버튼을 눌러 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00137,3"
+      },
+      "original": "すると、このようなユニットメニューが表示\nされます。\n",
+      "translation": "그러면, 이와 같은 유닛 메뉴가\n표시됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00138,3",
+        "speaker": "107,1070101"
+      },
+      "original": "白い文字で表示されているメニューの中から、\n指示したい行動を選んで決定してください。\n",
+      "translation": "흰색 글자로 표시되어 있는 메뉴 중에서,\n지시하고 싶은 행동을 골라 결정해\n주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00139,3",
+        "speaker": "107,1070101"
+      },
+      "original": "初期設定では、『移動』『攻撃』『必殺技』\n『護衛』『修理』を選択すると、画面表示が\nマップビューに切り替わります。\n",
+      "translation": "초기 설정에서 『이동』『공격』『필살기』\n『호위』『수리』를 선택하면 화면 표시가\n맵 뷰로 전환됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00140,3",
+        "speaker": "107,1070101"
+      },
+      "original": "このマップ上で、移動させたい場所や、目標\nとするユニットを選択して、行動を決定しま\nす。\n",
+      "translation": "이 맵 위에서, 이동시키고 싶은 장소나\n목표로 하는 유닛을 선택하여 행동을\n결정합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00141,3",
+        "speaker": "107,1070101"
+      },
+      "original": "最後に、ポーズに関してご説明します。\n戦闘中に、ＳＴＡＲＴボタンを押すことで、\nゲームの進行を一時停止できます。\n",
+      "translation": "마지막으로, 포즈에 대해 설명하겠습니다.\n전투 중에 ＳＴＡＲＴ 버튼을 누름으로써\n게임 진행을 일시 정지할 수 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00142,3",
+        "speaker": "107,1070101"
+      },
+      "original": "一時停止中でも、通常と同じように命令やユ\nニット情報の確認といった操作が可能です。\n",
+      "translation": "일시 정지 중에도 평소와 같이 명령이나\n유닛 정보 확인 등의 조작이 가능합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00143,3",
+        "speaker": "107,1070101"
+      },
+      "original": "以上で、指揮システムの操作説明を終わりま\nす。\n",
+      "translation": "이상으로 지휘 시스템의 조작 설명을\n마치겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00144,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ざっとご説明いたしましたが、おわかりいた\nだけたでしょうか？\n",
+      "translation": "대략적으로 설명해 드렸습니다만,\n이해하셨습니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00144,3",
+        "speaker": "1,0010604"
+      },
+      "original": "そうだなぁ……。\n",
+      "translation": "글쎄 말이야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00144,3",
+        "speaker": "1,0010605"
+      },
+      "original": "いや、悪いけど、もう一度説明してくれない\nか。\n",
+      "translation": "아니, 미안하지만 다시 한번 설명해 주지\n않겠나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00145,3",
+        "speaker": "107,1070101"
+      },
+      "original": "わかりました。\nそれでは、繰り返させていただきます。\n",
+      "translation": "알겠습니다. 그럼, 반복해서\n설명하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "voice": "GBf00145,3",
+        "speaker": "1,0010601"
+      },
+      "original": "もう大丈夫だよ。\nいけると思う。\n",
+      "translation": "이제 괜찮아. 할 수 있을 것 같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00124800:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GBf00146,3"
+      },
+      "original": "お役に立てて幸いです。\nそれでは、よろしくお願いします。\n",
+      "translation": "도움이 되었다면 다행입니다. 그럼, 잘\n부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

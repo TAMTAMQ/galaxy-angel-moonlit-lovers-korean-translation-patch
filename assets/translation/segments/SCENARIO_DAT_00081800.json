@@ -1,0 +1,382 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00081800.txt",
+    "encoding": "cp932",
+    "sha256": "a68da8f5fa4049e4ca86a00dbdddd86a40c9740acada6ae993bb5fbfd473846e",
+    "dialogue_count": 29
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101"
+      },
+      "original": "いや、間違ってないさ。\nフォルテの言う「自分の判断」っていうのは、\n経験や直感みたいなのが、大きくものを言う。\n",
+      "translation": "아니, 틀린 게 아니야. 포르테가 말하는\n「자신의 판단」이라는 건, 경험이나 직감\n같은 것이 크게 작용하거든.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "こればっかりは、教科書には載ってないし、\n誰かに聞いても教えられるようなことじゃな\nいからね。\n",
+      "translation": "이건 교과서에 실려 있는 것도 아니고,\n누군가에게 물어본다고 가르쳐 줄 수 있는\n게 아니니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "だから、ちとせが自分で身につけるしかない\nんだ。\n",
+      "translation": "그러니 치토세가 스스로 몸에 익힐 수밖에\n없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050103,0",
+        "voice": "GB425054,3"
+      },
+      "original": "うん……。\nそう言ってくれると、少し気が楽になるよ。\n",
+      "translation": "응……. 그렇게 말해주면 조금 마음이\n편해져.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB425055,3"
+      },
+      "original": "後は、ちとせが気づくかどうかだ。\n……信じたいね……。\n",
+      "translation": "남은 건 치토세가 깨닫느냐 마느냐다.\n……믿고 싶네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050101,0",
+        "voice": "GB425055,3"
+      },
+      "original": "信じよう。\nちとせなら、きっとできるさ。\n",
+      "translation": "믿자. 치토세라면 분명 할 수 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB425056,3"
+      },
+      "original": "ああ、そうだね。\n",
+      "translation": "아아, 그렇네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050101,0",
+        "voice": "GB425056,3"
+      },
+      "original": "まぁ、少しきびしすぎるかもな。\n",
+      "translation": "뭐, 조금 너무 엄격할지도 모르겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050202,0",
+        "voice": "GB425057,3"
+      },
+      "original": "やっぱり、タクトもそう思うかい？\n",
+      "translation": "역시 택트도 그렇게 생각해？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0050202,0",
+        "voice": "GB425057,3"
+      },
+      "original": "とはいえ、ほかに有効な手があるわけでもな\nいしなぁ。\n",
+      "translation": "그렇다고는 해도, 달리 유효한 수단이 있는\n것도 아니니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050202,0",
+        "voice": "GB425058,3"
+      },
+      "original": "こういうのは、何かのきっかけで突然わかっ\nたり、気がついたら自然にできるようになっ\nてたりするもんなんだけどね。\n",
+      "translation": "이런 건, 어떤 계기로 갑자기 알게 되거나,\n정신을 차려보니 자연스럽게 할 수 있게\n되어 있기도 한 법이니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0050202,0",
+        "voice": "GB425058,3"
+      },
+      "original": "何か、きっかけでもあれば……か。\n",
+      "translation": "무언가, 계기라도 있다면…… 인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050202,0",
+        "voice": "GB425058,3"
+      },
+      "original": "なぁ、フォルテ。\nいざとなったら、オレから助け船を出してやっ\nてもいいかな？\n",
+      "translation": "있지, 포르테. 만약의 사태에는 내가\n도움을 좀 줘도 될까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050802,0",
+        "voice": "GB425059,3"
+      },
+      "original": "助け船？\n",
+      "translation": "도움？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050802,0",
+        "voice": "GB425059,3"
+      },
+      "original": "そう……それとなくヒントを与えてやるんだ。\nそうすれば、ちとせも理解しやすくなるんじゃ\nないかな？\n",
+      "translation": "그래…… 은근슬쩍 힌트를 주는 거야.\n그러면 치토세도 이해하기 쉬워지지\n않을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "face": "0,0050205,0",
+        "voice": "GB425060,3",
+        "speaker": "5,0050101"
+      },
+      "original": "うーん……それはそれで、ちょいとリスクも\nあるんだけどねぇ……。\n",
+      "translation": "으음…… 그건 그것대로, 조금 리스크도\n있긴 하지만 말이야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB425061,3",
+        "speaker": "5,0050101"
+      },
+      "original": "とりあえず、今はまだその時じゃない。\nもう少し見守ろうよ。\n",
+      "translation": "일단은, 지금은 아직 그때가 아니야. 좀 더\n지켜보자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB425061,3",
+        "face": "0,0050101,0"
+      },
+      "original": "うん……わかったよ。\n",
+      "translation": "응…… 알았어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB425061,3",
+        "face": "0,0050101,0"
+      },
+      "original": "ちとせのことは、ずいぶん気にかけてるみた\nいだけど……ほかのエンジェル隊のみんなは\nいいの？\n",
+      "translation": "치토세를 꽤 신경 쓰고 있는 것 같지만……\n다른 엔젤대 애들은 괜찮은 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB425062,3"
+      },
+      "original": "あの子たちなら、大丈夫だよ。\n良くも悪くも、型にはまらない生き方してき\nた連中だからね。\n",
+      "translation": "그 아이들이라면, 괜찮아. 좋든 싫든, 틀에\n박히지 않은 삶을 살아온 녀석들이니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB425063,3",
+        "face": "0,0050103,0"
+      },
+      "original": "そういう人間は、いざってときの対処法を自\n然と身につけるもんさ。\n逆を言えば、そうじゃなきゃ生き残れない。\n",
+      "translation": "그런 인간은 위급 상황 대처법을 자연스레\n익히는 법이야. 반대로 말하면, 그렇지\n않으면 살아남지 못한다는 뜻이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "voice": "GB425063,3",
+        "speaker": "1,0010101",
+        "face": "0,0050103,0"
+      },
+      "original": "なるほど……なんとなく、わかるような気が\nするな。\n",
+      "translation": "과연…… 왠지 알 것 같은 기분이 드네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050204,0",
+        "voice": "GB425064,3"
+      },
+      "original": "そりゃそうさ。\nタクトも同類だもんね。\n",
+      "translation": "그렇고말고. 택트도 마찬가지니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0050204,0",
+        "voice": "GB425064,3"
+      },
+      "original": "そうかい？\n自分では、今まで平々凡々に生きてきたつも\nりなんだけどなぁ。\n",
+      "translation": "그래？ 나 자신은, 지금까지 평범하게\n살아왔다고 생각하는데 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "voice": "GB425065,3",
+        "speaker": "5,0050101",
+        "face": "0,0050804,0"
+      },
+      "original": "ははっ、よく言うよ。\n",
+      "translation": "하핫, 참나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "face": "0,0050801,0",
+        "voice": "GB425066,3",
+        "speaker": "5,0050101"
+      },
+      "original": "……だけど、ちとせは別だ。\nあの子は、型にはまったときは強いかもしれ\nないけど、そうでない状況ではモロい。\n",
+      "translation": "……하지만, 치토세는 달라. 그 아이는,\n정해진 틀 안에서는 강할지 모르지만,\n그렇지 않은 상황에서는 취약하거든.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "face": "0,0050801,0",
+        "voice": "GB425067,3",
+        "speaker": "5,0050101"
+      },
+      "original": "マニュアルどおりの対応が通用する世界しか\n知らないわけだからね。\n",
+      "translation": "매뉴얼대로의 대응이 통하는 세상밖에\n모르니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "voice": "GB425067,3",
+        "speaker": "1,0010401",
+        "face": "0,0050801,0"
+      },
+      "original": "だけど、オレたちの仕事は、それだけではやっ\nていけない……。\n",
+      "translation": "하지만, 우리들의 일은 그것만으로는\n해나갈 수 없어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00081800:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050103,0",
+        "voice": "GB425068,3"
+      },
+      "original": "そういうこと。\nまぁ、待つしかないさ。\nちとせが「気づく」のを、ね。\n",
+      "translation": "바로 그거야. 뭐, 기다릴 수밖에 없겠지.\n치토세가 「깨닫는」 것을 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

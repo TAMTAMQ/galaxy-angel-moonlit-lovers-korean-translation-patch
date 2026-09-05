@@ -1,0 +1,307 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0000d000.txt",
+    "encoding": "cp932",
+    "sha256": "4b24ee0b0c9004c9f39832a72ef90e80003792cd037f5685cc1676b9605fc784",
+    "dialogue_count": 23
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010601"
+      },
+      "original": "アルモ、作戦図をモニターへ。\n",
+      "translation": "아르모, 작전도를 모니터로.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "voice": "GB110600,3"
+      },
+      "original": "了解。\n",
+      "translation": "알았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "voice": "GB110601,3",
+        "face": "0,0,0"
+      },
+      "original": "これが現在の状況です。\n",
+      "translation": "이것이 현재 상황입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "voice": "GB110602,3",
+        "face": "0,0,0"
+      },
+      "original": "エルシオールの現在位置は、ここです。\n",
+      "translation": "에르시올의 현재 위치는, 여기입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "16,0160101",
+        "voice": "GBX110602,3",
+        "face": "0,0,0"
+      },
+      "original": "敵艦隊の配置は、このようになっています。\n",
+      "translation": "적 함대의 배치는, 이와 같이 되어\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "16,0160101",
+        "voice": "GB110606,3",
+        "face": "0,0,0"
+      },
+      "original": "以上です。\n",
+      "translation": "이상입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010606",
+        "voice": "GB110606,3",
+        "face": "0,0,0"
+      },
+      "original": "作戦目標は、軌道ステーションから脱出する\nシャトルの防衛だ。\n",
+      "translation": "작전 목표는, 궤도 스테이션에서 탈출하는\n셔틀의 방위다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010606",
+        "voice": "GB110606,3",
+        "face": "0,0,0"
+      },
+      "original": "シャトルが安全圏に到達するまで、敵を食い\n止めてくれ。\n",
+      "translation": "셔틀이 안전권에 도달할 때까지, 적을\n저지해 줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070103",
+        "voice": "GB110607,3",
+        "face": "0,0,0"
+      },
+      "original": "了解しました。\n",
+      "translation": "알겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB110608,3",
+        "face": "0,0,0"
+      },
+      "original": "タクト、気をつけとくれよ。\nヴァニラのハーベスターがないから、紋章機\nの修理はエルシオールでしかできないからね。\n",
+      "translation": "택트, 조심하게나. 바닐라의 하베스터가\n없어서, 문장기 수리는 에르시올에서밖에\n할 수 없으니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010606",
+        "voice": "GB110608,3",
+        "face": "0,0,0"
+      },
+      "original": "わかったよ。\n前線からエルシオールまで往復する時間も、\n考えないといけないわけだな。\n",
+      "translation": "알았어. 전선에서 에르시올까지 왕복하는\n시간도, 고려해야 한다는 거군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "voice": "GB110608,3",
+        "speaker": "1,0010601",
+        "face": "0,0,0"
+      },
+      "original": "よし、以上だ。\n頼むぞ、みんな！\n",
+      "translation": "좋아, 이상이다. 부탁한다, 모두！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0013",
+      "channel": 0,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB110608,3",
+        "speaker": "999,0"
+      },
+      "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×２\n　\n～勝利条件～\n　シャトルの目標地点到達\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
+      "translation": "～적 부대\n편성～구축함×５　　　　　　순양함×２～\n승리 조건～셔틀의 목표 지점 도달～패배\n조건～에르시올 파괴 타임 오버\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "voice": "GB110609,3",
+        "face": "0170101,0,0"
+      },
+      "original": "もう一度、作戦内容を確認しますか？\n",
+      "translation": "다시 한번, 작전 내용을\n확인하시겠습니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GB110609,3",
+        "speaker": "1,0010604",
+        "face": "0170101,0,0"
+      },
+      "original": "そうだなぁ……。\n",
+      "translation": "그렇네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010601",
+        "voice": "GB110609,3",
+        "face": "0170101,0,0"
+      },
+      "original": "うん。\n念のため、もう一度確認しておこう。\n",
+      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010606",
+        "voice": "GB110609,3",
+        "face": "0170101,0,0"
+      },
+      "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
+      "translation": "아니, 그럴 필요는 없어. 모두, 준비는\n됐나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB110610,3",
+        "face": "0170101,0,0"
+      },
+      "original": "こっちは問題ないよ。\n",
+      "translation": "이쪽은 문제없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "voice": "GB110611,3",
+        "speaker": "107,1070103",
+        "face": "0170101,0,0"
+      },
+      "original": "シャープシューター、準備完了です。\n",
+      "translation": "샤프 슈터, 준비 완료입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0170101,0,0",
+        "voice": "GB110612,3"
+      },
+      "original": "ミルフィー、万一ってこともあるから、空い\nてる席にちゃんと座ってなよ。\n",
+      "translation": "밀피, 만약의 상황도 있으니까, 빈 좌석에\n제대로 앉아 있어라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0021301",
+        "face": "0,0,0021302",
+        "voice": "GB110613,3"
+      },
+      "original": "はい、フォルテさん。\nがんばってください！\n",
+      "translation": "네, 포르테 씨. 힘내세요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010607",
+        "face": "0,0,0",
+        "voice": "GB110613,3"
+      },
+      "original": "それじゃあ、エンジェル隊、出撃！\n",
+      "translation": "그럼, 엔젤대, 출격！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0000d000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "998,0",
+        "face": "0,0,0",
+        "voice": "GB110614,3"
+      },
+      "original": "了解！\n",
+      "translation": "네！\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

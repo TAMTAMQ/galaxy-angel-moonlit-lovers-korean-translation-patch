@@ -1,0 +1,165 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000cd800.txt",
+    "encoding": "cp932",
+    "sha256": "b0e81f44d0ac18a031a17cc20be418188c5d73e48bd654d7f45ba67a37a61fbf",
+    "dialogue_count": 12
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102"
+      },
+      "original": "あれ？\nちとせ、ひとりかい？\n",
+      "translation": "어라？ 치토세, 혼자야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB632000,3"
+      },
+      "original": "はい。\nのんびりとお茶をいただいてました。\n",
+      "translation": "네. 느긋하게 차를 마시고 있었어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070205,0",
+        "voice": "GB632000,3"
+      },
+      "original": "そうか。\nエンジェル隊が全員勢揃いして、艦内もかな\nりにぎやかになっただろう？\n",
+      "translation": "그렇구나. 엔젤대가 전원 모여서, 함내도\n꽤 북적거리게 되었지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB632001,3"
+      },
+      "original": "はい。\nとても楽しいです。\n",
+      "translation": "네. 정말 즐거워요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070207,0",
+        "voice": "GB632002,3"
+      },
+      "original": "タクトさん、私は最初、エンジェル隊のみな\nさんにうまくなじめなくて、少しだけ苦手に\n思っていました……。\n",
+      "translation": "택트 씨…… 저는 처음에, 엔젤대 여러분과\n잘 어울리지 못해서 조금은 어렵게\n생각하고 있었어요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB632003,3"
+      },
+      "original": "でも、みなさんとても優しくしてくださって、\n今では、エンジェル隊がとても好きです。\n",
+      "translation": "하지만, 모두들 정말 친절하게 대해주셔서,\n지금은 엔젤대가 정말 좋아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB632004,3"
+      },
+      "original": "これも……タクトさんのおかげだと思います。\n",
+      "translation": "이것도…… 택트 씨 덕분이라고 생각해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "face": "0,1070102,0",
+        "voice": "GB632004,3"
+      },
+      "original": "いやあ、そう言われるとなんだか照れるなあ。\n",
+      "translation": "이야, 그렇게 말해주니 왠지 쑥스럽네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070101,0",
+        "voice": "GB632005,3"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070101,0",
+        "voice": "GB632005,3"
+      },
+      "original": "なんだい？\n",
+      "translation": "왜 그래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB632006,3"
+      },
+      "original": "私、みなさんのお役に立てるようにがんばり\nます。\n",
+      "translation": "저, 여러분께 도움이 될 수 있도록 열심히\n할게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000cd800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB632006,3"
+      },
+      "original": "うん、期待してるよ。\n",
+      "translation": "응, 기대하고 있을게.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

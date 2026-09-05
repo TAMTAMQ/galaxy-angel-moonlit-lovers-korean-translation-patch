@@ -1,0 +1,2180 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00076800.txt",
+    "encoding": "cp932",
+    "sha256": "0b923ea1db0558232a40de2f70e84b67131538fd5b4b3c39a180dfef23cf2b51",
+    "dialogue_count": 167
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101"
+      },
+      "original": "みんな、お疲れさま。\n",
+      "translation": "모두, 수고했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070101,0",
+        "voice": "GB411500,3"
+      },
+      "original": "なんだ、もう戻ってきたのか？\n",
+      "translation": "뭐야, 벌써 돌아온 거냐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070101,0",
+        "voice": "GB411500,3"
+      },
+      "original": "いや、ちょっと立ち寄っただけだよ。\n何か変わったことはないか？\n",
+      "translation": "아니, 잠시 들른 것뿐이야. 뭐 변한 건\n없어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0170102,0,0",
+        "voice": "GB411501,3"
+      },
+      "original": "はーい、ありまーす。\n",
+      "translation": "네～ 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0170102,0,0",
+        "voice": "GB411501,3"
+      },
+      "original": "えっ！？\nいったい何があったんだ？\n",
+      "translation": "엣！？ 도대체 무슨 일이 있었던 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "16,0160101",
+        "face": "0170102,0,0160102",
+        "voice": "GB411502,3"
+      },
+      "original": "うふふっ、クールダラス副司令のことですよ。\n",
+      "translation": "우후훗, 쿨다라스 부사령관님 말씀이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0170102,0,0160102",
+        "voice": "GB411502,3"
+      },
+      "original": "あ、そうか。\n今まで、レスターはいなかったもんな。\n",
+      "translation": "아, 그렇구나. 지금까지 레스터는\n없었으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070202,0",
+        "voice": "GB411503,3"
+      },
+      "original": "俺も、まさかまたエルシオールに戻ってくる\nことになるとは思ってもいなかったよ。\n",
+      "translation": "나도 설마 다시 에르시올로 돌아오게 될\n줄은 몰랐어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070202,0",
+        "voice": "GB411503,3"
+      },
+      "original": "オレだって、レスターがやって来たときは、\n本当に驚いたよ。\n",
+      "translation": "나도 말이야, 레스터가 왔을 때는 정말\n놀랐다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070201,0",
+        "voice": "GB411504,3"
+      },
+      "original": "またお前と、毎日顔を付き合わせる羽目にな\nるとはな。\n",
+      "translation": "또 너와 매일 얼굴을 맞대게 될 줄이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070201,0",
+        "voice": "GB411505,3"
+      },
+      "original": "まったく、くされ縁ってヤツは、そう簡単に\nは切れてくれないものらしい。\n",
+      "translation": "정말이지, 질긴 인연이라는 건 그렇게 쉽게\n끊어지는 게 아닌 모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0070201,0",
+        "voice": "GB411505,3"
+      },
+      "original": "ここまで来るとくされ縁と言うより、もはや\n運命かもな。\n",
+      "translation": "이 정도까지 오면 질긴 인연이라기보다,\n이제는 운명일지도 모르겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070501,0",
+        "voice": "GB411506,3"
+      },
+      "original": "勝手に言ってろ。\n",
+      "translation": "멋대로 떠들어라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GB411507,3",
+        "speaker": "17,0170101",
+        "face": "0170102,0,0"
+      },
+      "original": "うんうん、やっぱりこれは運命なのよ……！\n",
+      "translation": "응, 응, 역시 이건 운명이야……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "face": "0170102,0,0160102",
+        "voice": "GB411508,3",
+        "speaker": "16,0160101"
+      },
+      "original": "うふふっ。\nアルモ、うれしそうね。\n",
+      "translation": "우후훗. 아르모, 기뻐 보이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0170102,0,0160102",
+        "voice": "GB411509,3"
+      },
+      "original": "そ、それはまぁ、またクールダラス副司令と\n一緒にいられることになったわけだし……。\n",
+      "translation": "그, 그건 뭐, 다시 쿨다라스 부사령관과\n함께 있게 된 것이기도 하고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "voice": "GB411510,3",
+        "speaker": "7,0070101",
+        "face": "0,0070101,0"
+      },
+      "original": "タクト、ブリッジのことは俺に任せて、お前\nは気兼ねなく見回りをしてきていいぞ。\n",
+      "translation": "택트, 브릿지는 내게 맡기고 너는 마음\n편히 순찰을 돌고 와도 좋다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0070101,0",
+        "voice": "GB411510,3"
+      },
+      "original": "半年ぶりに再会したっていうのに、なんだか\nそっけないなぁ。\nもっとこう、積もる話はないのか？\n",
+      "translation": "반년 만에 재회한 건데, 왠지 무심하네. 좀\n더 이렇게, 못다 한 이야기 같은 건 없어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "face": "0,0070201,0",
+        "voice": "GB411511,3"
+      },
+      "original": "半年ぐらいで、積もる話も何もあるか。\nそれに今は仕事中だ。\n司令官なら、率先してまじめに働け。\n",
+      "translation": "반년 정도 가지고, 못다 한 이야기가 뭐가\n있겠나. 게다가 지금은 업무 중이다.\n사령관이라면 솔선수범해서 성실히 일해라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0,0070201,0",
+        "voice": "GB411511,3",
+        "speaker": "1,0010105"
+      },
+      "original": "へいへい。\nそれじゃ、まじめに見回りしてきますよ。\n",
+      "translation": "예이 예이. 그럼, 성실하게 순찰하고\n올게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "voice": "GB411511,3",
+        "speaker": "1,0010101",
+        "face": "0,0070201,0"
+      },
+      "original": "……それに、オレがあまりレスターと話して\nると、気が気でない人もいるようだし。\n",
+      "translation": "……게다가, 내가 레스터와 너무\n이야기하고 있으면, 마음이 불안한 사람도\n있는 것 같고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "voice": "GB411512,3",
+        "speaker": "7,0070101",
+        "face": "0,0070201,0"
+      },
+      "original": "なんだ、それは？\n",
+      "translation": "뭐야, 그건？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0170103,0,0",
+        "voice": "GB411513,3"
+      },
+      "original": "あ、あたしのことじゃないですよ！\n",
+      "translation": "아, 제 이야기가 아니에요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "voice": "GB411514,3",
+        "speaker": "16,0160101",
+        "face": "0170103,0,0160101"
+      },
+      "original": "アルモ、誰も言ってないってば……。\n",
+      "translation": "아르모, 아무도 그렇게 말 안\n했다니까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0170103,0,0160101",
+        "voice": "GB411514,3",
+        "speaker": "1,0010201"
+      },
+      "original": "あははは。\nじゃあ、そういうわけで、後はよろしくー。\n",
+      "translation": "아하하하. 그럼, 그런 이유로, 나머지는 잘\n부탁해～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "voice": "GB411514,3",
+        "speaker": "1,0010102",
+        "face": "0170103,0,0160101"
+      },
+      "original": "ん？\n向こうにいるのは、フォルテじゃないか。\n",
+      "translation": "응？ 저쪽에 있는 건, 포르테 아니야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0170103,0,0160101",
+        "voice": "GB411514,3"
+      },
+      "original": "おーい、フォルテ！\n",
+      "translation": "어이, 포르테！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "voice": "GB411600,3",
+        "speaker": "5,0050101",
+        "face": "0,0050802,0"
+      },
+      "original": "あれ、タクト。\n見回りかい？\n",
+      "translation": "어라, 택트. 순찰 중이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050802,0",
+        "voice": "GB411600,3"
+      },
+      "original": "まぁね。\nそれに、フォルテとちとせが、どんな訓練を\nしてるのかも気になっていたから。\n",
+      "translation": "뭐 그렇지. 게다가, 포르테와 치토세가\n어떤 훈련을 하고 있는지도 궁금했으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "voice": "GB411600,3",
+        "speaker": "1,0010101"
+      },
+      "original": "それで、今は何をしてるんだい？\n",
+      "translation": "그래서, 지금은 뭘 하고 있어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB411601,3",
+        "face": "0,0050101,0"
+      },
+      "original": "ちとせにランニングさせてるんだよ。\nんで、あたしはタイムを計ってるわけ。\n",
+      "translation": "치토세에게 러닝을 시키고 있는 거야.\n그리고, 나는 타임을 재고 있고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB411601,3",
+        "face": "0,0050101,0"
+      },
+      "original": "じゃあ、ちとせは今、ランニングの最中か。\n",
+      "translation": "그럼, 치토세는 지금 러닝 중인 건가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB411602,3",
+        "face": "0,0050101,0"
+      },
+      "original": "そろそろ戻ってくるはずだよ。\n",
+      "translation": "슬슬 돌아올 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "face": "1070306,0,0",
+        "voice": "GB411603,3",
+        "speaker": "107,1070101"
+      },
+      "original": "……ハァ、ハァ……ハァ……！\n",
+      "translation": "……하아, 하아……하아……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "1070306,0,0",
+        "voice": "GB411603,3"
+      },
+      "original": "おっ、うわさをすれば。\n",
+      "translation": "오, 호랑이도 제 말 하면 온다더니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0,0050101",
+        "voice": "GB411604,3"
+      },
+      "original": "お疲れさん。\nなかなかいいタイムだったよ。\n",
+      "translation": "수고했어. 꽤 좋은 타임이었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0050101",
+        "voice": "GB411604,3"
+      },
+      "original": "ちとせ、お帰り。\nがんばってるね。\n",
+      "translation": "치토세, 어서 와. 열심히 하고 있네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070306,0",
+        "voice": "GB411605,3"
+      },
+      "original": "ハァ……ハァ……。\nあ、タク、トさん……。\n",
+      "translation": "하아……하아……. 아, 택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070306,0",
+        "voice": "GB411606,3"
+      },
+      "original": "失礼、しま、した……。\nお見苦しい、とこ、ろを……。\n",
+      "translation": "실례, 했습, 니다……. 보기 흉한,\n모습을…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "face": "0,1070306,0",
+        "voice": "GB411606,3",
+        "speaker": "1,0010105"
+      },
+      "original": "いいよ、無理してしゃべらなくても。\nほら、ちゃんと息を整えて。\n",
+      "translation": "괜찮아, 무리해서 말하지 않아도 돼. 자,\n제대로 숨을 골라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070306,0",
+        "voice": "GB411607,3"
+      },
+      "original": "は、はい……ですが……ハァ、ハァ……。\n",
+      "translation": "하, 하아…… 하지만…… 하아, 하아…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070306,0",
+        "voice": "GB411607,3"
+      },
+      "original": "だから、いいってのに。\nちとせは律儀だなぁ。\n",
+      "translation": "그러니까, 괜찮다니까. 치토세는 참\n성실하기도 해라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070306,0",
+        "voice": "GB411607,3"
+      },
+      "original": "フォルテから見て、ちとせはどんな感じ？\n",
+      "translation": "포르테가 보기에, 치토세는 어떤\n느낌이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB411608,3",
+        "face": "0,0050101,0"
+      },
+      "original": "このランニングで見る限り、基礎体力はまず\nまずってところだね。\n",
+      "translation": "이 러닝을 본 바로는, 기초 체력은\n그럭저럭인 정도네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "voice": "GB411609,3",
+        "speaker": "107,1070101",
+        "face": "1070201,0,0"
+      },
+      "original": "次は、何をすればよろしいですか？\n",
+      "translation": "다음은, 무엇을 하면 되겠습니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "face": "1070201,0,0",
+        "voice": "GB411609,3",
+        "speaker": "1,0010105"
+      },
+      "original": "まあまあ、少し休憩しなよ。\n",
+      "translation": "자자, 조금 쉬어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "voice": "GB411610,3",
+        "speaker": "5,0050101",
+        "face": "0,0050103,0"
+      },
+      "original": "タクトの言うとおりだよ。\nまだ始まったばっかりなんだからね。\n",
+      "translation": "택트 말이 맞아. 이제 막 시작했을\n뿐이니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "face": "1070101,0,0",
+        "voice": "GB411611,3",
+        "speaker": "107,1070101"
+      },
+      "original": "はい、フォルテ先輩。\n",
+      "translation": "네, 포르테 선배.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "voice": "GB411611,3",
+        "speaker": "1,0010101",
+        "face": "1070101,0,0"
+      },
+      "original": "うん、なかなかいい雰囲気じゃないか。\nそれじゃあ……。\n",
+      "translation": "응, 제법 좋은 분위기잖아. 그럼...\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050802,0",
+        "voice": "GB411700,3"
+      },
+      "original": "あれ、タクト。\n今日はよく会うね。\n",
+      "translation": "어라, 택트. 오늘은 자주 마주치네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050802,0",
+        "voice": "GB411700,3"
+      },
+      "original": "ほんとだね。\nちとせの訓練は、もう終わったのかい？\n",
+      "translation": "정말이네. 치토세의 훈련은 벌써 끝난\n거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB411701,3"
+      },
+      "original": "いや、まだまだこれからだよ。\n",
+      "translation": "아니, 이제부터 시작이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050101,0",
+        "voice": "GB411701,3"
+      },
+      "original": "でも、ちとせが一緒じゃないの？\n",
+      "translation": "하지만 치토세가 같이 있지 않아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "voice": "GB411702,3",
+        "speaker": "5,0050101"
+      },
+      "original": "今は筋トレやってるよ。\nその間は、あたしがすることもないしね。\n",
+      "translation": "지금은 근력 운동을 하고 있어. 그동안은\n내가 할 일도 없고 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0055",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB411703,3",
+        "speaker": "5,0050101"
+      },
+      "original": "だから、差し入れのスポーツドリンクを買い\nに来たところさ。\n",
+      "translation": "그래서, 간식으로 줄 스포츠 드링크를 사러\n온 참이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0056",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0050101,0",
+        "voice": "GB411703,3"
+      },
+      "original": "へぇ～、フォルテが後輩のために買い物ねぇ。\n",
+      "translation": "헤에～, 포르테가 후배를 위해서\n쇼핑이라니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0057",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "voice": "GB411704,3",
+        "speaker": "5,0050101"
+      },
+      "original": "なんだい、その言い方？\n",
+      "translation": "뭐야, 그 말투는？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0058",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050204,0",
+        "voice": "GB411704,3"
+      },
+      "original": "いや、なんだか今のフォルテを見てると……。\n",
+      "translation": "아니, 왠지 지금의 포르테를 보고\n있으면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0059",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050102,0",
+        "voice": "GB411800,3"
+      },
+      "original": "ああ、任せときなって。\n",
+      "translation": "아아, 맡겨두라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0060",
+      "channel": 1,
+      "context": {
+        "voice": "GB411900,3",
+        "speaker": "107,1070101",
+        "face": "1070102,0,0050101"
+      },
+      "original": "あ、タクトさん。\n",
+      "translation": "아, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0061",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "1070102,0,0050101",
+        "voice": "GB411901,3"
+      },
+      "original": "よっ、様子見に来たのかい？\n",
+      "translation": "여어, 상태를 보러 온 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0062",
+      "channel": 1,
+      "context": {
+        "face": "1070102,0,0050101",
+        "voice": "GB411901,3",
+        "speaker": "1,0010101"
+      },
+      "original": "うん、おじゃまするよ。\nふたりは休憩中かな？\n",
+      "translation": "응, 실례할게. 둘은 휴식 중이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0063",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "1070102,0,0050101",
+        "voice": "GB411902,3"
+      },
+      "original": "はい、小休止です。\n",
+      "translation": "네, 잠시 쉬는 중입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0064",
+      "channel": 1,
+      "context": {
+        "face": "1070102,0,0050204",
+        "voice": "GB411903,3",
+        "speaker": "5,0050101"
+      },
+      "original": "あたしは、もう今日はいいんじゃないかって\n言ってるんだけどねぇ。\n",
+      "translation": "난 이제 오늘은 이만해도 되지 않을까\n싶는데 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0065",
+      "channel": 1,
+      "context": {
+        "voice": "GB411904,3",
+        "speaker": "107,1070101",
+        "face": "1070302,0,-1"
+      },
+      "original": "ですが、まだ基礎的なトレーニングしか行なっ\nていません。\n肝心の操縦訓練も見ていただきたいんです。\n",
+      "translation": "하지만, 아직 기초적인 트레이닝밖에 하지\n않았습니다. 가장 중요한 조종 훈련도\n봐주셨으면 합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0066",
+      "channel": 1,
+      "context": {
+        "face": "1070302,0,0050103",
+        "voice": "GB411905,3",
+        "speaker": "5,0050101"
+      },
+      "original": "いいよ。\n見なくても、だいたい想像はつくから。\n",
+      "translation": "됐어. 안 봐도 대충 짐작은 가니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0067",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "1070302,0,0050103",
+        "voice": "GB411905,3"
+      },
+      "original": "おいおい、フォルテ……？\n",
+      "translation": "이봐, 포르테……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0068",
+      "channel": 1,
+      "context": {
+        "face": "1070207,0,-1",
+        "voice": "GB411906,3",
+        "speaker": "107,1070101"
+      },
+      "original": "……確かに、フォルテ先輩からご覧になれば、\n私の技量はまだまだかもしれません。\nでも、だからこそ……。\n",
+      "translation": "……확실히, 포르테 선배가 보시기에는 제\n기량이 아직 부족할지도 모릅니다. 하지만\n그렇기에 더욱…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0069",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050204",
+        "voice": "GB411907,3",
+        "speaker": "5,0050101"
+      },
+      "original": "カン違いするんじゃないよ。\n別にあたしは、あんたの実力を疑ってるワケ\nじゃない。\n",
+      "translation": "착각하지 마. 딱히 내가 네 실력을\n의심하는 건 아니니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0070",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050101",
+        "voice": "GB411908,3",
+        "speaker": "5,0050101"
+      },
+      "original": "この前の戦いぶりを見れば、ちとせの腕前は\nだいたいわかったからね。\n",
+      "translation": "지난번 전투를 보면 치토세의 솜씨는 대충\n알 수 있으니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0071",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "-1,0,0050101",
+        "voice": "GB411908,3"
+      },
+      "original": "つまり、ちとせは優秀な生徒ってことだね？\n",
+      "translation": "그러니까, 치토세는 우수한 학생라는\n뜻이네？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0072",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB411909,3",
+        "face": "-1,0,0050102"
+      },
+      "original": "まぁ、そうとも言えるかもね。\n",
+      "translation": "뭐, 그렇게 말할 수도 있겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0073",
+      "channel": 1,
+      "context": {
+        "voice": "GB411910,3",
+        "speaker": "107,1070101",
+        "face": "1070101,0,0050102"
+      },
+      "original": "フォルテ先輩にそう言っていただけるなんて、\n光栄です。\n",
+      "translation": "포르테 선배님께 그런 말씀을 듣다니,\n영광입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0074",
+      "channel": 1,
+      "context": {
+        "voice": "GB411911,3",
+        "speaker": "107,1070101",
+        "face": "1070101,0,0050102"
+      },
+      "original": "でも、やはり私は新米ですから。\n実戦経験豊富なフォルテ先輩に、ぜひとも教\nえをたまわりたいんです。\n",
+      "translation": "하지만 역시 저는 신참이니까요. 실전\n경험이 풍부한 포르테 선배님께 꼭\n가르침을 받고 싶습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0075",
+      "channel": 1,
+      "context": {
+        "face": "1070101,0,0050102",
+        "voice": "GB411911,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ほら、フォルテ。\n本人も、やる気十分みたいだよ。\n",
+      "translation": "봐, 포르테. 본인도 의욕이 넘치는 것\n같아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0076",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050103",
+        "voice": "GB411912,3",
+        "speaker": "5,0050101"
+      },
+      "original": "わかった、わかった。\n休憩はもういいのかい？\n",
+      "translation": "알았어, 알았다고. 휴식은 이제 끝난\n거니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0077",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "1070103,0,0050103",
+        "voice": "GB411913,3"
+      },
+      "original": "はい、大丈夫です。\nよろしくお願いします。\n",
+      "translation": "네, 괜찮습니다. 잘 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0078",
+      "channel": 1,
+      "context": {
+        "voice": "GB411914,3",
+        "speaker": "5,0050101",
+        "face": "1070103,0,0050101"
+      },
+      "original": "そんじゃタクト、あたしらはこれで。\n",
+      "translation": "그럼 택트, 우리들은 이만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0079",
+      "channel": 1,
+      "context": {
+        "face": "1070103,0,0050101",
+        "voice": "GB411914,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ああ、がんばってくれよ、ふたりとも。\n",
+      "translation": "아아, 둘 다 힘내라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0080",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "1070102,0,0050101",
+        "voice": "GB411915,3"
+      },
+      "original": "では、失礼いたします。\n",
+      "translation": "그럼, 실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0081",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB411915,3"
+      },
+      "original": "……フォルテのやつ、なんだかんだ言って、\nちとせを認めてるところもあるみたいだな。\nこの調子なら、うまくやっていけそうだ。\n",
+      "translation": "……포르테 녀석, 이래저래 말은 해도\n치토세를 인정하는 듯하네. 이 정도면 잘\n해나갈 수 있겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0082",
+      "channel": 1,
+      "context": {
+        "voice": "GB411915,3",
+        "speaker": "1,0010101",
+        "face": "0,0,0"
+      },
+      "original": "フォルテ、いるかい？\n",
+      "translation": "포르테, 있어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0083",
+      "channel": 1,
+      "context": {
+        "voice": "GB412000,3",
+        "speaker": "5,0050101",
+        "face": "0,0,0"
+      },
+      "original": "ああ、タクト。\n入っていいよ。\n",
+      "translation": "아아, 택트. 들어와도 돼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0084",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB412000,3",
+        "speaker": "1,0010101"
+      },
+      "original": "お疲れさま、フォルテ。\n",
+      "translation": "수고했어, 포르테.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0085",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB412001,3",
+        "speaker": "5,0050101"
+      },
+      "original": "タクトもね。\n……ほら、コーヒー。\n",
+      "translation": "택트도 말이야. ……자, 커피.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0086",
+      "channel": 1,
+      "context": {
+        "voice": "GB412001,3",
+        "speaker": "1,0010101",
+        "face": "0,0050101,0"
+      },
+      "original": "サンキュー、いただくよ。\n",
+      "translation": "땡큐, 잘 마실게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0087",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB412001,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ん……？\n今日は、いつもより砂糖が多めに入ってるね。\n",
+      "translation": "음……？ 오늘은 평소보다 설탕이 많이\n들어있네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0088",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB412002,3"
+      },
+      "original": "そのほうがいいかと思ってね。\n甘すぎたかな？\n",
+      "translation": "그게 더 나을 것 같아서 말이야. 너무\n달랐나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0089",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB412002,3",
+        "speaker": "1,0010101"
+      },
+      "original": "いや、オレも歩き回って疲れてたから、これ\nぐらいの甘さがちょうどいいよ。\n",
+      "translation": "아니, 나도 돌아다녀서 피곤했으니까, 이\n정도의 단맛이 딱 좋아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0090",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "5,0050101",
+        "voice": "GB412003,3"
+      },
+      "original": "……で？\n単に見回りついでに来たってわけじゃないん\nだろ？\n",
+      "translation": "……그래서？ 단순히 순찰하는 김에 온 건\n아니지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0091",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB412003,3",
+        "face": "0,0050204,0"
+      },
+      "original": "はは、さすがはフォルテ。\nちとせの訓練はどんな感じかって聞きたくて\nさ。\n",
+      "translation": "하하, 역시 포르테. 치토세의 훈련은 어떤\n느낌인지 물어보고 싶어서 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0092",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB412004,3",
+        "face": "0,0050102,0"
+      },
+      "original": "別に、なーんも問題なし。\n言われたことの飲み込みは早いし、身体能力\nも悪くない。\n",
+      "translation": "딱히, 아무 문제 없어. 시킨 것에 대한\n이해도 빠르고, 신체 능력도 나쁘지 않아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0093",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB412004,3",
+        "face": "0,0050102,0"
+      },
+      "original": "その上、まじめで熱心ときてる。\n心配はなさそうだね。\n",
+      "translation": "게다가 성실하고 열심이기까지 하니까.\n걱정은 없을 것 같네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0094",
+      "channel": 1,
+      "context": {
+        "voice": "GB412005,3",
+        "speaker": "5,0050101",
+        "face": "0,0050204,0"
+      },
+      "original": "さぁて、どうかね……。\n",
+      "translation": "글쎄, 어떨까나…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0095",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050204,0",
+        "voice": "GB412005,3"
+      },
+      "original": "何か気になることでもあるの？\n",
+      "translation": "뭔가 신경 쓰이는 거라도 있어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0096",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050103,0",
+        "voice": "GB412006,3"
+      },
+      "original": "いや、別に。\nたった１日、訓練を見ただけじゃ、まだなん\nとも言えないしね。\n",
+      "translation": "아니, 딱히. 고작 하루, 훈련을 본\n것만으로는 아직 뭐라 말할 수 없으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0097",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB412007,3",
+        "speaker": "5,0050101"
+      },
+      "original": "それで、用事はもうすんだのかい？\n",
+      "translation": "그래서, 볼일은 이제 다 끝난 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0098",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050101,0",
+        "voice": "GB412007,3"
+      },
+      "original": "ああ、フォルテから話を聞きたかっただけだ\nから。\n",
+      "translation": "아아, 포르테한테 이야기를 듣고 싶었을\n뿐이니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0099",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB412008,3"
+      },
+      "original": "じゃあ、今度はあたしから用があるんだけど。\n",
+      "translation": "그럼, 이번에는 나한테 볼일이 있는데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0100",
+      "channel": 1,
+      "context": {
+        "voice": "GB412009,3",
+        "speaker": "5,0050101",
+        "face": "0,0050103,0"
+      },
+      "original": "コーヒーもう１杯、付き合ってもらえるかい？\n",
+      "translation": "커피 한 잔 더, 같이 해줄 수 있을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0101",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050103,0",
+        "voice": "GB412009,3"
+      },
+      "original": "……ああ、喜んで。\n",
+      "translation": "……아아, 기꺼이.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0102",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB412100,3"
+      },
+      "original": "あ、タクトさん。\n",
+      "translation": "아, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0103",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412100,3",
+        "speaker": "1,0010101"
+      },
+      "original": "やあ、ちとせ。\nフォルテにシミュレーションを見てもらって、\nどうだった？\n",
+      "translation": "안녕, 치토세. 포르테에게 시뮬레이션을\n보여줬는데 어땠어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0104",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB412102,3"
+      },
+      "original": "今日は基本的なところを見ていただいただけ\nでしたが、それでも有意義なものでした。\n",
+      "translation": "오늘은 기본적인 부분을 봐주신\n것뿐이었지만, 그래도 유의미한\n시간이었습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0105",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070305,0",
+        "voice": "GB412103,3"
+      },
+      "original": "あこがれのエンジェル隊の方から直接指導を\n受けられるなんて、夢のようです。\n",
+      "translation": "동경하는 엔젤대 분으로부터 직접 지도를\n받다니, 꿈만 같아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0106",
+      "channel": 1,
+      "context": {
+        "face": "0,1070305,0",
+        "voice": "GB412103,3",
+        "speaker": "1,0010201"
+      },
+      "original": "ははは、大げさだなぁ。\nそれに、ちとせだってエンジェル隊の隊員な\nんだぞ。\n",
+      "translation": "하하하, 과장이 심하네. 게다가 치토세도\n엔젤대 대원이잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0107",
+      "channel": 1,
+      "context": {
+        "face": "0,1070304,0",
+        "voice": "GB412104,3",
+        "speaker": "107,1070101"
+      },
+      "original": "あ、そうですね。\nついうっかり……。\n",
+      "translation": "아, 그렇네요. 저도 모르게…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0108",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB412105,3",
+        "face": "0,1070101,0"
+      },
+      "original": "ですが、やはり私は、まだ未熟です。\nもっともっとフォルテ先輩に指導していただ\nいて、早く一人前にならなければ。\n",
+      "translation": "하지만 역시 저는 아직 미숙합니다. 좀 더\n좀 더 포르테 선배님께 지도를 받아서,\n빨리 1인분은 해내야 해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0109",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412106,3",
+        "speaker": "107,1070101"
+      },
+      "original": "自分はエンジェル隊の一員だと胸を張って言\nえるように、がんばります。\n",
+      "translation": "스스로가 엔젤대의 일원이라고 가슴을 펴고\n말할 수 있도록, 노력하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0110",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB412106,3"
+      },
+      "original": "うんうん、そうか……。\n",
+      "translation": "응응, 그렇구나…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0111",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0050101,0,1070101",
+        "voice": "GB412200,3"
+      },
+      "original": "あ、タクトさん。\n先ほどは失礼しました。\n",
+      "translation": "아, 택트 씨. 아까는 실례했습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0112",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070101",
+        "voice": "GB412200,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ふたりとも、こんなところで何やってるんだ\nい？\n",
+      "translation": "둘 다, 이런 곳에서 뭘 하고 있는 거니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0113",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0050204,0,-1",
+        "voice": "GB412201,3"
+      },
+      "original": "何って、訓練に決まってるだろ？\n",
+      "translation": "뭐냐니, 훈련인 게 당연하잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0114",
+      "channel": 1,
+      "context": {
+        "voice": "GB412202,3",
+        "speaker": "107,1070101",
+        "face": "0050204,0,1070102"
+      },
+      "original": "倉庫の重力発生装置をオフにして、無重力下\nでの行動を訓練するんです。\n",
+      "translation": "창고의 중력 발생 장치를 꺼서, 무중력\n상태에서의 행동을 훈련하는 거예요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0115",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070102",
+        "voice": "GB412203,3",
+        "speaker": "5,0050101"
+      },
+      "original": "ここなら誰にも迷惑はかかんないし、無重力\nでコンテナが散らばれば、格好の障害物にも\nなるしね。\n",
+      "translation": "여기라면 누구에게도 폐를 끼치지 않고,\n무중력 때문에 컨테이너가 흩어지면 아주\n좋은 장애물도 되니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0116",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0050101,0,1070102",
+        "voice": "GB412203,3"
+      },
+      "original": "なるほど。\n宇宙空間での戦闘を想定した動き方を練習し\nようっていうわけか。\n",
+      "translation": "그렇구나. 우주 공간에서의 전투를 상정한\n움직임을 연습하려는 거군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0117",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070102",
+        "voice": "GB412204,3",
+        "speaker": "5,0050101"
+      },
+      "original": "まぁ、やることはただの鬼ごっこだけどね。\n",
+      "translation": "뭐, 하는 일은 그냥 술래잡기지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0118",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070102",
+        "voice": "GB412205,3",
+        "speaker": "107,1070101"
+      },
+      "original": "単純な方法ですが、実戦時における姿勢制御\nや、敵の位置の把握などに役立つはずです。\n",
+      "translation": "단순한 방법입니다만, 실전 시의 자세\n제어나 적의 위치 파악 등에 도움이 될\n겁니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0119",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0050101,0,1070102",
+        "voice": "GB412205,3"
+      },
+      "original": "なるほどねぇ。\nパイロットの訓練って、こういうこともする\nんだな。\n",
+      "translation": "그렇구나. 파일럿 훈련이란 건 이런 것도\n하는구나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0120",
+      "channel": 1,
+      "context": {
+        "face": "0050102,0,1070102",
+        "voice": "GB412206,3",
+        "speaker": "5,0050101"
+      },
+      "original": "タクトもやってみるかい？\n",
+      "translation": "택트도 해볼래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0121",
+      "channel": 1,
+      "context": {
+        "face": "0050102,0,1070102",
+        "voice": "GB412206,3",
+        "speaker": "1,0010105"
+      },
+      "original": "オレには、無重力でふわふわ浮きながら昼寝\nするほうが性に合ってるなぁ。\n",
+      "translation": "나한테는, 무중력에서 둥실둥실 떠다니며\n낮잠 자는 게 적성에 맞아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0122",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0050102,0,1070201",
+        "voice": "GB412207,3"
+      },
+      "original": "お昼寝……ですか？\n",
+      "translation": "낮잠…… 말인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0123",
+      "channel": 1,
+      "context": {
+        "face": "0050804,0,1070201",
+        "voice": "GB412208,3",
+        "speaker": "5,0050101"
+      },
+      "original": "ははは、あんたらしいね。\n",
+      "translation": "하하하, 너답네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0124",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070201",
+        "voice": "GB412209,3",
+        "speaker": "5,0050101"
+      },
+      "original": "じゃあ、ちとせ。\n始めようか。\n",
+      "translation": "그럼, 치토세. 시작할까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0125",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070101",
+        "voice": "GB412210,3",
+        "speaker": "107,1070101"
+      },
+      "original": "あ、はい。\nよろしくお願いします、フォルテ先輩。\n",
+      "translation": "아, 네. 잘 부탁드립니다, 포르테 선배.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0126",
+      "channel": 1,
+      "context": {
+        "voice": "GB412210,3",
+        "speaker": "1,0010101",
+        "face": "0050101,0,1070101"
+      },
+      "original": "それじゃオレは、そろそろ行くよ。\nふたりとも、がんばってね。\n",
+      "translation": "그럼 난 이만 가볼게. 둘 다, 힘내.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0127",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0050101,0,1070102",
+        "voice": "GB412211,3"
+      },
+      "original": "はい、がんばります。\n",
+      "translation": "네, 열심히 하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0128",
+      "channel": 1,
+      "context": {
+        "voice": "GB412212,3",
+        "speaker": "5,0050101",
+        "face": "0050102,0,1070102"
+      },
+      "original": "じゃあね、タクト。\n",
+      "translation": "잘 가, 택트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0129",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0050102,0,1070102",
+        "voice": "GB412212,3"
+      },
+      "original": "……ん？\nあそこのトレーニングマシーンにいるのは、\nちとせじゃないか。\n",
+      "translation": "……응？ 저기 트레이닝 머신에 있는 건,\n치토세 아니야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0130",
+      "channel": 1,
+      "context": {
+        "voice": "GB412300,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "あ、タクトさん。\n今日はよくお会いしますね。\n",
+      "translation": "아, 택트 씨. 오늘은 자주 마주치네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0131",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412300,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そうだね。\nちとせは、体力トレーニングをしていたの？\n",
+      "translation": "그렇네. 치토세는, 체력 트레이닝을 하고\n있었어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0132",
+      "channel": 1,
+      "context": {
+        "voice": "GB412301,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "はい、そうです。\n基礎体力がなければ、パイロットはつとまり\nませんから。\n",
+      "translation": "네, 그렇습니다. 기초 체력이 없으면\n파일럿은 성립되지 않으니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0133",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412301,3",
+        "speaker": "1,0010102"
+      },
+      "original": "でも、フォルテの姿が見えないようだけど？\n",
+      "translation": "하지만, 포르테의 모습이 안 보이던데？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0134",
+      "channel": 1,
+      "context": {
+        "voice": "GB412302,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "フォルテ先輩でしたら、コンビニに飲み物を\n買いに行っておられます。\n",
+      "translation": "포르테 선배라면, 편의점에 음료수를 사러\n가셨습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0135",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412302,3",
+        "speaker": "1,0010101"
+      },
+      "original": "なるほど、差し入れか。\nさすがはフォルテ、気が利くな。\n",
+      "translation": "그렇군, 간식인가. 역시 포르테, 센스가\n좋네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0136",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB412303,3"
+      },
+      "original": "わざわざ先輩が買いに行かれることはありま\nせんと、何度も申し上げたのですが……。\n",
+      "translation": "굳이 선배가 사러 가실 필요는 없다고 몇\n번이나 말씀드렸습니다만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0137",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB412303,3",
+        "speaker": "1,0010101"
+      },
+      "original": "フォルテから、買い出しに行くって言い出し\nたんだろう？\nだったら、いいじゃないか。\n",
+      "translation": "포르테가, 장 보러 가겠다고 먼저 말한\n거지？ 그렇다면 됐잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0138",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB412303,3",
+        "speaker": "1,0010101"
+      },
+      "original": "それに、ちとせはちとせで、トレーニングが\nあるんだから。\n",
+      "translation": "게다가, 치토세는 치토세대로 트레이닝이\n있으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0139",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB412304,3"
+      },
+      "original": "はい……フォルテ先輩にもそう言われました。\n",
+      "translation": "네…… 포르테 선배도 그렇게\n말씀하셨습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0140",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070201,0",
+        "voice": "GB412304,3"
+      },
+      "original": "だと思った。\n別に気にしなくていいよ。\n",
+      "translation": "그럴 줄 알았다. 딱히 신경 쓰지 않아도\n돼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0141",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070201,0",
+        "voice": "GB412304,3"
+      },
+      "original": "フォルテだって、あんまり先輩だからって気\nをつかわれたくはないだろうし。\n",
+      "translation": "포르테도, 선배라고 해서 너무 신경 쓰이게\n하고 싶지는 않을 테니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0142",
+      "channel": 1,
+      "context": {
+        "voice": "GB412305,3",
+        "speaker": "107,1070101",
+        "face": "0,1070207,0"
+      },
+      "original": "それは、わかっているつもりなのですが……。\n",
+      "translation": "그건, 알고는 있습니다만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0143",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB412305,3",
+        "face": "0,1070207,0"
+      },
+      "original": "そう考え込む必要はないよ。\n要は、もっと気楽にしていればいいのさ。\n",
+      "translation": "그렇게 깊게 생각할 필요는 없어. 요점은,\n좀 더 마음을 편하게 가지면 된다는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0144",
+      "channel": 1,
+      "context": {
+        "voice": "GB412306,3",
+        "speaker": "107,1070101",
+        "face": "0,1070201,0"
+      },
+      "original": "はぁ……努力します。\n",
+      "translation": "하아…… 노력하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0145",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070201,0",
+        "voice": "GB412306,3"
+      },
+      "original": "うーん、気楽にする努力っていうのも、なん\nだかなぁ。\n",
+      "translation": "으음, 마음을 편하게 가지려는 노력이라는\n것도, 뭐랄까 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0146",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB412306,3",
+        "speaker": "1,0010101"
+      },
+      "original": "まぁいいや。\nともかく、トレーニングがんばってくれ。\n",
+      "translation": "뭐 됐어. 어쨌든, 트레이닝 열심히 해줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0147",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB412307,3"
+      },
+      "original": "はい、ありがとうございます。\n",
+      "translation": "네, 감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0148",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,1070102,0",
+        "voice": "GB412400,3"
+      },
+      "original": "それじゃ次は、作戦パターン・ＢＪ０３４で\nいくよ。\n",
+      "translation": "그럼 다음은, 작전 패턴・ＢＪ０３４로\n간다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0149",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070103",
+        "face": "0,1070102,0",
+        "voice": "GB412401,3"
+      },
+      "original": "はい、よろしくお願いします。\n",
+      "translation": "네, 잘 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0150",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB412401,3",
+        "speaker": "1,0010101"
+      },
+      "original": "やあ、がんばってるみたいだね。\n",
+      "translation": "야아, 열심히 하고 있는 모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0151",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0050802,0,0",
+        "voice": "GB412402,3"
+      },
+      "original": "なんだ、タクトじゃないか。\n見学に来たのかい？\n",
+      "translation": "뭐야, 택트잖아. 견학하러 온 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0152",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0050802,0,0",
+        "voice": "GB412402,3"
+      },
+      "original": "ああ、いよいよ実技訓練だって言ってたから、\n気になってね。\n",
+      "translation": "아아, 드디어 실기 훈련이라고 하길래\n궁금해서 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0153",
+      "channel": 1,
+      "context": {
+        "voice": "GB412403,3",
+        "speaker": "107,1070101",
+        "face": "0050802,0,1070102"
+      },
+      "original": "はい、フォルテ先輩にシミュレーションの監\n督をしていただいています。\n",
+      "translation": "네, 포르테 선배님께 시뮬레이션 감독을\n받고 있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0154",
+      "channel": 1,
+      "context": {
+        "face": "0050204,0,1070102",
+        "voice": "GB412404,3",
+        "speaker": "5,0050101"
+      },
+      "original": "監督っていっても、あたしはほとんど見てる\nだけだけどね。\n",
+      "translation": "감독이라고 해도, 난 거의 보고만 있는\n수준지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0155",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0050102,0,1070102",
+        "voice": "GB412405,3"
+      },
+      "original": "でも、こっちから何か指示を出すと、次には\nだいたい直ってるんだ。\n大したもんだよ。\n",
+      "translation": "하지만 이쪽에서 뭔가를 지시하면,\n다음번에는 대개 고쳐져 있더라고. 대단해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0156",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0050102,0,1070102",
+        "voice": "GB412405,3"
+      },
+      "original": "へぇ、ちとせは優秀なんだな。\n",
+      "translation": "헤에, 치토세는 우수하구나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0157",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB412406,3",
+        "face": "0050102,0,1070201"
+      },
+      "original": "いえ、まだまだです。\n自分でも、うまく操縦できていないと感じる\n部分が多くて……。\n",
+      "translation": "아니요, 아직 멀었습니다. 저 스스로도\n제대로 조종하지 못하고 있다고 느끼는\n부분이 많아서……\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0158",
+      "channel": 1,
+      "context": {
+        "voice": "GB412407,3",
+        "speaker": "107,1070101",
+        "face": "0050102,0,1070102"
+      },
+      "original": "その点、フォルテ先輩からいただく指示は、\nどれも理にかなっていて勉強になります。\n",
+      "translation": "그 점에 있어서, 포르테 선배님이 주시는\n지시는 모두 이치에 맞아서 공부가 됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0159",
+      "channel": 1,
+      "context": {
+        "voice": "GB412408,3",
+        "speaker": "107,1070101",
+        "face": "0050102,0,1070101"
+      },
+      "original": "後は、もっと訓練を重ねて、身体に覚えこま\nせていきます。\n",
+      "translation": "남은 건, 좀 더 훈련을 거듭해서 몸에\n익히는 것뿐입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0160",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0050101,0,1070101",
+        "voice": "GB412409,3"
+      },
+      "original": "まぁ、こればっかりは慣れが必要だからね。\n",
+      "translation": "뭐, 이건 어쩔 수 없이 익숙해지는 과정이\n필요하니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0161",
+      "channel": 1,
+      "context": {
+        "voice": "GB412409,3",
+        "speaker": "1,0010101",
+        "face": "0050101,0,1070101"
+      },
+      "original": "ちとせはマジメだし、きっとすぐに覚えるよ。\n",
+      "translation": "치토세는 성실하니까, 분명 금방 익힐\n거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0162",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070102",
+        "voice": "GB412410,3",
+        "speaker": "107,1070101"
+      },
+      "original": "そう言っていただけると、励みになります。\n",
+      "translation": "그렇게 말씀해 주시니 힘이 됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0163",
+      "channel": 1,
+      "context": {
+        "face": "0050101,0,1070101",
+        "voice": "GB412411,3",
+        "speaker": "107,1070101"
+      },
+      "original": "フォルテ先輩、もう一度シミュレーションを\nお願いしてもよろしいですか？\n",
+      "translation": "포르테 선배, 다시 한번 시뮬레이션을\n부탁드려도 될까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0164",
+      "channel": 1,
+      "context": {
+        "face": "0050102,0,1070101",
+        "voice": "GB412412,3",
+        "speaker": "5,0050101"
+      },
+      "original": "わかった。\nさっき言ったとおり、ＢＪ０３４でいくよ。\n",
+      "translation": "알았어. 아까 말한 대로, ＢＪ０３４로\n갈게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0165",
+      "channel": 1,
+      "context": {
+        "voice": "GB412413,3",
+        "speaker": "107,1070101",
+        "face": "0050102,0,1070101"
+      },
+      "original": "よろしくお願いします。\n",
+      "translation": "잘 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0166",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0050102,0,1070101",
+        "voice": "GB412413,3"
+      },
+      "original": "じゃあ、訓練のじゃましちゃ悪いから、オレ\nは失礼するよ。\nがんばってくれ。\n",
+      "translation": "그럼, 훈련에 방해가 되면 안 되니까 난\n이만 실례할게. 힘내라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00076800:dialogue:0167",
+      "channel": 1,
+      "context": {
+        "voice": "GB412414,3",
+        "speaker": "107,1070101",
+        "face": "0050102,0,1070102"
+      },
+      "original": "はい、タクトさんもお疲れさまです。\n",
+      "translation": "네, 택트 씨도 수고하셨습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

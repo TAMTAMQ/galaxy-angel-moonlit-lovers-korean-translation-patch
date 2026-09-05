@@ -1,0 +1,6494 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000ac000.txt",
+    "encoding": "cp932",
+    "sha256": "2b8ce7337acb5638fd6507259d072d14e81ef92d5db7f6607ede034b6525693c",
+    "dialogue_count": 505
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103"
+      },
+      "original": "あっ、こらこら。\n待てー！\n",
+      "translation": "앗, 이봐 이봐. 기다려ー！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010402"
+      },
+      "original": "……うっ、また逃げられたか。\n宇宙ウサギは、すばしっこいなぁ。\n",
+      "translation": "……윽, 또 놓쳤나. 우주 토끼는 정말\n빠르네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060905,0",
+        "voice": "GB560000,3"
+      },
+      "original": "タクトさん……そんなに追い回すと、かえっ\nて驚いて、逃げてしまいます。\n",
+      "translation": "택트 씨…… 그렇게 뒤쫓아 가면, 오히려\n놀라서 도망가 버립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0060905,0",
+        "voice": "GB560000,3"
+      },
+      "original": "だって、いくら散歩させるにしても、放って\nおいたら、見失っちゃうぞ？\n",
+      "translation": "그치만, 아무리 산책시킨다고 해도, 그냥\n내버려 두면 놓쳐버린다고？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560001,3"
+      },
+      "original": "いえ、大丈夫です。\n",
+      "translation": "아니요, 괜찮습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0060701,0",
+        "voice": "GB560001,3"
+      },
+      "original": "大丈夫ってことはないだろ？\n特にこの宇宙ウサギ……ネギネギだっけ？\nこいつがまた、動きが速くて……。\n",
+      "translation": "괜찮을 리가 없잖아？ 특히 이 우주\n토끼…… 네기네기였나？ 이 녀석이 또,\n움직임이 빨라서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060903,0",
+        "voice": "GB560002,3"
+      },
+      "original": "……その子は、ルギルギです。\nネギネギは、向こうにいる、シッポの大きな\n子です。\n",
+      "translation": "……그 아이는, 루길루기입니다.\n네기네기는 저쪽에 있는, 꼬리가 큰\n아이예요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0060903,0",
+        "voice": "GB560002,3"
+      },
+      "original": "あれ？\nじゃあ、こっちはムギムギ？\n",
+      "translation": "어라？ 그럼, 이쪽은 무기무기？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560003,3"
+      },
+      "original": "いいえ……ムギムギは、私の足もとにいます。\n……もっと目が、くりっとしています。\n",
+      "translation": "아니요…… 무기무기는 제 발치에\n있습니다. ……눈이 좀 더 동글동글해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0060701,0",
+        "voice": "GB560003,3"
+      },
+      "original": "えーと……シッポが大きいのがネギネギで、\n目がくりっとしてるのが……ルギルギだっけ？\nああもう、どれがどれやら……。\n",
+      "translation": "음…… 꼬리가 큰 게 네기네기고, 눈이\n동글동글한 게…… 루길루기였나？ 아아\n정말, 뭐가 뭔지 모르겠어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "face": "0,0060701,0",
+        "voice": "GB560003,3"
+      },
+      "original": "……っとっと……うわっ！\n",
+      "translation": "……앗, 어라……우와！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0",
+        "voice": "GB560003,3"
+      },
+      "original": "あたたた……。\n",
+      "translation": "아얏야야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060703,0",
+        "voice": "GB560004,3"
+      },
+      "original": "タクトさん、大丈夫ですか……？\n",
+      "translation": "택트 씨, 괜찮으세요……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "0,0060703,0",
+        "voice": "GB560004,3",
+        "speaker": "1,0010105"
+      },
+      "original": "平気、平気。\nちょっと転んだだけだから。\n",
+      "translation": "괜찮아, 괜찮아. 그냥 좀 넘어진\n것뿐이니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060703,0",
+        "voice": "GB560005,3"
+      },
+      "original": "あ……ヒザから血が……。\n……今、治します。\n",
+      "translation": "아…… 무릎에서 피가……. ……지금,\n치료할게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060703,0",
+        "voice": "GB560005,3"
+      },
+      "original": "ありがとう、ヴァニラ。\n",
+      "translation": "고마워, 바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0060703,0",
+        "voice": "GB560005,3"
+      },
+      "original": "すごいな、一瞬で治ったよ。\n",
+      "translation": "대단하네, 순식간에 나았어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560006,3",
+        "speaker": "6,0060101"
+      },
+      "original": "最近……治療の効果が上がっているようです。\n",
+      "translation": "최근…… 치료 효과가 올라가고 있는 것\n같습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0060701,0",
+        "voice": "GB560006,3"
+      },
+      "original": "そうなのか？\n",
+      "translation": "그런 건가？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060701,0",
+        "voice": "GB560006,3"
+      },
+      "original": "この間の戦闘でも、ハーベスターの活躍はす\nごかったしなぁ。\n確かに最近、調子がいいみたいだね。\n",
+      "translation": "지난번 전투에서도, 하베스터의 활약은\n대단했으니까 말이야. 확실히 최근, 상태가\n좋은 것 같네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060905,0",
+        "voice": "GB560007,3"
+      },
+      "original": "こんなときですし……。\n少しでも、お役に立てたら……と。\n",
+      "translation": "이런 때니까요……. 조금이라도, 도움이\n된다면…… 하고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060905,0",
+        "voice": "GB560007,3"
+      },
+      "original": "ヴァニラは、がんばり屋だからな。\nでも、あんまり無理しすぎちゃダメだぞ？\n",
+      "translation": "바닐라는, 성실하니까 말이야. 하지만,\n너무 무리하면 안 된다？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "speaker": "6,0060101",
+        "voice": "GB560008,3"
+      },
+      "original": "はい。\n",
+      "translation": "네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "17,0170101",
+        "face": "0,0,0",
+        "voice": "GB560009,3"
+      },
+      "original": "マイヤーズ司令、作戦会議の時間です。\n",
+      "translation": "마이어스 사령관님, 작전 회의 시간입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "voice": "GB560009,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "おっと、もうそんな時間か。\nすぐ行くよ。\n",
+      "translation": "앗, 벌써 그런 시간인가. 금방 갈게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560009,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ヴァニラ、会議にはエンジェル隊も呼ばれて\nるんだろ？\n一緒に行こうか。\n",
+      "translation": "바닐라, 회의에는 엔젤대도 불려 왔지？\n같이 갈까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560010,3"
+      },
+      "original": "はい、タクトさん。\n",
+      "translation": "네, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0060701,0",
+        "voice": "GB560010,3"
+      },
+      "original": "あ……でも、宇宙ウサギたちをクジラルーム\nに戻さないと……。\n",
+      "translation": "아…… 하지만, 우주 토끼들을 쿠지라\n룸으로 돌려보내야 해서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560011,3"
+      },
+      "original": "いえ……このままでいいです。\n最近は、散歩に連れてきたら、しばらく好き\nなように放しておくことにしているので……。\n",
+      "translation": "아니요…… 이대로도 괜찮아요. 요즘은,\n산책을 데려오면 한동안 원하는 대로\n내버려 두기로 해서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GB560011,3",
+        "speaker": "1,0010102",
+        "face": "0,0060702,0"
+      },
+      "original": "でも、逃げちゃったら、どうするんだい？\n",
+      "translation": "하지만, 도망가 버리면 어떡할 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560012,3"
+      },
+      "original": "気がすむまで遊ぶと、お花畑で丸まって寝て\nしまうんです。\n",
+      "translation": "실컷 놀고 나면, 꽃밭에서 몸을 웅크리고\n자버린답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560013,3",
+        "speaker": "6,0060101"
+      },
+      "original": "それに……呼べば、ちゃんと戻ってきます。\n",
+      "translation": "게다가…… 부르면, 제대로 돌아와요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "voice": "GB560013,3",
+        "speaker": "1,0010201",
+        "face": "0,0060702,0"
+      },
+      "original": "なーんだ。\nじゃあ、慌てて追いかける必要はなかったの\nか。\n",
+      "translation": "뭐야. 그럼 서둘러 뒤쫓아갈 필요는 없었던\n건가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560014,3",
+        "speaker": "6,0060101"
+      },
+      "original": "はい……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560014,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そういうことだったのか。\nヴァニラに、とってもなついてるんだな。\n",
+      "translation": "그런 거였나. 바닐라가 엄청나게 잘\n따르는구나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "voice": "GB560015,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "はい……。\n大事な、友達です……。\n",
+      "translation": "네……. 소중한, 친구예요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060702,0",
+        "voice": "GB560015,3"
+      },
+      "original": "じゃ、この子たちには、もう少し遊んでいて\nもらうとして……オレたちは行ってこようか。\n",
+      "translation": "그럼 이 아이들은 좀 더 놀게 놔두기로\n하고…… 우리들은 가볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0060702,0",
+        "voice": "GB560015,3"
+      },
+      "original": "タクト・マイヤーズ、参りました。\nお待たせして、すいません。\n",
+      "translation": "택트・마이어스, 도착했습니다. 기다리게\n해서 죄송합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0060101",
+        "voice": "GB560100,3",
+        "speaker": "6,0060101"
+      },
+      "original": "遅くなりました……。\n",
+      "translation": "늦었습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB560101,3",
+        "face": "1070201,0,0"
+      },
+      "original": "タクトさん、何か問題でも？\n",
+      "translation": "택트 씨, 무슨 문제라도？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB560101,3",
+        "face": "1070201,0,0"
+      },
+      "original": "ああ、いや。\n単に遅れただけだよ。\n",
+      "translation": "아아, 아니. 그냥 늦었을 뿐이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "face": "1070201,0,0040301",
+        "voice": "GB560102,3",
+        "speaker": "4,0040101"
+      },
+      "original": "そうですわ。\n単にヴァニラさんと過ごすのが楽しくて、時\n間を忘れていらしただけですから。\n",
+      "translation": "맞아요. 그저 바닐라 씨와 보내는 것이\n즐거워서, 시간 가는 줄 모르고 계셨던\n것뿐이니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "1070201,0,0040301",
+        "voice": "GB560102,3"
+      },
+      "original": "ミ、ミント！？\nいや、あの……。\n",
+      "translation": "민, 민트！？ 아니, 저기…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "face": "0030105,0,0040301",
+        "voice": "GB560103,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ぐっしっしっし……。\n",
+      "translation": "구시시시시…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "voice": "GB560103,3",
+        "speaker": "1,0010105",
+        "face": "0030105,0,0040301"
+      },
+      "original": "あはは、は……。\n",
+      "translation": "아하하, 하…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560103,3",
+        "speaker": "1,0010101"
+      },
+      "original": "さてと、それじゃオレも……。\n",
+      "translation": "자, 그럼 나도…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "speaker": "9,0090401",
+        "face": "0,0090402,0",
+        "voice": "GB560200,3"
+      },
+      "original": "ああ、タクト。\nちょっと待ってくれ。\n",
+      "translation": "아아, 택트. 잠깐 기다려 줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0090402,0",
+        "voice": "GB560200,3"
+      },
+      "original": "はい？\n",
+      "translation": "네？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0,0100104",
+        "voice": "GB560201,3"
+      },
+      "original": "ヴァニラ、あなたも残ってください。\n",
+      "translation": "바닐라, 당신도 남으세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060703,0",
+        "voice": "GB560202,3"
+      },
+      "original": "はい……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560202,3",
+        "speaker": "1,0010102"
+      },
+      "original": "お話とはなんでしょうか？\n",
+      "translation": "이야기란 무엇인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "speaker": "9,0090401",
+        "face": "0,0090601,0",
+        "voice": "GB560203,3"
+      },
+      "original": "うむ……それがな……。\n",
+      "translation": "음…… 그게 말이지…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "face": "0110503,0,0",
+        "voice": "GB560204,3",
+        "speaker": "11,0110401"
+      },
+      "original": "……そなたたちに……その……。\n",
+      "translation": "……그대들에게…… 그게…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0110503,0,0100103",
+        "voice": "GB560205,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0055",
+      "channel": 1,
+      "context": {
+        "face": "0110503,0,0100103",
+        "voice": "GB560205,3",
+        "speaker": "1,0010102"
+      },
+      "original": "あの、どうしたんですか？\n",
+      "translation": "저기, 왜 그러시나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0056",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060101,0",
+        "voice": "GB560300,3"
+      },
+      "original": "……了解しました。\n",
+      "translation": "……알겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0057",
+      "channel": 1,
+      "context": {
+        "face": "0,0060101,0",
+        "speaker": "1,0010103",
+        "voice": "GB560300,3"
+      },
+      "original": "ヴァニラ！？\n",
+      "translation": "바닐라！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0058",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060105,0",
+        "voice": "GB560301,3"
+      },
+      "original": "……お引き受けします。\n",
+      "translation": "……맡겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0059",
+      "channel": 1,
+      "context": {
+        "voice": "GB560302,3",
+        "speaker": "10,0100101",
+        "face": "0,0,0100104"
+      },
+      "original": "本当に……よろしいのですね？\n",
+      "translation": "정말로…… 괜찮은 건가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0060",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560303,3",
+        "speaker": "6,0060101"
+      },
+      "original": "はい……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0061",
+      "channel": 1,
+      "context": {
+        "face": "0110405,0,0",
+        "voice": "GB560304,3",
+        "speaker": "11,0110401"
+      },
+      "original": "そなたの勇気に、感謝する……。\n",
+      "translation": "그대의 용기에, 감사하겠노라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0062",
+      "channel": 1,
+      "context": {
+        "voice": "GB560304,3",
+        "speaker": "1,0010302",
+        "face": "0110405,0,0"
+      },
+      "original": "ちょっと、待ってください！\nそんな……！\n",
+      "translation": "잠깐, 기다려 주세요！ 그럴 수가……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0063",
+      "channel": 1,
+      "context": {
+        "face": "0,0090402,0",
+        "speaker": "9,0090401",
+        "voice": "GB560305,3"
+      },
+      "original": "タクト、話は最後まで聞け。\n……ひとりでは、ない。\n",
+      "translation": "택트, 이야기는 끝까지 들어라.\n……혼자가, 아니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0064",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0100102",
+        "voice": "GB560306,3",
+        "speaker": "10,0100101"
+      },
+      "original": "そうです。\nパイロットのほかに、もう１名。\nサポート役が必要なのです。\n",
+      "translation": "그렇습니다. 파일럿 외에, 또 한 명.\n서포트 역할이 필요합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0065",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0100102",
+        "voice": "GB560306,3",
+        "speaker": "1,0010102"
+      },
+      "original": "もうひとり？\n",
+      "translation": "한 명 더？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0066",
+      "channel": 1,
+      "context": {
+        "speaker": "108,1080101",
+        "face": "0,1080202,0",
+        "voice": "GB560307,3"
+      },
+      "original": "なにぶん急ごしらえな上に、いろいろゴテゴ\nテくっついちゃったからねぇ。\n",
+      "translation": "아무래도 급하게 만든 데다, 이것저것\n덕지덕지 붙어버렸으니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0067",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0,0100102",
+        "voice": "GB560308,3"
+      },
+      "original": "サポート役は、パイロットのテンションを最\n高の状態に導ける相手であれば、より理想的\nです。\n",
+      "translation": "서포트 역할은, 파일럿의 텐션을 최상의\n상태로 이끌 수 있는 상대라면, 더욱\n이상적입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0068",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0,0100102",
+        "voice": "GB560309,3"
+      },
+      "original": "ですから、その相手は、パイロット自身の意\n見を聞いて決めたいと思っています。\n",
+      "translation": "그러므로, 그 상대는 파일럿 자신의 의견을\n듣고 결정하고 싶습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0069",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060103,0",
+        "voice": "GB560310,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0070",
+      "channel": 1,
+      "context": {
+        "speaker": "9,0090401",
+        "face": "0,0090601,0",
+        "voice": "GB560311,3"
+      },
+      "original": "もちろん、今すぐに聞かれても、答えられん\nじゃろう。\nまだしばらく時間はある。\n",
+      "translation": "물론, 지금 당장 물어본다 해도, 대답할 순\n없겠지. 아직 시간은 좀 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0071",
+      "channel": 1,
+      "context": {
+        "face": "0,0090402,0",
+        "voice": "GB560312,3",
+        "speaker": "9,0090401"
+      },
+      "original": "だから、タクト。\nお前も、誰が適任かを考えてほしいんじゃ。\n",
+      "translation": "그러니까, 택트. 너도 누가 적임자인지\n생각해 줬으면 한다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0072",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0090402,0",
+        "voice": "GB560312,3"
+      },
+      "original": "しかし……。\n",
+      "translation": "하지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0073",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560313,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……了解しました。\nまた、後ほどうかがいます。\n",
+      "translation": "……알겠습니다. 그럼 나중에 다시\n찾아뵙겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0074",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560314,3",
+        "speaker": "6,0060101"
+      },
+      "original": "それでは……失礼します。\n",
+      "translation": "그럼…… 실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0075",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "face": "0,0,0",
+        "voice": "GB560314,3"
+      },
+      "original": "ヴァニラ……！\n",
+      "translation": "바닐라……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0076",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560314,3",
+        "speaker": "1,0010404"
+      },
+      "original": "……オレも失礼します！\nヴァニラ、待つんだ！\n",
+      "translation": "……나도 실례하겠다！ 바닐라, 기다려！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0077",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560314,3",
+        "speaker": "1,0010404"
+      },
+      "original": "……ヴァニラ、待ってくれ！\n",
+      "translation": "……바닐라, 기다려 줘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0078",
+      "channel": 1,
+      "context": {
+        "face": "0,0060201,0",
+        "voice": "GB560315,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0079",
+      "channel": 1,
+      "context": {
+        "voice": "GB560315,3",
+        "speaker": "1,0010403",
+        "face": "0,0060201,0"
+      },
+      "original": "もう１回、かけあってみよう。\nほかの方法だって……。\n",
+      "translation": "한 번 더, 말을 걸어보자. 다른\n방법이라도…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0080",
+      "channel": 1,
+      "context": {
+        "voice": "GB560316,3",
+        "speaker": "6,0060101",
+        "face": "0,0060201,0"
+      },
+      "original": "……いいえ。\n",
+      "translation": "……아니요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0081",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560317,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……誰かが、行かなければならないのです。\n",
+      "translation": "……누군가가, 가야만 합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0082",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0060105,0",
+        "voice": "GB560317,3"
+      },
+      "original": "それは……そう、だけど……。\n",
+      "translation": "그건…… 그래, 하지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0083",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560318,3",
+        "speaker": "6,0060101"
+      },
+      "original": "でしたら……。\n",
+      "translation": "그렇다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0084",
+      "channel": 1,
+      "context": {
+        "voice": "GB560319,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "私で……よかったと思っています。\n",
+      "translation": "저라서…… 다행이라고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0085",
+      "channel": 1,
+      "context": {
+        "voice": "GB560319,3",
+        "speaker": "1,0010102",
+        "face": "0,0060702,0"
+      },
+      "original": "ヴァニラ……。\n",
+      "translation": "바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0086",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "speaker": "6,0060101",
+        "voice": "GB560320,3"
+      },
+      "original": "ただ……。\n",
+      "translation": "다만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0087",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0060903,0",
+        "voice": "GB560320,3"
+      },
+      "original": "……サポート役、か。\n",
+      "translation": "……서포트 역할, 인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0088",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060903,0",
+        "voice": "GB560321,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0089",
+      "channel": 1,
+      "context": {
+        "face": "0,0060905,0",
+        "speaker": "6,0060101",
+        "voice": "GB560322,3"
+      },
+      "original": "少し……考えさせてください。\n",
+      "translation": "잠시…… 생각하게 해주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0090",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "speaker": "6,0060101",
+        "voice": "GB560323,3"
+      },
+      "original": "公園に、ムギムギたちを置いてきていますの\nで……。\n……失礼します。\n",
+      "translation": "공원에, 무기무기 일행을 두고\n왔으니……。……실례하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0091",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GB560323,3"
+      },
+      "original": "……ヴァニラ……。\n",
+      "translation": "……바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0092",
+      "channel": 1,
+      "context": {
+        "voice": "GB560323,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "決戦兵器に……ヴァニラが、乗る。\n",
+      "translation": "결전병기에…… 바닐라가, 타.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0093",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GB560323,3"
+      },
+      "original": "どんなに危険でも、ヴァニラの意志は変わら\nないだろう。\n……そういう子なんだ。\n",
+      "translation": "아무리 위험해도, 바닐라의 의지는 변하지\n않겠지. ……그런 아이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0094",
+      "channel": 1,
+      "context": {
+        "voice": "GB560323,3",
+        "speaker": "1,0010403",
+        "face": "0,0,0"
+      },
+      "original": "オレには、何もできないのか……？\n",
+      "translation": "나에게는, 아무것도 할 수 없는 건가……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0095",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "voice": "GB560323,3",
+        "face": "0,0,0"
+      },
+      "original": "……せめて、ヴァニラが万全の状態で作戦に\nのぞめるような……そんなサポート役を見つ\nけてあげなきゃ。\n",
+      "translation": "……적어도, 바닐라가 만전의 상태로\n작전에 임할 수 있도록…… 그런 서포트\n역할을 찾아줘야 해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0096",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560323,3",
+        "speaker": "1,0010401"
+      },
+      "original": "……サポート役か……いったい誰が……。\n",
+      "translation": "……서포트 역할인가…… 도대체 누가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0097",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "voice": "GB560400,3",
+        "face": "0020901,0,0"
+      },
+      "original": "あっ、タクトさん！\n",
+      "translation": "앗, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0098",
+      "channel": 1,
+      "context": {
+        "face": "0020901,0,0030802",
+        "voice": "GB560401,3",
+        "speaker": "3,0030101"
+      },
+      "original": "タクトも買い物？\n",
+      "translation": "택트도 쇼핑이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0099",
+      "channel": 1,
+      "context": {
+        "voice": "GB560401,3",
+        "speaker": "1,0010105",
+        "face": "0020901,0,0030802"
+      },
+      "original": "……あ、ミルフィーにランファ。\nうん……まぁ、そんなとこ。\n",
+      "translation": "……아, 밀피에 란파. 응…… 뭐, 대충\n그래.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0100",
+      "channel": 1,
+      "context": {
+        "face": "0020901,0,0030802",
+        "voice": "GB560401,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ところで……その山盛りの買い物カゴは？\n",
+      "translation": "그건 그렇고…… 그 산더미 같은 쇼핑\n바구니는？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0101",
+      "channel": 1,
+      "context": {
+        "face": "0020101,0,0030802",
+        "speaker": "2,0020101",
+        "voice": "GB560402,3"
+      },
+      "original": "決戦兵器が完成するまで、あたしたちには、\n何もできることがないですから……。\n",
+      "translation": "결전병기가 완성될 때까지, 저희가 할 수\n있는 일은 아무것도 없으니까요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0102",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0020101,0,0030101",
+        "voice": "GB560403,3"
+      },
+      "original": "「ケーキでも焼いたら？」って言ったら、も\n　う張り切っちゃって。\n",
+      "translation": "「케이크라도 구워보는 건 어때？」라고\n　했더니, 아주 의욕이 넘치더라고요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0103",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020102,0,0030101",
+        "voice": "GB560404,3"
+      },
+      "original": "おいしいケーキで、みんなに元気をつけても\nらいたいんです！\n",
+      "translation": "맛있는 케이크로, 모두에게 기운을 북돋아\n주고 싶어요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0104",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0020102,0,0030101",
+        "voice": "GB560404,3"
+      },
+      "original": "そうか……それはいいね。\n",
+      "translation": "그런가…… 그거 좋네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0105",
+      "channel": 1,
+      "context": {
+        "face": "0020102,0,0030802",
+        "speaker": "3,0030101",
+        "voice": "GB560405,3"
+      },
+      "original": "あ、元気をつけるといえば！\n",
+      "translation": "아, 기운을 북돋아 주는 거라면！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0106",
+      "channel": 1,
+      "context": {
+        "face": "0020102,0,0030105",
+        "speaker": "3,0030101",
+        "voice": "GB560406,3"
+      },
+      "original": "タクト……ヴァニラから「おまじない」して\nもらった？\n",
+      "translation": "택트…… 바닐라한테 「주문」 받았어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0107",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0020102,0,0030105",
+        "voice": "GB560406,3"
+      },
+      "original": "なんだい、それは？\n",
+      "translation": "그게 뭐야, 그건？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0108",
+      "channel": 1,
+      "context": {
+        "face": "0020102,0,0030202",
+        "voice": "GB560407,3",
+        "speaker": "3,0030101"
+      },
+      "original": "……な～んだ。\nせっかくヴァニラに教えてあげたのにな～。\n",
+      "translation": "……뭐야～. 모처럼 바닐라한테 알려줬는데\n말이야～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0109",
+      "channel": 1,
+      "context": {
+        "voice": "GB560407,3",
+        "speaker": "1,0010105",
+        "face": "0020102,0,0030202"
+      },
+      "original": "さては、またヴァニラに妙なこと教えたな？\n",
+      "translation": "설마, 또 바닐라한테 묘한 걸 가르친\n거냐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0110",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0020102,0,0030102",
+        "voice": "GB560408,3"
+      },
+      "original": "あ～ら、イイコトだってば！\n",
+      "translation": "어머나, 좋은 일이라니까！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0111",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010402",
+        "face": "0020102,0,0030102",
+        "voice": "GB560408,3"
+      },
+      "original": "まったく……ヴァニラはなんでも信じちゃう\nんだから、かんべんしてくれよ。\n",
+      "translation": "정말이지…… 바닐라는 뭐든 다\n믿어버리니까, 좀 곤란하다구.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0112",
+      "channel": 1,
+      "context": {
+        "face": "0020902,0,0030102",
+        "voice": "GB560409,3",
+        "speaker": "2,0020101"
+      },
+      "original": "ねぇねぇ、タクトさん！\n何か、ケーキのリクエストはありますか？\n",
+      "translation": "있지 있지, 택트 씨！ 혹시 케이크\n리퀘스트가 있나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0113",
+      "channel": 1,
+      "context": {
+        "face": "0020902,0,0030102",
+        "voice": "GB560409,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そうだな……紅茶シフォンケーキがいいな。\n",
+      "translation": "글쎄…… 홍차 쉬폰 케이크가 좋겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0114",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020101,0,0030102",
+        "voice": "GB560410,3"
+      },
+      "original": "タクトさんは紅茶シフォンケーキ……っと。\n",
+      "translation": "택트 씨는 홍차 쉬폰 케이크…… 라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0115",
+      "channel": 1,
+      "context": {
+        "voice": "GB560411,3",
+        "speaker": "3,0030101",
+        "face": "0020101,0,0030105"
+      },
+      "original": "そこで、ヴァニラの好物を言うんだもんね～。\n",
+      "translation": "거기서 바닐라의 좋아하는 걸 말하다니\n말이야～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0116",
+      "channel": 1,
+      "context": {
+        "face": "0020101,0,0030205",
+        "voice": "GB560412,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ああ、彼は彼女のため、彼女は彼のため！\n",
+      "translation": "아아, 그는 그녀를 위해, 그녀는 그를\n위해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0117",
+      "channel": 1,
+      "context": {
+        "face": "0020101,0,0030105",
+        "voice": "GB560413,3",
+        "speaker": "3,0030101"
+      },
+      "original": "……ってヤツぅ？\nあ～、あっついあっつい。\n",
+      "translation": "...라는 거？ 아～ 뜨거워 뜨거워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0118",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0020101,0,0030105",
+        "voice": "GB560413,3"
+      },
+      "original": "彼は彼女のため。\nそして、彼女は彼のため……か。\n",
+      "translation": "그는 그녀를 위해. 그리고, 그녀는 그를\n위해…… 인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0119",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0020101,0,0030105",
+        "voice": "GB560413,3"
+      },
+      "original": "けど、オレがヴァニラにできることは……。\n",
+      "translation": "하지만, 내가 바닐라에게 해줄 수 있는\n일은…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0120",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020901,0,0030105",
+        "voice": "GB560414,3"
+      },
+      "original": "……タクトさん、どうかしましたか？\n",
+      "translation": "...택트 씨, 왜 그러세요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0121",
+      "channel": 1,
+      "context": {
+        "face": "0020901,0,0030101",
+        "voice": "GB560415,3",
+        "speaker": "3,0030101"
+      },
+      "original": "な～にいきなり、シリアス入ってんのよ？\n",
+      "translation": "뭐야～ 갑자기 진지한 분위기라니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0122",
+      "channel": 1,
+      "context": {
+        "voice": "GB560415,3",
+        "speaker": "1,0010105",
+        "face": "0020901,0,0030101"
+      },
+      "original": "……えっ、なに？\nゴメン、聞いてなかった。\n",
+      "translation": "……엣, 뭐야？ 미안, 못 들었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0123",
+      "channel": 1,
+      "context": {
+        "face": "0020202,0,0030101",
+        "voice": "GB560416,3",
+        "speaker": "2,0020101"
+      },
+      "original": "タクトさん、ひょっとしてお疲れですか？\nあんまり根詰めすぎちゃダメですよ。\n",
+      "translation": "택트 씨, 혹시 피곤하신 건가요？ 너무\n무리하시면 안 돼요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0124",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0020202,0,0030102",
+        "voice": "GB560417,3"
+      },
+      "original": "ミルフィー、タクトに限ってそんなことある\nわけないでしょ？\n",
+      "translation": "밀피, 택트에게 그럴 리가 없잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0125",
+      "channel": 1,
+      "context": {
+        "face": "0020202,0,0030102",
+        "voice": "GB560417,3",
+        "speaker": "1,0010105"
+      },
+      "original": "おいおい……。\n",
+      "translation": "어이어이…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0126",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020202,0,0030102",
+        "voice": "GB560418,3"
+      },
+      "original": "言い過ぎだよ、ランファ。\nタクトさんだって、たまにはがんばることが\nあるよ。\n",
+      "translation": "말이 심해, 란파. 택트 씨도 가끔은 힘낼\n때가 있다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0127",
+      "channel": 1,
+      "context": {
+        "voice": "GB560418,3",
+        "speaker": "1,0010402",
+        "face": "0020202,0,0030102"
+      },
+      "original": "ミルフィー……それ、フォローになってない。\n",
+      "translation": "밀피…… 그거, 위로가 안 돼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0128",
+      "channel": 1,
+      "context": {
+        "voice": "GB560419,3",
+        "speaker": "2,0020101",
+        "face": "0020901,0,0030102"
+      },
+      "original": "えっ？\nそうですか？\n",
+      "translation": "엣？ 그런가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0129",
+      "channel": 1,
+      "context": {
+        "face": "0020901,0,0030102",
+        "voice": "GB560419,3",
+        "speaker": "1,0010105"
+      },
+      "original": "……ま、いっか。\nケーキ、楽しみにしてるよ。\n",
+      "translation": "……뭐, 됐나. 케이크, 기대하고 있을게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0130",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020102,0,0030102",
+        "voice": "GB560420,3"
+      },
+      "original": "はい、がんばって作っちゃいますね！\n",
+      "translation": "네, 열심히 만들어 버릴게요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0131",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020102,0,0030102",
+        "voice": "GB560421,3"
+      },
+      "original": "ヴァニラも、あたしの紅茶シフォンケーキで、\nいっぱい元気になってくれるといいなー。\n",
+      "translation": "바닐라도, 내 홍차 쉬폰 케이크로 기운을\n잔뜩 차렸으면 좋겠다～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0132",
+      "channel": 1,
+      "context": {
+        "face": "0020102,0,0030102",
+        "voice": "GB560421,3",
+        "speaker": "1,0010401"
+      },
+      "original": "元気に……か。\n",
+      "translation": "기운을…… 말인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0133",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0020102,0,0030102",
+        "voice": "GB560421,3"
+      },
+      "original": "あのさ、ちょっと聞きたいんだけど……。\nヴァニラは、エンジェル隊の誰と一緒にいる\nときが、いちばん元気に見えるかな？\n",
+      "translation": "있잖아, 좀 물어보고 싶은 게 있는데…….\n바닐라는 엔젤대 누구랑 같이 있을 때가\n가장 기운차 보여？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0134",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0020102,0,0030802",
+        "voice": "GB560422,3"
+      },
+      "original": "ヴァニラが、元気に……？\n",
+      "translation": "바닐라가, 기운을……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0135",
+      "channel": 1,
+      "context": {
+        "voice": "GB560423,3",
+        "speaker": "2,0020101",
+        "face": "0020302,0,0030802"
+      },
+      "original": "あっ、それ、あたしかも～！\n",
+      "translation": "앗, 그거 나일지도 몰라～！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0136",
+      "channel": 1,
+      "context": {
+        "face": "0020902,0,0030802",
+        "voice": "GB560424,3",
+        "speaker": "2,0020101"
+      },
+      "original": "あたしの紅茶シフォンケーキを食べてるとき\nのヴァニラって、すっごく幸せそうですから！\n",
+      "translation": "내 홍차 쉬폰 케이크를 먹고 있을 때의\n바닐라는, 엄청 행복해 보이니까！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0137",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB560424,3",
+        "face": "0020902,0,0030802"
+      },
+      "original": "うーん、なるほど……。\n",
+      "translation": "으음, 그렇군…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0138",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0020902,0,0030101",
+        "voice": "GB560425,3"
+      },
+      "original": "気が合ってるとか、そういうことでもいいの？\nだったら、アタシから見ると……。\n",
+      "translation": "마음이 잘 맞는다거나, 그런 것도 괜찮아？\n그렇다면, 내가 보기에는…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0139",
+      "channel": 1,
+      "context": {
+        "face": "0020902,0,0030804",
+        "voice": "GB560426,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ミントといるときなんか、まったりした空気\nが流れてて、落ち着いてるように見えるけど。\n",
+      "translation": "민트랑 있을 때 같은 건, 느긋한 분위기가\n흐르고 있어서, 차분해 보이던데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0140",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0020902,0,0030804",
+        "voice": "GB560426,3"
+      },
+      "original": "そうか。\n確かに、ミントとも気が合ってるかもな……。\n",
+      "translation": "그런가. 확실히, 민트와도 마음이 잘\n맞을지도 모르겠군…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0141",
+      "channel": 1,
+      "context": {
+        "voice": "GB560427,3",
+        "speaker": "3,0030101",
+        "face": "0020902,0,0030802"
+      },
+      "original": "どうしたの？\n急にそんなこと聞いて。\n",
+      "translation": "왜 그래？ 갑자기 그런 걸 묻고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0142",
+      "channel": 1,
+      "context": {
+        "voice": "GB560427,3",
+        "speaker": "1,0010105",
+        "face": "0020902,0,0030802"
+      },
+      "original": "いや、ちょっと気になることがあってさ。\n参考になったよ、ありがとう。\n",
+      "translation": "아니, 좀 궁금한 게 있어서 말이야. 참고가\n됐어, 고마워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0143",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020102,0,0030802",
+        "voice": "GB560428,3"
+      },
+      "original": "ケーキが焼けたら、おすそ分けしますね！\n",
+      "translation": "케이크가 다 구워지면, 나눠 드릴게요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0144",
+      "channel": 1,
+      "context": {
+        "face": "0020102,0,0030802",
+        "voice": "GB560428,3",
+        "speaker": "1,0010101"
+      },
+      "original": "うん、楽しみにしてるよ。\nそれじゃ。\n",
+      "translation": "응, 기대하고 있을게. 그럼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0145",
+      "channel": 1,
+      "context": {
+        "voice": "GB560428,3",
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0146",
+      "channel": 1,
+      "context": {
+        "voice": "GB560429,3",
+        "speaker": "107,1070101",
+        "face": "0,1070102,0"
+      },
+      "original": "お疲れさまです、タクトさん。\n",
+      "translation": "수고하십니다, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0147",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB560429,3"
+      },
+      "original": "……やあ。\n紋章機の整備かい？\n",
+      "translation": "……여어. 문장기 정비인가？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0148",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB560430,3",
+        "speaker": "107,1070101"
+      },
+      "original": "はい、なんだか落ち着かなくて……。\n決戦に備えて、少しでも準備を進めておきた\nいんです。\n",
+      "translation": "네, 왠지 마음이 안 놓여서……. 결전에\n대비해서, 조금이라도 준비를 진행해 두고\n싶어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0149",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB560430,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そうか……でも、あまり無理しないようにね。\n今のうちに休んでおくのも大事だよ。\n",
+      "translation": "그렇구나…… 하지만 너무 무리는 하지 마.\n지금 미리 쉬어 두는 것도 중요하니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0150",
+      "channel": 1,
+      "context": {
+        "voice": "GB560430,3",
+        "speaker": "1,0010101",
+        "face": "0,1070205,0"
+      },
+      "original": "ミルフィーがケーキを焼くって言ってたから、\n行ってごらんよ。\n今なら、リクエストも受け付け中らしいぞ。\n",
+      "translation": "밀피가 케이크를 굽는다고 했으니까, 가\n봐. 지금이라면 리퀘스트도 접수 중인\n모양이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0151",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB560431,3",
+        "speaker": "107,1070101"
+      },
+      "original": "そうなんですか。\n",
+      "translation": "그렇군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0152",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB560432,3"
+      },
+      "original": "ミルフィー先輩は、すごい方ですね。\nこんな状況でも明るくて……。\n",
+      "translation": "밀피 선배는, 대단한 분이시네요. 이런\n상황에서도 밝으시고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0153",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB560433,3",
+        "speaker": "107,1070101"
+      },
+      "original": "その上、みんなに何かしてあげようと思える\nなんて、本当にすごいです。\n",
+      "translation": "게다가 모두에게 무언가 해주고 싶다고\n생각할 수 있다니, 정말 대단해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0154",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070207,0",
+        "voice": "GB560434,3"
+      },
+      "original": "私なんて、自分のことで精一杯で……。\n",
+      "translation": "저 같은 건, 제 앞가림만으로도\n벅차서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0155",
+      "channel": 1,
+      "context": {
+        "face": "0,1070207,0",
+        "speaker": "1,0010101",
+        "voice": "GB560434,3"
+      },
+      "original": "ミルフィーは、あれが自然だからなぁ。\nそれぞれの個性なんだから、ちとせが無理に\n合わせなくてもいいんじゃないかな。\n",
+      "translation": "밀피는, 그게 자연스러우니까 말이야.\n각자의 개성이니까, 치토세가 무리하게\n맞추지 않아도 되지 않을까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0156",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070207,0",
+        "voice": "GB560434,3"
+      },
+      "original": "ちとせの、まじめで一生懸命なところも、オ\nレは立派だと思うよ。\n",
+      "translation": "치토세의, 성실하고 열심히 하는 점도,\n나는 훌륭하다고 생각해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0157",
+      "channel": 1,
+      "context": {
+        "voice": "GB560435,3",
+        "speaker": "107,1070101",
+        "face": "0,1070204,0"
+      },
+      "original": "そう言っていただけると、恐縮です。\n",
+      "translation": "그렇게 말씀해 주시니, 황송합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0158",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB560436,3"
+      },
+      "original": "後で私も、ケーキをいただいてきます。\nミルフィー先輩のケーキを食べると、元気に\nなれますから。\n",
+      "translation": "나중에 저도, 케이크를 먹으러 갈게요.\n밀피 선배의 케이크를 먹으면, 기운이\n나니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0159",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB560436,3"
+      },
+      "original": "元気になる、か……。\nミルフィーは、元気のカタマリみたいなもの\nだからね。\n",
+      "translation": "기운이 난다, 인가……. 밀피는, 활력 그\n자체 같은 존재니까 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0160",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB560437,3"
+      },
+      "original": "そうですね。\nミルフィー先輩がいるだけで、場がぱあっと\n明るくなりますし。\n",
+      "translation": "그렇네요. 밀피 선배가 있는 것만으로도,\n분위기가 환해지니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0161",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB560437,3",
+        "speaker": "1,0010105"
+      },
+      "original": "明るくというか、大騒ぎ、という気もするけ\nど……。\n",
+      "translation": "밝다기보다, 대소동이라는 느낌도\n들지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0162",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB560437,3",
+        "speaker": "1,0010102"
+      },
+      "original": "……あのさ。\nやっぱり、ヴァニラも、ミルフィーといると\n元気になるのかな？\n",
+      "translation": "……있잖아. 역시, 바닐라도 밀피랑 있으면\n기운이 나는 걸까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0163",
+      "channel": 1,
+      "context": {
+        "voice": "GB560438,3",
+        "speaker": "107,1070101",
+        "face": "0,1070201,0"
+      },
+      "original": "ヴァニラ先輩、ですか？\nそうですね……言われてみると、そうかもし\nれません。\n",
+      "translation": "바닐라 선배 말씀인가요？ 그렇네요……\n듣고 보니 그럴지도 모르겠어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0164",
+      "channel": 1,
+      "context": {
+        "voice": "GB560438,3",
+        "speaker": "1,0010401",
+        "face": "0,1070201,0"
+      },
+      "original": "そっか……。\nエンジェル隊の、ほかの誰といるよりも……\nミルフィーが一番かなぁ……？\n",
+      "translation": "그렇구나……. 엔젤대의 다른 누구와 있을\n때보다…… 밀피가 제일일까나……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0165",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB560439,3",
+        "speaker": "107,1070101"
+      },
+      "original": "一番、ですか？\n",
+      "translation": "제일, 말인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0166",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB560440,3"
+      },
+      "original": "そうですね……ランファ先輩といらっしゃる\nときも、活動的になる気がしますし……。\n",
+      "translation": "글쎄요…… 란파 선배와 함께 계실 때도\n활동적으로 변하는 것 같고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0167",
+      "channel": 1,
+      "context": {
+        "face": "0,1070207,0",
+        "voice": "GB560441,3",
+        "speaker": "107,1070101"
+      },
+      "original": "フォルテ先輩と、テキパキやりとりをしてお\nられるときも、それはそれで活き活きとして\n見えますし……う～ん……。\n",
+      "translation": "포르테 선배와 척척 업무를 주고받으실\n때도, 그것대로 생기 있어 보이고……\n음～～\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0168",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070207,0",
+        "voice": "GB560441,3"
+      },
+      "original": "ああ、ごめんごめん。\nそんなに悩まないでいいよ。\n",
+      "translation": "아아, 미안 미안. 그렇게 고민하지 않아도\n돼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0169",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB560442,3"
+      },
+      "original": "すみません、お役に立てなくて。\n",
+      "translation": "죄송해요, 도움이 되지 못해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0170",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070201,0",
+        "voice": "GB560443,3"
+      },
+      "original": "……タクトさん、ヴァニラ先輩と、何かあっ\nたのですか？\n",
+      "translation": "……택트 씨, 바닐라 선배와 무슨 일\n있었나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0171",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB560443,3",
+        "speaker": "1,0010101"
+      },
+      "original": "いや、そういうワケじゃないんだ。\n意見を聞かせてくれて、ありがとう。\n",
+      "translation": "아니, 그런 건 아니야. 의견을 들려줘서\n고마워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0172",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560443,3",
+        "speaker": "1,0010401"
+      },
+      "original": "……う～ん……。\n",
+      "translation": "……으음…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0173",
+      "channel": 1,
+      "context": {
+        "voice": "GB560444,3",
+        "speaker": "4,0040101",
+        "face": "0,0040702,0"
+      },
+      "original": "あら、タクトさん。\n",
+      "translation": "어머, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0174",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560444,3",
+        "face": "0,0040702,0"
+      },
+      "original": "やあ、ミント。\n",
+      "translation": "안녕, 민트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0175",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560444,3",
+        "face": "0,0040702,0"
+      },
+      "original": "お茶、おいしそうだね。\nオレも飲んでいこうかな。\n",
+      "translation": "차, 맛있어 보이네. 나도 좀 마실까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0176",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GB560445,3",
+        "speaker": "4,0040101"
+      },
+      "original": "では、リラックスできるハーブティーなど、\nいかがですか？\n",
+      "translation": "그럼, 휴식에 좋은 허브티 같은 건\n어떠신가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0177",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040102,0",
+        "voice": "GB560445,3"
+      },
+      "original": "ありがとう、いただくよ。\n",
+      "translation": "고마워, 마실게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0178",
+      "channel": 1,
+      "context": {
+        "face": "0,0040101,0",
+        "voice": "GB560446,3",
+        "speaker": "4,0040101"
+      },
+      "original": "悩み事には、お茶の香りがよく効きますわ。\n",
+      "translation": "고민이 있을 때는 차의 향기가\n효과적이랍니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0179",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0040101,0",
+        "voice": "GB560446,3"
+      },
+      "original": "……ミントには隠せないな。\n",
+      "translation": "……민트에게는 숨길 수가 없겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0180",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040101,0",
+        "voice": "GB560446,3"
+      },
+      "original": "ミントの、そんなところが……。\n自分の気持ちを押し殺しがちなヴァニラには、\nいいのかもしれないな……。\n",
+      "translation": "민트의, 그런 점이……. 자신의 마음을\n억누르기 쉬운 바닐라에게는, 좋을지도\n모르겠어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0181",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB560447,3",
+        "face": "0,0040702,0"
+      },
+      "original": "ヴァニラさんが、どうかなさいまして？\n",
+      "translation": "바닐라 씨가, 어떻게 되신 건가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0182",
+      "channel": 1,
+      "context": {
+        "voice": "GB560447,3",
+        "speaker": "1,0010101",
+        "face": "0,0040702,0"
+      },
+      "original": "いや……エンジェル隊の中で、一番ヴァニラ\nを助けてあげられるのは、ミントかな……？\nと思って。\n",
+      "translation": "아니…… 엔젤대 중에서, 가장 바닐라를\n도와줄 수 있는 건, 민트일까……？\n싶어서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0183",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "speaker": "4,0040101",
+        "voice": "GB560448,3"
+      },
+      "original": "なんとも言えませんわね。\n",
+      "translation": "뭐라 말씀드리기 어렵네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0184",
+      "channel": 1,
+      "context": {
+        "face": "0,0040201,0",
+        "speaker": "4,0040101",
+        "voice": "GB560449,3"
+      },
+      "original": "確かに私なら、ヴァニラさんの心を読んで、\n困り事があるかどうか、といったことはわか\nるかもしれません。\n",
+      "translation": "확실히 저라면, 바닐라 씨의 마음을 읽고,\n고민이 있는지 없는지 정도는 알 수\n있을지도 몰라요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0185",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "voice": "GB560450,3",
+        "speaker": "4,0040101"
+      },
+      "original": "ですが……そのことと、実際にお助けするこ\nととは、また別ですわ。\n",
+      "translation": "하지만…… 그 점과, 실제로 도와드리는\n것은, 또 별개의 문제예요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0186",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0040202,0",
+        "voice": "GB560450,3"
+      },
+      "original": "別……？\n",
+      "translation": "별개……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0187",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040202,0",
+        "voice": "GB560451,3"
+      },
+      "original": "ヴァニラさんが転んだとき、手を差しのべて\n抱き起こすことはできない、ということです。\n",
+      "translation": "바닐라 씨가 넘어졌을 때, 손을 내밀어\n일으켜 세워줄 수는 없다는 뜻입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0188",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040202,0",
+        "voice": "GB560452,3"
+      },
+      "original": "私にできるのは、見守ることだけですわ。\nご自身で立ち上がるのを信じて。\n",
+      "translation": "제가 할 수 있는 것은, 지켜보는\n것뿐이에요. 스스로 일어서는 것을 믿고\n말이죠.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0189",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0040202,0",
+        "voice": "GB560452,3"
+      },
+      "original": "そうかも……しれないな。\n",
+      "translation": "그럴지도…… 모르겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0190",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "voice": "GB560452,3",
+        "speaker": "1,0010101"
+      },
+      "original": "でも、考えてみれば、そういう信頼関係は、\nエンジェル隊みんなが持ってるよね。\n",
+      "translation": "하지만, 생각해 보면, 그런 신뢰 관계는,\n엔젤대 모두가 가지고 있잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0191",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040101,0",
+        "voice": "GB560453,3"
+      },
+      "original": "ええ。\n表面にあらわれる形は、それぞれ違って見え\nますが。\n",
+      "translation": "네. 표면에 나타나는 형태는, 제각기\n다르게 보입니다만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0192",
+      "channel": 1,
+      "context": {
+        "face": "0,0040101,0",
+        "voice": "GB560453,3",
+        "speaker": "1,0010101"
+      },
+      "original": "うん……。\nなんか、少しわかった気がするよ。\nお茶ごちそうさま。\n",
+      "translation": "응……. 왠지, 조금 알 것 같은 기분이\n들어. 차 잘 마셨어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0193",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040102,0",
+        "voice": "GB560454,3"
+      },
+      "original": "ヴァニラさんにも、よろしくお伝えください\nましね。\n",
+      "translation": "바닐라 씨에게도, 안부 전해 주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0194",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GB560454,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ああ……ありがとう。\n",
+      "translation": "아아…… 고마워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0195",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB560454,3",
+        "face": "0,0,0"
+      },
+      "original": "この音は……フォルテ、いるようだな。\n",
+      "translation": "이 소리는…… 포르테, 있는 모양이군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0196",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB560455,3"
+      },
+      "original": "やあ、タクト。\n",
+      "translation": "여어, 택트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0197",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "voice": "GB560456,3",
+        "speaker": "5,0050101"
+      },
+      "original": "どうしたんだい？\nしけたツラして。\n",
+      "translation": "왜 그래？ 뚱한 얼굴을 하고 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0198",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050802,0",
+        "voice": "GB560456,3"
+      },
+      "original": "……そんなに、顔に出てるかな。\n",
+      "translation": "……그렇게, 얼굴에 드러나나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0199",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB560457,3"
+      },
+      "original": "出てる出てる。\nあんたも気晴らしに撃ってみるかい？\n",
+      "translation": "드러나고말고. 너도 기분 전환 삼아 쏴\n볼래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0200",
+      "channel": 1,
+      "context": {
+        "face": "0,0050804,0",
+        "voice": "GB560458,3",
+        "speaker": "5,0050101"
+      },
+      "original": "それとも……２、３発ブチ込んでやったほう\nが、シャッキリするかもねぇ？\n",
+      "translation": "아니면…… 두세 발 갈겨주는 게, 정신이\n번쩍 들지도 모르겠네？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0201",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050804,0",
+        "voice": "GB560458,3"
+      },
+      "original": "ど、どっちも、とりあえず遠慮しとくよ。\n",
+      "translation": "어, 어느 쪽이든 일단은 사양할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0202",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "voice": "GB560459,3",
+        "speaker": "5,0050101"
+      },
+      "original": "じゃ、その景気の悪いツラをなんとかしな。\n艦内の士気に関わるだろ？\n",
+      "translation": "그럼 그 우울한 얼굴 좀 어떻게 해봐. 함내\n사기에 영향을 줄 거 아냐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0203",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0050204,0",
+        "voice": "GB560459,3"
+      },
+      "original": "ああ……悪かった。\n",
+      "translation": "아아…… 미안했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0204",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050204,0",
+        "voice": "GB560459,3"
+      },
+      "original": "フォルテは……これが一番の精神統一法なん\nだよな。\n",
+      "translation": "포르테는…… 이게 최고의 정신 통일법인\n거지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0205",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "5,0050101",
+        "voice": "GB560460,3"
+      },
+      "original": "ああ。\nこうやってると、頭ん中から余計なモンが消\nえてくのさ。\n",
+      "translation": "아아. 이렇게 하고 있으면 머릿속에서\n불필요한 것들이 사라지거든.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0206",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050101,0",
+        "voice": "GB560460,3"
+      },
+      "original": "……誰かに、頼ったりはしないのかい？\n",
+      "translation": "……누군가에게, 의지하거나 하지는 않는\n거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0207",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050102,0",
+        "voice": "GB560461,3"
+      },
+      "original": "頼る相手がほしいねぇ。\n",
+      "translation": "의지할 상대가 있으면 좋겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0208",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB560462,3",
+        "speaker": "5,0050101"
+      },
+      "original": "ま、冗談はさておき……。\n頼るのとはちょっと違うけど、みんなを信頼\nは、してるよ。\n",
+      "translation": "뭐, 농담은 제쳐두고……. 의지하는 것과는\n좀 다르지만, 모두를 신뢰는 하고 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0209",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB560462,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そうか……そうだな。\n",
+      "translation": "그런가…… 그렇겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0210",
+      "channel": 1,
+      "context": {
+        "voice": "GB560462,3",
+        "speaker": "1,0010101",
+        "face": "0,0050103,0"
+      },
+      "original": "……ひとつ、意見を聞かせてもらっていいか\nな？\n",
+      "translation": "……하나, 의견을 좀 물어봐도 될까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0211",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0050103,0",
+        "voice": "GB560462,3"
+      },
+      "original": "ヴァニラが一番信頼してるのは、エンジェル\n隊の中の、誰だろう？\n",
+      "translation": "바닐라가 가장 신뢰하고 있는 건, 엔젤대\n중에서 누구일까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0212",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050102,0",
+        "voice": "GB560463,3"
+      },
+      "original": "そんなの簡単じゃないか。\n",
+      "translation": "그런 건 간단하잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0213",
+      "channel": 1,
+      "context": {
+        "face": "0,0050102,0",
+        "voice": "GB560463,3",
+        "speaker": "1,0010102"
+      },
+      "original": "いったい誰だい？\n",
+      "translation": "도대체 누구지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0214",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050103,0",
+        "voice": "GBX560463,3"
+      },
+      "original": "みんな、だよ。\n",
+      "translation": "모두,야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0215",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0050103,0",
+        "voice": "GBX560463,3"
+      },
+      "original": "みんな……？\n",
+      "translation": "모두……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0216",
+      "channel": 1,
+      "context": {
+        "voice": "GB560464,3",
+        "speaker": "5,0050101",
+        "face": "0,0050101,0"
+      },
+      "original": "ヴァニラは、エンジェル隊のみんなのことを\n信頼してる。\n誰が一番ってこともないさ。\n",
+      "translation": "바닐라는, 엔젤대 모두를 신뢰하고 있어.\n누가 제일이라거나 그런 건 아니야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0217",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050103,0",
+        "voice": "GB560465,3"
+      },
+      "original": "それは、あたしも……たぶん、ほかの連中も、\n同じはずだよ。\n",
+      "translation": "그건, 나도…… 아마, 다른 녀석들도,\n마찬가지일 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0218",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB560465,3",
+        "speaker": "1,0010101"
+      },
+      "original": "……そうか。\nそう、だよな。\n",
+      "translation": "……그런가. 그렇겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0219",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB560466,3"
+      },
+      "original": "納得いったかい？\n",
+      "translation": "납득했어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0220",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB560466,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ん、まぁ……悩みはまだ解決しないけど。\nでも、つまり、誰でも大丈夫なんだよな。\n",
+      "translation": "응, 뭐…… 고민은 아직 해결되지\n않았지만. 하지만, 그러니까, 누구라도\n괜찮다는 거지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0221",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "voice": "GB560467,3",
+        "speaker": "5,0050101"
+      },
+      "original": "なんのことだい？\n",
+      "translation": "무슨 소리야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0222",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050802,0",
+        "voice": "GB560467,3"
+      },
+      "original": "いや……少し、気持ちが落ち着いたよ。\nありがとう。\n",
+      "translation": "아니…… 조금, 마음이 진정됐어. 고마워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0223",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GB560468,3"
+      },
+      "original": "ふうん……。\nなんだか知らないけど、ヴァニラの前では、\nそんな顔すんじゃないよ。\n",
+      "translation": "흐음……. 왠지 모르겠지만, 바닐라\n앞에서는 그런 얼굴 하지 마.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0224",
+      "channel": 1,
+      "context": {
+        "face": "0,0050102,0",
+        "voice": "GB560469,3",
+        "speaker": "5,0050101"
+      },
+      "original": "信頼されたいんなら、堂々としてなって。\n",
+      "translation": "신뢰받고 싶다면, 당당하게 행동해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0225",
+      "channel": 1,
+      "context": {
+        "voice": "GB560469,3",
+        "speaker": "1,0010101",
+        "face": "0,0050102,0"
+      },
+      "original": "忠告、聞いとくよ。\n",
+      "translation": "충고, 명심할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0226",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "voice": "GB560469,3",
+        "face": "0,0050102,0"
+      },
+      "original": "……もっとも、オレとヴァニラの信頼関係は、\nそんなことぐらいじゃ揺らがないけどな。\n",
+      "translation": "……뭐, 나와 바닐라의 신뢰 관계는 그런\n일로 흔들리지 않겠지만 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0227",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050204,0",
+        "voice": "GB560470,3"
+      },
+      "original": "はいはい、言ってな。\n",
+      "translation": "그래그래, 마음대로 떠들어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0228",
+      "channel": 1,
+      "context": {
+        "voice": "GB560471,3",
+        "speaker": "5,0050101",
+        "face": "0,0050101,0"
+      },
+      "original": "とにかく、ヴァニラを不安にさせるな、って\nことさ。\n",
+      "translation": "어쨌든, 바닐라를 불안하게 만들지 말라는\n거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0229",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB560471,3",
+        "speaker": "1,0010101"
+      },
+      "original": "……もちろん。\nそれじゃ、じゃまして悪かったね。\n",
+      "translation": "……물론이지. 그럼, 방해해서 미안했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0230",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB560471,3"
+      },
+      "original": "みんなの意見を聞いてみたけど……。\n結局、エンジェル隊の誰とは、決められそう\nにないな……。\n",
+      "translation": "모두의 의견을 들어봤지만…… 결국,\n엔젤대 중 누구라고는 정할 수 없을 것\n같네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0231",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560471,3",
+        "speaker": "1,0010401"
+      },
+      "original": "形は違っても、ヴァニラは全員と、それぞれ\nの信頼関係を結んでいるはずなんだ。\n",
+      "translation": "형태는 달라도, 바닐라는 모두와 각자의\n신뢰 관계를 맺고 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0232",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB560471,3"
+      },
+      "original": "だから、ある意味……誰とでも大丈夫なんだ\nとは、思う……。\n",
+      "translation": "그러니까, 어떤 의미로는…… 누구와라도\n괜찮을 거라고…… 생각해…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0233",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560471,3",
+        "speaker": "1,0010401"
+      },
+      "original": "あとは、そのときのみんなの調子と……。\nヴァニラの気持ち次第……。\n",
+      "translation": "남은 건, 그때 모두의 컨디션과……\n바닐라의 마음가짐에 달렸어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0234",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB560471,3"
+      },
+      "original": "……本当に、そうなんだろうか……？\n",
+      "translation": "……정말로, 그런 걸까……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0235",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560471,3",
+        "speaker": "1,0010401"
+      },
+      "original": "求められているのは、パイロットのテンショ\nンを、もっとも高い状態に導くことのできる\n人間……。\n",
+      "translation": "요구되고 있는 것은, 파일럿의 텐션을 가장\n높은 상태로 이끌 수 있는 인간…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0236",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,0",
+        "voice": "GB560471,3"
+      },
+      "original": "……ん？\n待てよ……。\n",
+      "translation": "……응？ 잠깐,\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0237",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0,0,0",
+        "voice": "GB560471,3"
+      },
+      "original": "……もしかしたら！\n",
+      "translation": "……어쩌면！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0238",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0"
+      },
+      "original": "はぁ、はぁ……！\n失礼します、シャトヤーン様！\n",
+      "translation": "하아, 하아……！ 실례하겠습니다, 샤토얀\n님！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0239",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0,0"
+      },
+      "original": "シャトヤーン様！\nいらっしゃいませんか！？\n",
+      "translation": "샤토얀 님！ 계시지 않습니까！？”\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0240",
+      "channel": 1,
+      "context": {
+        "face": "0,0100104,0",
+        "speaker": "10,0100101",
+        "voice": "GB560472,3"
+      },
+      "original": "マイヤーズ司令……。\nいったい、どうされたのですか？\n",
+      "translation": "마이어스 사령관……. 대체, 어찌 된\n일입니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0241",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0100104,0",
+        "voice": "GB560472,3"
+      },
+      "original": "急に押しかけて、申し訳ありません。\n無礼は承知の上で、参りました。\n",
+      "translation": "갑자기 찾아와서 죄송합니다. 무례를\n무릅쓰고 왔습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0242",
+      "channel": 1,
+      "context": {
+        "speaker": "108,1080101",
+        "face": "1080101,0,0",
+        "voice": "GB560473,3"
+      },
+      "original": "どうしたの、シャトヤーン？\n",
+      "translation": "무슨 일이야, 샤토얀？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0243",
+      "channel": 1,
+      "context": {
+        "speaker": "108,1080101",
+        "face": "1080205,0,0",
+        "voice": "GB560474,3"
+      },
+      "original": "あら、タクトじゃない。\nなによ、そんなに慌てて。\n",
+      "translation": "어머, 택트잖아. 뭐야, 그렇게 당황해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0244",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "1080205,0,0",
+        "voice": "GB560474,3"
+      },
+      "original": "例の、サポート役の件で、ちょっと聞きたい\nことがあって……。\n",
+      "translation": "그, 서포트 역할 건으로 좀 여쭤보고 싶은\n게 있어서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0245",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "1080205,0,0100104",
+        "voice": "GB560475,3"
+      },
+      "original": "なんでしょう？\n",
+      "translation": "무엇인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0246",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "1080205,0,0100104",
+        "voice": "GB560475,3"
+      },
+      "original": "サポート役は、パイロットのテンションを最\n高の状態に導ける人間が理想的……そう、おっ\nしゃいましたよね？\n",
+      "translation": "서포트 역할은, 파일럿의 텐션을 최상의\n상태로 이끌 수 있는 사람이 이상적……\n이라고 말씀하셨죠？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0247",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "1080205,0,0100102",
+        "voice": "GB560476,3"
+      },
+      "original": "はい、確かに。\n",
+      "translation": "네, 확실히.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0248",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "1080205,0,0100102",
+        "voice": "GB560476,3"
+      },
+      "original": "つまり、パイロットの……ヴァニラのテンショ\nンが高くなるのであれば……。\n",
+      "translation": "즉, 파일럿인…… 바닐라의 텐션이 높아질\n수 있다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0249",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "1080205,0,0100102",
+        "voice": "GB560476,3"
+      },
+      "original": "必ずしも、エンジェル隊の隊員である必要は\nないわけですよね？\n",
+      "translation": "반드시 엔젤대 대원일 필요는 없다는\n뜻이죠？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0250",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "1080205,0,0100104",
+        "voice": "GB560477,3"
+      },
+      "original": "えっ？\n",
+      "translation": "엣？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0251",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "1080205,0,0100104",
+        "voice": "GB560477,3"
+      },
+      "original": "どうなんだい、ノア？\n",
+      "translation": "어떤가, 노아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0252",
+      "channel": 1,
+      "context": {
+        "voice": "GB560478,3",
+        "speaker": "108,1080101",
+        "face": "1080101,0,0100104"
+      },
+      "original": "そのとおりよ。\n紋章機乗りである必要はないわ。\n",
+      "translation": "그 말이 맞아. 문장기 파일럿일 필요는\n없어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0253",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "1080101,0,0100104",
+        "voice": "GB560478,3"
+      },
+      "original": "わかった。\nありがとう！\n",
+      "translation": "알았어. 고마워！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0254",
+      "channel": 1,
+      "context": {
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3",
+        "speaker": "10,0100101"
+      },
+      "original": "あの、マイヤーズ司令。\nいったい何を……？\n",
+      "translation": "저기, 마이어스 사령관님. 대체\n무엇을……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0255",
+      "channel": 1,
+      "context": {
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3",
+        "speaker": "1,0010301"
+      },
+      "original": "申し訳ありません、急いでいるので失礼しま\nす！\n",
+      "translation": "죄송합니다, 급한 일이 있어서 이만\n실례하겠습니다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0256",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3"
+      },
+      "original": "エンジェル隊の誰もを、信頼している……。\nでも、それだけじゃ足りないんだ。\n",
+      "translation": "엔젤대 모두를, 신뢰하고 있어…….\n하지만, 그것만으로는 부족해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0257",
+      "channel": 1,
+      "context": {
+        "voice": "GB560479,3",
+        "speaker": "1,0010301",
+        "face": "1080101,0,0100104"
+      },
+      "original": "特別に……特別に、相手を大切だと思う気持\nち。\n大事なのは、それなんだ。\n",
+      "translation": "특별히…… 특별히, 상대를 소중히 여기는\n마음. 중요한 건 그거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0258",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3"
+      },
+      "original": "待ってろよ……ヴァニラ！\n",
+      "translation": "기다려라…… 바닐라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0259",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3"
+      },
+      "original": "ヴァニラ、開けてくれないか？\n話があるんだ。\n",
+      "translation": "바닐라, 열어주지 않겠나？ 할 말이 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0260",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3"
+      },
+      "original": "……ヴァニラ？\n部屋に戻ってないのか？\n",
+      "translation": "……바닐라？ 방으로 돌아가지 않은 건가？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0261",
+      "channel": 1,
+      "context": {
+        "face": "1080101,0,0100104",
+        "voice": "GB560479,3",
+        "speaker": "1,0010404"
+      },
+      "original": "どこにいるんだ……。\n捜さなきゃ！\n",
+      "translation": "어디에 있는 거지……. 찾아야 해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0262",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "voice": "GB560480,3",
+        "face": "0,0030802,0"
+      },
+      "original": "あれ、タクト？\n",
+      "translation": "어라, 택트？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0263",
+      "channel": 1,
+      "context": {
+        "voice": "GB560480,3",
+        "speaker": "1,0010301",
+        "face": "0,0030802,0"
+      },
+      "original": "ヴァニラを見なかったかい？\n",
+      "translation": "바닐라를 보지 못했나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0264",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030202,0",
+        "voice": "GB560481,3"
+      },
+      "original": "ううん、昼から会ってないけど。\n",
+      "translation": "아니, 낮부터는 못 봤는데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0265",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020102,0,0",
+        "voice": "GB560482,3"
+      },
+      "original": "ケーキ、焼けてますよ～！\n",
+      "translation": "케이크, 다 구워졌어요～！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0266",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0020102,0,0",
+        "voice": "GB560482,3"
+      },
+      "original": "ありがとう、後でもらうよ！\n",
+      "translation": "고마워, 나중에 받을게！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0267",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0,0,0",
+        "voice": "GB560482,3"
+      },
+      "original": "ケーラ先生、ヴァニラは……！\n",
+      "translation": "케라 선생님, 바닐라는……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0268",
+      "channel": 1,
+      "context": {
+        "speaker": "26,0260101",
+        "face": "0,0260102,0",
+        "voice": "GB560483,3"
+      },
+      "original": "ど、どうしたの、マイヤーズ司令？\n",
+      "translation": "무, 무슨 일인가요, 마이어스 사령관님？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0269",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0260102,0",
+        "voice": "GB560483,3"
+      },
+      "original": "……いませんね。\n失礼しました！\n",
+      "translation": "……없군요. 실례했습니다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0270",
+      "channel": 1,
+      "context": {
+        "speaker": "26,0260105",
+        "face": "0,0,0",
+        "voice": "GB560484,3"
+      },
+      "original": "あのー、ちょっと……？\n",
+      "translation": "저기, 잠깐만……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0271",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560484,3",
+        "speaker": "1,0010401"
+      },
+      "original": "ここにもいない……。\n",
+      "translation": "여기도 없어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0272",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GB560484,3"
+      },
+      "original": "いない……。\n",
+      "translation": "없어…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0273",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560484,3",
+        "speaker": "1,0010103"
+      },
+      "original": "……あっ！\nもしかして、あそこに……？\n",
+      "translation": "……앗！ 혹시, 저기에……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0274",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010102",
+        "voice": "GB560484,3"
+      },
+      "original": "ヴァニラがいるとしたら、後はここしか……。\n",
+      "translation": "바닐라가 있다고 한다면, 다음은\n여기밖에…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0275",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060701",
+        "face": "0,0,0",
+        "voice": "GB560485,3"
+      },
+      "original": "……大丈夫……。\n",
+      "translation": "……괜찮아…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0276",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560485,3",
+        "speaker": "1,0010102"
+      },
+      "original": "いた……ヴァニラだ。\n",
+      "translation": "있다…… 바닐라다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0277",
+      "channel": 1,
+      "context": {
+        "voice": "GB560485,3",
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "まさか、昼からずっと、ここにいたのか？\n誰と話しているんだろう。\n",
+      "translation": "설마, 아까부터 계속 여기에 있었던 건가？\n누구와 이야기하고 있는 거지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0278",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,0",
+        "voice": "GB560485,3"
+      },
+      "original": "……いや、違う。\nあの小さな足音は……宇宙ウサギだ。\n",
+      "translation": "……아니, 아니야. 저 작은 발소리는……\n우주 토끼다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0279",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060302",
+        "face": "0,0,0",
+        "voice": "GB560486,3"
+      },
+      "original": "……絶対、守ってあげるから……。\n",
+      "translation": "……반드시, 지켜줄 테니까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0280",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060302",
+        "voice": "GB560487,3"
+      },
+      "original": "もし……私が……。\n",
+      "translation": "만약…… 내가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0281",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060302",
+        "face": "0,0,0",
+        "voice": "GB560488,3"
+      },
+      "original": "でも……あなたたちは、大丈夫よね……。\nクロミエさんもいる……。\n",
+      "translation": "하지만…… 당신들은, 괜찮은 거지……？\n크로미에 씨도 있고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0282",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060304",
+        "voice": "GB560489,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0283",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060903",
+        "voice": "GB560490,3"
+      },
+      "original": "でも……タクトさんは……？\n",
+      "translation": "하지만…… 택트 씨는……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0284",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0,0",
+        "voice": "GB560490,3"
+      },
+      "original": "……ヴァ～ニラっ！\n",
+      "translation": "……바～닐라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0285",
+      "channel": 1,
+      "context": {
+        "face": "0,0060904,0",
+        "speaker": "6,0060101",
+        "voice": "GB560491,3"
+      },
+      "original": "あっ……。\n",
+      "translation": "앗…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0286",
+      "channel": 1,
+      "context": {
+        "face": "0,0060904,0",
+        "speaker": "1,0010101",
+        "voice": "GB560491,3"
+      },
+      "original": "ずっと、ここで宇宙ウサギに話しかけていた\nの？\n",
+      "translation": "계속, 여기서 우주 토끼한테 말을 걸고\n있었던 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0287",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560492,3",
+        "face": "0,0060103,0"
+      },
+      "original": "え……？\n……あ……いつの間に、こんなに暗く……。\n",
+      "translation": "에……？ ……아…… 언제 사이에, 이렇게\n어둡게…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0288",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560492,3",
+        "face": "0,0060103,0"
+      },
+      "original": "こんなところにいたら、カゼひいちゃうよ。\n身体、冷えてない？\n",
+      "translation": "이런 곳에 있으면, 감기 걸린다고. 몸,\n차갑지 않아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0289",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560493,3",
+        "face": "0,0060701,0"
+      },
+      "original": "……大丈夫です。\n",
+      "translation": "……괜찮습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0290",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560493,3",
+        "face": "0,0060701,0"
+      },
+      "original": "あのさ。\nサポート役……決まったかい？\n",
+      "translation": "있잖아. 서포트 역할…… 정해졌어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0291",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560494,3",
+        "face": "0,0060701,0"
+      },
+      "original": "……エンジェル隊のみなさんの、現在のテン\nションと……私の状態とあわせて、自分なり\nに考えてみました。\n",
+      "translation": "……엔젤대 여러분의, 현재 텐션과…… 제\n상태를 합쳐서, 나름대로 생각해\n보았습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0292",
+      "channel": 1,
+      "context": {
+        "voice": "GB560494,3",
+        "speaker": "1,0010101",
+        "face": "0,0060701,0"
+      },
+      "original": "うん……それで？\n",
+      "translation": "응…… 그래서？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0293",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560495,3",
+        "face": "0,0060305,0"
+      },
+      "original": "ひとつの仮想ミッションにおいて……私とコ\nンビで行なった場合の、成功確率で比較する\nと……。\n",
+      "translation": "하나의 가상 미션에서…… 저와 콤비로\n수행했을 경우, 성공 확률로 비교하면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0294",
+      "channel": 1,
+      "context": {
+        "voice": "GB560496,3",
+        "speaker": "6,0060101",
+        "face": "0,0060305,0"
+      },
+      "original": "ミルフィーさんが５６パーセント……ランファ\nさんが５４パーセント……。\n",
+      "translation": "밀피 씨가 ５６퍼센트……란파 씨가\n５４퍼센트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0295",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560497,3"
+      },
+      "original": "ミントさんとフォルテさんが、ともに５３パー\nセント……そして、ちとせさんが５２パーセ\nントでした……。\n",
+      "translation": "민트 씨와 포르테 씨가, 둘 다\n５３퍼센트……그리고, 치토세 씨가\n５２퍼센트였습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0296",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560497,3",
+        "speaker": "1,0010101"
+      },
+      "original": "じゃあ、ヴァニラが決めたのは……。\n",
+      "translation": "그럼, 바닐라가 결정한 것은…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0297",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060901,0",
+        "voice": "GB560498,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0298",
+      "channel": 1,
+      "context": {
+        "face": "0,0060901,0",
+        "voice": "GB560498,3",
+        "speaker": "1,0010101"
+      },
+      "original": "確率では、ミルフィーなのかな。\n",
+      "translation": "확률로는, 밀피인 걸까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0299",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060903,0",
+        "voice": "GB560499,3"
+      },
+      "original": "いえ……それは……。\n",
+      "translation": "아니요…… 그건…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0300",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0060903,0",
+        "voice": "GB560499,3"
+      },
+      "original": "よし、じゃあ決まりだ！\n",
+      "translation": "좋아, 그럼 결정이다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0301",
+      "channel": 1,
+      "context": {
+        "face": "0,0060904,0",
+        "voice": "GB560500,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……それは……待ってください。\n",
+      "translation": "……그건…… 기다려 주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0302",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0060904,0",
+        "voice": "GB560500,3"
+      },
+      "original": "オレが一緒に行く！！\n",
+      "translation": "내가 같이 가겠어！！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0303",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060103,0",
+        "voice": "GB560501,3"
+      },
+      "original": "……え……？\n",
+      "translation": "……에……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0304",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0060103,0",
+        "voice": "GB560501,3"
+      },
+      "original": "オレが、ヴァニラをサポートする！\n",
+      "translation": "내가, 바닐라를 서포트하겠어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0305",
+      "channel": 1,
+      "context": {
+        "face": "0,0060703,0",
+        "voice": "GB560502,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……ありえません。\n",
+      "translation": "……말도 안 됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0306",
+      "channel": 1,
+      "context": {
+        "voice": "GB560502,3",
+        "speaker": "1,0010102",
+        "face": "0,0060703,0"
+      },
+      "original": "どうして？\n",
+      "translation": "왜？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0307",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560503,3"
+      },
+      "original": "タクトさんは、紋章機に乗ったこともありま\nせん。\n非現実的です。\n",
+      "translation": "택트 씨는, 문장기에 타본 적도 없습니다.\n비현실적입니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0308",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560503,3",
+        "speaker": "1,0010101"
+      },
+      "original": "サポート役は、パイロットを助けてテンショ\nンを上げられる人間なら、それだけでもいい\nんだってさ。\n",
+      "translation": "서포트 역할은, 파일럿을 도와 텐션을\n높여줄 수 있는 사람이라면, 그것만으로도\n충분하대.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0309",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060701,0",
+        "voice": "GB560503,3"
+      },
+      "original": "紋章機のパイロットである必要はないって、\nノアも言ってた。\n",
+      "translation": "문장기의 파일럿일 필요는 없다고, 노아도\n말했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0310",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "voice": "GB560504,3",
+        "speaker": "6,0060101"
+      },
+      "original": "だとしても……比較・検討できるデータもあ\nりません。\n",
+      "translation": "그렇다 하더라도…… 비교・검토할 수 있는\n데이터도 없습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0311",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "voice": "GB560505,3",
+        "speaker": "6,0060101"
+      },
+      "original": "タクトさんが、どれだけその資質があるかも、\nわかりません……。\n",
+      "translation": "택트 씨가, 얼마나 그 자질이 있을지도,\n모르겠어요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0312",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060903,0",
+        "voice": "GB560505,3"
+      },
+      "original": "ヴァニラのテンションを上げるんだったら、\nオレ以外の適任なんか、いるはずないだろ？\n",
+      "translation": "바닐라의 텐션을 높일 거라면, 나 이외에\n적임 따위, 있을 리 없잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0313",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "voice": "GB560505,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ヴァニラは、オレといて元気にならない？\n",
+      "translation": "바닐라는, 나랑 있으면 기운이 안 나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0314",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060703,0",
+        "voice": "GB560506,3"
+      },
+      "original": "……それは……。\n",
+      "translation": "……그건…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0315",
+      "channel": 1,
+      "context": {
+        "face": "0,0060703,0",
+        "voice": "GB560506,3",
+        "speaker": "1,0010101"
+      },
+      "original": "誰よりも、オレが特別なんだろ？\n",
+      "translation": "누구보다도, 내가 특별한 거지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0316",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060902,0",
+        "voice": "GB560507,3"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0317",
+      "channel": 1,
+      "context": {
+        "face": "0,0060902,0",
+        "voice": "GB560507,3",
+        "speaker": "1,0010201"
+      },
+      "original": "じゃ、決まりだな！\nオレ、シャトヤーン様に報告しに行ってくる。\n",
+      "translation": "그럼, 결정됐네！ 나, 샤토얀 님께\n보고하러 다녀올게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0318",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060904,0",
+        "voice": "GB560508,3"
+      },
+      "original": "だ……ダメです……！\n",
+      "translation": "안…… 안 돼요……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0319",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060904,0",
+        "voice": "GB560508,3"
+      },
+      "original": "……ヴァニラ、服をつかまれちゃ、行けない\nよ。\nほらほら、手を離して。\n",
+      "translation": "……바닐라, 옷을 붙잡고 있으면 못 가잖아.\n자, 자, 손 놔.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0320",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060901,0",
+        "voice": "GB560509,3"
+      },
+      "original": "ダメです……。\n",
+      "translation": "안 돼요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0321",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060901,0",
+        "voice": "GB560509,3"
+      },
+      "original": "それとも、ヴァニラも一緒に行く？\n",
+      "translation": "아니면, 바닐라도 같이 갈래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0322",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0060901,0",
+        "voice": "GB560509,3"
+      },
+      "original": "……って、希望を言うのは、本当はヴァニラ\nだったっけ。\n",
+      "translation": "……라니, 희망을 말하는 건 사실\n바닐라였던가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0323",
+      "channel": 1,
+      "context": {
+        "voice": "GB560510,3",
+        "speaker": "6,0060101",
+        "face": "0,0060903,0"
+      },
+      "original": "ダメです……タクトさんは、絶対に……！\n",
+      "translation": "안 돼요…… 택트 씨는, 절대로……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0324",
+      "channel": 1,
+      "context": {
+        "voice": "GB560510,3",
+        "speaker": "1,0010102",
+        "face": "0,0060903,0"
+      },
+      "original": "……どうして？\n",
+      "translation": "……어째서？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0325",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060903,0",
+        "voice": "GB560511,3"
+      },
+      "original": "タクトさんは……危険なことをしては……ダ\nメです……。\n",
+      "translation": "택트 씨는…… 위험한 일을 해서는…… 안\n돼요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0326",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060903,0",
+        "voice": "GB560511,3"
+      },
+      "original": "でも、ヴァニラは、その「危険なこと」をす\nるつもりだろう？\n",
+      "translation": "하지만, 바닐라는 그 「위험한 일」을 할\n생각이지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0327",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "voice": "GB560512,3",
+        "speaker": "6,0060101"
+      },
+      "original": "タクトさんが、そんなことをするくらいなら、\n私が……。\n",
+      "translation": "택트 씨가 그런 일을 하실 거라면,\n제가…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0328",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060105,0",
+        "voice": "GB560513,3"
+      },
+      "original": "……そうです。\n誰も、選べないなら……。\n",
+      "translation": "……그래요. 아무도, 선택할 수\n없다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0329",
+      "channel": 1,
+      "context": {
+        "voice": "GB560513,3",
+        "speaker": "1,0010102",
+        "face": "0,0060105,0"
+      },
+      "original": "ヴァニラ……？\n",
+      "translation": "바닐라……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0330",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060105,0",
+        "voice": "GB560514,3"
+      },
+      "original": "……シャトヤーン様に、私ひとりで決戦兵器\nに乗れるように、お願いしてきます。\n",
+      "translation": "……샤토얀 님께, 저 혼자서 결전병기에 탈\n수 있도록 부탁하고 오겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0331",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560514,3",
+        "speaker": "1,0010301"
+      },
+      "original": "待った、ヴァニラ！\n",
+      "translation": "기다려, 바닐라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0332",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060901,0",
+        "voice": "GB560515,3"
+      },
+      "original": "そう……。\nひとりで行けば……。\n",
+      "translation": "그래…… 혼자서 간다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0333",
+      "channel": 1,
+      "context": {
+        "face": "0,0060901,0",
+        "voice": "GB560515,3",
+        "speaker": "1,0010302"
+      },
+      "original": "ヴァ～ニ～ラっ！\n",
+      "translation": "바～닐～라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0334",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060103,0",
+        "voice": "GB560516,3"
+      },
+      "original": "……はい……。\n",
+      "translation": "……네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0335",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560516,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ヴァニラの悪いクセだ。\nなんでも「自分ひとりが、がんばればいい」っ\nて考えるのは、よくないところだぞ。\n",
+      "translation": "바닐라의 나쁜 버릇이다. 뭐든지 「나\n혼자서, 노력하면 돼」라고 생각하는 건\n좋지 않은 점이라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0336",
+      "channel": 1,
+      "context": {
+        "voice": "GB560517,3",
+        "speaker": "6,0060901",
+        "face": "0,0,0"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0337",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060303",
+        "face": "0,0,0",
+        "voice": "GB560518,3"
+      },
+      "original": "でも……それなら……。\n",
+      "translation": "하지만…… 그렇다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0338",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560519,3",
+        "speaker": "6,0060303"
+      },
+      "original": "……私は、どうすればいいのですか……！？\n",
+      "translation": "……저는, 어떻게 하면 되나요……！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0339",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0,0",
+        "voice": "GB560519,3"
+      },
+      "original": "ヴァニラ……。\n",
+      "translation": "바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0340",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560520,3",
+        "speaker": "6,0060301"
+      },
+      "original": "よくないことだと……わかっていても……。\n",
+      "translation": "좋지 않은 일이라는 걸…… 알고\n있으면서도…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0341",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060901",
+        "voice": "GB560521,3",
+        "face": "0,0,0"
+      },
+      "original": "……タクトさんが、危険なことをするのは、\n絶対にダメです。\n私、イヤです……。\n",
+      "translation": "……택트 씨가, 위험한 일을 하는 건,\n절대로 안 돼요. 저, 싫어요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0342",
+      "channel": 1,
+      "context": {
+        "voice": "GB560521,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "……ヴァニラ。\n",
+      "translation": "……바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0343",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060903",
+        "face": "0,0,0",
+        "voice": "GB560522,3"
+      },
+      "original": "……ダメです……絶対に……。\n",
+      "translation": "……안 돼요……절대로…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0344",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560522,3",
+        "speaker": "1,0010101"
+      },
+      "original": "オレは、君のなんなの？\n",
+      "translation": "나는, 너에게 뭐야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0345",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060103",
+        "face": "0,0,0",
+        "voice": "GB560523,3"
+      },
+      "original": "……え……？\n",
+      "translation": "……에……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0346",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB560523,3"
+      },
+      "original": "……恋人、だろう？\n",
+      "translation": "……연인,겠지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0347",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560524,3",
+        "speaker": "6,0060905"
+      },
+      "original": "タクト、さん……。\n",
+      "translation": "택트, 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0348",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010101",
+        "voice": "GB560524,3"
+      },
+      "original": "それとも、そう思ってたのは、オレだけなの\nか？\n",
+      "translation": "아니면, 그렇게 생각했던 건, 나뿐인\n거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0349",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010101",
+        "voice": "GB560524,3"
+      },
+      "original": "ひとりぼっちで決戦兵器に乗っていくって？\nオレを置いてきぼりにして、ただ見ていろっ\nていうのか？\n",
+      "translation": "홀로 결전병기에 올라타겠다고？ 나를 뒤에\n남겨두고, 그저 지켜보고만 있으라는\n건가？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0350",
+      "channel": 1,
+      "context": {
+        "voice": "GB560525,3",
+        "speaker": "6,0060903"
+      },
+      "original": "いいえ……私……。\n",
+      "translation": "아니요…… 저…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0351",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560525,3"
+      },
+      "original": "約束……しただろう？\n",
+      "translation": "약속……했잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0352",
+      "channel": 1,
+      "context": {
+        "voice": "GB560526,3",
+        "speaker": "6,0060904"
+      },
+      "original": "……私は……！\n",
+      "translation": "……나는……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0353",
+      "channel": 1,
+      "context": {
+        "voice": "GB560526,3",
+        "speaker": "1,0010101"
+      },
+      "original": "どんなときも一緒……だろ？\n",
+      "translation": "언제나 함께……라고 했지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0354",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060703",
+        "voice": "GB560527,3"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0355",
+      "channel": 1,
+      "context": {
+        "voice": "GB560527,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ね？\n",
+      "translation": "응？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0356",
+      "channel": 1,
+      "context": {
+        "voice": "GB560528,3",
+        "speaker": "6,0060701"
+      },
+      "original": "…………はい。\nずっと、一緒に……。\n",
+      "translation": "…………네. 계속, 함께…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0357",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "voice": "GB560528,3"
+      },
+      "original": "ああ。\nオレたちは、ずっと一緒だ。\n",
+      "translation": "아아. 우리들은, 계속 함께다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0358",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560528,3"
+      },
+      "original": "また、指きりしよう。\n",
+      "translation": "다시, 손가락 걸고 약속하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0359",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060702",
+        "voice": "GB560529,3"
+      },
+      "original": "はい……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0360",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560529,3"
+      },
+      "original": "指きりげんまん、嘘ついたら針千本飲～ます。\n指きった！\n",
+      "translation": "손가락 걸고 약속, 거짓말하면 바늘 천 개\n삼기～해요. 약속했다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0361",
+      "channel": 1,
+      "context": {
+        "voice": "GB560530,3",
+        "speaker": "6,0060703"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0362",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560530,3"
+      },
+      "original": "オレとの約束、忘れちゃったのかと思って、\nちょっとさびしかったな。\n",
+      "translation": "나와의 약속, 잊어버린 건가 싶어서 조금\n쓸쓸했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0363",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060703",
+        "voice": "GB560531,3"
+      },
+      "original": "……タクトさん……。\n",
+      "translation": "……택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0364",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060902",
+        "voice": "GB560532,3"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0365",
+      "channel": 1,
+      "context": {
+        "voice": "GB560533,3",
+        "speaker": "6,0060902"
+      },
+      "original": "あの……少し、かがんでいただけますか？\n",
+      "translation": "저기…… 잠시, 몸을 굽혀 주시겠어요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0366",
+      "channel": 1,
+      "context": {
+        "voice": "GB560533,3",
+        "speaker": "1,0010102"
+      },
+      "original": "え？\n",
+      "translation": "에？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0367",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060902",
+        "voice": "GB560534,3"
+      },
+      "original": "……かがんで……くだ……。\n",
+      "translation": "……굽혀서…… 주세…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0368",
+      "channel": 1,
+      "context": {
+        "voice": "GB560534,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ごめん、よく聞こえないや。\nなんだい？\n",
+      "translation": "미안, 잘 안 들려. 뭐라고？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0369",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB560534,3"
+      },
+      "original": "……ヴァ、ヴァニラ……！\n",
+      "translation": "……바, 바닐라……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0370",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560535,3",
+        "face": "0,0060703,0"
+      },
+      "original": "感謝の気持ちを表すときにも、こうするのだ\nと……。\n",
+      "translation": "감사의 마음을 표할 때에도, 이렇게 하는\n것이라고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0371",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "voice": "GB560535,3",
+        "face": "0,0060703,0"
+      },
+      "original": "だ、だからって……誰にでも、こんなことし\nちゃ、だ、ダメだからね？\n",
+      "translation": "그, 그렇다고 해도…… 아무한테나, 이런\n짓 하면, 안, 안 되니까 말이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0372",
+      "channel": 1,
+      "context": {
+        "voice": "GB560536,3",
+        "speaker": "6,0060101",
+        "face": "0,0060902,0"
+      },
+      "original": "……しません。\n特別な人にだけ、するものだそうです。\n",
+      "translation": "……하지 않습니다. 특별한 사람에게만\n하는 것이라고 합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0373",
+      "channel": 1,
+      "context": {
+        "voice": "GB560537,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "では……報告に行きましょう。\n",
+      "translation": "그럼…… 보고하러 가죠.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0374",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "voice": "GB560537,3",
+        "face": "0,0060702,0"
+      },
+      "original": "よ、よし！\n行こうか。\n",
+      "translation": "조, 좋아！ 가자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0375",
+      "channel": 1,
+      "context": {
+        "voice": "GB560538,3",
+        "speaker": "6,0060101",
+        "face": "0,0060701,0"
+      },
+      "original": "……タクトさん。\n",
+      "translation": "……택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0376",
+      "channel": 1,
+      "context": {
+        "voice": "GB560539,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "必ず……帰ってきましょう……。\n",
+      "translation": "반드시…… 돌아오세요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0377",
+      "channel": 1,
+      "context": {
+        "voice": "GB560539,3",
+        "speaker": "1,0010101",
+        "face": "0,0060702,0"
+      },
+      "original": "当たり前だろう？\n一緒に、デートに行くんだもんな？\n",
+      "translation": "당연한 소릴 하지？ 같이 데이트하러\n가기로 했잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0378",
+      "channel": 1,
+      "context": {
+        "voice": "GB560540,3",
+        "speaker": "6,0060101",
+        "face": "0,0060902,0"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0379",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560600,3"
+      },
+      "original": "……大丈夫です。\n必ず、帰ってきます。\n",
+      "translation": "……괜찮아요. 반드시, 돌아올게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0380",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0060702,0",
+        "voice": "GB560600,3"
+      },
+      "original": "そうだよ。\nオレたちは死にに行くわけじゃない。\n生きるために、戦いに行くんだ。\n",
+      "translation": "그래. 우리들은 죽으러 가는 게 아니야.\n살기 위해서, 싸우러 가는 거다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0381",
+      "channel": 1,
+      "context": {
+        "face": "0,0100101,0",
+        "voice": "GB560601,3",
+        "speaker": "10,0100101"
+      },
+      "original": "ヴァニラ……マイヤーズ司令……。\nあなたがたの言葉を、信じます。\n",
+      "translation": "바닐라…… 마이어스 사령관……. 당신들의\n말을, 믿겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0382",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0100101,0",
+        "voice": "GB560601,3"
+      },
+      "original": "はい。\n必ず、生きて帰ってくると誓います。\n",
+      "translation": "네. 반드시, 살아 돌아올 것을 맹세합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0383",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560602,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……誓います。\n",
+      "translation": "……맹세합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0384",
+      "channel": 1,
+      "context": {
+        "face": "0040701,0,0",
+        "voice": "GB560603,3",
+        "speaker": "4,0040101"
+      },
+      "original": "タクトさん、ヴァニラさん……。\n",
+      "translation": "택트 씨, 바닐라 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0385",
+      "channel": 1,
+      "context": {
+        "voice": "GB560603,3",
+        "speaker": "1,0010101",
+        "face": "0040701,0,0"
+      },
+      "original": "みんなも、オレたちを信じてくれ。\n必ず帰ってくるって。\n",
+      "translation": "너희도, 우리를 믿어줘. 반드시 돌아올\n테니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0386",
+      "channel": 1,
+      "context": {
+        "face": "0,0060105,0",
+        "voice": "GB560604,3",
+        "speaker": "6,0060101"
+      },
+      "original": "私たちを、信じてください。\n",
+      "translation": "저희를, 믿어주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0387",
+      "channel": 1,
+      "context": {
+        "voice": "GB560700,3",
+        "speaker": "10,0100101",
+        "face": "0,0100102,0"
+      },
+      "original": "マイヤーズ司令、ヴァニラ。\n",
+      "translation": "마이어스 사령관, 바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0388",
+      "channel": 1,
+      "context": {
+        "face": "0,0100102,0",
+        "voice": "GB560701,3",
+        "speaker": "10,0100101"
+      },
+      "original": "少しだけ、待ってもらえませんか。\nお時間は取らせませんから。\n",
+      "translation": "잠시만, 기다려 주시겠습니까. 시간은 오래\n걸리지 않을 테니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0389",
+      "channel": 1,
+      "context": {
+        "voice": "GB560701,3",
+        "speaker": "1,0010102",
+        "face": "0,0100102,0"
+      },
+      "original": "あ、はい。\n",
+      "translation": "아, 네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0390",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0090601",
+        "voice": "GB560702,3",
+        "speaker": "9,0090401"
+      },
+      "original": "それでは、先に行っておるぞ。\n",
+      "translation": "그럼, 먼저 가 있겠다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0391",
+      "channel": 1,
+      "context": {
+        "face": "0,0100102,0",
+        "voice": "GB560703,3",
+        "speaker": "10,0100101"
+      },
+      "original": "引き止めてしまって、ごめんなさい。\n",
+      "translation": "붙잡아 버려서, 미안해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0392",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060701,0",
+        "voice": "GB560704,3"
+      },
+      "original": "いいえ……。\nそれで、どんなご用でしょうか……？\n",
+      "translation": "아니에요……. 그래서, 무슨\n용건이신가요……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0393",
+      "channel": 1,
+      "context": {
+        "face": "0,0100103,0",
+        "voice": "GBX560704,3",
+        "speaker": "10,0100101"
+      },
+      "original": "ヴァニラ……。\n",
+      "translation": "바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0394",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0100103,0",
+        "voice": "GB560705,3"
+      },
+      "original": "あなたには、つらい思いをさせてしまいまし\nた……。\n",
+      "translation": "당신에게, 괴로운 일을 겪게 하고\n말았습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0395",
+      "channel": 1,
+      "context": {
+        "face": "0,0100103,0",
+        "voice": "GB560706,3",
+        "speaker": "10,0100101"
+      },
+      "original": "謝ってすむものではないと、わかってはいま\nす。\n",
+      "translation": "사과해서 끝날 일이 아니라는 건, 알고\n있습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0396",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0100103,0",
+        "voice": "GB560707,3"
+      },
+      "original": "ですが、どうしてもひと言、詫びておきたかっ\nたのです。\n",
+      "translation": "하지만, 어떻게 해서든 한마디, 사죄하고\n싶었습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0397",
+      "channel": 1,
+      "context": {
+        "voice": "GB560708,3",
+        "speaker": "6,0060101",
+        "face": "0,0060103,0"
+      },
+      "original": "……シャトヤーン様……。\n",
+      "translation": "……샤토얀 님…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0398",
+      "channel": 1,
+      "context": {
+        "voice": "GB560709,3",
+        "speaker": "10,0100101",
+        "face": "0,0100103,0"
+      },
+      "original": "ヴァニラ。\n本当に……ごめんなさい。\n",
+      "translation": "바닐라. 정말로…… 미안해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0399",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560710,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……私は、もう大丈夫です。\n",
+      "translation": "……저는, 이제 괜찮아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0400",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560711,3"
+      },
+      "original": "タクトさんが……いてくれましたから。\n",
+      "translation": "택트 씨가…… 있어 주었으니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0401",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560711,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ヴァニラ……。\n",
+      "translation": "바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0402",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560712,3",
+        "speaker": "6,0060101"
+      },
+      "original": "タクトさんは私に……守ることの意味を、教\nえてくれました。\n",
+      "translation": "택트 씨는 저에게…… 지키는 것의 의미를,\n가르쳐 주었습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0403",
+      "channel": 1,
+      "context": {
+        "voice": "GB560713,3",
+        "speaker": "10,0100101",
+        "face": "0,0100104,0"
+      },
+      "original": "守ることの……意味？\n",
+      "translation": "지키는 것의…… 의미？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0404",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560714,3",
+        "speaker": "6,0060101"
+      },
+      "original": "はい。\n",
+      "translation": "네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0405",
+      "channel": 1,
+      "context": {
+        "face": "0,0060903,0",
+        "voice": "GB560715,3",
+        "speaker": "6,0060101"
+      },
+      "original": "タクトさんを……みなさんを守るために、私\nひとりが犠牲になればいい……。\n",
+      "translation": "택트 씨를…… 여러분을 지키기\n위해서라면, 저 혼자 희생되면 된다고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0406",
+      "channel": 1,
+      "context": {
+        "voice": "GB560716,3",
+        "speaker": "6,0060101",
+        "face": "0,0060701,0"
+      },
+      "original": "そう言った私を、タクトさんはしかってくれ\nました。\n",
+      "translation": "그렇게 말한 저를, 택트 씨는 꾸짖어\n주었습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0407",
+      "channel": 1,
+      "context": {
+        "voice": "GB560717,3",
+        "speaker": "6,0060101",
+        "face": "0,0060701,0"
+      },
+      "original": "自分は、いったいなんなのだと。\n恋人では……なかったのかと。\n",
+      "translation": "자신은 대체 무엇이냐고. 연인이……\n아니었느냐고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0408",
+      "channel": 1,
+      "context": {
+        "face": "0,0060701,0",
+        "voice": "GB560717,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ヴァニラ……。\n",
+      "translation": "바닐라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0409",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560718,3"
+      },
+      "original": "……そして、理解したのです。\n",
+      "translation": "……그리고, 이해했습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0410",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060901,0",
+        "voice": "GB560719,3"
+      },
+      "original": "守るというのは……その命だけを守るのでは\nなく、その人たちの持つ想いも、守ること。\n",
+      "translation": "지킨다는 것은…… 그 생명만을 지키는\n것이 아니라, 그 사람들이 가진 마음도,\n지키는 것.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0411",
+      "channel": 1,
+      "context": {
+        "voice": "GB560720,3",
+        "speaker": "6,0060101",
+        "face": "0,0060901,0"
+      },
+      "original": "……私を大事に想ってくれる、みなさんの気\n持ちも……守ること。\n",
+      "translation": "……나를 소중히 여겨주는, 여러분의\n마음도…… 지키는 것.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0412",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "voice": "GB560721,3",
+        "face": "0,0060701,0"
+      },
+      "original": "だから私は、そんなみなさんと……タクトさ\nんの想いを守るために……。\n",
+      "translation": "그러니까 나는, 그런 여러분과…… 택트\n씨의 마음을 지키기 위해서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0413",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560722,3"
+      },
+      "original": "必ず、生きて帰ってきます。\n",
+      "translation": "반드시, 살아서 돌아오겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0414",
+      "channel": 1,
+      "context": {
+        "voice": "GB560723,3",
+        "speaker": "10,0100101",
+        "face": "0,0100101,0"
+      },
+      "original": "……帰りを待っていますよ、ヴァニラ。\nあなたのその笑顔を、再び私に見せてくださ\nい。\n",
+      "translation": "……돌아오기를 기다리고 있겠습니다,\n바닐라. 당신의 그 미소를, 다시 한번 내게\n보여주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0415",
+      "channel": 1,
+      "context": {
+        "face": "0,0060702,0",
+        "voice": "GB560724,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0416",
+      "channel": 1,
+      "context": {
+        "face": "0,0100101,0",
+        "voice": "GB560725,3",
+        "speaker": "10,0100101"
+      },
+      "original": "マイヤーズ司令。\n彼女のことを、お願いします。\n私は、ここで祈ることしかできませんが……。\n",
+      "translation": "마이어스 사령관. 그녀를, 부탁합니다.\n저는, 여기서 기도하는 것밖에 할 수\n없지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0417",
+      "channel": 1,
+      "context": {
+        "voice": "GB560725,3",
+        "speaker": "1,0010101",
+        "face": "0,0100101,0"
+      },
+      "original": "はい、お任せください。\n",
+      "translation": "네, 맡겨 주십시오.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0418",
+      "channel": 1,
+      "context": {
+        "voice": "GB560725,3",
+        "speaker": "1,0010101",
+        "face": "0,0100101,0"
+      },
+      "original": "ヴァニラが、オレを守ってくれるように……。\nオレもヴァニラの想いを守ります。\n",
+      "translation": "바닐라가, 나를 지켜줄 수 있도록…….\n나도 바닐라의 마음을 지키겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0419",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0100101,0",
+        "voice": "GB560725,3"
+      },
+      "original": "そのためにも、必ず戦いを終わらせます。\n",
+      "translation": "그러기 위해서라도, 반드시 싸움을\n끝내겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0420",
+      "channel": 1,
+      "context": {
+        "voice": "GB560726,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "そして、ふたりで……無事に戻ってきます。\n",
+      "translation": "그리고, 둘이서…… 무사히\n돌아오겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0421",
+      "channel": 1,
+      "context": {
+        "voice": "GB560727,3",
+        "speaker": "10,0100101",
+        "face": "0,0100102,0"
+      },
+      "original": "お待ちしております、マイヤーズ司令。\n",
+      "translation": "기다리고 있겠습니다, 마이어스 사령관님.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0422",
+      "channel": 1,
+      "context": {
+        "voice": "GB560727,3",
+        "speaker": "1,0010101",
+        "face": "0,0100102,0"
+      },
+      "original": "はい。\n",
+      "translation": "네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0423",
+      "channel": 1,
+      "context": {
+        "face": "0,0100101,0",
+        "voice": "GB560728,3",
+        "speaker": "10,0100101"
+      },
+      "original": "あなたがたは……本当に素敵な恋人たちです\nね。\n",
+      "translation": "당신들은…… 정말 멋진 연인들이군요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0424",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060103,0",
+        "voice": "GB560729,3"
+      },
+      "original": "……え……。\n",
+      "translation": "……에…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0425",
+      "channel": 1,
+      "context": {
+        "voice": "GB560730,3",
+        "speaker": "6,0060101",
+        "face": "0,0060902,0"
+      },
+      "original": "……あ、あの……。\n",
+      "translation": "……아, 저기…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0426",
+      "channel": 1,
+      "context": {
+        "face": "0,0060902,0",
+        "voice": "GB560730,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ほら、ヴァニラ。\nうつむいちゃダメだろ？\n",
+      "translation": "자, 바닐라. 고개 숙이고 있으면 안 되지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0427",
+      "channel": 1,
+      "context": {
+        "voice": "GB560730,3",
+        "speaker": "1,0010101",
+        "face": "0,0060902,0"
+      },
+      "original": "こういうときは、胸を張って、\n「ありがとうございます」さ。\n",
+      "translation": "이럴 때는 가슴을 펴고,\n「감사합니다」라고 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0428",
+      "channel": 1,
+      "context": {
+        "voice": "GB560731,3",
+        "speaker": "6,0060101",
+        "face": "0,0060703,0"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0429",
+      "channel": 1,
+      "context": {
+        "voice": "GB560732,3",
+        "speaker": "6,0060101",
+        "face": "0,0060702,0"
+      },
+      "original": "ありがとう……ございます。\nシャトヤーン様……。\n",
+      "translation": "감사……합니다. 샤토얀 님…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0430",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0100101,0",
+        "voice": "GB560733,3"
+      },
+      "original": "はい。\n",
+      "translation": "네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0431",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0100101,0",
+        "voice": "GB560733,3"
+      },
+      "original": "それでは、オレたちはこれで。\n行ってまいります。\n",
+      "translation": "그럼, 저희는 이만. 다녀오겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0432",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0,0060702,0",
+        "voice": "GB560734,3"
+      },
+      "original": "行ってまいります……。\n",
+      "translation": "다녀오겠습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0433",
+      "channel": 1,
+      "context": {
+        "speaker": "10,0100101",
+        "face": "0,0100102,0",
+        "voice": "GB560735,3"
+      },
+      "original": "……『白き月』よ。\nあのふたりをお守りください……。\n",
+      "translation": "……『백색 달』이여. 저 두 사람을\n지켜주세요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0434",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560735,3",
+        "speaker": "1,0010101"
+      },
+      "original": "お待たせ、ヴァニラ。\n",
+      "translation": "기다렸지, 바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0435",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560900,3",
+        "speaker": "6,0060703"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0436",
+      "channel": 1,
+      "context": {
+        "voice": "GB560900,3",
+        "speaker": "1,0010105",
+        "face": "0,0,0"
+      },
+      "original": "パイロットスーツが思ったよりもキツくて、\n手間取っちゃったよ。\n",
+      "translation": "파일럿 슈트가 생각보다 타이트해서,\n시간이 좀 걸렸어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0437",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB560900,3"
+      },
+      "original": "ヴァニラはいいなぁ、ぴったりだ。\nよく似合ってるよ。\n",
+      "translation": "바닐라는 좋겠네, 딱 맞아. 아주 잘\n어울려.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0438",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560901,3",
+        "speaker": "6,0060902"
+      },
+      "original": "い、いえ……。\n",
+      "translation": "아, 아니에요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0439",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560901,3",
+        "speaker": "1,0010101"
+      },
+      "original": "さてと……ヴァニラ、気分は？\n",
+      "translation": "자 그럼…… 바닐라, 기분은 어때？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0440",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560902,3",
+        "speaker": "6,0060901"
+      },
+      "original": "少し……緊張しているようです。\n",
+      "translation": "조금…… 긴장되는 것 같아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0441",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GB560902,3"
+      },
+      "original": "大丈夫。\nリラックス、リラックス。\nいつもの調子でやればいいのさ。\n",
+      "translation": "괜찮아. 릴랙스, 릴랙스. 평소처럼\n하면 돼.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0442",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060905",
+        "face": "0,0,0",
+        "voice": "GB560903,3"
+      },
+      "original": "はい……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0443",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560904,3",
+        "speaker": "6,0060905"
+      },
+      "original": "……タクトさん。\nひとつ、お願いをしても……よろしいですか？\n",
+      "translation": "……택트 씨. 한 가지만, 부탁드려도……\n괜찮을까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0444",
+      "channel": 1,
+      "context": {
+        "voice": "GB560904,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "なんだい？\n",
+      "translation": "뭔데？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0445",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060902",
+        "voice": "GB560905,3"
+      },
+      "original": "……おまじないを……。\n",
+      "translation": "……부적을…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0446",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB560906,3",
+        "speaker": "6,0060902"
+      },
+      "original": "……勇気を、ください。\n",
+      "translation": "……용기를, 주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0447",
+      "channel": 1,
+      "context": {
+        "voice": "GB560906,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "……おまじないって……。\n",
+      "translation": "……부적이라니…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0448",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010104",
+        "voice": "GB560906,3"
+      },
+      "original": "ああ、わかった。\n……目を閉じて。\n",
+      "translation": "아아, 알았어. ……눈을 감고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0449",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060902",
+        "voice": "GB560907,3"
+      },
+      "original": "……はい……。\n",
+      "translation": "……네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0450",
+      "channel": 1,
+      "context": {
+        "voice": "GB560908,3",
+        "speaker": "6,0"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0451",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "voice": "GB560908,3"
+      },
+      "original": "……どうだい？\n",
+      "translation": "……어때？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0452",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060702",
+        "voice": "GB560909,3"
+      },
+      "original": "ドキドキ……しています。\n……ですが、怖くはないです。\n",
+      "translation": "두근두근……하고 있습니다. ……하지만,\n무섭지는 않아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0453",
+      "channel": 1,
+      "context": {
+        "voice": "GB560909,3",
+        "speaker": "1,0010101"
+      },
+      "original": "よかった。\n",
+      "translation": "다행이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0454",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "voice": "GB560909,3"
+      },
+      "original": "敵包囲網突破！\n目標までの距離、３０００……２８００……\n２６００……。\n",
+      "translation": "적 포위망 돌파！ 목표까지의 거리,\n３０００……２８００……２６００…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0455",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "voice": "GB560909,3"
+      },
+      "original": "距離２０００！\n",
+      "translation": "거리 ２０００！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0456",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "voice": "GB560909,3"
+      },
+      "original": "７番機、シールドＯＦＦ！\nエネルギーをすべて、フィールド・キャンセ\nラーとクロノ・ブレイク・キャノンへ回す！\n",
+      "translation": "７번기, 실드 ＯＦＦ！ 에너지를 전부 필드・캔슬러와 크로노・브레이크・캐논으로\n돌려！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0457",
+      "channel": 1,
+      "context": {
+        "voice": "GB560909,3",
+        "speaker": "1,0010101"
+      },
+      "original": "……ヴァニラ、あとは君が頼りだ。\n",
+      "translation": "……바닐라, 이제부터는 네가 책임져줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0458",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060105",
+        "voice": "GB561000,3"
+      },
+      "original": "了解。\nフィールド・キャンセラー作動。\n……敵フィールドの中和を開始します。\n",
+      "translation": "네. 필드・캔슬러 작동. ……적\n필드의 중화를 개시합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0459",
+      "channel": 1,
+      "context": {
+        "voice": "GB561001,3",
+        "speaker": "6,0060905"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0460",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB561001,3"
+      },
+      "original": "行くよ、ヴァニラ。\n",
+      "translation": "간다, 바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0461",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060702",
+        "voice": "GB561002,3"
+      },
+      "original": "……はい！\n",
+      "translation": "……네！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0462",
+      "channel": 1,
+      "context": {
+        "voice": "GB561100,3",
+        "speaker": "6,0060701"
+      },
+      "original": "……こちら、７番機……。\n",
+      "translation": "……여기는, ７번기…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0463",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060701",
+        "voice": "GB561101,3"
+      },
+      "original": "エンジン破損のため、自力航行が不可能です。\n……救助を願います。\n",
+      "translation": "엔진 파손으로 인해, 자력 항행이\n불가능합니다. ……구조를 요청합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0464",
+      "channel": 1,
+      "context": {
+        "voice": "GB561102,3",
+        "speaker": "998,0"
+      },
+      "original": "ヴァニラ！\n",
+      "translation": "바닐라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0465",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB561102,3"
+      },
+      "original": "言っただろ、必ず帰ってくるって。\n",
+      "translation": "말했잖아, 반드시 돌아온다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0466",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020902",
+        "voice": "GB561103,3"
+      },
+      "original": "はい……はいっ！\n",
+      "translation": "네…… 네！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0467",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030202",
+        "voice": "GB561104,3"
+      },
+      "original": "……まったく、心配させて！\n",
+      "translation": "……정말이지, 걱정하게 만들고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0468",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040102",
+        "voice": "GB561105,3"
+      },
+      "original": "おふたりとも、お帰りなさいませ。\n",
+      "translation": "두 분 모두, 어서 오세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0469",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050103",
+        "voice": "GB561106,3"
+      },
+      "original": "よくがんばったね、ヴァニラ。\nお疲れ、タクト。\n",
+      "translation": "잘 버텼어, 바닐라. 수고했어, 택트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0470",
+      "channel": 1,
+      "context": {
+        "voice": "GB561107,3",
+        "speaker": "107,1070401"
+      },
+      "original": "ヴァニラ先輩……！\nタクトさん……！\n",
+      "translation": "바닐라 선배……！ 택트 씨……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0471",
+      "channel": 1,
+      "context": {
+        "voice": "GB561108,3",
+        "speaker": "5,0050204"
+      },
+      "original": "ほら、ちとせ。\nいつまでも泣いてるんじゃないよ。\n回収、頼んだよ。\n",
+      "translation": "자, 치토세. 언제까지 울고만 있을 거야.\n회수, 부탁할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0472",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070403",
+        "voice": "GB561109,3"
+      },
+      "original": "は……はい！\n",
+      "translation": "하…… 네！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0473",
+      "channel": 1,
+      "context": {
+        "voice": "GB561109,3",
+        "speaker": "1,0010201"
+      },
+      "original": "よろしく～。\n",
+      "translation": "잘 부탁해～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0474",
+      "channel": 1,
+      "context": {
+        "voice": "GB561109,3",
+        "speaker": "1,0010101"
+      },
+      "original": "……じゃあ帰ろうか、ヴァニラ。\n",
+      "translation": "……그럼 돌아갈까, 바닐라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0475",
+      "channel": 1,
+      "context": {
+        "voice": "GB561110,3",
+        "speaker": "6,0060702"
+      },
+      "original": "はい。\n",
+      "translation": "네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0476",
+      "channel": 1,
+      "context": {
+        "voice": "GB561110,3",
+        "speaker": "1,0010201"
+      },
+      "original": "帰ったら、楽しい楽しい祝勝会が待ってるぞ！\nみんなで大騒ぎだ！\n",
+      "translation": "돌아가면 즐겁고 즐거운 축하 파티가\n기다리고 있다고！ 다 같이 떠들썩하게\n놀자！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0477",
+      "channel": 1,
+      "context": {
+        "voice": "GB561110,3",
+        "speaker": "1,0010101"
+      },
+      "original": "それから……。\n約束のデートをしようね。\n",
+      "translation": "그리고…… 약속한 데이트를 하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0478",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060902",
+        "voice": "GB561111,3"
+      },
+      "original": "はい……。\n……デート、です……。\n",
+      "translation": "네…… ……데이트, 입니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0479",
+      "channel": 1,
+      "context": {
+        "voice": "GB561200,3",
+        "speaker": "6,0061203"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0480",
+      "channel": 1,
+      "context": {
+        "voice": "GB561200,3",
+        "speaker": "1,0010601"
+      },
+      "original": "ほら、あれが宇宙キリンだよ。\nどうだい、ヴァニラ？\n",
+      "translation": "봐, 저게 우주 기린이야. 어때, 바닐라？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0481",
+      "channel": 1,
+      "context": {
+        "voice": "GB561201,3",
+        "speaker": "6,0061201"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0482",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010603",
+        "voice": "GB561201,3"
+      },
+      "original": "……ヴァニラ？\n",
+      "translation": "……바닐라？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0483",
+      "channel": 1,
+      "context": {
+        "voice": "GB561202,3",
+        "speaker": "6,0061201"
+      },
+      "original": "……首が……とても、長いです……。\n",
+      "translation": "……목이……너무, 길어요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0484",
+      "channel": 1,
+      "context": {
+        "voice": "GB561202,3",
+        "speaker": "1,0010602"
+      },
+      "original": "来てよかっただろう？\n",
+      "translation": "오길 잘했지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0485",
+      "channel": 1,
+      "context": {
+        "voice": "GB561204,3",
+        "speaker": "6,0061201"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0486",
+      "channel": 1,
+      "context": {
+        "voice": "GB561204,3",
+        "speaker": "1,0010602"
+      },
+      "original": "……あはは、動物たちに夢中で、それどころ\nじゃないみたいだな。\n",
+      "translation": "……아하하, 동물들에게 정신이 팔려서,\n그럴 때가 아닌 모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0487",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0061203",
+        "voice": "GB561205,3"
+      },
+      "original": "あっ……！\nタクトさん……鼻が、鼻が……あんなに……。\n",
+      "translation": "앗……！ 택트 씨……코가,\n코가……저렇게나…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0488",
+      "channel": 1,
+      "context": {
+        "voice": "GB561205,3",
+        "speaker": "1,0010603"
+      },
+      "original": "わっ、ヴァ、ヴァニラ！\nそんなに引っ張ったら、セーター伸びちゃう\nよ！\n",
+      "translation": "왓, 바, 바닐라！ 그렇게 잡아당기면,\n스웨터 늘어난다고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0489",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0061203",
+        "voice": "GB561206,3"
+      },
+      "original": "あ……。\n",
+      "translation": "아…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0490",
+      "channel": 1,
+      "context": {
+        "voice": "GB561207,3",
+        "speaker": "6,0061201"
+      },
+      "original": "……す……すみません。\n",
+      "translation": "……죄……죄송합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0491",
+      "channel": 1,
+      "context": {
+        "voice": "GB561207,3",
+        "speaker": "1,0010601"
+      },
+      "original": "いや、怒ってるんじゃないよ。\n",
+      "translation": "아니, 화난 게 아니야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0492",
+      "channel": 1,
+      "context": {
+        "voice": "GB561207,3",
+        "speaker": "1,0010601"
+      },
+      "original": "ヴァニラからもらった、大切な手編みのセー\nターだからね。\n大切に着たいんだ。\n",
+      "translation": "바닐라에게 받은, 소중한 손뜨개\n스웨터니까 말이야. 소중하게 입고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0493",
+      "channel": 1,
+      "context": {
+        "voice": "GB561208,3",
+        "speaker": "6,0061202"
+      },
+      "original": "……はい。\n",
+      "translation": "……네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0494",
+      "channel": 1,
+      "context": {
+        "voice": "GB561208,3",
+        "speaker": "1,0010601"
+      },
+      "original": "とってもあったかいよ、ヴァニラ。\nありがとう。\n",
+      "translation": "정말 따뜻해, 바닐라. 고마워.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0495",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0061201",
+        "voice": "GB561209,3"
+      },
+      "original": "私も……。\n",
+      "translation": "저도…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0496",
+      "channel": 1,
+      "context": {
+        "voice": "GB561209,3",
+        "speaker": "1,0010601"
+      },
+      "original": "ん？\n",
+      "translation": "응？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0497",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0061202",
+        "voice": "GB561210,3"
+      },
+      "original": "ありがとう……ございます。\nこんなに楽しいのは……生まれて初めてです。\n",
+      "translation": "감사……합니다. 이렇게 즐거운 것은……\n태어나서 처음이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0498",
+      "channel": 1,
+      "context": {
+        "voice": "GB561210,3",
+        "speaker": "1,0010602"
+      },
+      "original": "大げさだなぁ、ヴァニラは。\n動物園ぐらい、いつでも来れるよ。\n",
+      "translation": "과장이 심하네, 바닐라는. 동물원은 언제든\n올 수 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0499",
+      "channel": 1,
+      "context": {
+        "voice": "GB561211,3",
+        "speaker": "6,0061202"
+      },
+      "original": "……初めて……です……から……。\n",
+      "translation": "……처음……이니까요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0500",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010603",
+        "voice": "GB561211,3"
+      },
+      "original": "え？\n",
+      "translation": "에？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0501",
+      "channel": 1,
+      "context": {
+        "voice": "GB561212,3",
+        "speaker": "6,0061202"
+      },
+      "original": "タクトさんと……。\n初めての……デート、ですから……。\n",
+      "translation": "택트 씨와…… 처음인……\n데이트,니까요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0502",
+      "channel": 1,
+      "context": {
+        "voice": "GB561212,3",
+        "speaker": "1,0010601"
+      },
+      "original": "……そうだね。\n",
+      "translation": "……그렇네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0503",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010602",
+        "voice": "GB561212,3"
+      },
+      "original": "よし、じゃあもっと楽しもう！\n",
+      "translation": "좋아, 그럼 좀 더 즐기자！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0504",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010602",
+        "voice": "GB561212,3"
+      },
+      "original": "あっちには、宇宙シマウマがいるんだって！\n行ってみよう、ヴァニラ！\n",
+      "translation": "저쪽에는 우주 얼룩말이 있대！ 가보자,\n바닐라！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000ac000:dialogue:0505",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0061202",
+        "voice": "GB561213,3"
+      },
+      "original": "……はい、タクトさん！\n",
+      "translation": "……네, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

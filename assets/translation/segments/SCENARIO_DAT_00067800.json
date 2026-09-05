@@ -1,0 +1,319 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00067800.txt",
+    "encoding": "cp932",
+    "sha256": "88a2956e5885bde7e510c4b4a2bdc859662f994661cdcac9ef5dafed047b8aad",
+    "dialogue_count": 24
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102"
+      },
+      "original": "ミント、いるかい？\n",
+      "translation": "민트, 있니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040704",
+        "voice": "GB350300,3"
+      },
+      "original": "はい、おりますわ。\nお入りください。\n",
+      "translation": "네, 있어요. 들어오세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB350300,3"
+      },
+      "original": "それじゃ、おじゃまするよ。\n",
+      "translation": "그럼, 실례할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB350301,3",
+        "face": "0,0040704,0"
+      },
+      "original": "タクトさん、いらっしゃいませ。\n今、お茶を淹れますわね。\n",
+      "translation": "택트 씨, 어서 오세요. 지금 바로 차를\n내올게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB350301,3",
+        "face": "0,0040704,0"
+      },
+      "original": "いや、おかまいなく。\nミントがどうしてるかと思って、寄ってみた\nだけだから。\n",
+      "translation": "아니, 신경 쓰지 마. 민트가 어떻게 지내나\n해서 들러본 것뿐이니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB350302,3",
+        "face": "0,0040101,0"
+      },
+      "original": "私はこのとおり、変わりありませんわよ。\n",
+      "translation": "저는 이대로, 별일 없답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB350302,3",
+        "face": "0,0040101,0"
+      },
+      "original": "そうかい？\nでも、オレには、なんだか無理をしてるみた\nいに見えるよ。\n",
+      "translation": "그래？ 하지만 내 눈에는 왠지 무리하고\n있는 것처럼 보여.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB350303,3",
+        "face": "0,0040202,0"
+      },
+      "original": "……そうですか？\n",
+      "translation": "……그런가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB350303,3",
+        "face": "0,0040202,0"
+      },
+      "original": "ああ、ズバリ言おうか？\nその理由は……。\n",
+      "translation": "아아, 딱 잘라 말할까？ 그 이유는…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB350400,3",
+        "face": "0,0040101,0"
+      },
+      "original": "タクトさんの目は、ごまかせませんわね。\n",
+      "translation": "택트 씨의 눈은 속일 수 없네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "voice": "GB350400,3",
+        "face": "0,0040101,0"
+      },
+      "original": "じゃあ、やっぱり……。\n",
+      "translation": "그럼, 역시…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "voice": "GB350401,3",
+        "face": "0,0040204,0"
+      },
+      "original": "さっきの戦いで撤退してから、乗組員のみな\nさんが不安がっていて……。\n",
+      "translation": "아까의 전투에서 퇴각한 뒤로, 승무원\n여러분이 불안해하고 있어서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040202,0",
+        "voice": "GB350402,3"
+      },
+      "original": "気にしないようにと思っていても、みなさん\nの心の中の不安が、私にまで伝わってきます\nの。\n",
+      "translation": "신경 쓰지 말아야지라고 생각해도,\n여러분의 마음속 불안이 저에게까지 전해져\n와요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "voice": "GB350402,3",
+        "speaker": "1,0010401"
+      },
+      "original": "そうか……。\nテレパシーが復活したのも、こんなときは、\nかえってつらいね。\n",
+      "translation": "그런가……. 텔레파시가 부활한 것도, 이럴\n때는 오히려 괴롭겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "face": "0,0040201,0",
+        "voice": "GB350403,3",
+        "speaker": "4,0040101"
+      },
+      "original": "ええ……。\n",
+      "translation": "네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040101,0",
+        "voice": "GB350404,3"
+      },
+      "original": "でも、今はもう平気ですわ。\n",
+      "translation": "하지만, 지금은 이제 괜찮아요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0040101,0",
+        "voice": "GB350404,3"
+      },
+      "original": "えっ、どうして？\n",
+      "translation": "엣, 어째서？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "0,0040706,0",
+        "voice": "GB350405,3",
+        "speaker": "4,0040101"
+      },
+      "original": "タクトさんとお話をしているうちに、気分が\nすっきりしてきましたの。\n",
+      "translation": "택트 씨와 이야기를 나누는 사이에, 기분이\n상쾌해졌거든요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0,0040704,0",
+        "voice": "GB350406,3",
+        "speaker": "4,0040101"
+      },
+      "original": "それは、タクトさんが不安を感じていないか\nらでしょうね。\n",
+      "translation": "그건, 택트 씨가 불안을 느끼지 않고 있기\n때문이겠죠.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0,0040704,0",
+        "voice": "GB350406,3",
+        "speaker": "1,0010105"
+      },
+      "original": "オレが不安じゃない？\n……確かに、何か必ず打つ手が見つかるだろ\nうと思ってはいたけど。\n",
+      "translation": "내가 불안하지 않다고？ ……확실히, 분명\n어떤 대책은 찾을 수 있을 거라고는\n생각했지만.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GB350407,3",
+        "speaker": "4,0040101"
+      },
+      "original": "おかげで、私自身の心にあった不安も、消え\nてしまいましたわ。\n",
+      "translation": "덕분에, 제 마음속에 있던 불안도 사라져\n버렸답니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0040102,0",
+        "voice": "GB350407,3"
+      },
+      "original": "そりゃよかった。\nオレの脳天気も、たまには役にたつな。\n",
+      "translation": "그거 다행이네. 내 낙천적인 성격도 가끔은\n도움이 되는군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "face": "0,0040301,0",
+        "voice": "GB350408,3",
+        "speaker": "4,0040101"
+      },
+      "original": "うふふっ。\nご自分で言っていたら、世話がありませんわ。\n",
+      "translation": "우후훗. 스스로 말씀하시니 쑥스럽네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00067800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "face": "0,0040301,0",
+        "voice": "GB350408,3",
+        "speaker": "1,0010201"
+      },
+      "original": "あ、そうか。\nはははは！\n",
+      "translation": "아, 그렇군. 하하하하！\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000e3800.txt",
+    "encoding": "cp932",
+    "sha256": "4318814f38fba83b633dd392f5c8fa9f0022140b05dc0d4bd123e4457e5efc44",
+    "dialogue_count": 18
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB160900,3",
+        "speaker": "7,0070201"
+      },
+      "original": "現在の状況は、こうなっている。\n",
+      "translation": "현재 상황은 이렇다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB160901,3",
+        "speaker": "7,0070201"
+      },
+      "original": "エルシオールの現在位置は、ここだ。\n",
+      "translation": "에르시올의 현재 위치는 여기다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB160902,3",
+        "speaker": "7,0070501"
+      },
+      "original": "援護の友軍艦隊とは、連絡がついていない。\n俺たちだけで何とかするしかないようだ。\n",
+      "translation": "지원군 함대와는 연락이 닿지 않고 있다.\n우리끼리 어떻게든 할 수밖에 없을 것\n같다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GBX210402,3",
+        "speaker": "7,0070201"
+      },
+      "original": "敵艦隊の配置は、こうなっている。\n",
+      "translation": "적 함대의 배치는 이렇다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GBX210402,3",
+        "speaker": "1,0010301"
+      },
+      "original": "作戦の最終目標は、決戦兵器……７番目の紋\n章機によって、巨大艦を破壊することだ。\n",
+      "translation": "작전의 최종 목표는 결전병기…… ７번\n문장기에 의해 거대함을 파괴하는 것이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GBX210402,3",
+        "speaker": "1,0010301"
+      },
+      "original": "７番機を発進させるためには、敵の防衛線を\n突破して、エルシオールがこのラインまで進\nむ必要がある。\n",
+      "translation": "７번기를 출격시키기 위해서는 적의\n방어선을 돌파하여, 에르시올이 이\n라인까지 진입할 필요가 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GBX210402,3",
+        "speaker": "1,0010301"
+      },
+      "original": "当然、敵も全力でオレたちを阻止しようとし\nてくるはずだ。\n増援も出てくるだろう。\n",
+      "translation": "당연히 적도 전력으로 우리를 저지하려 할\n것이다. 증원군도 나올 테고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GBX210402,3",
+        "speaker": "1,0010301"
+      },
+      "original": "今回は、５機しか戦いに参加できないから、\n苦しい戦いになるだろうけど、なんとかエル\nシオールの進路を確保してくれ。\n",
+      "translation": "이번에는 ５기밖에 전투에 참여할 수\n없기에 고전하는 싸움이 되겠지만,\n어떻게든 에르시올의 진로를 확보해 주게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB661200,3",
+        "speaker": "107,1070302"
+      },
+      "original": "みなさん、どうかよろしくお願いします。\n",
+      "translation": "여러분, 부디 잘 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "voice": "GB661201,3",
+        "speaker": "2,0020902"
+      },
+      "original": "うん、わかったわ。\n任せといて！\n",
+      "translation": "응, 알았어. 맡겨 둬！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GB661202,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ちとせ、それにタクトも、気をつけてね！\n",
+      "translation": "치토세, 그리고 택트도 조심해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "voice": "GB661202,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ああ、任せてくれ。\n",
+      "translation": "아아, 맡겨 둬.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB661202,3"
+      },
+      "original": "みんなも、頼んだぞ。\n以上だ。\n",
+      "translation": "모두들도, 부탁한다. 이상이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0014",
+      "channel": 0,
+      "context": {
+        "voice": "GB661202,3",
+        "speaker": "999,0"
+      },
+      "original": "～敵部隊の編成～\n　戦艦タイプ×４　　　　突撃艦タイプ×８\n　戦闘機タイプ×１２\n　\n～勝利条件～\n　エルシオールの目標地点到達\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
+      "translation": "～적 부대 편성～전함\n타입×４　　　　돌격함 타입×８ 전투기\n타입×１２～승리 조건～에르시올의 목표\n지점 도달～패배 조건～에르시올의 파괴\n타임 오버\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "7,0070101",
+        "voice": "GB560810,3",
+        "face": "0,0070101,0"
+      },
+      "original": "もう一度、作戦内容を確認するか？\n",
+      "translation": "다시 한번, 작전 내용을 확인할까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB560810,3",
+        "face": "0,0070101,0"
+      },
+      "original": "そうだなぁ……。\n",
+      "translation": "글쎄...\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB560810,3",
+        "face": "0,0070101,0"
+      },
+      "original": "うん。\n念のため、もう一度確認しておこう。\n",
+      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000e3800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "voice": "GB560810,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "いや、その必要はない。\n",
+      "translation": "아니, 그럴 필요는 없다.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

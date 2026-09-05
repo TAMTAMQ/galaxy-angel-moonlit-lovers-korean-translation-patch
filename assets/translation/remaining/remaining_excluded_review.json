@@ -1,0 +1,1607 @@
+{
+  "schema": "moonlit-lovers-remaining-excluded-review/v1",
+  "warning": "use_translation=false 로 자동 제외된 항목 전량. 리소스 경로/폰트명으로 보이지만 최종 확인은 사람이 할 것.",
+  "count": 51,
+  "items": [
+    {
+      "id": "remaining:04227",
+      "original": "\"ＭＳ ゴシック\"\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 2048,
+          "resource_path": "dat/gadat000/adv.tbl",
+          "line": 64,
+          "section": "BS_WIN",
+          "codec": "ikusa_lz",
+          "raw_sha256": "4e24f58ddd0d5142ae6c9429ee3047a79c1fcb7515dca5b069532f8a6fd1e03e"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 4096,
+          "resource_path": "dat/gadat000/adv16.tbl",
+          "line": 64,
+          "section": "BS_WIN",
+          "codec": "ikusa_lz",
+          "raw_sha256": "70763d547852f66729c85b21e02ecd70e37045338f463125f60b813c5624014d"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8719024,
+          "resource_path": null,
+          "line": 64,
+          "section": "BS_WIN",
+          "codec": "ikusa_lz",
+          "raw_sha256": "4e24f58ddd0d5142ae6c9429ee3047a79c1fcb7515dca5b069532f8a6fd1e03e"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15164208,
+          "resource_path": null,
+          "line": 64,
+          "section": "BS_WIN",
+          "codec": "ikusa_lz",
+          "raw_sha256": "4e24f58ddd0d5142ae6c9429ee3047a79c1fcb7515dca5b069532f8a6fd1e03e"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22496608,
+          "resource_path": null,
+          "line": 64,
+          "section": "BS_WIN",
+          "codec": "ikusa_lz",
+          "raw_sha256": "4e24f58ddd0d5142ae6c9429ee3047a79c1fcb7515dca5b069532f8a6fd1e03e"
+        }
+      ],
+      "exclude_reason": "font_name"
+    },
+    {
+      "id": "remaining:04228",
+      "original": "Dat\\gadat032\\アルバム\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 20480,
+          "resource_path": "dat/gadat000/album.tbl",
+          "line": 2,
+          "section": "ALBUM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e6a72c57f97416bf2ef6be0082220f60dd7a25a30852f736f1f112d4d9f7ccd8"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 24517328,
+          "resource_path": null,
+          "line": 2,
+          "section": "ALBUM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e6a72c57f97416bf2ef6be0082220f60dd7a25a30852f736f1f112d4d9f7ccd8"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04229",
+      "original": "Dat\\gadat042\\アルバム\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 24576,
+          "resource_path": "dat/gadat000/album16.tbl",
+          "line": 2,
+          "section": "ALBUM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "048789b56c1ac46f8d861d2c8f876eda5803a5ec0fe588b3ba5513b22241ec88"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04230",
+      "original": "dat\\gadat032\\章タイトル\\gkscr%02d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 40960,
+          "resource_path": "dat/gadat000/chapter.tbl",
+          "line": 2,
+          "section": "CHAPTER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "03a0b4bbc361da68acde99ff97574ff940d4e8f49fe7c6f54aaec280059a7d6f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8734144,
+          "resource_path": null,
+          "line": 2,
+          "section": "CHAPTER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "03a0b4bbc361da68acde99ff97574ff940d4e8f49fe7c6f54aaec280059a7d6f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04231",
+      "original": "dat\\gadat042\\章タイトル\\hkscr%02d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 43008,
+          "resource_path": "dat/gadat000/chapter16.tbl",
+          "line": 2,
+          "section": "CHAPTER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e643832931950719af56666407365fcccb519a1f53dd0c20e8051545cae0aafa"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04232",
+      "original": "dat\\gadat032\\SYSTEM\\設定画面\\goscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 2,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 3,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 4,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 5,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 2,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 3,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 4,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 5,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04233",
+      "original": "dat\\gadat042\\SYSTEM\\設定画面\\hoscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 8,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 8,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04234",
+      "original": "dat\\gadat042\\SYSTEM\\設定画面\\hoscr01.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 9,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 9,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04235",
+      "original": "dat\\gadat042\\SYSTEM\\設定画面\\hoscr02.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 10,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 10,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04236",
+      "original": "dat\\gadat042\\SYSTEM\\設定画面\\hoscr03.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 45056,
+          "resource_path": "dat/gadat000/config.tbl",
+          "line": 11,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23355808,
+          "resource_path": null,
+          "line": 11,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "311f48dda4f99a151fc707b5fed784043cf88909a31c5f5990426e4fc45c2946"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04237",
+      "original": "dat\\gadat032\\SYSTEM\\汎用ダイアログ\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 47104,
+          "resource_path": "dat/gadat000/dialog.tbl",
+          "line": 2,
+          "section": "DIALOG",
+          "codec": "ikusa_lz",
+          "raw_sha256": "26a4f8082a51e478b7bffa5f5510f2cf6f4955a61568e9db914d463e5ebe301b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 14913280,
+          "resource_path": null,
+          "line": 2,
+          "section": "DIALOG",
+          "codec": "ikusa_lz",
+          "raw_sha256": "26a4f8082a51e478b7bffa5f5510f2cf6f4955a61568e9db914d463e5ebe301b"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04238",
+      "original": "dat\\gadat042\\SYSTEM\\汎用ダイアログ\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 49152,
+          "resource_path": "dat/gadat000/dialog16.tbl",
+          "line": 2,
+          "section": "DIALOG",
+          "codec": "ikusa_lz",
+          "raw_sha256": "fb7fa0af921cf2d82cb4727da888e45dbbd2988280723544f3e7e74e68ad087d"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04239",
+      "original": "dat\\gadat032\\アイキャッチ\\gescr%02d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 53248,
+          "resource_path": "dat/gadat000/eyecatch.tbl",
+          "line": 2,
+          "section": "EYECATCH",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f6ad2b60202cd0320956b3622aef3834414043334e69e7286be766527571bcf6"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22289664,
+          "resource_path": null,
+          "line": 2,
+          "section": "EYECATCH",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f6ad2b60202cd0320956b3622aef3834414043334e69e7286be766527571bcf6"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04240",
+      "original": "dat\\gadat042\\アイキャッチ\\hescr%02d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 55296,
+          "resource_path": "dat/gadat000/eyecatch16.tbl",
+          "line": 2,
+          "section": "EYECATCH",
+          "codec": "ikusa_lz",
+          "raw_sha256": "1f818d63663c56a4f4319eca06d57b08903c36cd9d599bbd4aaeb6672d0bdc0f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04241",
+      "original": "dat\\gadat031\\フェイス\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 57344,
+          "resource_path": "dat/gadat000/face.tbl",
+          "line": 2,
+          "section": "FACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8734496,
+          "resource_path": null,
+          "line": 2,
+          "section": "FACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174880,
+          "resource_path": null,
+          "line": 2,
+          "section": "FACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04242",
+      "original": "dat\\gadat031\\小フェイス\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 57344,
+          "resource_path": "dat/gadat000/face.tbl",
+          "line": 6,
+          "section": "MINIFACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8734496,
+          "resource_path": null,
+          "line": 6,
+          "section": "MINIFACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174880,
+          "resource_path": null,
+          "line": 6,
+          "section": "MINIFACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "b8940d495002265eb559b085d04b37c4fc60afffc9b322db58406307100d3ebf"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04243",
+      "original": "dat\\gadat041\\フェイス\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 59392,
+          "resource_path": "dat/gadat000/face16.tbl",
+          "line": 2,
+          "section": "FACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ca81acbb48b79b2527d4d0aca61f5fd642ca69680363d0a3ca1a80dcf5c72712"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04244",
+      "original": "dat\\gadat041\\小フェイス\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 59392,
+          "resource_path": "dat/gadat000/face16.tbl",
+          "line": 6,
+          "section": "MINIFACE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ca81acbb48b79b2527d4d0aca61f5fd642ca69680363d0a3ca1a80dcf5c72712"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04245",
+      "original": "dat\\gadat032\\SYSTEM\\外字\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 61440,
+          "resource_path": "dat/gadat000/font.tbl",
+          "line": 6,
+          "section": "FONT_EX",
+          "codec": "ikusa_lz",
+          "raw_sha256": "8eb0150856ab869f20c6844dd1527a082ce0ddf7dd174abfbe4ee9fa2f2704d9"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04246",
+      "original": "dat\\gadat042\\SYSTEM\\外字\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 63488,
+          "resource_path": "dat/gadat000/font16.tbl",
+          "line": 6,
+          "section": "FONT_EX",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ede11133f490333d4235e61185a8e8998092fa78ff09d18db2dc25c10c9394ae"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04247",
+      "original": "dat\\gadat032\\艦内移動\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 107,
+          "section": "MAP",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 181,
+          "section": "BLOCK_A",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 209,
+          "section": "BLOCK_B",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 240,
+          "section": "BLOCK_C",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 268,
+          "section": "BLOCK_C_ROUTE_SELECT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 67584,
+          "resource_path": "dat/gadat000/map.tbl",
+          "line": 306,
+          "section": "BLOCK_D",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 107,
+          "section": "MAP",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 181,
+          "section": "BLOCK_A",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 209,
+          "section": "BLOCK_B",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 240,
+          "section": "BLOCK_C",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 268,
+          "section": "BLOCK_C_ROUTE_SELECT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 15174992,
+          "resource_path": null,
+          "line": 306,
+          "section": "BLOCK_D",
+          "codec": "ikusa_lz",
+          "raw_sha256": "ce9832013335dc8272b5fe7ef0c69014a23fcd0ead799c2acfd8f918693eef2b"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04258",
+      "original": "dat\\gadat042\\艦内移動\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 107,
+          "section": "MAP",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 181,
+          "section": "BLOCK_A",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 209,
+          "section": "BLOCK_B",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 240,
+          "section": "BLOCK_C",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 268,
+          "section": "BLOCK_C_ROUTE_SELECT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 73728,
+          "resource_path": "dat/gadat000/map16.tbl",
+          "line": 306,
+          "section": "BLOCK_D",
+          "codec": "ikusa_lz",
+          "raw_sha256": "a0a75599ac65f26ea21bbe8551055346c0978322ae8cb7452c80b289c44f5681"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04259",
+      "original": "dat\\gadat032\\SYSTEM\\システムメニュー\\gqscr.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 79872,
+          "resource_path": "dat/gadat000/menu.tbl",
+          "line": 2,
+          "section": "MENU",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6316bda5e8def5232431462793a19c9f958e928c43fb28d9371025878efb7e2e"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8734608,
+          "resource_path": null,
+          "line": 2,
+          "section": "MENU",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6316bda5e8def5232431462793a19c9f958e928c43fb28d9371025878efb7e2e"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04260",
+      "original": "dat\\gadat032\\SYSTEM\\システムメニュー\\gqsca_scr.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 79872,
+          "resource_path": "dat/gadat000/menu.tbl",
+          "line": 5,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6316bda5e8def5232431462793a19c9f958e928c43fb28d9371025878efb7e2e"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 8734608,
+          "resource_path": null,
+          "line": 5,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6316bda5e8def5232431462793a19c9f958e928c43fb28d9371025878efb7e2e"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04261",
+      "original": "dat\\gadat042\\SYSTEM\\システムメニュー\\hqscr.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 81920,
+          "resource_path": "dat/gadat000/menu16.tbl",
+          "line": 2,
+          "section": "MENU",
+          "codec": "ikusa_lz",
+          "raw_sha256": "cefd6f5274c23735052ff7aad8a6ef90934173c2f933e009dc0d0947104a7c6f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04262",
+      "original": "dat\\gadat042\\SYSTEM\\システムメニュー\\hqsca_scr.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 81920,
+          "resource_path": "dat/gadat000/menu16.tbl",
+          "line": 5,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "cefd6f5274c23735052ff7aad8a6ef90934173c2f933e009dc0d0947104a7c6f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04263",
+      "original": "dat\\gadat032\\クジラルーム\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 83968,
+          "resource_path": "dat/gadat000/param.tbl",
+          "line": 2,
+          "section": "PARAM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "df2514ef5c22f8c2578815f2b6f26ea6e0fec6ab05f283fc612aeecf88b51212"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 17850656,
+          "resource_path": null,
+          "line": 2,
+          "section": "PARAM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "df2514ef5c22f8c2578815f2b6f26ea6e0fec6ab05f283fc612aeecf88b51212"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04264",
+      "original": "dat\\gadat042\\クジラルーム\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 86016,
+          "resource_path": "dat/gadat000/param16.tbl",
+          "line": 2,
+          "section": "PARAM",
+          "codec": "ikusa_lz",
+          "raw_sha256": "9d89728c1bf24c91e5c094df73e1b2d22588fd25e19b35e1acc68fd7c8271b1a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04265",
+      "original": "dat\\gadat032\\戦闘結果\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 88064,
+          "resource_path": "dat/gadat000/result.tbl",
+          "line": 2,
+          "section": "RESULT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6dbddab9d4a9534b7be768b7c9654d4981162d0a0157ea0a9c3b6a67daeec2ed"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 88064,
+          "resource_path": "dat/gadat000/result.tbl",
+          "line": 30,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6dbddab9d4a9534b7be768b7c9654d4981162d0a0157ea0a9c3b6a67daeec2ed"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23781728,
+          "resource_path": null,
+          "line": 2,
+          "section": "RESULT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6dbddab9d4a9534b7be768b7c9654d4981162d0a0157ea0a9c3b6a67daeec2ed"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23781728,
+          "resource_path": null,
+          "line": 30,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "6dbddab9d4a9534b7be768b7c9654d4981162d0a0157ea0a9c3b6a67daeec2ed"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04266",
+      "original": "dat\\gadat042\\戦闘結果\\\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 90112,
+          "resource_path": "dat/gadat000/result16.tbl",
+          "line": 2,
+          "section": "RESULT",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e05561b7d14ce6a8c8cdac9524b93f74360bb14ef3e2fefbf95fd19d05a9e65a"
+        },
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 90112,
+          "resource_path": "dat/gadat000/result16.tbl",
+          "line": 30,
+          "section": "SCOREATTACK",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e05561b7d14ce6a8c8cdac9524b93f74360bb14ef3e2fefbf95fd19d05a9e65a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04267",
+      "original": "dat\\gadat032\\SYSTEM\\セーブロード\\gfscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 2,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 2,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04268",
+      "original": "dat\\gadat032\\SYSTEM\\セーブロード\\gfscr10.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 3,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 3,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04269",
+      "original": "dat\\gadat032\\SYSTEM\\セーブロード\\gfscr20.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 4,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 4,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04270",
+      "original": "dat\\gadat032\\SYSTEM\\セーブロード\\gficon%d.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 5,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 5,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04271",
+      "original": "dat\\gadat042\\SYSTEM\\セーブロード\\hfscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 16,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 16,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04272",
+      "original": "dat\\gadat042\\SYSTEM\\セーブロード\\hfscr10.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 17,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 17,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04273",
+      "original": "dat\\gadat042\\SYSTEM\\セーブロード\\hficon%d.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 92160,
+          "resource_path": "dat/gadat000/saveload.tbl",
+          "line": 18,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 22498624,
+          "resource_path": null,
+          "line": 18,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "05c27309922bfcf6f235df0132f2677d142b743d940cddb63a922557c731ca5f"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04274",
+      "original": "dat\\gadat032\\スコアアタック\\gyscr0.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 94208,
+          "resource_path": "dat/gadat000/scoreattack.tbl",
+          "line": 8,
+          "section": "LAUNCHER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23782592,
+          "resource_path": null,
+          "line": 8,
+          "section": "LAUNCHER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04275",
+      "original": "dat\\gadat032\\スコアランキング\\grscr%01d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 94208,
+          "resource_path": "dat/gadat000/scoreattack.tbl",
+          "line": 11,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23782592,
+          "resource_path": null,
+          "line": 11,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04276",
+      "original": "dat\\gadat032\\スコアランキング\\grnew.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 94208,
+          "resource_path": "dat/gadat000/scoreattack.tbl",
+          "line": 12,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 23782592,
+          "resource_path": null,
+          "line": 12,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "f24787b64c2c3f2a2dd6cc335fc2c944b2a4c4415d1cd22a7382d6ab609eba3a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04277",
+      "original": "dat\\gadat042\\スコアアタック\\hyscr0.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 96256,
+          "resource_path": "dat/gadat000/scoreattack16.tbl",
+          "line": 8,
+          "section": "LAUNCHER",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e63ceb28eca223e000ec9f8d3106c41888b5cb6f394b79333e44240a0532732a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04278",
+      "original": "dat\\gadat042\\スコアランキング\\hrscr%01d.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 96256,
+          "resource_path": "dat/gadat000/scoreattack16.tbl",
+          "line": 11,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e63ceb28eca223e000ec9f8d3106c41888b5cb6f394b79333e44240a0532732a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04279",
+      "original": "dat\\gadat042\\スコアランキング\\hrnew.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 96256,
+          "resource_path": "dat/gadat000/scoreattack16.tbl",
+          "line": 12,
+          "section": "RANKING",
+          "codec": "ikusa_lz",
+          "raw_sha256": "e63ceb28eca223e000ec9f8d3106c41888b5cb6f394b79333e44240a0532732a"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04280",
+      "original": "dat\\gadat032\\SYSTEM\\タイトル\\gtscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 100352,
+          "resource_path": "dat/gadat000/title.tbl",
+          "line": 2,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "1b0c8471a1a48159af3d9d417d62b9894dd7b8ab183927d6ce258877de3005a8"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 19994768,
+          "resource_path": null,
+          "line": 2,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "1b0c8471a1a48159af3d9d417d62b9894dd7b8ab183927d6ce258877de3005a8"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04281",
+      "original": "dat\\gadat032\\SYSTEM\\タイトル\\gtscr01.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 100352,
+          "resource_path": "dat/gadat000/title.tbl",
+          "line": 3,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "1b0c8471a1a48159af3d9d417d62b9894dd7b8ab183927d6ce258877de3005a8"
+        },
+        {
+          "file": "ADV.DAT",
+          "container": "ADV",
+          "block_offset": 19994768,
+          "resource_path": null,
+          "line": 3,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "1b0c8471a1a48159af3d9d417d62b9894dd7b8ab183927d6ce258877de3005a8"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04282",
+      "original": "dat\\gadat042\\SYSTEM\\タイトル\\htscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 102400,
+          "resource_path": "dat/gadat000/title16.tbl",
+          "line": 2,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "af0d511b823f9f83ffdede21ab7546d767d112673a5acfc61f041c6fea95f927"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04283",
+      "original": "dat\\gadat042\\SYSTEM\\タイトル\\htscr01.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GADAT000.DAT",
+          "container": "GADAT000",
+          "block_offset": 102400,
+          "resource_path": "dat/gadat000/title16.tbl",
+          "line": 3,
+          "section": "TITLE",
+          "codec": "ikusa_lz",
+          "raw_sha256": "af0d511b823f9f83ffdede21ab7546d767d112673a5acfc61f041c6fea95f927"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04284",
+      "original": "dat\\gadat032\\SYSTEM\\カーソル\\gcsr00.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GAML.DAT",
+          "container": "GAML",
+          "block_offset": 2048,
+          "resource_path": "dat/ga_base.tbl",
+          "line": 27,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "687281014b9de9a131903376d83c60ccdc5aa6ab9b2f5b81dc0aa1a4551dca10"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04285",
+      "original": "dat\\gadat032\\ゲームオーバー\\gnscr.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GAML.DAT",
+          "container": "GAML",
+          "block_offset": 2048,
+          "resource_path": "dat/ga_base.tbl",
+          "line": 33,
+          "section": "TEX32",
+          "codec": "ikusa_lz",
+          "raw_sha256": "687281014b9de9a131903376d83c60ccdc5aa6ab9b2f5b81dc0aa1a4551dca10"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04286",
+      "original": "dat\\gadat042\\SYSTEM\\カーソル\\hcsr00.t32\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GAML.DAT",
+          "container": "GAML",
+          "block_offset": 2048,
+          "resource_path": "dat/ga_base.tbl",
+          "line": 46,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "687281014b9de9a131903376d83c60ccdc5aa6ab9b2f5b81dc0aa1a4551dca10"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    },
+    {
+      "id": "remaining:04287",
+      "original": "dat\\gadat042\\ゲームオーバー\\hnscr00.rat\n",
+      "translation": "",
+      "state": "pending",
+      "use_translation": false,
+      "occurrences": [
+        {
+          "file": "GAML.DAT",
+          "container": "GAML",
+          "block_offset": 2048,
+          "resource_path": "dat/ga_base.tbl",
+          "line": 52,
+          "section": "TEX16",
+          "codec": "ikusa_lz",
+          "raw_sha256": "687281014b9de9a131903376d83c60ccdc5aa6ab9b2f5b81dc0aa1a4551dca10"
+        }
+      ],
+      "exclude_reason": "resource_path"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000d2000.txt",
+    "encoding": "cp932",
+    "sha256": "bc963b6eb493f13552e75be71e3edeb7da59e279ac0f7ff2ad16c463d2773556",
+    "dialogue_count": 34
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101"
+      },
+      "original": "守れるさ、ちとせなら。\nきっとできる。\n",
+      "translation": "지킬 수 있어, 치토세라면. 분명 할 수\n있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB640500,3"
+      },
+      "original": "はい！\nありがとうございます。\n",
+      "translation": "네！ 감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB640501,3"
+      },
+      "original": "タクトさんにそう言っていただけると、本当\nにできるような気がします。\n",
+      "translation": "택트 씨가 그렇게 말씀해 주시니, 정말로\n할 수 있을 것 같은 기분이 들어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB640501,3"
+      },
+      "original": "「気がします」じゃなくて、実現するのさ。\n　そうだろ？\n",
+      "translation": "「기분이 든다」가 아니라, 실현하는 거야.\n　그렇지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070305,0",
+        "voice": "GB640502,3"
+      },
+      "original": "うふふっ、そうですね。\n",
+      "translation": "우후훗, 그렇네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB640503,3"
+      },
+      "original": "父のためにも、この想いを本当のものにして\nみせます。\n",
+      "translation": "아버지를 위해서라도, 이 마음을 진짜로\n만들어 보이겠어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB640503,3"
+      },
+      "original": "じゃあ、もっとがんばらないとな。\n",
+      "translation": "그럼, 좀 더 힘내야겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070102,0",
+        "voice": "GB640504,3"
+      },
+      "original": "はい。\nそのために、今まで以上に精進を重ねるつも\nりです。\n",
+      "translation": "네. 그러기 위해서, 지금까지 이상으로\n정진할 생각이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070102,0",
+        "voice": "GB640504,3"
+      },
+      "original": "あ、別に今のちとせが実力不足だと言ってる\nわけじゃないよ。\n",
+      "translation": "아, 딱히 지금의 치토세가 실력 부족이라고\n말하는 건 아니야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070102,0",
+        "voice": "GB640504,3"
+      },
+      "original": "むしろ最近は、ほかのみんなよりも活躍して\nいるんじゃないかな？\n",
+      "translation": "오히려 요즘은 다른 모두보다 활약하고\n있는 거 아닐까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070205,0",
+        "voice": "GB640505,3"
+      },
+      "original": "いいえ、まだ私は未熟です。\nもっともっと力をつけなければ。\n",
+      "translation": "아니요, 아직 저는 미숙합니다. 좀 더, 좀\n더 힘을 길러야 해요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070205,0",
+        "voice": "GB640505,3"
+      },
+      "original": "あまりお父さんにこだわるのも……。\n君は君なんだから、自分なりの道を見つけれ\nばいいと思うよ。\n",
+      "translation": "너무 아버지에게 집착하는 것도……. 군은\n군이니까, 자신만의 길을 찾으면 된다고\n생각해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "face": "0,1070201,0",
+        "voice": "GB640506,3",
+        "speaker": "107,1070101"
+      },
+      "original": "……お言葉はありがたいのですが、私は父を\n誇りに思っています。\nその父の志を受け継ぎたいんです。\n",
+      "translation": "……말씀은 감사하옵니다만, 저는 아버지를\n자랑스럽게 생각하고 있습니다. 그\n아버지의 뜻을 이어받고 싶어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070207,0",
+        "voice": "GB640507,3"
+      },
+      "original": "タクトさんにとってはご迷惑かもしれません\nが、どうかわかっていただければ……。\n",
+      "translation": "택트 씨에게는 폐가 될지도 모르겠지만,\n부디 이해해 주신다면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070207,0",
+        "voice": "GB640507,3"
+      },
+      "original": "いや、迷惑だなんて。\nそれに、大切な人を守りたいという願いは、\nいいことだと思うし。\n",
+      "translation": "아니, 폐라니. 게다가 소중한 사람을\n지키고 싶다는 바람은, 좋은 일이라고\n생각하고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB640508,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ありがとうございます。\n",
+      "translation": "감사합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010404",
+        "face": "0,1070102,0",
+        "voice": "GB640508,3"
+      },
+      "original": "さっさとこの戦いを終わらせるぞ！\n今度こそ『黒き月』を消滅させるんだ！\n",
+      "translation": "빨리 이 싸움을 끝내버리자고！\n이번에야말로 『흑색 달』을 소멸시키는\n거다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "voice": "GB941900,3",
+        "speaker": "3,0030702",
+        "face": "0,1070102,0"
+      },
+      "original": "了解！\n一気にキメてやるわ！\n",
+      "translation": "네！ 단번에 끝내주겠어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060105",
+        "face": "0,1070102,0",
+        "voice": "GB941901,3"
+      },
+      "original": "……信じて進む者に、道は開けます……。\n",
+      "translation": "……믿고 나아가는 자에게, 길은\n열립니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB941902,3",
+        "speaker": "2,0020903"
+      },
+      "original": "がんばりましょう、タクトさん。\nここでがんばれば、平和になるんですから。\n",
+      "translation": "힘냅시다, 택트 씨. 여기서 힘내면, 평화가\n올 테니까요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "face": "0,1070102,0",
+        "voice": "GB941902,3"
+      },
+      "original": "うん、そのとおりだ。\nみんな、頼んだぞ！\n",
+      "translation": "응, 맞아. 모두, 부탁한다！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB941902,3",
+        "speaker": "1,0010301"
+      },
+      "original": "みんな、油断するなよ！\nオレたちは、『黒き月』の力を、誰よりもよ\nくわかっているはずだ。\n",
+      "translation": "모두, 방심하지 마！ 우리들은 『흑색\n달』의 힘을 누구보다도 잘 알고 있을\n터다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040701",
+        "face": "0,1070102,0",
+        "voice": "GB941903,3"
+      },
+      "original": "そのとおりです。\n惑星ロームと都市衛星ファーゴを壊滅させた\nときのことは、いまだに忘れてはいませんわ。\n",
+      "translation": "그렇습니다. 롬 성계와 도시 위성 파고를\n괴멸시켰을 때의 일은, 아직도 잊지 않고\n있어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050801",
+        "voice": "GB941904,3"
+      },
+      "original": "紋章機のリミッターがかかったままなのは痛\nいが、それでも全力でやるしかないね。\n",
+      "translation": "문장기의 리미터가 걸린 채인 건 아쉽지만,\n그래도 전력으로 나갈 수밖에 없겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070103",
+        "voice": "GB941905,3"
+      },
+      "original": "その分は、おのおのが細心の注意を払うこと\nで補いましょう。\n",
+      "translation": "그만큼은 각자가 세심한 주의를\n기울임으로써 보완하도록 하죠.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "voice": "GB941905,3"
+      },
+      "original": "そういうことだ。\nみんな、くれぐれも気をつけてくれ。\n",
+      "translation": "바로 그거다. 모두, 부디 조심해라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB941905,3"
+      },
+      "original": "ちとせ、ここが腕の見せどころだぞ。\n",
+      "translation": "치토세, 여기가 실력을 보여줄 때다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070103",
+        "voice": "GB640600,3"
+      },
+      "original": "はい、タクトさん。\n",
+      "translation": "네, 택트 씨.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "voice": "GB640600,3",
+        "speaker": "1,0010101"
+      },
+      "original": "君には、今まで作ってきた、みんなとの信頼\nがある。\nそれが君の力になるはずだ。\n",
+      "translation": "너에게는 지금까지 쌓아온, 모두와의\n신뢰가 있다. 그것이 너의 힘이 될 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GB640600,3",
+        "speaker": "1,0010301"
+      },
+      "original": "もちろん、オレも全力をもって指揮をとる。\nだから安心して戦ってくれ。\n",
+      "translation": "물론, 나도 전력을 다해 지휘를 맡겠다.\n그러니 안심하고 싸워줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB640600,3"
+      },
+      "original": "緊張しすぎないで、自然体でね。\n",
+      "translation": "너무 긴장하지 말고, 자연스럽게 해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070102",
+        "voice": "GB640601,3"
+      },
+      "original": "はい、わかりました。\nお役に立てるように、がんばります！\n",
+      "translation": "네, 알겠습니다. 도움이 될 수 있도록,\n힘낼게요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB640601,3"
+      },
+      "original": "期待しているよ。\nみんなも、がんばってくれ。\n",
+      "translation": "기대하고 있을게. 모두들, 힘내줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000d2000:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010302",
+        "voice": "GB640601,3"
+      },
+      "original": "それじゃ、行くぞ。\n戦闘開始だ！\n",
+      "translation": "그럼, 간다. 전투 개시다！\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

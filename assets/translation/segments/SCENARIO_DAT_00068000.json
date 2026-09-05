@@ -1,0 +1,166 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00068000.txt",
+    "encoding": "cp932",
+    "sha256": "cf2aa89f49ec3e0fd3aad37de2294c4e198cc384a4f4bcabd8a8a9904d424911",
+    "dialogue_count": 12
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "speaker": "1,0010101"
+      },
+      "original": "ミントは疲れているんだろう？\n",
+      "translation": "민트는 지쳐 있는 거지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "speaker": "4,0040101",
+        "voice": "GB350500,3"
+      },
+      "original": "そうですわね……。\n確かに、少し疲れてます。\n",
+      "translation": "그렇네요……. 확실히, 조금 지쳤어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "speaker": "1,0010101",
+        "voice": "GB350500,3"
+      },
+      "original": "ミントは不安なんだろう？\n",
+      "translation": "민트는 불안한 거지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0040702,0",
+        "speaker": "4,0040101",
+        "voice": "GB350501,3"
+      },
+      "original": "えっ……どうしてそれを？\n",
+      "translation": "엣…… 어째서 그걸？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0040702,0",
+        "speaker": "1,0010101",
+        "voice": "GB350501,3"
+      },
+      "original": "見ればわかるよ。\nオレにはテレパシーはないけど、ね。\n",
+      "translation": "보면 알아. 나에게 텔레파시는 없지만\n말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0040203,0",
+        "speaker": "4,0040101",
+        "voice": "GB350502,3"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0040202,0",
+        "speaker": "1,0010201",
+        "voice": "GB350502,3"
+      },
+      "original": "ミントは駄菓子を食べたいんだろう？\n",
+      "translation": "민트는 군것질거리를 먹고 싶은 거지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "speaker": "4,0040101",
+        "voice": "GB350503,3"
+      },
+      "original": "ええ、こんなときは人工甘味料たっぷりの甘\nいものを食べて、脳の活性化を……。\n",
+      "translation": "네, 이럴 때는 인공 감미료가 듬뿍 들어간\n단 것을 먹어서, 뇌의 활성화를…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0040703,0",
+        "speaker": "4,0040101",
+        "voice": "GB350504,3"
+      },
+      "original": "って、違います！\n",
+      "translation": "가 아니라, 틀렸어요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0040703,0",
+        "speaker": "1,0010102",
+        "voice": "GB350504,3"
+      },
+      "original": "あれ、違った？\nおかしいなぁ。\n",
+      "translation": "어라, 틀렸나？ 이상하네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0040703,0",
+        "speaker": "1,0010401",
+        "voice": "GB350504,3"
+      },
+      "original": "だけど、ミントの様子が、いつもと違うよう\nに感じたんだけど。\n",
+      "translation": "하지만, 민트의 상태가 평소와 다르게\n느껴졌는데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00068000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "face": "0,0040201,0",
+        "speaker": "4,0040101",
+        "voice": "GB350505,3"
+      },
+      "original": "……………………。\n",
+      "translation": "…………………….\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

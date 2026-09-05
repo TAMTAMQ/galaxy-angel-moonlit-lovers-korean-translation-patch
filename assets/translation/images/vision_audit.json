@@ -1,0 +1,214 @@
+{
+  "schema": "moonlit-lovers-image-vision-audit/v1",
+  "summary": {
+    "model": "qwen3.5-2b@q4_k_m",
+    "total_sheets": 131,
+    "audited_sheets": 1,
+    "remaining_sheets": 130,
+    "sheet_errors": 0,
+    "japanese_image_units": 6,
+    "invalid_hits": []
+  },
+  "hits": [
+    {
+      "id": "image:00004",
+      "audit_index": 4,
+      "vision_text": "好感度",
+      "canonical": {
+        "container": "ADV",
+        "resource_id": "ADV:01303d70",
+        "resource_offset": 19938672,
+        "resource_path": null,
+        "resource_name": null,
+        "source_kind": "fsts",
+        "codec": "ikusa_lz",
+        "png": "block_01303d70.png",
+        "image_format": "TEX:indexed8",
+        "image_meta": {}
+      },
+      "occurrence_count": 2
+    },
+    {
+      "id": "image:00008",
+      "audit_index": 8,
+      "vision_text": "好感度",
+      "canonical": {
+        "container": "ADV",
+        "resource_id": "ADV:01729d00",
+        "resource_offset": 24288512,
+        "resource_path": null,
+        "resource_name": null,
+        "source_kind": "fsts",
+        "codec": "ikusa_lz",
+        "png": "block_01729d00.png",
+        "image_format": "TEX:indexed4",
+        "image_meta": {}
+      },
+      "occurrence_count": 2
+    },
+    {
+      "id": "image:00023",
+      "audit_index": 23,
+      "vision_text": "ミルフィーユ",
+      "canonical": {
+        "container": "ADV",
+        "resource_id": "ADV:01729680",
+        "resource_offset": 24286848,
+        "resource_path": null,
+        "resource_name": null,
+        "source_kind": "fsts",
+        "codec": "ikusa_lz",
+        "png": "block_01729680.png",
+        "image_format": "TEX:indexed4",
+        "image_meta": {}
+      },
+      "occurrence_count": 2
+    },
+    {
+      "id": "image:00025",
+      "audit_index": 25,
+      "vision_text": "サウンドの設定",
+      "canonical": {
+        "container": "ADV",
+        "resource_id": "ADV:0169a020",
+        "resource_offset": 23699488,
+        "resource_path": null,
+        "resource_name": null,
+        "source_kind": "fsts",
+        "codec": "ikusa_lz",
+        "png": "block_0169a020.png",
+        "image_format": "TEX:indexed8",
+        "image_meta": {}
+      },
+      "occurrence_count": 2
+    },
+    {
+      "id": "image:00028",
+      "audit_index": 28,
+      "vision_text": "セーフ",
+      "canonical": {
+        "container": "GADAT031",
+        "resource_id": "GADAT031:00e0f000",
+        "resource_offset": 14741504,
+        "resource_path": "dat/gadat031/フェイス/gjf141_01_02.txf",
+        "resource_name": "gjf141_01_02.txf",
+        "source_kind": "pidx",
+        "codec": "ikusa_lz",
+        "png": "dat/gadat031/フェイス/gjf141_01_02/part_02.png",
+        "image_format": null,
+        "image_meta": {
+          "offset": 221488,
+          "x": 32,
+          "y": 16,
+          "canvas_width": 248,
+          "canvas_height": 128
+        }
+      },
+      "occurrence_count": 1
+    },
+    {
+      "id": "image:00031",
+      "audit_index": 31,
+      "vision_text": "セーフ",
+      "canonical": {
+        "container": "GADAT031",
+        "resource_id": "GADAT031:00176800",
+        "resource_offset": 1533952,
+        "resource_path": "dat/gadat031/フェイス/gjf002_11_01.txf",
+        "resource_name": "gjf002_11_01.txf",
+        "source_kind": "pidx",
+        "codec": "ikusa_lz",
+        "png": "dat/gadat031/フェイス/gjf002_11_01/part_03.png",
+        "image_format": null,
+        "image_meta": {
+          "offset": 130960,
+          "x": 24,
+          "y": 16,
+          "canvas_width": 152,
+          "canvas_height": 144
+        }
+      },
+      "occurrence_count": 1
+    }
+  ],
+  "raw_results": [
+    {
+      "sheet": "sheet_001.jpg",
+      "response": "The user wants me to scan a contact sheet of PlayStation 2 game images and identify any thumbnails containing Japanese characters (hiragana, katakana, or kanji).\n\nI will go through the image row by row, thumbnail by thumbnail.\n\n**Row 1:**\n- #00001: A pink cube with text \"Chitose's room\". No visible Japanese.\n- #00002: A small icon. Looks like a generic icon. No clear Japanese.\n- #00003: A blue box with text \"GALAXY ANGEL\". Wait, let me look closer. It says \"GALAXY ANGEL\" in English. No visible Japanese hiragana/katakana/kanji.\n- #00004: A blue UI element. Bottom left corner has text \"好感度\" (Kansoku-taku - Affinity). This is Kanji.\n\n**Row 2:**\n- #00005: Blue button with \"Mid\". No Japanese.\n- #00006: Small blue dot. No Japanese.\n- #00007: Blue box with text \"GALAXY ANGEL\" and a swirl. No visible Japanese.\n- #00008: Blue UI element. Bottom left has text \"好感度\". This is Kanji.\n\n**Row 3:**\n- #00009: Grey square. No Japanese.\n- #00010: Small pink dot. No Japanese.\n- #00011: Anime character with pink hair. Text \"Movie\" in red. No visible Japanese.\n- #00012: Anime character with pink hair. No visible Japanese.\n\n**Row 4:**\n- #00013: Small icon of a face. No Japanese.\n- #00014: Anime character with pink hair. No Japanese.\n- #00015: Small icon. No Japanese.\n- #00016: Grey square. No Japanese.\n\n**Row 5:**\n- #00017: Blue glowing effect. No Japanese.\n- #00018: Anime character with green hair and red eyes. No visible Japanese.\n- #00019: Pink box. No Japanese.\n- #00020: Anime character with blonde hair. No visible Japanese.\n\n**Row 6:**\n- #00021: Small icon of a face. No Japanese.\n- #00022: Small icon of eyes. No Japanese.\n- #00023: Text \"ミルフィーユ\" (Milk Feuille). This is Katakana. Wait, let me look closer at the image itself vs the text label. The prompt says \"Inspect EVERY thumbnail itself... Report every thumbnail that visibly contains Japanese\".\n    - Looking at thumbnail #00023 in row 6, column 3. It shows a pink box with white text. The text is clearly \"ミルフィーユ\" (Milk Feuille). This is Katakana. So this counts.\n- #00024: Pink icon. No Japanese.\n\n**Row 7:**\n- #00025: Blue UI element. Text at bottom left says \"サウンドの設定\" (Sound Settings). This is Kanji.\n- #00026: Anime character with pink/purple hair. Text \"Movie\". No visible Japanese.\n- #00027: Red/orange background, large sphere object. No visible Japanese text.\n- #00028: Blue UI element. Bottom left has text \"セーフ\" (Safe). This is Kanji.\n\n**Row 8:**\n- #00029: Small icon. No Japanese.\n- #00030: Small icon. No Japanese.\n- #00031: Blue box with text \"セーフ\". This is Kanji.\n- #00032: Blue square. No Japanese.\n\nLet me re-scan carefully to ensure I didn't miss anything small or stylized.\n\n**Re-scan Row 1:**\n- #00004: Definitely has \"好感度\" (Kanji).\n- #00007: Text is English \"GALAXY ANGEL\". No Japanese visible on the image itself, just the text label below which says \"GALAXY ANGEL\". Wait, looking at crop 2, #00007 has a blue box with \"GALAXY ANGEL\" and a swirl. The text is English.\n- #00018: Green hair character. No Japanese visible on the image itself.\n\n**Re-scan Row 6:**\n- #00023: Text is \"ミルフィーユ\". This is Katakana. It is clearly visible in the thumbnail.\n\n**Re-scan Row 7:**\n- #00025: Blue box with text \"サウンドの設定\" (Sound Settings). Kanji is visible.\n- #00031: Blue box with text \"セーフ\". Kanji is visible.\n\nLet me check the other thumbnails again just in case.\n- #00007: The text inside the blue box says \"GALAXY ANGEL\". No Japanese.\n- #00026: Text \"Movie\". No Japanese.\n- #00031: Text \"セーフ\" (Safe). Kanji visible.\n\nWait, let me look at #00007 again. The text is \"GALAXY ANGEL\". Is there any hidden text? No.\nLet me look at #00026 again. Text is \"Movie\". No Japanese.\n\nSo the candidates are:\n1.  #00004 (Kanji)\n2.  #00008 (Kanji - \"好感度\")\n3.  #00023 (Katakana - \"ミルフィーユ\")\n4.  #00025 (Kanji - \"サウンドの設定\")\n5.  #00031 (Kanji - \"セーフ\")\n\nLet me double check #00007. The text is \"GALAXY ANGEL\". No Japanese.\nLet me double check #00026. Text is \"Movie\". No Japanese.\n\nAre there any other small ones?\n- #00013: Face icon. No Japanese.\n- #00014: Pink hair character. No Japanese.\n- #00018: Green hair character. No Japanese.\n- #00020: Blonde hair character. No Japanese.\n\nLet's look at the very bottom row, just in case.\n- #00031 is \"セーフ\". Yes, Kanji.\n- #00025 is \"サウンドの設定\". Yes, Kanji.\n\nSo I have 5 hits.\n\nWait, let me look closer at #00007. The text inside the blue box says \"GALAXY ANGEL\". Wait, looking really closely at crop 2 (row 3, col 3), the text is \"GALAXY ANGEL\". No Japanese.\nLooking at row 1,",
+      "hits": [
+        {
+          "audit_index": 4,
+          "text": "好感度"
+        },
+        {
+          "audit_index": 8,
+          "text": "好感度"
+        },
+        {
+          "audit_index": 23,
+          "text": "ミルフィーユ"
+        },
+        {
+          "audit_index": 23,
+          "text": "ミルフィーユ"
+        },
+        {
+          "audit_index": 25,
+          "text": "サウンドの設定"
+        },
+        {
+          "audit_index": 28,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 31,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 4,
+          "text": "好感度"
+        },
+        {
+          "audit_index": 23,
+          "text": "ミルフィーユ"
+        },
+        {
+          "audit_index": 25,
+          "text": "サウンドの設定"
+        },
+        {
+          "audit_index": 31,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 31,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 8,
+          "text": "好感度"
+        },
+        {
+          "audit_index": 23,
+          "text": "ミルフィーユ"
+        },
+        {
+          "audit_index": 25,
+          "text": "サウンドの設定"
+        },
+        {
+          "audit_index": 31,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 31,
+          "text": "セーフ"
+        },
+        {
+          "audit_index": 25,
+          "text": "サウンドの設定"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000a6000.txt",
+    "encoding": "cp932",
+    "sha256": "04d404ed69f184adacdac828fe2261e4e977557eb78ceba96eb47c87cc9f694a",
+    "dialogue_count": 10
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "ちとせが言うように、途中で力つきたのかも\nしれない。\n",
+      "translation": "치토세가 말한 것처럼, 도중에 힘이\n다했을지도 몰라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070101,0",
+        "voice": "GB530700,3"
+      },
+      "original": "はい、総合的に見て、その可能性がもっとも\n高いと思います。\n",
+      "translation": "네, 종합적으로 볼 때 그 가능성이 가장\n높다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,1070101,0",
+        "voice": "GB530700,3"
+      },
+      "original": "やっぱり、ただのイタズラかなぁ……。\n",
+      "translation": "역시 그냥 장난인 걸까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "-1,0,0030101",
+        "voice": "GB530701,3"
+      },
+      "original": "そうに決まってるわ。\nタクトの考えすぎよ。\n",
+      "translation": "당연하잖아. 택트, 네가 너무 깊게\n생각하는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "-1,0,0030101",
+        "voice": "GB530701,3"
+      },
+      "original": "うーん、ランファにそう断言されると、そん\nな気もしてきた。\n",
+      "translation": "으음, 란파가 그렇게 단언하니 그런 기분도\n드네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "-1,0,0030101",
+        "voice": "GB530701,3"
+      },
+      "original": "でも……なんか気になるんだよなぁ。\n",
+      "translation": "하지만…… 왠지 신경 쓰인단 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "-1,0,0030101",
+        "voice": "GB530701,3"
+      },
+      "original": "名乗りたくなかったのかもしれない。\nうん、そういう可能性は考えてなかったな。\n",
+      "translation": "정체를 밝히고 싶지 않았던 걸지도 몰라.\n응, 그런 가능성은 생각 못 했네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "-1,0,0030101",
+        "voice": "GB530701,3"
+      },
+      "original": "ありがとう、ヴァニラ。\n目からウロコが落ちた気分だよ。\n",
+      "translation": "고마워, 바닐라. 눈이 번쩍 뜨이는\n기분이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060701",
+        "face": "0060701,0,-1",
+        "voice": "GB530702,3"
+      },
+      "original": "いえ……。\n",
+      "translation": "아니에요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000a6000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0060701,0,-1",
+        "voice": "GB530702,3"
+      },
+      "original": "しかし、だとしたら誰なんだろう？\nこんなメッセージを送ってくるなんて……。\n",
+      "translation": "하지만, 만약 그렇다면 누구일까？ 이런\n메시지를 보내오다니…….\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

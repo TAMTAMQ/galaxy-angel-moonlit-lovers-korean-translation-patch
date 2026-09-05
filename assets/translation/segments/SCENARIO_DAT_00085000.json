@@ -1,0 +1,359 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00085000.txt",
+    "encoding": "cp932",
+    "sha256": "1bc581189242b0e813ebf9f80923a44a9f0a7c40ec95a6665f041753f3c1d489",
+    "dialogue_count": 27
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101"
+      },
+      "original": "フォルテ、いいかい？\n",
+      "translation": "포르테, 괜찮겠나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430600,3"
+      },
+      "original": "ああ、どうぞ、入っとくれ。\n",
+      "translation": "아아, 어서 들어오게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430602,3",
+        "face": "0,0050101,0"
+      },
+      "original": "コーヒーでも飲むかい？\n淹れたてだよ。\n",
+      "translation": "커피라도 마시겠나？ 방금 내린 것이라네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB430602,3",
+        "face": "0,0050101,0"
+      },
+      "original": "ああ、もらおうかな。\n",
+      "translation": "아아, 한 잔 받도록 하지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430603,3",
+        "face": "0,0050102,0"
+      },
+      "original": "ＯＫ。\n砂糖はひとつ……と。\nほら、どうぞ。\n",
+      "translation": "ＯＫ. 설탕은 하나…… 그리고. 자, 여기\n있네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB430603,3",
+        "face": "0,0050102,0"
+      },
+      "original": "ありがとう、フォルテ。\n",
+      "translation": "고마워, 포르테.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430604,3",
+        "face": "0,0050103,0"
+      },
+      "original": "どういたしまして。\n",
+      "translation": "천만에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB430604,3",
+        "face": "0,0050103,0"
+      },
+      "original": "……………………。\n",
+      "translation": "……………………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430605,3",
+        "face": "0,0050802,0"
+      },
+      "original": "ん、どうしたんだい？\n",
+      "translation": "음, 왜 그러나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB430605,3",
+        "face": "0,0050802,0"
+      },
+      "original": "……いや……。\n",
+      "translation": "……아니…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB430605,3",
+        "face": "0,0050802,0"
+      },
+      "original": "なぁ、フォルテ。\nオレの副官をやめて、本当によかったのかい？\nもしかしたら、あのままのほうが……。\n",
+      "translation": "있잖아, 포르테. 내 부관을 그만둔 게 정말\n괜찮았던 거야？ 어쩌면, 예전 그대로인\n편이…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430606,3",
+        "face": "0,0050204,0"
+      },
+      "original": "なに言ってんだい。あんたと一緒に戦ってる\nことに変わりはないだろ？\n",
+      "translation": "무슨 소리를 하는 거야. 당신과 함께\n싸우고 있다는 건 변함없잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "voice": "GB430607,3",
+        "face": "0,0050101,0"
+      },
+      "original": "それに、あたしはやっぱり、紋章機に乗って\nるほうが性に合ってるよ。\n直接、タクトの背中を守ることのほうがね。\n",
+      "translation": "게다가, 난 역시 문장기를 타고 있는 편이\n적성에 맞아. 직접 택트의 등을 지키는\n편이 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB430608,3",
+        "speaker": "5,0050101"
+      },
+      "original": "そして……一番大事なのは、こうしてあんた\nと、ささやかな時間を共有できることさ。\n",
+      "translation": "그리고…… 가장 중요한 건, 이렇게 당신과\n소소한 시간을 공유할 수 있다는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB430608,3",
+        "speaker": "1,0010102"
+      },
+      "original": "フォルテ……。\n",
+      "translation": "포르테…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050804,0",
+        "voice": "GB430609,3"
+      },
+      "original": "……ふふっ。\nどうだい、あたしのコーヒー？\n",
+      "translation": "……후훗. 어때, 내 커피？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0050804,0",
+        "voice": "GB430609,3"
+      },
+      "original": "うん、いい苦みだよ。\nちょっと濃いめなのも、いいね。\n",
+      "translation": "응, 좋은 쓴맛이야. 조금 진한 것도 좋네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "voice": "GB430609,3",
+        "speaker": "1,0010101",
+        "face": "0,0050804,0"
+      },
+      "original": "こうして、静かにフォルテのコーヒーを飲ん\nでるときが、一番落ち着く。\n",
+      "translation": "이렇게 조용히 포르테의 커피를 마시고\n있을 때가 가장 마음이 편해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB430610,3",
+        "speaker": "5,0050101"
+      },
+      "original": "あたしの部屋にカギはかかっていないから、\nいつでも飲みに来なよ。\n最高の一杯を淹れてあげるよ。\n",
+      "translation": "내 방은 문을 잠그지 않으니까, 언제든\n마시러 와. 최고의 한 잔을 내려줄게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB430611,3",
+        "speaker": "5,0050101"
+      },
+      "original": "なんなら、夜明けのコーヒーでもいいよ。\nフフフ……。\n",
+      "translation": "아니면, 새벽의 커피라도 좋아.\n후후후…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "face": "0,0050103,0",
+        "voice": "GB430611,3"
+      },
+      "original": "フォ、フォルテ！？\n",
+      "translation": "포, 포르테！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050102,0",
+        "voice": "GB430612,3"
+      },
+      "original": "あはははっ！\nなんて顔してんのさ。\n",
+      "translation": "아하하하！ 무슨 표정을 짓고 있는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "face": "0,0050102,0",
+        "voice": "GB430612,3",
+        "speaker": "1,0010104"
+      },
+      "original": "か、からかわないでくれよ、まったく。\n",
+      "translation": "장, 장난치지 말라고, 정말.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB430613,3",
+        "speaker": "5,0050101"
+      },
+      "original": "あ、そうそう。\nタクト、今日はもう少しつき合ってくれない\nかい？\n",
+      "translation": "아, 맞다. 택트, 오늘은 좀 더 같이 있어\n주지 않겠어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "voice": "GB430613,3",
+        "speaker": "1,0010102",
+        "face": "0,0050101,0"
+      },
+      "original": "えっ？\n",
+      "translation": "엣？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GB430614,3",
+        "speaker": "5,0050101"
+      },
+      "original": "２１時に、展望公園に来ておくれ。\n待ってるよ。\n",
+      "translation": "２１시에, 전망공원으로 와 줘. 기다릴게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "voice": "GB430614,3",
+        "speaker": "1,0010102",
+        "face": "0,0050101,0"
+      },
+      "original": "２１時に公園？\nああ、わかったよ。\n",
+      "translation": "２１시에 공원？ 아아, 알았어.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

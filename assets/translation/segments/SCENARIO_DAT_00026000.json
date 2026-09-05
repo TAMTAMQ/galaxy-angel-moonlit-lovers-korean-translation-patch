@@ -1,0 +1,244 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00026000.txt",
+    "encoding": "cp932",
+    "sha256": "d4aa912ab94ed6406095c62279047af767d14cc3d5966efa8a8e8d3b63d2f7c5",
+    "dialogue_count": 18
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0020904,0",
+        "speaker": "1,0010101"
+      },
+      "original": "そこをオレたちで食い止めるんだ。\n",
+      "translation": "거기를 우리들이 막아내는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0020202,0",
+        "speaker": "2,0020101",
+        "voice": "GB150500,3"
+      },
+      "original": "でも……。\n",
+      "translation": "하지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0020202,0",
+        "speaker": "1,0010301",
+        "voice": "GB150500,3"
+      },
+      "original": "大丈夫、オレたちならできる！\n皇国も『白き月』も、みんな守りぬくんだ。\n",
+      "translation": "괜찮아, 우리라면 할 수 있어！ 황국도\n『백색 달』도, 모두 지켜내는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0020202,0",
+        "speaker": "1,0010101",
+        "voice": "GB150500,3"
+      },
+      "original": "もちろん、オレたち自身もだ。\nオレとミルフィー、力を合わせて生き残る。\nいいね？\n",
+      "translation": "물론, 우리 자신도 말이야. 나와 밀피,\n힘을 합쳐서 살아남는 거야. 알았지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0020902,0",
+        "speaker": "2,0020101",
+        "voice": "GB150501,3"
+      },
+      "original": "……はい、タクトさん！\n",
+      "translation": "……네, 택트 씨！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0020904,0",
+        "speaker": "1,0010401",
+        "voice": "GB150501,3"
+      },
+      "original": "正直、逃げ切れるかどうかもわからないな。\n",
+      "translation": "솔직히, 도망칠 수 있을지도 모르겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0020103,0",
+        "speaker": "2,0020101",
+        "voice": "GB150502,3"
+      },
+      "original": "やっぱり……もうダメなんでしょうか？\n",
+      "translation": "역시…… 이제 끝인 걸까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0020103,0",
+        "speaker": "1,0010301",
+        "voice": "GB150502,3"
+      },
+      "original": "いや……あきらめるのは、まだ早いさ。\n最後まであきらめなかったから、オレたちは\nここまでやって来られたんじゃないか。\n",
+      "translation": "아니…… 포기하기엔 아직 일러.\n마지막까지 포기하지 않았으니까, 우리들은\n여기까지 올 수 있었던 거 아니겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0020901,0",
+        "speaker": "2,0020101",
+        "voice": "GB150503,3"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0020901,0",
+        "speaker": "1,0010301",
+        "voice": "GB150503,3"
+      },
+      "original": "きっとどこかに、勝機はある。\nそこに全てを賭けるんだ。\n",
+      "translation": "분명 어딘가에, 승산은 있어. 거기에 모든\n걸 거는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0020905,0",
+        "speaker": "2,0020101",
+        "voice": "GB150504,3"
+      },
+      "original": "そうですね……。\nきっと、何か手はありますよね？\n",
+      "translation": "그렇네요……. 분명, 무슨 방법이 있겠죠？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "face": "0,0020905,0",
+        "speaker": "1,0010101",
+        "voice": "GB150504,3"
+      },
+      "original": "ああ。\nそう信じて、がんばろう。\n",
+      "translation": "아아. 그렇게 믿고, 힘내자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "face": "0,0020902,0",
+        "speaker": "2,0020101",
+        "voice": "GB150505,3"
+      },
+      "original": "はい、わかりました。\n",
+      "translation": "네, 알겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "0,0020904,0",
+        "voice": "GB150505,3",
+        "speaker": "1,0010101"
+      },
+      "original": "やってみないと、わからないだろ？\n正直言って、今の段階では、まだどうなるか\nわからないけど……。\n",
+      "translation": "해보지 않으면 모르는 거잖아？ 솔직히\n말해서, 지금 단계에서는 아직 어떻게 될지\n모르겠지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0,0020202,0",
+        "voice": "GB150506,3"
+      },
+      "original": "それは、そうですけど……。\n",
+      "translation": "그건, 그렇습니다만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "face": "0,0020202,0",
+        "voice": "GB150506,3",
+        "speaker": "1,0010101"
+      },
+      "original": "でも、ミルフィーやエンジェル隊のみんなが\nいるんだ。\nきっと勝機は見出せるはずだよ。\n",
+      "translation": "하지만, 밀피와 엔젤대 모두가 있어. 분명\n승기를 찾아낼 수 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "voice": "GB150506,3",
+        "speaker": "1,0010101",
+        "face": "0,0020202,0"
+      },
+      "original": "ミルフィー……そのときは、きっと君の力が\n必要になる。\n頼んだよ。\n",
+      "translation": "밀피…… 그때는, 반드시 네 힘이 필요할\n거야. 부탁할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00026000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0,0020202,0",
+        "voice": "GB150507,3"
+      },
+      "original": "……はい、がんばります。\n",
+      "translation": "……네, 열심히 하겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

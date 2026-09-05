@@ -1,0 +1,102 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000db000.txt",
+    "encoding": "cp932",
+    "sha256": "d465b3c8bcb841b1439f737fbc8fa98de9a6dcd911d040e2cc44c1899d0887f6",
+    "dialogue_count": 7
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,1070304,0",
+        "voice": "GB652000,3",
+        "speaker": "107,1070101"
+      },
+      "original": "あ、タクトさん……。\n",
+      "translation": "아, 택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,1070304,0",
+        "voice": "GB652000,3",
+        "speaker": "1,0010105"
+      },
+      "original": "やあ、ちとせ。\nシミュレーションの邪魔しちゃったかな？\n",
+      "translation": "안녕, 치토세. 시뮬레이션을 방해한 걸까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB652001,3",
+        "speaker": "107,1070101"
+      },
+      "original": "いえ、ちょうど少し休憩しようと思っていた\nところでした。\n",
+      "translation": "아니요, 마침 조금 휴식하려던 참이었어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,1070102,0",
+        "voice": "GB652001,3",
+        "speaker": "1,0010101"
+      },
+      "original": "そうか。\n紋章機の操縦も、だいぶ板に付いてきたよう\nだね。\n",
+      "translation": "그런가. 문장기 조종도 제법 손에 익은\n모양이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB652002,3",
+        "speaker": "107,1070101"
+      },
+      "original": "ありがとうございます。\n今は、ミスのない完璧な操作を身につけるた\nめにシミュレーションを重ねています。\n",
+      "translation": "감사합니다. 지금은 실수가 없는 완벽한\n조작을 익히기 위해 시뮬레이션을 거듭하고\n있어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB652002,3",
+        "speaker": "1,0010101"
+      },
+      "original": "これから戦いはきびしくなってくるだろう。\nそんな時は、ちとせの力が必要になってくる。\n……がんばってくれ。\n",
+      "translation": "앞으로 전투는 점점 더 힘들어질 거야.\n그럴 때는 치토세의 힘이 필요해지겠지.\n……힘내줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000db000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,1070205,0",
+        "voice": "GB652003,3",
+        "speaker": "107,1070101"
+      },
+      "original": "はい。\nわかりました。\n",
+      "translation": "네. 알겠습니다.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

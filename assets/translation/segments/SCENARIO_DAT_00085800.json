@@ -1,0 +1,114 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00085800.txt",
+    "encoding": "cp932",
+    "sha256": "172521557a9d82d60b1a070d0fa3ae64667a20a722620f1039e7775b01bd20ee",
+    "dialogue_count": 8
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050201",
+        "speaker": "1,0010401"
+      },
+      "original": "ちとせが言うように、途中で力つきたのかも\nしれない。\n",
+      "translation": "치토세가 말한 것처럼, 도중에 힘이\n다했을지도 몰라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,1070103,0",
+        "speaker": "107,1070101",
+        "voice": "GB430700,3"
+      },
+      "original": "はい、総合的に見て、その可能性がもっとも\n高いと思います。\n",
+      "translation": "네, 종합적으로 볼 때 그 가능성이 가장\n높다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050201",
+        "speaker": "1,0010401",
+        "voice": "GB430700,3"
+      },
+      "original": "フォルテの言うとおり、正体を隠しているの\nかもしれない。\n",
+      "translation": "포르테가 말한 대로, 정체를 숨기고 있는\n것일지도 몰라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050201",
+        "speaker": "1,0010401",
+        "voice": "GB430700,3"
+      },
+      "original": "もし、自分に危険がおよぶことも承知の上で、\nオレたちにメッセージを送ってきたんだとし\nたら、送り主の正体とは……。\n",
+      "translation": "만약 자신에게 위험이 미칠 것을 알고도\n우리에게 메시지를 보낸 것이라면,\n발신자의 정체란…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0050204",
+        "speaker": "5,0050101",
+        "voice": "GB430701,3"
+      },
+      "original": "送り主は、敵の一味かもしれないね。\n",
+      "translation": "발신자는 적의 일원일지도 모르겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "1070302,0,0050204",
+        "speaker": "107,1070101",
+        "voice": "GB430702,3"
+      },
+      "original": "内部からの情報リーク、ということですか？\n",
+      "translation": "내부로부터의 정보 유출, 이라는\n말씀인가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "1070302,0,0050103",
+        "speaker": "5,0050101",
+        "voice": "GB430703,3"
+      },
+      "original": "まぁ、そういう可能性もあるってことさ。\n",
+      "translation": "뭐, 그런 가능성도 있다는 거지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00085800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "1070302,0,0050103",
+        "speaker": "1,0010401",
+        "voice": "GB430703,3"
+      },
+      "original": "結局のところ、まだ謎だらけで、よくわから\nないなぁ。\n",
+      "translation": "결국은 아직 수수께끼투성이라서, 잘\n모르겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

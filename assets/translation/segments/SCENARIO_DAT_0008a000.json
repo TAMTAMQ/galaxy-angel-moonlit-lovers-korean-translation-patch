@@ -1,0 +1,309 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_0008a000.txt",
+    "encoding": "cp932",
+    "sha256": "5a3b166bcb4b915ee9af92694829cc1a1bf543d8de474802b9d043eae2614a2e",
+    "dialogue_count": 23
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "speaker": "1,0010101"
+      },
+      "original": "一緒に話でもしようか。\n",
+      "translation": "같이 이야기라도 할까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "5,0050101",
+        "voice": "GB450500,3"
+      },
+      "original": "話っていっても、今は敵のことしか出てこな\nいよ。\n",
+      "translation": "이야기라고 해도, 지금은 적에 대한 것밖에\n안 나올 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "1,0010105",
+        "voice": "GB450500,3"
+      },
+      "original": "いや、敵のことや仕事のことは、少し忘れよ\nう。\nそういう話じゃなくって……。\n",
+      "translation": "아니, 적이나 일에 관한 건 잠시 잊자.\n그런 이야기가 아니라…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "1,0010101",
+        "voice": "GB450500,3"
+      },
+      "original": "ただのタクト・マイヤーズとフォルテ・シュ\nトーレンに戻って、話がしたいんだ。\n",
+      "translation": "그저 택트・마이어스와 포르테・슈토렌으로\n돌아가서, 이야기하고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "speaker": "5,0050101",
+        "voice": "GB450501,3"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "5,0050101",
+        "voice": "GB450502,3"
+      },
+      "original": "……ああ、いいよ。\nめんどうなことは忘れて、ゆっくり話そう。\n",
+      "translation": "……아아, 좋아. 번거로운 건 잊고,\n느긋하게 이야기하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "5,0050101",
+        "voice": "GB450503,3"
+      },
+      "original": "そういや、任務以外のことを話すのも、ずい\nぶんひさしぶりな気がするね。\n",
+      "translation": "그러고 보니, 임무 이외의 이야기를 하는\n것도 꽤 오랜만인 느낌이네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "1,0010101",
+        "voice": "GB450503,3"
+      },
+      "original": "そうかもな。\nたまにはこうして、ゆっくりしないと、疲れ\nちゃうよ。\n",
+      "translation": "그럴지도 모르겠네. 가끔은 이렇게\n느긋하게 있지 않으면, 지쳐버릴 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0050804,0",
+        "speaker": "5,0050101",
+        "voice": "GB450504,3"
+      },
+      "original": "ふふっ、まったくだ。\n",
+      "translation": "후훗, 정말 그래.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "5,0050101",
+        "voice": "GB450505,3"
+      },
+      "original": "それじゃ、コーヒー淹れてくるよ。\n",
+      "translation": "그럼, 커피를 타 올게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "speaker": "1,0010101",
+        "voice": "GB450505,3"
+      },
+      "original": "ああ、よろしく。\n今日は、うんと濃いやつにしてくれ。\n",
+      "translation": "아아, 부탁해. 오늘은 아주 진한 녀석으로\n해줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "speaker": "1,0010101",
+        "voice": "GB450505,3"
+      },
+      "original": "また銃を撃ってくるといいよ。\n頭をからっぽにしてさ。\n",
+      "translation": "다시 총을 쏘는 게 좋을 거야. 머리를\n비우고 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "face": "0,0050103,0",
+        "voice": "GB450506,3",
+        "speaker": "5,0050101"
+      },
+      "original": "そうだね……。\nやっぱりあたしにゃ、それが一番かもね。\n",
+      "translation": "그렇네……. 역시 나한테는 그게\n제일일지도 모르겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0050103,0",
+        "voice": "GB450506,3"
+      },
+      "original": "本星に戻ったら、弾薬の補給も申請しておく\nから、遠慮なくブッ放してきていいぞ。\n",
+      "translation": "본성으로 돌아가면 탄약 보급도 신청해 둘\n테니까, 사양 말고 마음껏 쏴대라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050804,0",
+        "voice": "GB450507,3"
+      },
+      "original": "あはは、そいつはありがたいねぇ。\nじゃ、行ってくるよ。\n",
+      "translation": "아하하, 그거 고마운데. 그럼, 다녀올게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "face": "0,0050804,0",
+        "voice": "GB450507,3",
+        "speaker": "1,0010101"
+      },
+      "original": "うん。\nそれじゃオレも、見回りに戻るとするか。\n",
+      "translation": "응. 그럼 나도 순찰을 돌아가 볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "face": "0,0050802,0",
+        "voice": "GB450507,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ケーキでも作ってみるとか。\n",
+      "translation": "케이크라도 만들어 본다든가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "voice": "GB450508,3",
+        "speaker": "5,0050101",
+        "face": "0,0050202,0"
+      },
+      "original": "そりゃ当てつけかい？\nどうせあたしは、ミルフィーみたいに料理は\nうまくないですよ。\n",
+      "translation": "그건 시위하는 거야？ 어차피 난 밀피처럼\n요리는 잘 못한다고요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0050202,0",
+        "voice": "GB450508,3"
+      },
+      "original": "いや、そういうつもりじゃ……。\n料理に没頭していれば、気分転換できるかな\nと思って。\n",
+      "translation": "아니, 그럴 의도는…… 요리에 몰두하다\n보면 기분 전환이 될까 해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "face": "0,0050202,0",
+        "voice": "GB450508,3",
+        "speaker": "1,0010201"
+      },
+      "original": "それに、ほら。\n意外とフォルテのエプロン姿って、似合うか\nもしれないじゃないか。\n",
+      "translation": "게다가, 봐봐. 의외로 포르테의 앞치마\n차림은 잘 어울릴지도 모르잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "voice": "GB450510,3",
+        "speaker": "5,0050101"
+      },
+      "original": "あたしが、エプロンで家庭的ってガラかい？\n",
+      "translation": "내가, 앞치마를 두르고 가정적이라니\n말이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0050204,0",
+        "voice": "GB450510,3"
+      },
+      "original": "やってみないと、わかんないぞ。\n今度、オレだけに見せてくれよ。\n",
+      "translation": "해보기 전까지는 모르는 법이지. 다음에\n나한테만 보여줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_0008a000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "face": "0,0050203,0",
+        "speaker": "5,0050101",
+        "voice": "GB450511,3"
+      },
+      "original": "……か……考えておくよ。\n",
+      "translation": "……고…… 생각해 둘게.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

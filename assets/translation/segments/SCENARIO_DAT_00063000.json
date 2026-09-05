@@ -1,0 +1,126 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00063000.txt",
+    "encoding": "cp932",
+    "sha256": "f01f1e0bd994bf648ce1c16849902d4451c66a2be62bfb99fe4c367ffc65428a",
+    "dialogue_count": 9
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "ちとせが言うように、途中で力つきたのかも\nしれない。\n",
+      "translation": "치토세가 말한 것처럼, 도중에 힘이\n다했을지도 모르겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070103,0",
+        "voice": "GB330700,3"
+      },
+      "original": "はい、総合的に見て、その可能性がもっとも\n高いと思います。\n",
+      "translation": "네, 종합적으로 볼 때 그 가능성이 가장\n높다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,1070103,0",
+        "voice": "GB330700,3"
+      },
+      "original": "ミントが言うように、メッセージの続きがあっ\nたのかもしれないな。\n",
+      "translation": "민트가 말한 것처럼, 메시지의 뒷부분이\n있었을지도 모르겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0060302,0,0040101",
+        "voice": "GB330701,3"
+      },
+      "original": "そう考えると、メッセージの意味がわかりづ\nらいのも納得できますわね。\n",
+      "translation": "그렇게 생각하면 메시지의 의미를 알기\n어려웠던 것도 납득이 가네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0060302,0,0040101",
+        "voice": "GB330701,3"
+      },
+      "original": "一体、このメッセージは何を伝えようとして\nいるんだろう……？\n",
+      "translation": "도대체 이 메시지는 무엇을 전하려 하는\n걸까……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0060302,0,0040101",
+        "voice": "GB330701,3"
+      },
+      "original": "名乗りたくなかったのかもしれない。\nうん、そういう可能性は考えてなかったな。\n",
+      "translation": "정체를 밝히고 싶지 않았던 것일지도\n모르겠군. 음, 그런 가능성은 생각하지\n못했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0060302,0,0040101",
+        "voice": "GB330701,3"
+      },
+      "original": "ありがとう、ヴァニラ。\n目からウロコが落ちた気分だよ。\n",
+      "translation": "고마워, 바닐라. 눈이 번쩍 뜨이는\n기분이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "6,0060101",
+        "face": "0060101,0,0040201",
+        "voice": "GB330702,3"
+      },
+      "original": "いえ……。\n",
+      "translation": "아니에요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00063000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0060101,0,0040201",
+        "voice": "GB330702,3"
+      },
+      "original": "しかし、だとしたら誰なんだろう？\nこんなメッセージを送ってくるなんて……。\n",
+      "translation": "하지만, 만약 그렇다면 누구일까？ 이런\n메시지를 보내오다니…….\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

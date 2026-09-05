@@ -1,0 +1,2989 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00003000.txt",
+    "encoding": "cp932",
+    "sha256": "79d04502ef12b8a5a20987455e4e552239944fb5184ca7a3ecad6fbe2a910223",
+    "dialogue_count": 246
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0002,3",
+        "speaker": "1,0"
+      },
+      "original": "トランスバール皇国暦４１２年。\n元皇子エオニアは、皇国に対してクーデター\nを起こした。\n",
+      "translation": "트랜스벌 황국력 ４１２년. 전 황자\n에오니아는, 황국에 대해 쿠데타를\n일으켰다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0003,3",
+        "speaker": "1,0"
+      },
+      "original": "彼が率いる謎の無人艦隊は、またたく間にト\nランスバール本星を制圧。\n宇宙は、混乱に包まれた。\n",
+      "translation": "그가 이끄는 수수께끼의 무인 함대는, 눈\n깜짝할 사이에 트랜스벌 본성을 제압.\n우주는 혼란에 휩싸였다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0004,3",
+        "speaker": "1,0"
+      },
+      "original": "クーデター発生当初、このオレ……タクト・\nマイヤーズは、辺境宙域の艦隊司令官をして\nいた。\n",
+      "translation": "쿠데타 발생 당초, 이 나……\n택트・마이어스는, 변방 성계의 함대\n사령관을 하고 있었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0005,3",
+        "speaker": "1,0"
+      },
+      "original": "中央で起きてる大騒ぎも、こんな遠く離れた\n場所にまで飛び火することはないだろう……。\n",
+      "translation": "중앙에서 일어나고 있는 대소동도, 이렇게\n멀리 떨어진 곳까지 불똥이 튀지는\n않겠지…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0006,3",
+        "speaker": "1,0"
+      },
+      "original": "辺境を漂いながらオレは……その程度にしか\n考えていなかった。\n",
+      "translation": "변방을 표류하며 나는…… 그 정도로밖에\n생각하지 않았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0007,3",
+        "speaker": "1,0"
+      },
+      "original": "……彼女たちに出会うまでは。\n",
+      "translation": "……그녀들과 만나기 전까지는.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GB000000,3",
+        "speaker": "2,0"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "voice": "GB000001,3",
+        "speaker": "3,0"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "voice": "GB000002,3",
+        "speaker": "4,0"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "voice": "GB000003,3",
+        "speaker": "5,0"
+      },
+      "original": "タクト……。\n",
+      "translation": "택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GB000004,3",
+        "speaker": "6,0"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0008,3",
+        "speaker": "1,0"
+      },
+      "original": "『白き月』を守護するムーンエンジェル隊。\n　ロストテクノロジーの結晶である「紋章機」\n　を乗りこなす、５人の少女。\n",
+      "translation": "『백색 달』을 수호하는 문 엔젤대. 로스트\n　테크놀로지의 결정인 「문장기」를\n　다루는, ５명의 소녀.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0009,3",
+        "speaker": "1,0"
+      },
+      "original": "彼女たちは、突然やって来た。\n",
+      "translation": "그녀들은, 갑자기 찾아왔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0010,3",
+        "speaker": "1,0"
+      },
+      "original": "ミルフィーユ・桜葉（さくらば）。\n",
+      "translation": "밀피유・사쿠라바.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0011,3",
+        "speaker": "1,0"
+      },
+      "original": "料理が得意で、誰とでも分けへだてなく接す\nる、やさしい女の子。\nそして、ものすごい幸運と凶運の持ち主。\n",
+      "translation": "요리를 잘하며, 누구와도 차별 없이\n대하는, 상냥한 소녀. 그리고, 엄청난\n행운과 흉운의 소유자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0012,3",
+        "speaker": "1,0"
+      },
+      "original": "蘭花（ランファ）・フランボワーズ。\n",
+      "translation": "란파・프란보와즈.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0013,3",
+        "speaker": "1,0"
+      },
+      "original": "勝ち気で、負けず嫌い。\n運動神経バツグンで、格闘技が得意な女の子。\n",
+      "translation": "승부욕이 강하고, 지는 것을 싫어한다.\n운동 신경이 뛰어나며, 격투기를 잘하는\n소녀.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "voice": "GBTK0014,3"
+      },
+      "original": "ミント・ブラマンシュ。\n",
+      "translation": "민트・브라만슈.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0015,3",
+        "speaker": "1,0"
+      },
+      "original": "ブラマンシュ財閥の一人娘で、上品な物腰の\nお嬢さま。\nテレパシーで人の心を読むことができる。\n",
+      "translation": "브라만슈 재벌의 외동딸로, 품격 있는\n태도를 지닌 아가씨. 텔레파시로 사람의\n마음을 읽을 수 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0016,3",
+        "speaker": "1,0"
+      },
+      "original": "フォルテ・シュトーレン。\n",
+      "translation": "포르테・슈토렌.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0017,3",
+        "speaker": "1,0"
+      },
+      "original": "銃器のプロフェッショナルで、エンジェル隊\nのまとめ役。\nアネゴ肌の頼れる相手だ。\n",
+      "translation": "총기의 전문가이자, 엔젤대의 리더. 언니\n같은 든든한 존재다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0018,3",
+        "speaker": "1,0"
+      },
+      "original": "そして、ヴァニラ・Ｈ（アッシュ）。\n",
+      "translation": "그리고, 바닐라・H（애쉬）.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0019,3",
+        "speaker": "1,0"
+      },
+      "original": "控えめで献身的。\nあまり感情を表に出さないけど、他人を思い\nやる心は誰にも負けない。\n",
+      "translation": "조용하고 헌신적이다. 감정을 잘\n드러내지는 않지만, 타인을 배려하는\n마음은 누구에게도 뒤지지 않는다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "voice": "GBTK0020,3"
+      },
+      "original": "彼女たちは、皇族の生き残りであるシヴァ皇\n子を守って本星を脱出してきたんだ。\n",
+      "translation": "그녀들은 황족의 생존자인 시바 황자를\n지키며 본성에서 탈출해 온 것이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "voice": "GBTK0021,3"
+      },
+      "original": "オレの恩師でもあるルフト准将と、『白き月』\n防衛艦隊の旗艦エルシオールとともに。\n",
+      "translation": "나의 은사이기도 한 루프트 준장과, 『백색\n달』 방위 함대의 기함 에르시올과 함께.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0022,3",
+        "speaker": "1,0"
+      },
+      "original": "オレはエンジェル隊の司令官となり、シヴァ\n皇子を味方のいるところまで送り届ける任務\nを引き受けることになった。\n",
+      "translation": "나는 엔젤대 사령관이 되어, 시바 황자를\n아군이 있는 곳까지 무사히 전달하는\n임무를 맡게 되었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0023,3",
+        "speaker": "1,0"
+      },
+      "original": "孤立無援の旅が始まった。\nエルシオールは何度となく、エオニア軍の襲\n撃を受けた。\n",
+      "translation": "고립무원의 여정이 시작되었다. 에르시올은\n몇 번이고, 에오니아군의 습격을 받았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0024,3",
+        "speaker": "1,0"
+      },
+      "original": "そのたびに、オレとエンジェル隊は力を合わ\nせて敵を打ち破り、先に進んだ。\n",
+      "translation": "그때마다, 나와 엔젤대는 힘을 합쳐 적을\n물리치고 앞으로 나아갔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0025,3",
+        "speaker": "1,0"
+      },
+      "original": "危険な旅を続けるうちに、オレたちは少しず\nつお互いのことを知り、信頼関係を築いていっ\nた。\n",
+      "translation": "위험한 여행을 계속하는 동안, 우리들은\n조금씩 서로를 알아가며 신뢰 관계를\n쌓아갔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0026,3",
+        "speaker": "1,0"
+      },
+      "original": "そして、ついに目的地のローム星系にたどり\n着き、オレたちは味方と合流できたんだ。\n",
+      "translation": "그리고, 마침내 목적지인 롬 성계에\n도착하여, 우리들은 아군과 합류할 수\n있었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "voice": "GBTK0027,3"
+      },
+      "original": "シヴァ皇子を迎える舞踏会が開かれることに\nなり、無事に任務を果たしたオレたちも招待\nされた。\n",
+      "translation": "시바 황자를 맞이하는 무도회가 열리게\n되어, 무사히 임무를 완수한 우리들도\n초대받았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0028,3",
+        "speaker": "1,0"
+      },
+      "original": "舞踏会を前に、オレはエンジェル隊のみんな\nの部屋へと向かった。\n",
+      "translation": "무도회를 앞두고, 나는 엔젤대 모두의\n방으로 향했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0029,3",
+        "speaker": "1,0"
+      },
+      "original": "今まで苦楽をともにしてきた彼女たちの誰か\nに、ダンスのパートナーをつとめてほしかっ\nたからだ。\n",
+      "translation": "지금까지 고락을 함께해 온 그녀들 중\n누군가가, 댄스 파트너를 맡아주었으면\n했기 때문이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0"
+      },
+      "original": "思えばこれが、今までのオレの人生で、最大\nの選択だったのかもしれない……。\n",
+      "translation": "생각해보면 이것이, 지금까지의 내\n인생에서 가장 큰 선택이었을지도\n모른다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GBTK0030,3",
+        "face": "0,0,0"
+      },
+      "original": "……もうすぐ、みんなの部屋の前に着く。\nそうしたら……。\n",
+      "translation": "……곧 모두의 방 앞에 도착한다.\n그러면…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "　この花束を相手に渡して、こう言うんだ。\n「舞踏会のパートナーになってくれ」って。\n",
+      "translation": "　이 꽃다발을 상대에게 건네며, 이렇게\n말하는 거다. 「무도회의 파트너가\n되어줘」라고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "よし、行こう。\n",
+      "translation": "좋아, 가자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0010105",
+        "face": "0,0,0"
+      },
+      "original": "このドアの向こうに、ミルフィーが……。\n何だか緊張するなぁ。\n",
+      "translation": "이 문 너머에, 밀피가……. 왠지 긴장되네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "……よし、ミルフィーをパートナーにしよう。\n舞踏会の最後は、ミルフィーと一緒に過ごし\nたい。\n",
+      "translation": "……좋아, 밀피를 파트너로 삼자. 무도회의\n마지막은, 밀피와 함께 보내고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "voice": "GBTK0030,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "ミルフィー！\nタクトだけど……入ってもいいかい？\n",
+      "translation": "밀피！ 택트인데…… 들어가도 될까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020901",
+        "voice": "GA709001,3",
+        "face": "0,0,0"
+      },
+      "original": "は、はい！\nど、どうぞ！\n",
+      "translation": "네, 네！ 어, 어서 오세요！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0042",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA709001,3"
+      },
+      "original": "やぁ、ミルフィー。\nお願いがあるんだけど、いいかな。\n",
+      "translation": "안녕, 밀피. 부탁이 하나 있는데,\n괜찮을까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0043",
+      "channel": 1,
+      "context": {
+        "face": "0,0020104,0",
+        "speaker": "2,0020101",
+        "voice": "GA709002,3"
+      },
+      "original": "は、はい。\n何でしょう……？\n",
+      "translation": "네, 네. 무엇인가요……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0044",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GA709002,3"
+      },
+      "original": "これを、受け取ってもらえるかな？\n",
+      "translation": "이것을, 받아줄 수 있을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0045",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "2,0020901",
+        "voice": "GA709003,3"
+      },
+      "original": "えっ……！？\n",
+      "translation": "엣……！？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0046",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA709003,3"
+      },
+      "original": "そして……今度の舞踏会に、オレのパートナー\nとして一緒に出席してくれないか？\n",
+      "translation": "그리고…… 이번 무도회에, 내 파트너로서\n함께 출석해 주지 않겠나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0047",
+      "channel": 1,
+      "context": {
+        "face": "0,0020104,0",
+        "speaker": "2,0020101",
+        "voice": "GA709004,3"
+      },
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0048",
+      "channel": 1,
+      "context": {
+        "face": "0,0020902,0",
+        "speaker": "2,0020101",
+        "voice": "GA709005,3"
+      },
+      "original": "はい……喜んで。\nありがとうございます、来てくださって。\n",
+      "translation": "네…… 기꺼이. 감사합니다, 와 주셔서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0049",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010201",
+        "face": "0,0020902,0",
+        "voice": "GA709005,3"
+      },
+      "original": "オレも、エスコートを受けてもらえてうれし\nいよ、ミルフィー。\n",
+      "translation": "나도, 에스코트를 받을 수 있어서 기뻐,\n밀피.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0050",
+      "channel": 1,
+      "context": {
+        "face": "0,0020104,0",
+        "speaker": "2,0020101",
+        "voice": "GA709006,3"
+      },
+      "original": "いえ、そんな……。\n",
+      "translation": "아니, 그게…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0051",
+      "channel": 1,
+      "context": {
+        "face": "0,0020904,0",
+        "speaker": "2,0020101",
+        "voice": "GA709007,3"
+      },
+      "original": "あたし、ずっとドキドキしてたんです。\nタクトさんのお部屋をたずねて行ったときか\nら、ずっと。\n",
+      "translation": "저, 계속 두근거리고 있었어요. 택트 씨의\n방을 찾아갔을 때부터, 계속.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0052",
+      "channel": 1,
+      "context": {
+        "face": "0,0020104,0",
+        "voice": "GA709008a,3",
+        "speaker": "2,0020101"
+      },
+      "original": "タクトさんが、あたしをパートナーに誘って\nくれたら、うれしいなって。\n",
+      "translation": "택트 씨가, 저를 파트너로 권해주신다면\n좋겠다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0053",
+      "channel": 1,
+      "context": {
+        "face": "0,0020104,0",
+        "speaker": "2,0020101",
+        "voice": "GA709008b,3"
+      },
+      "original": "でも、本当にタクトさんが来たらどうしようっ\nて。\n",
+      "translation": "하지만, 정말로 택트 씨가 오면 어떡하나\n싶어서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0054",
+      "channel": 1,
+      "context": {
+        "face": "0,0020203,0",
+        "voice": "GA709009,3",
+        "speaker": "2,0020101"
+      },
+      "original": "さっきから立ったり座ったり、部屋中をうろ\nうろ歩き回ったりして、ぜんぜん落ち着かな\nくて……。\n",
+      "translation": "아까부터 일어났다 앉았다, 방 안을\n우왕좌왕 돌아다니며, 전혀 진정이 안\n돼서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0055",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0,0020203,0",
+        "voice": "GA709010,3"
+      },
+      "original": "タクトさんが花束を出したとき、ホントに心\n臓が爆発しそうだったんですよ。\n",
+      "translation": "택트 씨가 꽃다발을 꺼냈을 때, 정말\n심장이 터질 것 같았어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0056",
+      "channel": 1,
+      "context": {
+        "face": "0,0020203,0",
+        "voice": "GA709010,3",
+        "speaker": "1,0010104"
+      },
+      "original": "ミルフィー……。\n",
+      "translation": "밀피…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0057",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA709010,3",
+        "speaker": "1,0010401"
+      },
+      "original": "……いや、もう少しよく考えてから決めよう。\n",
+      "translation": "……아니, 좀 더 잘 생각하고 결정하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0058",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GA709010,3"
+      },
+      "original": "このドアの向こうに、ランファが……。\n何だか緊張するなぁ。\n",
+      "translation": "이 문 너머에, 란파가……. 왠지 긴장되네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0059",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA709010,3",
+        "speaker": "1,0010301"
+      },
+      "original": "……よし、ランファをパートナーにしよう。\n舞踏会の最後は、ランファと一緒に過ごした\nい。\n",
+      "translation": "……좋아, 란파를 파트너로 삼자. 무도회의\n마지막은, 란파와 함께 보내고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0060",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA709010,3",
+        "speaker": "1,0010302"
+      },
+      "original": "ランファ！\nタクトだけど……入ってもいいかい？\n",
+      "translation": "란파！ 택트인데…… 들어가도 될까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0061",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "face": "0,0,0",
+        "voice": "GA711001,3"
+      },
+      "original": "タクト！？\nいいわよ、入って入って！\n",
+      "translation": "택트！？ 괜찮아, 들어와, 들어와！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0062",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA711001,3",
+        "speaker": "1,0010301"
+      },
+      "original": "おじゃましまーす……。\n",
+      "translation": "실례하겠습니다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0063",
+      "channel": 1,
+      "context": {
+        "face": "0,0030103,0",
+        "voice": "GA711002,3",
+        "speaker": "3,0030101"
+      },
+      "original": "それで、用件は何？\n",
+      "translation": "그래서, 용건은 뭐야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0064",
+      "channel": 1,
+      "context": {
+        "face": "0,0030103,0",
+        "speaker": "1,0010401",
+        "voice": "GA711002,3"
+      },
+      "original": "あ、うん……。\n",
+      "translation": "아, 응…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0065",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA711002,3"
+      },
+      "original": "これを受け取ってもらえるかな？\n",
+      "translation": "이것을 받아줄 수 있을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0066",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "3,0030802",
+        "voice": "GA711003,3"
+      },
+      "original": "…………。\n",
+      "translation": "………….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0067",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010102",
+        "voice": "GA711003,3"
+      },
+      "original": "……どうしたの？\n",
+      "translation": "……왜 그래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0068",
+      "channel": 1,
+      "context": {
+        "face": "0,0030203,0",
+        "speaker": "3,0030101",
+        "voice": "GA711004,3"
+      },
+      "original": "コ、コホン。\nタクトにしては気が利くわね。\n",
+      "translation": "크, 큼. 택트치고는 센스가 있네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0069",
+      "channel": 1,
+      "context": {
+        "face": "0,0030203,0",
+        "speaker": "1,0010105",
+        "voice": "GA711004,3"
+      },
+      "original": "あ、いや、えーと……。\nともかく、舞踏会でオレと踊ってほしいんだ。\n",
+      "translation": "아, 아니, 그게…… 어쨌든, 무도회에서\n나랑 춤춰줬으면 좋겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0070",
+      "channel": 1,
+      "context": {
+        "face": "0,0030102,0",
+        "voice": "GA711005,3",
+        "speaker": "3,0030101"
+      },
+      "original": "し、しかたないわね。\nかわいそうなアンタのために、つきあったげ\nるわ。\n",
+      "translation": "어, 어쩔 수 없네. 불쌍한 당신을 위해서,\n상대해 줄게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0071",
+      "channel": 1,
+      "context": {
+        "face": "0,0030102,0",
+        "speaker": "1,0010102",
+        "voice": "GA711005,3"
+      },
+      "original": "えっ、本当かい？\n",
+      "translation": "엣, 정말이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0072",
+      "channel": 1,
+      "context": {
+        "face": "0,0030104,0",
+        "voice": "GA711006,3",
+        "speaker": "3,0030101"
+      },
+      "original": "なによぉ、もっとうれしそうな顔したら？\nこのかわゆーいアタシが、アンタの相手をし\nてあげるって言ってるのよ。\n",
+      "translation": "뭐야, 좀 더 기뻐하는 얼굴을 하면 어때？\n이 귀여운 내가, 당신의 상대방을 해준다고\n말하고 있잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0073",
+      "channel": 1,
+      "context": {
+        "face": "0,0030104,0",
+        "voice": "GA711006,3",
+        "speaker": "1,0010105"
+      },
+      "original": "も、もちろんうれしいよ、ランファ。\n",
+      "translation": "물, 물론 기뻐, 란파.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0074",
+      "channel": 1,
+      "context": {
+        "face": "0,0030102,0",
+        "speaker": "3,0030101",
+        "voice": "GA711007,3"
+      },
+      "original": "じゃあ、もっと素直に喜んだら？\nにっこり笑うのよ。\nせーの、ハイッ！\n",
+      "translation": "그럼, 좀 더 솔직하게 기뻐해 봐！ 싱긋\n웃는 거야. 하나, 둘, 하이！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0075",
+      "channel": 1,
+      "context": {
+        "face": "0,0030102,0",
+        "speaker": "1,0010105",
+        "voice": "GA711007,3"
+      },
+      "original": "う、うわーい。\nうれしいなー。\n",
+      "translation": "우, 우와아. 기쁘다～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0076",
+      "channel": 1,
+      "context": {
+        "face": "0,0030803,0",
+        "voice": "GA711008,3",
+        "speaker": "3,0030101"
+      },
+      "original": "表情がかたーい。\nもう一度、せーの！\n",
+      "translation": "표정이 굳었어. 다시 한번, 하나, 둘！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0077",
+      "channel": 1,
+      "context": {
+        "face": "0,0030803,0",
+        "speaker": "1,0010201",
+        "voice": "GA711008,3"
+      },
+      "original": "わ～い！\nうれしいよ、ランファ～！\n",
+      "translation": "와～아！ 기뻐, 란파～！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0078",
+      "channel": 1,
+      "context": {
+        "face": "0,0030102,0",
+        "voice": "GA711009,3",
+        "speaker": "3,0030101"
+      },
+      "original": "うんうん、そうでしょそうでしょ。\n",
+      "translation": "응응, 그렇지, 그렇지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0079",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010401",
+        "voice": "GA711009,3"
+      },
+      "original": "……いや、もう少しよく考えてから決めよう。\n",
+      "translation": "……아니, 좀 더 잘 생각하고 결정하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0080",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA711009,3",
+        "speaker": "1,0010401"
+      },
+      "original": "このドアの向こうに、ミントが……。\n何だか緊張するなぁ。\n",
+      "translation": "이 문 너머에, 민트가……. 왠지 긴장되네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0081",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA711009,3",
+        "speaker": "1,0010301"
+      },
+      "original": "……よし、ミントをパートナーにしよう。\n舞踏会の最後は、ミントと一緒に過ごしたい。\n",
+      "translation": "……좋아, 민트를 파트너로 하자. 무도회의\n마지막은, 민트와 함께 보내고 싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0082",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA711009,3"
+      },
+      "original": "ミント、オレだ。\n話があるんだけど……いいかな？\n",
+      "translation": "민트, 나야. 할 말이 있는데……\n괜찮을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0083",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA713001,3",
+        "speaker": "4,0040702"
+      },
+      "original": "まあ、タクトさん。\nどうぞお入りください。\n",
+      "translation": "어머, 택트 씨. 어서 들어오세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0084",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040101,0",
+        "voice": "GA713002,3"
+      },
+      "original": "わざわざお越しいただいて、恐縮ですわ。\n",
+      "translation": "일부러 와 주셔서, 송구하옵니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0085",
+      "channel": 1,
+      "context": {
+        "face": "0,0040704,0",
+        "voice": "GA713003,3",
+        "speaker": "4,0040101"
+      },
+      "original": "あら、きれいな花束ですわね。\nどうなさいましたの？\n",
+      "translation": "어머, 예쁜 꽃다발이네요. 무슨\n일이신가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0086",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010101",
+        "voice": "GA713003,3"
+      },
+      "original": "ああ、これは……。\n",
+      "translation": "아아, 이건…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0087",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA713003,3"
+      },
+      "original": "この花束を……ミント、君に受け取ってほし\nい。\n",
+      "translation": "이 꽃다발을…… 민트, 군이 받아줬으면\n해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0088",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040702",
+        "face": "0,0,0",
+        "voice": "GA713004,3"
+      },
+      "original": "え……？\n",
+      "translation": "에……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0089",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA713004,3"
+      },
+      "original": "そして、今度の舞踏会で、オレに君をエスコー\nトする大役を任せてくれないか？\n",
+      "translation": "그리고, 이번 무도회에서, 나에게 당신을\n에스코트하는 중책을 맡아주지 않겠나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0090",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "4,0040702",
+        "voice": "GA713005,3"
+      },
+      "original": "まあ、私を……？\n",
+      "translation": "어머, 저를……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0091",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GA713006,3",
+        "speaker": "4,0040101"
+      },
+      "original": "たいへん光栄ですわ。\nよろこんで、お受けいたします。\n",
+      "translation": "정말 영광이에요. 기쁘게, 받아들일게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0092",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GA713006,3",
+        "speaker": "1,0010201"
+      },
+      "original": "本当？\nありがとう、ミント！\n",
+      "translation": "정말？ 고마워, 민트！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0093",
+      "channel": 1,
+      "context": {
+        "face": "0,0040301,0",
+        "voice": "GA713007,3",
+        "speaker": "4,0040101"
+      },
+      "original": "ほかならぬタクトさんのお誘いですもの。\n当日は、よろしくお願いいたしますわ。\n",
+      "translation": "다름 아닌 택트 씨의 권유인걸요.\n당일에는, 잘 부탁드릴게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0094",
+      "channel": 1,
+      "context": {
+        "face": "0,0040301,0",
+        "voice": "GA713007,3",
+        "speaker": "1,0010201"
+      },
+      "original": "オレの方こそ、よろしく。\n受けてくれて、うれしいよ。\n",
+      "translation": "나야말로, 잘 부탁해. 받아줘서 기뻐.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0095",
+      "channel": 1,
+      "context": {
+        "voice": "GA713008,3",
+        "speaker": "4,0040101",
+        "face": "0,0040203,0"
+      },
+      "original": "でも、少しビックリしましたわ。\nこんな花束を差し出されるなんて。\n",
+      "translation": "하지만, 조금 놀랐어요. 이런 꽃다발을\n건네주시다니.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0096",
+      "channel": 1,
+      "context": {
+        "face": "0,0040203,0",
+        "speaker": "1,0010105",
+        "voice": "GA713008,3"
+      },
+      "original": "実は、アルモとココからもらったんだ。\nエスコートを申し込むとき、相手に渡してあ\nげるといいって。\n",
+      "translation": "사실은, 아르모와 코코에게 받은 거야.\n에스코트를 신청할 때, 상대방에게 주면\n좋다고 해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0097",
+      "channel": 1,
+      "context": {
+        "speaker": "4,0040101",
+        "face": "0,0040703,0",
+        "voice": "GA713009,3"
+      },
+      "original": "もう、タクトさん。\nそういうときは、ウソでも「自分で買ってき\nた」などと言うものですわ。\n",
+      "translation": "정말이지, 택트 씨. 그럴 때는\n거짓말로라도 「직접 사 왔다」라고 말하는\n법이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0098",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0040703,0",
+        "voice": "GA713009,3"
+      },
+      "original": "あ、なるほど。\n確かにそうかもな。\n",
+      "translation": "아, 그렇구나. 확실히 그럴지도 모르겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0099",
+      "channel": 1,
+      "context": {
+        "face": "0,0040102,0",
+        "voice": "GA713010,3",
+        "speaker": "4,0040101"
+      },
+      "original": "うふふっ。\nまぁ、そういう飾り気のなさは、タクトさん\nらしいですわね。\n",
+      "translation": "우후훗. 뭐, 그런 꾸밈없는 점은 택트\n씨답네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0100",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0,0",
+        "voice": "GA713010,3"
+      },
+      "original": "……いや、もう少しよく考えてから決めよう。\n",
+      "translation": "……아니, 좀 더 잘 생각한 다음에\n결정하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0101",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA713010,3",
+        "speaker": "1,0010105"
+      },
+      "original": "このドアの向こうに、フォルテが……。\n何だか緊張するなぁ。\n",
+      "translation": "이 문 너머에, 포르테가……. 왠지\n긴장되네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0102",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GA713010,3"
+      },
+      "original": "……よし、フォルテをパートナーにしよう。\n舞踏会の最後は、フォルテと一緒に過ごした\nい。\n",
+      "translation": "……좋아, 포르테를 파트너로 삼자.\n무도회의 마지막은, 포르테와 함께 보내고\n싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0103",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GA713010,3"
+      },
+      "original": "フォルテ、タクトだ。\nちょっといいかな？\n",
+      "translation": "포르테, 택트다. 잠깐 괜찮을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0104",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0,0",
+        "voice": "GA715001,3"
+      },
+      "original": "ああ、開いてるよ。\n入っとくれ。\n",
+      "translation": "아아, 열려 있어. 들어오게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0105",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA715001,3"
+      },
+      "original": "それじゃ、おじゃまするよ。\n",
+      "translation": "그럼, 실례할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0106",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "0,0050101,0",
+        "voice": "GA715002,3"
+      },
+      "original": "よく来たね。\nまぁ、座んなよ。\n",
+      "translation": "잘 왔네. 뭐, 앉아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0107",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GA715002,3",
+        "speaker": "1,0010105"
+      },
+      "original": "あ、ああ……。\n",
+      "translation": "아, 아아…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0108",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "5,0050101",
+        "voice": "GA715003,3"
+      },
+      "original": "どうしたんだい、そんなに汗かいて？\n",
+      "translation": "왜 그러는 거야, 그렇게 땀을 흘리고？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0109",
+      "channel": 1,
+      "context": {
+        "face": "0,0050204,0",
+        "speaker": "1,0010105",
+        "voice": "GA715003,3"
+      },
+      "original": "いや、あのさ……。\n",
+      "translation": "아니, 저기 말이야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0110",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0,0",
+        "voice": "GA715003,3"
+      },
+      "original": "これを、フォルテに受け取ってほしいんだ。\n",
+      "translation": "이걸, 포르테가 받아줬으면 좋겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0111",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "5,0050802",
+        "voice": "GA715004,3"
+      },
+      "original": "えっ、この花束は……？\n",
+      "translation": "엣, 이 꽃다발은……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0112",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA715004,3"
+      },
+      "original": "フォルテに、舞踏会のパートナーとして、一\n緒に出てもらいたいんだ。\n",
+      "translation": "포르테가, 무도회의 파트너로서 함께\n나와줬으면 해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0113",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "5,0050202",
+        "voice": "GA715005,3"
+      },
+      "original": "あたしを、パートナーに……？\n",
+      "translation": "나를, 파트너로……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0114",
+      "channel": 1,
+      "context": {
+        "voice": "GA715006,3",
+        "speaker": "5,0050101",
+        "face": "0,0050203,0"
+      },
+      "original": "……物好きなヤツだね、あんたも。\nそりゃ、誘ったのはこっちだけど、まさか本\n当に来るなんて。\n",
+      "translation": "……별난 녀석이라니까, 너도. 뭐, 권한 건\n쪽은 나지만, 설마 정말로 올 줄이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0115",
+      "channel": 1,
+      "context": {
+        "face": "0,0050203,0",
+        "voice": "GA715007,3",
+        "speaker": "5,0050101"
+      },
+      "original": "本当に、あたしでいいのかい……？\n",
+      "translation": "정말로, 나로 괜찮은 걸까……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0116",
+      "channel": 1,
+      "context": {
+        "face": "0,0050203,0",
+        "voice": "GA715007,3",
+        "speaker": "1,0010301"
+      },
+      "original": "もちろんだ。\nフォルテだからこそ、お願いしたい。\n",
+      "translation": "물론이다. 포르테이기에 부탁하고 싶은\n거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0117",
+      "channel": 1,
+      "context": {
+        "voice": "GA715008,3",
+        "speaker": "5,0050101",
+        "face": "0,0050202,0"
+      },
+      "original": "そうかい……あたしをねぇ……。\n",
+      "translation": "그런가…… 나를 말이지…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0118",
+      "channel": 1,
+      "context": {
+        "face": "0,0050202,0",
+        "speaker": "1,0010301",
+        "voice": "GA715008,3"
+      },
+      "original": "引き受けてくれるかい……？\n",
+      "translation": "맡아 줄 수 있겠나……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0119",
+      "channel": 1,
+      "context": {
+        "face": "0,0050102,0",
+        "speaker": "5,0050101",
+        "voice": "GA715009,3"
+      },
+      "original": "……ああ、もちろん。\n選んでくれて、うれしいよ。\n",
+      "translation": "……아아, 물론이지. 선택해 줘서 기뻐.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0120",
+      "channel": 1,
+      "context": {
+        "face": "0,0050102,0",
+        "speaker": "1,0010101",
+        "voice": "GA715009,3"
+      },
+      "original": "よかった。\nありがとう、フォルテ。\n",
+      "translation": "다행이다. 고마워, 포르테.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0121",
+      "channel": 1,
+      "context": {
+        "face": "0,0050101,0",
+        "voice": "GA715010,3",
+        "speaker": "5,0050101"
+      },
+      "original": "あたしこそ。\n最後の舞踏会だ、いい思い出にしたいね。\n",
+      "translation": "나야말로. 마지막 무도회니까, 좋은\n추억으로 만들고 싶네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0122",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010401",
+        "voice": "GA715010,3"
+      },
+      "original": "……いや、もう少しよく考えてから決めよう。\n",
+      "translation": "……아니, 좀 더 잘 생각하고 결정하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0123",
+      "channel": 1,
+      "context": {
+        "voice": "GA715010,3",
+        "speaker": "1,0010401",
+        "face": "0,0,0"
+      },
+      "original": "このドアの向こうに、ヴァニラが……。\n何だか緊張するなぁ。\n",
+      "translation": "이 문 너머에, 바닐라가……. 왠지\n긴장되네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0124",
+      "channel": 1,
+      "context": {
+        "voice": "GA715010,3",
+        "speaker": "1,0010301",
+        "face": "0,0,0"
+      },
+      "original": "……よし、ヴァニラをパートナーにしよう。\n舞踏会の最後は、ヴァニラと一緒に過ごした\nい。\n",
+      "translation": "……좋아, 바닐라를 파트너로 삼자.\n무도회의 마지막은, 바닐라와 함께 보내고\n싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0125",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,0,0",
+        "voice": "GA715010,3"
+      },
+      "original": "ヴァニラ、ちょっといいかな？\n",
+      "translation": "바닐라, 잠시 괜찮을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0126",
+      "channel": 1,
+      "context": {
+        "voice": "GA717001,3",
+        "speaker": "6,0060101",
+        "face": "0,0,0"
+      },
+      "original": "……はい。\nどうぞ、お入りください……。\n",
+      "translation": "……네. 어서 들어오세요…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0127",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010101",
+        "voice": "GA717001,3"
+      },
+      "original": "うん。\nそれじゃ、おじゃまするよ。\n",
+      "translation": "응. 그럼, 실례할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0128",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010401",
+        "voice": "GA717001,3"
+      },
+      "original": "あのさ、ヴァニラ。\n今度の舞踏会のことなんだけど……。\n",
+      "translation": "저기 말이야, 바닐라. 이번 무도회에\n대해서인데…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0129",
+      "channel": 1,
+      "context": {
+        "face": "0,0060101,0",
+        "voice": "GA717002,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……はい……。\n",
+      "translation": "……네…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0130",
+      "channel": 1,
+      "context": {
+        "face": "0,0060101,0",
+        "speaker": "1,0010301",
+        "voice": "GA717002,3"
+      },
+      "original": "これを、受け取ってもらえるかい？\n",
+      "translation": "이것을, 받아줄 수 있을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0131",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060101",
+        "voice": "GA717003,3"
+      },
+      "original": "……これは……？\n",
+      "translation": "……이것은……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0132",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010301",
+        "voice": "GA717003,3"
+      },
+      "original": "ヴァニラ……君に、パートナーとして一緒に\n出席してもらいたい。\nいいかな？\n",
+      "translation": "바닐라…… 네가, 파트너로서 함께 참석해\n줬으면 해. 괜찮을까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0133",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "6,0060302",
+        "voice": "GA717004,3"
+      },
+      "original": "……タクトさん……。\n",
+      "translation": "……택트 씨…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0134",
+      "channel": 1,
+      "context": {
+        "face": "0,0060302,0",
+        "speaker": "6,0060101",
+        "voice": "GA717005,3"
+      },
+      "original": "……本当に、私でいいのですか……？\n",
+      "translation": "……정말로, 저로 괜찮은 건가요……？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0135",
+      "channel": 1,
+      "context": {
+        "face": "0,0060302,0",
+        "speaker": "1,0010101",
+        "voice": "GA717005,3"
+      },
+      "original": "もちろんさ。\n君をエスコートする役目、オレに任せてもら\nえるかい？\n",
+      "translation": "물론이지. 너를 에스코트하는 역할, 나에게\n맡겨줄래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0136",
+      "channel": 1,
+      "context": {
+        "face": "0,0060303,0",
+        "speaker": "6,0060101",
+        "voice": "GA717006,3"
+      },
+      "original": "はい……。\n……よろしくお願いします。\n",
+      "translation": "네……. ……잘 부탁드립니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0137",
+      "channel": 1,
+      "context": {
+        "face": "0,0060303,0",
+        "speaker": "1,0010101",
+        "voice": "GA717006,3"
+      },
+      "original": "ふぅ、よかった。\nホッとしたよ。\n",
+      "translation": "후우, 다행이다. 안심했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0138",
+      "channel": 1,
+      "context": {
+        "face": "0,0060301,0",
+        "speaker": "6,0060101",
+        "voice": "GA717007,3"
+      },
+      "original": "…………。\n",
+      "translation": "…………。\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0139",
+      "channel": 1,
+      "context": {
+        "face": "0,0060301,0",
+        "voice": "GA717007,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ん？\nどうかしたの？\n",
+      "translation": "응？ 왜 그래？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0140",
+      "channel": 1,
+      "context": {
+        "face": "0,0060103,0",
+        "speaker": "6,0060101",
+        "voice": "GA717008,3"
+      },
+      "original": "……あ、申し訳ありません。\n少し……ぼんやりしてしまいました。\n",
+      "translation": "……아, 죄송합니다. 잠시…… 멍해져\n버려서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0141",
+      "channel": 1,
+      "context": {
+        "face": "0,0060303,0",
+        "voice": "GA717009,3",
+        "speaker": "6,0060101"
+      },
+      "original": "まだ……信じられなくて……。\nタクトさんが、私をパートナーに選んでくれ\nたということが……。\n",
+      "translation": "아직…… 믿기지 않아서…… 택트 씨가,\n저를 파트너로 선택해 주셨다는 것이…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0142",
+      "channel": 1,
+      "context": {
+        "face": "0,0060303,0",
+        "speaker": "1,0010104",
+        "voice": "GA717009,3"
+      },
+      "original": "なに言ってるんだ。\nたった今、花束も渡してお願いしただろ？\n",
+      "translation": "무슨 소리를 하는 거야. 방금 꽃다발도\n건네며 부탁했잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0143",
+      "channel": 1,
+      "context": {
+        "face": "0,0060301,0",
+        "voice": "GA717010,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……そうですね。\nですが……。\n",
+      "translation": "……그렇네요. 하지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0144",
+      "channel": 1,
+      "context": {
+        "face": "0,0060301,0",
+        "voice": "GA717011,3",
+        "speaker": "6,0060101"
+      },
+      "original": "……何だか、不思議な気分です……。\nそれに、動悸もはげしくて……。\n",
+      "translation": "……왠지, 신기한 기분이에요……. 게다가,\n심장도 세게 뛰어서…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0145",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0010401",
+        "voice": "GA717011,3"
+      },
+      "original": "……いや、もう少しよく考えてから決めよう。\n",
+      "translation": "……아니, 좀 더 잘 생각하고 나서\n결정하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0146",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "face": "0,0,0",
+        "voice": "GA717011,3"
+      },
+      "original": "……オレは、ミルフィーにエスコートを申し\n込んだ。\n",
+      "translation": "……나는, 밀피에게 에스코트를 신청했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0147",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0",
+        "voice": "GA717011,3"
+      },
+      "original": "裾が焦げたドレスを短くしてあげたことで、\nミルフィーは笑顔を取り戻して、オレと踊っ\nてくれた。\n",
+      "translation": "밑단이 탄 드레스를 짧게 해준 덕분에,\n밀피는 미소를 되찾고 나와 함께 춤을 추어\n주었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0148",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA717011,3",
+        "speaker": "1,0"
+      },
+      "original": "その笑顔を見たとき、オレは自分自身の気持\nちを、はっきりと自覚したんだと思う。\n",
+      "translation": "그 미소를 보았을 때, 나는 내 자신의\n마음을 분명하게 자각했다고 생각해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0149",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA717011,3",
+        "speaker": "1,0"
+      },
+      "original": "……オレは、ランファにエスコートを申し込\nんだ。\n",
+      "translation": "……나는, 란파에게 에스코트를 신청했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0150",
+      "channel": 1,
+      "context": {
+        "voice": "GA717011,3",
+        "speaker": "1,0",
+        "face": "0,0,0"
+      },
+      "original": "足を痛めてしまって、それでもオレと踊りた\nいって泣きじゃくるランファ。\nそんな彼女を見て、オレは……。\n",
+      "translation": "발을 다쳐서, 그런데도 나와 춤추고 싶다며\n울먹이는 란파. 그런 그녀를 보고,\n나는…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0151",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0",
+        "voice": "GA717011,3"
+      },
+      "original": "とってもかわいいなって……そう思ったんだ。\n",
+      "translation": "정말 귀엽다고…… 그렇게 생각했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0152",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GA717011,3",
+        "speaker": "1,0"
+      },
+      "original": "……オレはミントにエスコートを申し込んだ。\n",
+      "translation": "……나는 민트에게 에스코트를 신청했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0153",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0",
+        "face": "0,0,0"
+      },
+      "original": "招待客に囲まれて困っているミントを、オレ\nは強引に連れ出して、一緒にダンスを踊った。\n",
+      "translation": "초대객들에게 둘러싸여 곤란해하는 민트를,\n나는 억지로 데리고 나와 함께 댄스를\n추었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0154",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "speaker": "1,0"
+      },
+      "original": "もっとも、踊っている最中にもつれ合って、\nふたりとも顔をまっ赤にしたまま、立ちつく\nしちゃったけど……。\n",
+      "translation": "물론, 춤을 추는 도중에 발이 엉켜서, 둘\n다 얼굴이 새빨개진 채로 멍하니 서 있어\n버렸지만…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0155",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……オレは、フォルテにエスコートを申し込\nんだ。\n",
+      "translation": "……나는, 포르테에게 에스코트를\n신청했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0156",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ところが舞踏会には、シヴァ皇子を狙う刺客\nが入り込んでいた。\nオレとフォルテは、協力して刺客を捕らえた。\n",
+      "translation": "그런데 무도회에는 시바 황자를 노리는\n자객이 잠입해 있었다. 나와 포르테는\n협력하여 자객을 붙잡았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0157",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ダンスはできなかったけど、皇子と舞踏会を\n守ることができて、オレたちは満足だった。\n",
+      "translation": "댄스는 출 수 없었지만, 황자와 무도회를\n지켜낼 수 있어서 우리들은 만족했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0158",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……オレは、ヴァニラにエスコートを申し込\nんだ。\n",
+      "translation": "……나는, 바닐라에게 에스코트를\n신청했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0159",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "こういうことに慣れてないヴァニラは、心細\nくて恥ずかしくて、すみっこで小さくなって\nいたっけ。\n",
+      "translation": "이런 일에 익숙하지 않은 바닐라는,\n불안하고 부끄러운 듯 구석에서 몸을\n웅크리고 있었지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0160",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ダンスに誘ったオレの手を握りしめながら、\n彼女は安心したように微笑んでいた。\n",
+      "translation": "댄스에 초대받은 내 손을 꼭 쥐면서,\n그녀는 안심한 듯 미소 짓고 있었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0161",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……だけど、その幸せな時間は、エオニア軍\nの攻撃によって断ち切られた。\n",
+      "translation": "……하지만, 그 행복한 시간은\n에오니아군의 공격에 의해 끊어졌다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0162",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "圧倒的な力をふるう『黒き月』の出現。\nオレたちは絶体絶命の危機に陥った。\n",
+      "translation": "압도적인 힘을 휘두르는 『흑색 달』의\n출현. 우리들은 절체절명의 위기에 빠졌다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0163",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "でも、オレたちは決してあきらめなかった。\n",
+      "translation": "하지만, 우리들은 결코 포기하지 않았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0164",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "紋章機に隠されていた、未知の力。\nその力を引き出したエンジェル隊は、敵を次々\nとなぎ倒していった。\n",
+      "translation": "문장기에 숨겨져 있던, 미지의 힘. 그 힘을\n이끌어낸 엔젤대는 적을 차례차례 쓰러뜨려\n나갔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0165",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そしてエルシオールも、クロノ・ブレイク・\nキャノンを搭載して、『黒き月』に対抗でき\nる力を得た。\n",
+      "translation": "그리고 에르시올도\n크로노・브레이크・캐논을 탑재해, 『흑색\n달』에 대항할 힘을 얻었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0166",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "何よりも、みんなの心がひとつになっていた。\nエルシオールの乗組員、ルフト准将、シヴァ\n皇子、『白き月』のシャトヤーン様……。\n",
+      "translation": "무엇보다도, 모두의 마음이 하나가 되어\n있었다. 에르시올의 승무원, 루프트 준장,\n시바 황자, 『백색 달』의 샤토얀 님…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0167",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "みんなが力を合わせて、エオニアと『黒き月』\nに立ち向かった。\n皇国の未来を守るために。\n",
+      "translation": "모두가 힘을 합쳐, 에오니아와 『흑색\n달』에 맞서 싸웠다. 황국의 미래를 지키기\n위해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0168",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……いや、それだけじゃない。\nオレは、彼女のために戦ったんだ。\n",
+      "translation": "……아니, 그것뿐만이 아니다. 나는,\n그녀를 위해 싸운 거다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0169",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレのいちばん大切な人。\n苦しい戦いの中で、想いを伝えあった人……。\n",
+      "translation": "나의 가장 소중한 사람. 괴로운 전투\n속에서, 마음을 나누었던 사람…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0170",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ミルフィーは、オレがエルシオールに来たと\nきから、何かと親切にしてくれた。\n",
+      "translation": "밀피는, 내가 에르시올에 왔을 때부터,\n이것저것 친절하게 대해 주었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0171",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "いつも屈託のない笑顔を振りまいて、みんな\nを幸せな気持ちにさせてくれた。\n",
+      "translation": "언제나 구김살 없는 미소를 뿌리며, 모두를\n행복한 기분으로 만들어 주었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0172",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "失敗しても前向きに進んでいくミルフィーの\nことを、オレはだんだん好きになっていった。\n",
+      "translation": "실패해도 긍정적으로 나아가는 밀피를,\n나는 점점 좋아하게 되었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0173",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "でも、彼女は恐れていた。\n自分の強運が、オレを傷つけてしまうんじゃ\nないか……って。\n",
+      "translation": "하지만, 그녀는 두려워하고 있었다. 자신의\n강운이, 나를 상처 입히지는 않을까……\n하고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0174",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "だけど、オレはそんなこと気にしてなかった。\n",
+      "translation": "그렇지만, 나는 그런 것 따위 신경 쓰지\n않았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0175",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ミルフィーと一緒にいられれば、それでいい。\nどんなことがあろうとも、ふたり一緒なら、\n乗り越えていける。\n",
+      "translation": "밀피와 함께 있을 수 있다면, 그걸로 됐다.\n어떤 일이 있어도, 둘이 함께라면, 헤쳐\n나갈 수 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0176",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ミルフィーは、オレの幸運の女神だ。\n",
+      "translation": "밀피는, 나의 행운의 여신이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0177",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……そう告げたとき、オレたちの気持ちは通\nじ合ったんだ。\n",
+      "translation": "……그렇게 말했을 때, 우리들의 마음은\n통했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0178",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……はげしい戦いの末、オレたちはエオニア\nを倒し、『黒き月』を破壊した。\n",
+      "translation": "……격렬한 전투 끝에, 우리는 에오니아를\n쓰러뜨리고, 『흑색 달』을 파괴했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0179",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "皇国に、再び平和が戻った。\nそして……。\n",
+      "translation": "황국에, 다시 평화가 돌아왔다.\n그리고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0180",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "最後の戦いで強運を失ってしまったミルフィー\nは、エンジェル隊を除隊した。\n",
+      "translation": "마지막 전투에서 강운을 잃어버린 밀피는,\n엔젤대를 제대했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0181",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そのことを知ったオレは、彼女を追って軍を\n辞めた。\n",
+      "translation": "그 사실을 알게 된 나는, 그녀를 쫓아 군을\n그만두었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0182",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "その決断には、何のためらいもなかった。\nなぜなら、オレはもう、新しい生き方を見つ\nけていたから。\n",
+      "translation": "그 결단에는, 어떤 망설임도 없었다.\n왜냐하면, 나는 이미, 새로운 삶의 방식을\n찾아냈으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0183",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "それは、ミルフィーのそばにいるということ。\n彼女の笑顔を守り続けるということ。\n",
+      "translation": "그것은, 밀피의 곁에 있다는 것. 그녀의\n미소를 계속 지켜준다는 것.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0184",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ミルフィー……君の大好きなピクニックに、\nまた出かけよう。\nもちろん、ふたりで一緒に。\n",
+      "translation": "밀피…… 군이 정말 좋아하는 피크닉을,\n다시 떠나자. 물론, 둘이서 함께.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0185",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "今度はどこに行こうか。\nきっと楽しいピクニックになるぞ……。\n",
+      "translation": "이번에는 어디로 갈까. 분명 즐거운\n피크닉이 될 거야…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0186",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "最初に会ったときはツンツンしてて、オレの\nことが嫌いなのかと思った。\n",
+      "translation": "처음 만났을 때는 쌀쌀맞아서, 내가 싫은\n건가 싶었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0187",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "でも、親しくなるにつれて、ランファの態度\nも変わってきて、オレは彼女のいろんなこと\nを知っていった。\n",
+      "translation": "하지만 친해질수록 란파의 태도도 변했고,\n나는 그녀의 여러 가지를 알아갔어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0188",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "占いが好きで、いつも雑誌の占いコーナーに\n一喜一憂していること。\n",
+      "translation": "점술을 좋아해서, 항상 잡지의 운세 코너에\n일희일비하고 있다는 것.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0189",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "普段は強がりを言ってるけど、本当はとても\n情に厚くて、涙もろいこと。\n",
+      "translation": "평소에는 센 척하지만, 사실은 매우 정이\n많고 눈물이 많다는 것.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0190",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そんなことを知っていくうちに、オレはラン\nファのことを、どんどん好きになっていった。\n",
+      "translation": "그런 것들을 알아가면서, 나는 란파를 점점\n좋아하게 되었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0191",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "だけど、オレがなかなか態度をはっきりさせ\nなかったせいで、ランファは怒って部屋に閉\nじこもってしまった。\n",
+      "translation": "하지만 내가 좀처럼 태도를 확실히 하지\n않은 탓에, 란파는 화가 나서 방에\n틀어박혀 버렸지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0192",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレは勇気を出して、思いの丈を伝えた。\nランファが好きだ。\nこの世でいちばん大好きだって。\n",
+      "translation": "나는 용기를 내어, 마음을 전했어. 란파를\n좋아한다고. 이 세상에서 가장 좋아한다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0193",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "お互いの気持ちを確認したことで、オレたち\nの間にあった見えない壁は、完全に取り払わ\nれた。\n",
+      "translation": "서로의 마음을 확인한 것으로, 우리 사이에\n있던 보이지 않는 벽은 완전히 허물어졌다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0194",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "最後の戦いを前に、オレとランファは誓った。\n愛する者のために戦い、そして勝つと。\n",
+      "translation": "마지막 전투를 앞에 두고, 나와 란파는\n맹세했다. 사랑하는 사람을 위해 싸우고,\n그리고 이기겠다고.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0195",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……はげしい戦いの末、オレたちはエオニア\nを倒し、『黒き月』を破壊した。\n",
+      "translation": "……격렬한 전투 끝에, 우리들은\n에오니아를 쓰러뜨리고 『흑색 달』을\n파괴했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0196",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "皇国に、再び平和が戻った。\nそして……。\n",
+      "translation": "황국에 다시 평화가 돌아왔다. 그리고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0197",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレとランファは、辺境調査の旅に出発した。\n",
+      "translation": "나와 란파는 변방 조사 여행을 떠났다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0198",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "見てくれ、このかわいらしい内装！\nもちろん、ランファのコーディネートさ。\n",
+      "translation": "봐줘, 이 귀여운 내장！ 물론, 란파의\n코디네이션이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0199",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "実用一辺倒だったエルシオールのブリッジが、\nこんなファンシー空間に生まれ変わったんだ。\n",
+      "translation": "실용성 일변도였던 에르시올의 브릿지가,\n이런 팬시한 공간으로 다시 태어난 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0200",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ああ、オレのスウィート・ハニー。\nランファは、オレにとって、宇宙一の女の子\nなんだ。\n",
+      "translation": "아아, 나의 스위트 허니. 란파는 나에게\n있어 우주 최고의 여자아이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0201",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そうとも！\nオレとランファは、宇宙最高のカップルなの\nさ！\n",
+      "translation": "그렇고말고！ 나와 란파는 우주 최고의\n커플이라고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0202",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "正直言って、はじめは取っつきにくいかもっ\nて思ってた。\n",
+      "translation": "솔직히 말해서, 처음에는 다가가기\n어려울지도 모른다고 생각했어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0203",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "だけど、ミントを知っていくにつれて、どん\nどん好きになっていったんだ。\n",
+      "translation": "하지만 민트를 알아갈수록, 점점 좋아하게\n되었지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0204",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ちょっと斜にかまえた言動も。\n駄菓子と着ぐるみが大好きっていう、意外と\n子供っぽいところも。\n",
+      "translation": "조금 냉소적인 언동도. 불량식품과 인형\n탈을 아주 좋아한다는, 의외로 아이 같은\n면도 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0205",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "小柄な身体に、ちょっぴりコンプレックスを\n持ってるところも。\n",
+      "translation": "작은 체구에, 조금 콤플렉스를 가지고 있는\n점도.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0206",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "全部ひっくるめて、オレはミントのことが好\nきになった。\n",
+      "translation": "전부 포함해서, 나는 민트가 좋아졌다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0207",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "だから、ミントが実家に連れ戻されたとき、\nオレは大急ぎでそこへ向かった。\n",
+      "translation": "그래서, 민트가 본가로 데려가졌을 때,\n나는 서둘러 그곳으로 향했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0208",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "紋章機のパイロットだからじゃない。\nオレには、ひとりの女の子としてのミントが\n必要だったからだ。\n",
+      "translation": "문장기 파일럿이라서가 아니다. 나에게는,\n한 명의 여자아이로서의 민트가 필요했기\n때문이다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0209",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そして、ミントもまた、オレのことを……。\n",
+      "translation": "그리고, 민트 또한, 나를…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0210",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレたちは、心と心で通じ合っている。\n言葉に出さなくても、オレたちの想いは、ひ\nとつだった……。\n",
+      "translation": "우리들은, 마음과 마음으로 통하고 있다.\n말로 하지 않아도, 우리들의 마음은,\n하나였다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0211",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……はげしい戦いの末、オレたちはエオニア\nを倒し、『黒き月』を破壊した。\n",
+      "translation": "……격렬한 전투 끝에, 우리들은\n에오니아를 쓰러뜨리고, 『흑색 달』을\n파괴했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0212",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "皇国に、再び平和が戻った。\nそして……。\n",
+      "translation": "황국에, 다시 평화가 돌아왔다.\n그리고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0213",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "エルシオールで辺境調査に出発したオレを、\nミントが追いかけてきた。\n",
+      "translation": "에르시올에서 변방 조사로 출발한 나를,\n민트가 뒤쫓아왔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0214",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "レスターたちは驚いたけど、オレはこうなる\nんじゃないかって気がしてたんだ。\n",
+      "translation": "레스터 일행은 놀랐지만, 나는 이렇게 되지\n않을까 하고 짐작하고 있었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0215",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ミントのようにテレパシーは使えないけど、\n彼女の考えは、オレにもわかってるから。\n",
+      "translation": "민트처럼 텔레파시를 쓸 수는 없지만,\n그녀의 생각은 나도 알고 있으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0216",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "何かアテがあるというわけでもない調査だけ\nど、ミントと一緒にいれば、退屈することな\nんかないさ……！\n",
+      "translation": "딱히 짐작 가는 구석이 있는 조사도\n아니지만, 민트와 함께라면 지루할 일\n따위는 없어……！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0217",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "フォルテには、出会ったばかりのころから、\n世話になりっぱなしだったな。\n",
+      "translation": "포르테에게는, 처음 만났을 때부터 신세를\n계속 졌었지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0218",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "司令官としてのプレッシャーに押しつぶされ\nそうになったときも、フォルテ流のはげまし\n方で元気づけてくれた。\n",
+      "translation": "사령관으로서의 압박감에 짓눌릴 것 같았을\n때도, 포르테 방식대로 격려하며 기운을\n북돋아 주었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0219",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "フォルテひとりで危険な作戦に向かったとき\nも、彼女に迷いはなかった。\n",
+      "translation": "포르테 혼자서 위험한 작전에 나섰을 때도,\n그녀에게 망설임은 없었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0220",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "信じる相手のために戦う。\nそれがフォルテの強さであり、やさしさだっ\nた。\n",
+      "translation": "믿는 상대를 위해 싸운다. 그것이 포르테의\n강함이자, 다정함이었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0221",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "だからこそ、オレもフォルテを信じて命令を\n下した。\nフォルテの気持ちに応えるために。\n",
+      "translation": "그렇기에 나도 포르테를 믿고 명령을\n내렸다. 포르테의 마음에 보답하기 위해서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0222",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "フォルテと一緒に戦うことで、オレは成長し\nていった。\n",
+      "translation": "포르테와 함께 싸우면서, 나는 성장해\n나갔다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0223",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "同時に、いつしかオレの中で、彼女はかけが\nえのない女性になっていったんだ……。\n",
+      "translation": "동시에, 어느덧 내 안에서 그녀는 무엇과도\n바꿀 수 없는 여성이 되어 있었다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0224",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……はげしい戦いの末、オレたちはエオニア\nを倒し、『黒き月』を破壊した。\n",
+      "translation": "……격렬한 전투 끝에, 우리들은\n에오니아를 쓰러뜨리고 『흑색 달』을\n파괴했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0225",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "皇国に、再び平和が戻った。\nそして……。\n",
+      "translation": "황국에, 다시 평화가 돌아왔다.\n그리고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0226",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレはエルシオールに乗って、辺境調査の旅\nに出発した。\n",
+      "translation": "나는 에르시올을 타고, 변방 조사 여행을\n떠났다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0227",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレの隣には、レスターに代わる新しい副官\nがいる。\n",
+      "translation": "내 옆에는, 레스터를 대신할 새로운 부관이\n있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0228",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そう、フォルテ・シュトーレン。\n",
+      "translation": "그래, 포르테・슈토렌.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0229",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "最初のうちは、やっぱり少し妙な気分だった\nけど、今じゃ慣れたものだ。\n",
+      "translation": "처음에는 역시 조금 묘한 기분이었지만,\n지금은 익숙해졌다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0230",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレたちの出会いは偶然だったかもしれない\nけど、今こうして、そばにいることは必然だっ\nた……そんな気がする。\n",
+      "translation": "우리들의 만남은 우연이었을지도 모르지만,\n지금 이렇게, 곁에 있는 것은\n필연이었다…… 그런 기분이 든다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0231",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "責任感が強くて、何事にもまじめに取り組む\n女の子。\n……それが、ヴァニラの第一印象だった。\n",
+      "translation": "책임감이 강하고, 매사에 성실하게 임하는\n소녀.…… 그것이, 바닐라의 첫인상이었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0232",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "無駄口もきかず、笑うこともなく、ただひた\nむきに……。\n見ていて、危なっかしく思えるくらいだった。\n",
+      "translation": "잡담도 하지 않고, 웃는 일도 없이, 그저\n한결같이……. 보고 있으면, 위태로워 보일\n정도였다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0233",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレはそんなヴァニラに少しずつ近づいてい\nき、ヴァニラもだんだん心を開くようになっ\nていった。\n",
+      "translation": "나는 그런 바닐라에게 조금씩 다가갔고,\n바닐라도 점점 마음을 열게 되었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0234",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ときどきだけど笑顔を見せるようになって、\n宇宙ウサギのウギウギとは、いつも一緒に遊\nんでいた。\n",
+      "translation": "때때로지만 미소를 보여주게 되었고, 우주\n토끼인 우기우기와는, 언제나 함께 놀고\n있었다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0235",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ヴァニラが少しずつ変わっていくのを見て、\nオレもうれしかった。\n",
+      "translation": "바닐라가 조금씩 변해가는 것을 보며, 나도\n기뻤다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0236",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "そのウギウギが死んだとき、ヴァニラは初め\nて涙を見せた。\n",
+      "translation": "그 우기우기가 죽었을 때, 바닐라는\n처음으로 눈물을 보였다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0237",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "楽しいこと、悲しいこと……。\n出会いと別れ……。\n人は、さまざまな思い出を抱えて生きている。\n",
+      "translation": "즐거운 일, 슬픈 일……. 만남과 이별…….\n사람은 다양한 추억을 품고 살아간다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0238",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ヴァニラもまた、ウギウギとの思い出を胸に、\n前へ進むことを選んだ。\n",
+      "translation": "바닐라 또한 우기우기와의 추억을 가슴에\n품고, 앞으로 나아가는 것을 선택했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0239",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ふたりで、これからも思い出を作っていきた\nい……。\nヴァニラとオレの気持ちは同じだった。\n",
+      "translation": "둘이서 앞으로도 계속 추억을 만들어가고\n싶다……. 바닐라와 나의 마음은 같았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0240",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "この戦いを終わらせる。\nふたりで未来をつかみ取る。\nオレたちは、そう約束したんだ……。\n",
+      "translation": "이 싸움을 끝낸다. 둘이서 미래를\n움켜쥔다. 우리들은 그렇게 약속했다…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0241",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "……はげしい戦いの末、オレたちはエオニア\nを倒し、『黒き月』を破壊した。\n",
+      "translation": "……격렬한 전투 끝에, 우리는 에오니아를\n쓰러뜨리고 『흑색 달』을 파괴했다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0242",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "皇国に、再び平和が戻った。\nそして……。\n",
+      "translation": "황국에 다시 평화가 돌아왔다. 그리고…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0243",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "オレとヴァニラは、エルシオールに乗って、\n辺境調査の旅に出た。\n",
+      "translation": "나와 바닐라는 에르시올을 타고, 변방 조사\n여행을 떠났다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0244",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "たくさんの動物たちに囲まれ、ヴァニラは毎\n日とても楽しそうだ。\n",
+      "translation": "많은 동물들에게 둘러싸여, 바닐라는 매일\n매우 즐거워 보인다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0245",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "こんな時間が、ずっと続いてくれれば……。\nヴァニラを見守りながら、オレはそう願わず\nにはいられない。\n",
+      "translation": "이런 시간이, 계속 이어지기를…….\n바닐라를 지켜보며, 나는 그렇게 바라지\n않을 수 없다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00003000:dialogue:0246",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0"
+      },
+      "original": "ヴァニラ……。\nふたりの思い出を、これからたくさん作って\nいこう。\n",
+      "translation": "바닐라……. 두 사람의 추억을, 앞으로\n많이 만들어 가자.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

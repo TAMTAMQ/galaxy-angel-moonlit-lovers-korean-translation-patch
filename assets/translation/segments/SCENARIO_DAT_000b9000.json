@@ -1,0 +1,231 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_000b9000.txt",
+    "encoding": "cp932",
+    "sha256": "8c3bee73203f56c92f30f322d6019d153ed0a5aef46248e3ffa543ef0af3457c",
+    "dialogue_count": 17
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0070101,0",
+        "voice": "GB611200,3",
+        "speaker": "7,0070101"
+      },
+      "original": "タクト、作戦図をモニターに出すぞ。\n",
+      "translation": "택트, 작전도를 모니터에 띄우겠다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611201,3",
+        "speaker": "7,0070201"
+      },
+      "original": "現在の状況は、こうなっている。\n",
+      "translation": "현재 상황은 이렇다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611202,3",
+        "speaker": "7,0070201"
+      },
+      "original": "オレたちの乗る巡洋艦は、ここだ。\n",
+      "translation": "우리들이 타고 있는 순양함은 여기다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611203,3",
+        "speaker": "7,0070201"
+      },
+      "original": "紋章機は、この位置にいる。\n",
+      "translation": "문장기는 이 위치에 있다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611204,3",
+        "speaker": "7,0070201"
+      },
+      "original": "敵艦隊の配置は、こうだ。\n",
+      "translation": "적 함대의 배치는 이렇다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611205,3",
+        "speaker": "7,0070101"
+      },
+      "original": "以上だ。\nどうする、タクト？\n",
+      "translation": "이상이다. 어떻게 할 거지, 택트？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611205,3",
+        "speaker": "1,0010401"
+      },
+      "original": "状況は多勢に無勢だ。\nこちらの戦力を分散させるより、集中させた\nほうがいい。\n",
+      "translation": "상황은 수적 열세다. 이쪽의 전력을\n분산시키기보다 집중시키는 편이 좋아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611205,3",
+        "speaker": "1,0010101"
+      },
+      "original": "シャープシューターと合流して、共同で敵に\nあたろう。\n",
+      "translation": "샤프 슈터와 합류해서 공동으로 적을\n상대하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611206,3",
+        "speaker": "7,0070201"
+      },
+      "original": "こちらの艦では、紋章機の修理はできない。\n紋章機のダメージには注意が必要だぞ。\n",
+      "translation": "이쪽 함선에서는 문장기의 수리는\n불가능하다. 문장기의 데미지에는 주의가\n필요해.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611206,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ああ、わかってる。\n彼女にとって、これが初の実戦だ。\nオレたちでフォローしよう。\n",
+      "translation": "아아, 알고 있어. 그녀에게 있어서 이게 첫\n실전이다. 우리들이 서포트하자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB611206,3",
+        "speaker": "1,0010101"
+      },
+      "original": "以上だ。\nやっと皇国に戻ってきたんだ、あんな連中に\nじゃまされてたまるか。\n",
+      "translation": "이상이다. 겨우 황국에 돌아왔는데, 그런\n녀석들에게 방해받을 순 없지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0012",
+      "channel": 0,
+      "context": {
+        "voice": "GB611206,3",
+        "speaker": "999,0"
+      },
+      "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×３\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　タクト艦の破壊\n　タイムオーバー\n",
+      "translation": "～적 부대\n편성～구축함×５　　　　　　순양함×３～\n승리 조건～적 함대의 전멸～패배\n조건～택트 함의 파괴, 타임 오버\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "voice": "GB611207,3",
+        "speaker": "7,0070101",
+        "face": "0,0070101,0"
+      },
+      "original": "もう一度、作戦内容を確認するか？\n",
+      "translation": "다시 한번 작전 내용을 확인할까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GB611207,3",
+        "speaker": "1,0010401",
+        "face": "0,0070101,0"
+      },
+      "original": "そうだなぁ……。\n",
+      "translation": "글쎄...\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GB611207,3",
+        "speaker": "1,0010101",
+        "face": "0,0070101,0"
+      },
+      "original": "うん。\n念のため、もう一度確認しておこう。\n",
+      "translation": "응. 만약을 위해 다시 한번 확인해 두자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB611207,3",
+        "face": "0,0,0"
+      },
+      "original": "いや、その必要はない。\n烏丸少尉も、準備はいいね？\n",
+      "translation": "아니, 그럴 필요는 없다. 카라스마 소위도\n준비는 됐나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_000b9000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "voice": "GB611208,3",
+        "face": "0,0,0"
+      },
+      "original": "はい、マイヤーズ司令。\n",
+      "translation": "네, 마이어스 사령관.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

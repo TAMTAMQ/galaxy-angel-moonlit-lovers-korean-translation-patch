@@ -1,0 +1,139 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00021000.txt",
+    "encoding": "cp932",
+    "sha256": "015a050d347dca347ab35335570b8bd901ee267c95736010863e63e663909506",
+    "dialogue_count": 10
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301"
+      },
+      "original": "ちとせが言うように、途中で力つきたのかも\nしれない。\n",
+      "translation": "치토세가 말한 것처럼, 도중에 힘이\n다했을지도 몰라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "1070103,0,-1",
+        "voice": "GB130700,3"
+      },
+      "original": "はい、総合的に見て、その可能性がもっとも\n高いと思います。\n",
+      "translation": "네, 종합적으로 볼 때 그 가능성이 가장\n높다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "1070103,0,-1",
+        "voice": "GB130700,3"
+      },
+      "original": "恥ずかしがり屋さんで名前を言えなかったか。\nそういう可能性もなくはないよな。\n",
+      "translation": "부끄러움을 타서 이름을 말하지 못한 건가.\n그런 가능성도 없지는 않겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0,0020902,0",
+        "voice": "GB130701,3"
+      },
+      "original": "はい。\nだから、あたしたちからお返事してあげたら\nどうでしょう。\n",
+      "translation": "네. 그러니까, 저희가 답장을 해주는 건\n어떨까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0,0020102,0",
+        "voice": "GB130702,3"
+      },
+      "original": "きっとお友達になれると思います。\n",
+      "translation": "분명 친구가 될 수 있을 거예요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0020102,0",
+        "voice": "GB130702,3"
+      },
+      "original": "敵のニセ情報か……。\nフォルテの意見にも一理あるな。\n",
+      "translation": "적의 거짓 정보인가……. 포르테의\n의견에도 일리가 있군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "1070207,0,0050801",
+        "voice": "GB130703,3"
+      },
+      "original": "だろう？\n戦争ってのはお互いにえげつない手を使って\nくるものだからね。\n",
+      "translation": "그렇지？ 전쟁이라는 건 서로 비열한\n수단을 써오는 법이니까 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "1070207,0,0050801",
+        "voice": "GB130703,3"
+      },
+      "original": "だけど、敵のしわざにしてはやり方がまどろっ\nこしすぎるような気がするな。\n",
+      "translation": "하지만 적의 짓이라고 하기에는 방식이\n너무 지루하다는 느낌이 드는군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "5,0050101",
+        "face": "1070207,0,0050204",
+        "voice": "GB130704,3"
+      },
+      "original": "まあ、たしかにそれは言えてるね。\n",
+      "translation": "뭐, 확실히 그건 그렇네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00021000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "1070207,0,0050204",
+        "voice": "GB130704,3"
+      },
+      "original": "一応、他の可能性も考えておくべきだろう。\n",
+      "translation": "일단 다른 가능성도 생각해 두어야겠어.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "moonlit-lovers-remaining-manual-exclusions/v1",
+  "entries": [
+    {
+      "id": "remaining:04064",
+      "original": "戦船\n",
+      "reason": "internal_stage_header_type"
+    }
+  ],
+  "rules": [
+    {
+      "section": "HEADER",
+      "original_regex": "^(?:GA15|GA1\\.5):",
+      "reason": "internal_header_identifier"
+    },
+    {
+      "section": "HEADER",
+      "original_regex": "^(?:ミル(?:フィーユ)?|ランファ|ミント|フォルテ|ヴァニラ|ちとせ|共通)[０-９0-9]+[－-][０-９0-9]+",
+      "reason": "internal_stage_header_name"
+    },
+    {
+      "section": "STAGE",
+      "original_regex": "^GA1\\.5:ステージ",
+      "reason": "internal_stage_description"
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00042800.txt",
+    "encoding": "cp932",
+    "sha256": "c62f7cc9aa9f1972a04c74f6c2ed5359e80be95e2e419998e589995bb02eab4b",
+    "dialogue_count": 41
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401"
+      },
+      "original": "ちとせが言うように、途中で力つきたのかも\nしれない。\n",
+      "translation": "치토세가 말한 것처럼, 도중에 힘이\n다했을지도 몰라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "speaker": "107,1070101",
+        "face": "0,1070103,0",
+        "voice": "GB230700,3"
+      },
+      "original": "はい、総合的に見て、その可能性がもっとも\n高いと思います。\n",
+      "translation": "네, 종합적으로 볼 때 그 가능성이 가장\n높다고 생각합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0,1070103,0",
+        "voice": "GB230700,3"
+      },
+      "original": "恥ずかしがり屋で名前を言えなかった……か。\nそういう可能性も、なくはないな。\n",
+      "translation": "부끄러움을 타서 이름을 말하지\n못했다……라. 그런 가능성도 없지는 않군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020902,0,-1",
+        "voice": "GB230701,3"
+      },
+      "original": "タクトさんも、やっぱりそう思いますか？\n",
+      "translation": "택트 씨도 역시 그렇게 생각하시나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "speaker": "2,0020101",
+        "face": "0020902,0,-1",
+        "voice": "GB230702,3"
+      },
+      "original": "だったら今度は、あたしたちからお返事して\nあげるっていうのはどうでしょう？\nきっとお友達になれると思います。\n",
+      "translation": "그렇다면 이번에는 저희가 답장을 해주는\n건 어떨까요？ 분명 친구가 될 수 있을\n거예요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "0020902,0,-1",
+        "voice": "GB230702,3"
+      },
+      "original": "なるほど、それも面白いかもな。\n",
+      "translation": "과연, 그것도 재미있을지도 모르겠군.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0020902,0,-1",
+        "voice": "GB230702,3"
+      },
+      "original": "やっぱり、ただのイタズラかなぁ……。\n",
+      "translation": "역시 그냥 장난이었던 걸까…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3"
+      },
+      "original": "そうに決まってるわ。\nタクトの考えすぎよ。\n",
+      "translation": "그럼에 틀림없어. 택트 네가 너무 깊게\n생각하는 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3"
+      },
+      "original": "うーん、ランファにそう断言されると、そん\nな気もしてきた。\n",
+      "translation": "으음, 란파가 그렇게 단언하니 그런 기분도\n드네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3"
+      },
+      "original": "でも……なんか気になるんだよなぁ。\n",
+      "translation": "하지만…… 왠지 신경 쓰인단 말이지.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3",
+        "speaker": "1,0010401"
+      },
+      "original": "七色の虹をまとい、光の中に立つ天使。\n",
+      "translation": "일곱 빛깔 무지개를 두르고, 빛 속에 서\n있는 천사.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3"
+      },
+      "original": "凍えた身体を、ぼくが熱く抱きしめたい。\n",
+      "translation": "얼어붙은 몸을, 내가 뜨겁게 안아주고\n싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "-1,0,0030102",
+        "voice": "GB230703,3"
+      },
+      "original": "……だったっけかな？\nうーん、ちょっと違うような気がするな。\n",
+      "translation": "……였던가？ 음, 조금 다른 것 같은\n기분이 드네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0030102",
+        "voice": "GB230800,3",
+        "speaker": "3,0030105"
+      },
+      "original": "いいのよ。\nタクトの気持ちは十分伝わったから。\n",
+      "translation": "괜찮아. 택트의 마음은 충분히\n전달됐으니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GB230800,3",
+        "speaker": "1,0010101",
+        "face": "-1,0,0030102"
+      },
+      "original": "……なんて感じで、どう？\n",
+      "translation": "……라는 느낌으로, 어때？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "face": "-1,0,0030102",
+        "voice": "GB230801,3"
+      },
+      "original": "ありがとう。\nうれしいわ、タクト。\n",
+      "translation": "고마워. 기뻐, 택트.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "face": "-1,0,0030102",
+        "voice": "GB230802,3"
+      },
+      "original": "前からずっと、こういうデートがしてみたかっ\nたの。\n",
+      "translation": "전부터 계속, 이런 데이트를 해보고\n싶었어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "-1,0,0030102",
+        "voice": "GB230803,3",
+        "speaker": "3,0030205"
+      },
+      "original": "キラキラした光の中で、タクトとふたりっき\nり……。\nまるで夢みたいにステキだわ。\n",
+      "translation": "반짝이는 빛 속에서, 택트와 둘이서만…….\n마치 꿈처럼 멋져.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB230803,3"
+      },
+      "original": "夢じゃないよ。\nオレたちがいるのは現実さ。\n",
+      "translation": "꿈이 아니야. 우리가 있는 곳은 현실이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB230803,3"
+      },
+      "original": "そして、これからもずっと……。\n",
+      "translation": "그리고, 앞으로도 계속…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "voice": "GB230804,3"
+      },
+      "original": "うん、ダーリン……。\n",
+      "translation": "응, 달링…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB230804,3"
+      },
+      "original": "虹色の雫をまとい、水面に立つ天使。\n",
+      "translation": "무지갯빛 물방울을 두르고, 수면 위에 서\n있는 천사.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GB230804,3"
+      },
+      "original": "その凍えた身体を、ぼくの心で溶かしたい。\n",
+      "translation": "그 얼어붙은 몸을, 나의 마음으로 녹이고\n싶다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "voice": "GB230804,3"
+      },
+      "original": "……いやぁ、やっぱり照れるなぁ。\n",
+      "translation": "……아니, 역시 부끄럽네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030205",
+        "voice": "GB230805,3"
+      },
+      "original": "タクト……。\nアタシのダーリン。\n",
+      "translation": "택트……. 나의 달링.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "voice": "GB230806,3"
+      },
+      "original": "……大好きよ！\n",
+      "translation": "……정말 좋아해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010103",
+        "voice": "GB230806,3"
+      },
+      "original": "わっ、そんなにはしゃいだら危ないよ！\n",
+      "translation": "왓, 그렇게 들떠 있으면 위험해！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "voice": "GB230807,3",
+        "speaker": "3,0030205"
+      },
+      "original": "平気よ。\nだって転びそうになっても、タクトが抱きと\nめてくれるでしょ？\n",
+      "translation": "괜찮아. 왜냐하면 넘어질 것 같아도,\n택트가 안아줄 거잖아？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010104",
+        "voice": "GB230807,3"
+      },
+      "original": "ははは、そう言われたら、ノーとは言えない\nなぁ。\n",
+      "translation": "하하하, 그렇게 말하면, 아니라고는 못\n하겠네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GB230808,3",
+        "speaker": "3,0030205"
+      },
+      "original": "ねぇ、タクトもこっちに来て。\n",
+      "translation": "있지, 택트도 이쪽으로 와.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "voice": "GB230808,3",
+        "speaker": "1,0010102"
+      },
+      "original": "でも、噴水でぬれちゃうよ。\n",
+      "translation": "하지만, 분수 때문에 젖어버릴 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "voice": "GB230809,3",
+        "speaker": "3,0030102"
+      },
+      "original": "もう、それくらいいいじゃない。\n",
+      "translation": "정말, 그 정도는 괜찮잖아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "voice": "GB230810,3",
+        "speaker": "3,0030804"
+      },
+      "original": "服がぬれても、アタシが温めてあげるから。\n",
+      "translation": "옷이 젖어도, 내가 따뜻하게 해줄 테니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0034",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030105",
+        "voice": "GB230811,3"
+      },
+      "original": "ねっ、タクト……。\n",
+      "translation": "그치, 택트…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0035",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "voice": "GB230811,3"
+      },
+      "original": "七味唐辛子をふりかけて、熱いハートが火を\n噴くぞ。\n",
+      "translation": "시치미 토가라시를 뿌려서, 뜨거운 하트가\n불을 뿜는다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0036",
+      "channel": 1,
+      "context": {
+        "voice": "GB230811,3",
+        "speaker": "1,0010302"
+      },
+      "original": "うなれアッパー、ほえろ鉄拳。\n決めろ必殺、流星キック！\n",
+      "translation": "우나레 어퍼, 날아라 철권. 결정해라 필살,\n유성 킥！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0037",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030802",
+        "voice": "GB230812,3"
+      },
+      "original": "……なにそれ……。\n",
+      "translation": "……뭐야 그게…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0038",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB230812,3"
+      },
+      "original": "いや、その……あ、あははは。\nこういう場には、あまり似つかわしくなかっ\nたかなぁ？\n",
+      "translation": "아니, 그…… 아, 아하하하. 이런\n자리에는, 별로 어울리지 않았으려나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0039",
+      "channel": 1,
+      "context": {
+        "voice": "GB230813,3",
+        "speaker": "3,0030202"
+      },
+      "original": "もう、タクトったら、ムードないんだから！\n",
+      "translation": "정말, 택트도 참, 분위기 없다니까！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0040",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "voice": "GB230813,3"
+      },
+      "original": "ご、ごめん。\n",
+      "translation": "미, 미안.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042800:dialogue:0041",
+      "channel": 1,
+      "context": {
+        "voice": "GB230814,3",
+        "speaker": "3,0030804"
+      },
+      "original": "……でも、そんなところもアタシは好きよ。\n",
+      "translation": "……하지만, 그런 점도 난 좋아해.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

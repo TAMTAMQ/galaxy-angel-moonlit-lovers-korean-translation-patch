@@ -1,0 +1,373 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00120800.txt",
+    "encoding": "cp932",
+    "sha256": "f771e24e8eb61fb540ede0e8b4e2b8aae1172cf344e1389f43c06e5b0f52da11",
+    "dialogue_count": 28
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "voice": "GB990000,3",
+        "speaker": "7,0070101"
+      },
+      "original": "アルモ、周囲の状況をモニターへ。\n",
+      "translation": "아르모, 주변 상황을 모니터로.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "voice": "GB990001,3",
+        "speaker": "17,0170101"
+      },
+      "original": "了解。\n",
+      "translation": "알았다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "voice": "GB990001,3",
+        "speaker": "1,0010101",
+        "face": "0,0,0"
+      },
+      "original": "さて、クロミエに会っていこうかな……？\n管理室にいるはずだ。\n",
+      "translation": "자, 크로미에를 만나러 가볼까……？\n관리실에 있을 거야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GAX01001,3",
+        "speaker": "8,0080101",
+        "face": "0,0080102,0"
+      },
+      "original": "あ、タクトさん。\nいらっしゃいませ。\n",
+      "translation": "아, 택트 씨. 어서 오세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GAX01002,3",
+        "speaker": "8,0080101",
+        "face": "0,0080101,0"
+      },
+      "original": "今日はどんなご用ですか？\n宇宙クジラに、エンジェル隊のみなさんの気\n持ちを聞いてみましょうか？\n",
+      "translation": "오늘은 어떤 용건이신가요？ 우주\n고래에게, 엔젤대 여러분의 마음을\n물어볼까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GAX01003,3",
+        "speaker": "8,0080101",
+        "face": "0,0080101,0"
+      },
+      "original": "ところで、タクトさん。\n宇宙クジラに、エンジェル隊のみなさんの気\n持ちを聞いてみますか？\n",
+      "translation": "그나저나, 택트 씨. 우주 고래에게 엔젤대\n여러분의 마음을 물어보시겠어요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GAX01003,3",
+        "speaker": "1,0010401",
+        "face": "0,0080101,0"
+      },
+      "original": "そうだなぁ……。\n",
+      "translation": "글쎄…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GAX01003,3",
+        "speaker": "1,0010105"
+      },
+      "original": "ところで……宇宙クジラにみんなの気持ちを\n聞くって、なんのことだっけ？\nひさしぶりだから、忘れちゃって。\n",
+      "translation": "그건 그렇고…… 우주 고래에게 모두의\n마음을 묻는다는 건, 무슨 말이었더라？\n오랜만이라 잊어버려서.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GB990100,3",
+        "speaker": "8,0080101"
+      },
+      "original": "今から、宇宙クジラの言うことを僕が翻訳し\nて、エンジェル隊のみなさんがどのようなお\n気持ちでいるかをお見せします。\n",
+      "translation": "지금부터 제가 우주 고래가 하는 말을\n번역해서, 엔젤대 여러분이 어떤 마음을\n가지고 있는지 보여드릴게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GB990101,3",
+        "speaker": "8,0080101"
+      },
+      "original": "それぞれの表情は、タクトさんのことをどれ\nだけ信頼しているかを表します……表情が明\nるいほど、信頼していることになります。\n",
+      "translation": "각자의 표정은 택트 씨를 얼마나 신뢰하고\n있는지를 나타냅니다…… 표정이 밝을수록,\n신뢰하고 있다는 뜻이 됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0080102,0",
+        "voice": "GB990102,3",
+        "speaker": "8,0080101"
+      },
+      "original": "タクトさんを信頼していれば、それだけ戦闘\nにも集中できて、紋章機の性能を引き出しや\nすくなります。\n",
+      "translation": "택트 씨를 신뢰하고 있다면, 그만큼\n전투에도 집중할 수 있어 문장기의 성능을\n끌어내기 쉬워집니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "face": "0,0080102,0",
+        "speaker": "8,0080101",
+        "voice": "GB990103,3"
+      },
+      "original": "紋章機の攻撃力や防御力などが上がるので、\n信頼されるに越したことはないですね。\n",
+      "translation": "문장기의 공격력이나 방어력 등이\n올라가므로, 신뢰받는 것이 가장 좋겠네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "speaker": "8,0080101",
+        "face": "0,0080101,0",
+        "voice": "GB990104,3"
+      },
+      "original": "また、棒グラフは、上官と部下としての信頼\n関係とは別に、個人としてどれだけ好意を寄\nせているかを表します。\n",
+      "translation": "또한, 막대그래프는 상관과 부하로서의\n신뢰 관계와는 별개로, 개인으로서 얼마나\n호감을 가지고 있는지를 나타냅니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "8,0080101",
+        "face": "0,0080101,0",
+        "voice": "GB990105,3"
+      },
+      "original": "グラフが右に行けば行くほど、タクトさんは\nその人から好かれているということになりま\nす。\n",
+      "translation": "그래프가 오른쪽으로 가면 갈수록, 택트\n씨가 그 사람에게 사랑받고 있다는 뜻이\n됩니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "8,0080101",
+        "face": "0,0080101,0",
+        "voice": "GB990106,3"
+      },
+      "original": "みなさんに対して、どう接するかによって、\n表情やグラフは変化していきます。\nときどきチェックされることをお勧めします。\n",
+      "translation": "여러분에 대해 어떻게 대하느냐에 따라\n표정이나 그래프는 변화해 갑니다. 가끔\n확인해 보시는 것을 추천합니다.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "8,0080101",
+        "face": "0,0080102,0",
+        "voice": "GB990107,3"
+      },
+      "original": "……あ、宇宙クジラが答えてくれました。\nそれでは、みなさんのお気持ちをお見せしま\nすね。\n",
+      "translation": "……아, 우주쿠지라가 답해주었습니다.\n그럼, 여러분의 마음을 보여드릴게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GB990107,3",
+        "speaker": "1,0010101"
+      },
+      "original": "お願いするよ。\n宇宙クジラに聞いてみてくれないか？\n",
+      "translation": "부탁하네. 우주쿠지라에게 물어봐 주지\n않겠나？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "speaker": "8,0080101",
+        "voice": "GAX01004,3",
+        "face": "0,0080102,0"
+      },
+      "original": "わかりました。\nでは、少々お待ちください。\n",
+      "translation": "알겠습니다. 그럼, 잠시만 기다려 주세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0,0080102,0",
+        "voice": "GAX01005,3",
+        "speaker": "8,0080101"
+      },
+      "original": "……という感じみたいです。\nもう一度、ご覧になりますか？\n",
+      "translation": "……라는 느낌인 것 같습니다. 다시 한번\n보시겠습니까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010101",
+        "voice": "GAX01005,3",
+        "face": "0,0080102,0"
+      },
+      "original": "悪いけど、もう一度見せてくれないか。\n",
+      "translation": "미안하지만, 다시 한번 보여주지 않겠나.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "face": "0,0080102,0",
+        "voice": "GAX01005,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ありがとう、もう大丈夫だよ。\n",
+      "translation": "고마워, 이제 괜찮아.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GAX01005,3",
+        "speaker": "1,0010101"
+      },
+      "original": "いや、今回は遠慮しておくよ。\n",
+      "translation": "아니, 이번에는 사양할게.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "speaker": "8,0080101",
+        "voice": "GAX01006,3"
+      },
+      "original": "そうですか。\nまたご覧になりたくなったら、いつでもどう\nぞ。\n",
+      "translation": "그렇습니까. 다시 보고 싶어지면 언제든\n오세요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "speaker": "1,0010401",
+        "voice": "GAX01006,3"
+      },
+      "original": "ふぅ……なんだか疲れた。\n大した時間も取れないけど、少し休もうかな？\n",
+      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼\n수는 없지만, 조금 쉴까？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GAX01006,3",
+        "speaker": "1,0010101"
+      },
+      "original": "いや、まだ大丈夫だ。\nそれに、ここじゃヒマつぶしもできないしな。\nまた艦内を回ってみよう。\n",
+      "translation": "아니, 아직 괜찮아. 게다가 여기선 시간\n때우기도 안 되고 말이야. 다시 함내를\n돌아다녀 보자.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "voice": "GAX01006,3",
+        "speaker": "1,0010101"
+      },
+      "original": "疲れを取るには、横になるのが一番だ。\nちょっと休もう……。\n",
+      "translation": "피로를 풀려면 눕는 게 제일이지. 잠깐\n쉬자…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "speaker": "1,0010102",
+        "voice": "GAX01006,3"
+      },
+      "original": "ふぁ～あ、よく寝た。\n……と思ったけど、まだこんな時間か。\n",
+      "translation": "후아～ 잘 잤다. ……라고 생각했는데,\n아직 이런 시간인가.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00120800:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "face": "0,0080101,0",
+        "speaker": "1,0010101",
+        "voice": "GAX01006,3"
+      },
+      "original": "疲れも取れたことだし、また艦の中を歩き回っ\nてみるか。\n",
+      "translation": "피로도 풀렸으니, 다시 함내를 돌아다녀\n볼까.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

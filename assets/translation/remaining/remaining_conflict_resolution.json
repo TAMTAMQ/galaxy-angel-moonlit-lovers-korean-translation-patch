@@ -1,0 +1,601 @@
+{
+  "schema": "moonlit-lovers-remaining-conflict-resolution/v1",
+  "local_ai_used": false,
+  "resolved": 83,
+  "unresolved": [
+    {
+      "id": "remaining:04313",
+      "original": "そうだなぁ……。\n",
+      "occurrences": 35,
+      "translations": {
+        "galaxy_angel": [
+          "글쎄...\n",
+          "글쎄……\n"
+        ]
+      }
+    }
+  ],
+  "entries": [
+    {
+      "id": "remaining:00016",
+      "original": "目標、撃破しました！\n",
+      "translation": "목표, 격파했습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00027",
+      "original": "やりました、敵に直撃です！\n",
+      "translation": "해냈습니다, 적에게 직격입니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00035",
+      "original": "目標に命中しました！\n",
+      "translation": "목표에 명중했습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00054",
+      "original": "こちらの攻撃、回避されました！\n",
+      "translation": "이쪽의 공격, 회피되었습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00055",
+      "original": "目標、攻撃を回避！\n",
+      "translation": "목표, 공격을 회피！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00062",
+      "original": "うわあっ！\n",
+      "translation": "우와앗！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00064",
+      "original": "きゃああっ！\n",
+      "translation": "꺄아악！\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00075",
+      "original": "敵の攻撃を受けました！\n",
+      "translation": "적의 공격을 받았습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00081",
+      "original": "よし、敵の攻撃をかわしたぞ！\n",
+      "translation": "좋아, 적의 공격을 피했다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00084",
+      "original": "回避に成功しました！\n",
+      "translation": "회피에 성공했습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00167",
+      "original": "船体に損傷発生！\n",
+      "translation": "선체에 손상 발생！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00227",
+      "original": "はい、タクトさん！\n",
+      "translation": "네, 택트 씨！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00342",
+      "original": "ハイパーキャノン、発射！\n",
+      "translation": "하이퍼 캐논, 발사！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00344",
+      "original": "す！\n",
+      "translation": "다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00399",
+      "original": "やった、敵を倒せました！\n",
+      "translation": "됐다, 적을 쓰러뜨렸어요！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00495",
+      "original": "了解です、タクトさん！\n",
+      "translation": "알겠습니다, 택트 씨！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00553",
+      "original": "やった、命中です！\n",
+      "translation": "됐다, 명중입니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00650",
+      "original": "了解でーす。\n",
+      "translation": "알겠습니다～\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00772",
+      "original": "了解！\n",
+      "translation": "라져！\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00774",
+      "original": "わかったわ、タクト！\n",
+      "translation": "알았어, 택트！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00799",
+      "original": "やった、大当たり！\n",
+      "translation": "됐다, 대성공이야！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00834",
+      "original": "そんな攻撃、当たるもんですか！\n",
+      "translation": "그런 공격이 맞을 리가 있겠어！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00927",
+      "original": "オッケー、任せといて！\n",
+      "translation": "오케이, 맡겨줘！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:00971",
+      "original": "回避成功！\n",
+      "translation": "회피 성공！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01018",
+      "original": "了解。\n",
+      "translation": "알았다.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01032",
+      "original": "２番機、攻撃を始めるわ。\n",
+      "translation": "２번기, 공격을 시작하겠어.\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01114",
+      "original": "目標、撃破！\n",
+      "translation": "목표, 격파！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01119",
+      "original": "タクト、敵に命中できたわ！\n",
+      "translation": "택트, 적에게 명중했어！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01189",
+      "original": "よーし、直撃したわ！\n",
+      "translation": "좋아, 직격했어！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01190",
+      "original": "ウソ、攻撃が外れた！？\n",
+      "translation": "거짓말, 공격이 빗나갔어！？\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01216",
+      "original": "カンフーファイター、攻撃開始！\n",
+      "translation": "쿵푸 파이터, 공격 개시！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01272",
+      "original": "あ、今の攻撃は効いたみたい！\n",
+      "translation": "아, 방금 공격은 효과가 있었나 봐！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01273",
+      "original": "ウソ、よけた！？\n",
+      "translation": "거짓말, 피했어！？\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01408",
+      "original": "３番機、敵を撃墜しましたわ。\n",
+      "translation": "３번기, 적을 격추했습니다.\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01413",
+      "original": "３番機、攻撃を開始いたします。\n",
+      "translation": "３번기, 공격을 개시하겠습니다.\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01447",
+      "original": "きゃあ～っ！\n",
+      "translation": "꺄아～앗！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01584",
+      "original": "くうっ……！\n",
+      "translation": "크윽……！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01625",
+      "original": "きゃあ～っ！！\n",
+      "translation": "꺄앗～！！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01637",
+      "original": "３番機、了解ですわ……。\n",
+      "translation": "３번기, 알겠습니다...\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01640",
+      "original": "タクトさん？\n",
+      "translation": "택트 씨？\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01666",
+      "original": "ホッ……。\n",
+      "translation": "휴…….\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01706",
+      "original": "了解しました。\n",
+      "translation": "알겠습니다.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01970",
+      "original": "あいよ、了解。\n",
+      "translation": "그래, 알았어.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:01980",
+      "original": "４番機、敵を撃破した。\n",
+      "translation": "４번기, 적을 격파했다.\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02124",
+      "original": "よっしゃ、任せときな！\n",
+      "translation": "좋아, 나한테 맡겨둬！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02488",
+      "original": "うわああっ！\n",
+      "translation": "우와아앗！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02526",
+      "original": "……了解しました。\n",
+      "translation": "……알겠습니다.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02531",
+      "original": "……５番機、待機中です……。\n",
+      "translation": "……５번기, 대기 중입니다…….\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02535",
+      "original": "……５番機、目標を撃破……。\n",
+      "translation": "……５번기, 목표를 격파…….\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02569",
+      "original": "……５番機、機体損傷……。\n",
+      "translation": "……５번기, 기체 손상…….\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02598",
+      "original": "５番機、エネルギー半減……。\n",
+      "translation": "５번기, 에너지 반감…….\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02614",
+      "original": "５番機、反撃を開始します……。\n",
+      "translation": "５번기, 반격을 개시합니다…….\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02678",
+      "original": "あ……。\n",
+      "translation": "아…….\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02700",
+      "original": "５番機、敵に反撃を開始します。\n",
+      "translation": "５번기, 적에게 반격을 시작합니다.\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02711",
+      "original": "タクトさん……。\n",
+      "translation": "택트 씨…….\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02718",
+      "original": "……はい……。\n",
+      "translation": "……네…….\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02914",
+      "original": "はい、お任せください。\n",
+      "translation": "네, 맡겨 주십시오.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:02921",
+      "original": "ですが……。\n",
+      "translation": "요…….\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03158",
+      "original": "……え……？\n",
+      "translation": "……에……？\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03454",
+      "original": "総員、脱出せよ！\n",
+      "translation": "총원, 탈출하라！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03464",
+      "original": "友軍艦、撤退していきます！\n",
+      "translation": "아군함, 철수합니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03606",
+      "original": "新手の敵が現れました！\n",
+      "translation": "새로운 적이 나타났습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03607",
+      "original": "敵艦、撤退していきます！\n",
+      "translation": "적함, 철수하고 있습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03610",
+      "original": "敵が後退していきます！\n",
+      "translation": "적이 후퇴하고 있습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03671",
+      "original": "ヴァニラ・Ｈ\n",
+      "translation": "바닐라・Ｈ\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03763",
+      "original": "ああ、わかってる。\n",
+      "translation": "아아, 알고 있어.\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03770",
+      "original": "マイヤーズ司令、大変です！\n",
+      "translation": "마이어스 사령관님, 큰일입니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03771",
+      "original": "新手の敵が多数、接近して来ます！\n",
+      "translation": "새로운 종류의 적이 다수, 접근해 옵니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03774",
+      "original": "増援を呼ばれたか！\n",
+      "translation": "증원을 부른 건가！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03776",
+      "original": "すっかり囲まれてるぞ！\n",
+      "translation": "완전히 포위됐어！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03779",
+      "original": "機関部に深刻なダメージ！\n",
+      "translation": "기관부에 심각한 데미지！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03780",
+      "original": "全システム、制御不能です！\n",
+      "translation": "전 시스템, 제어 불능입니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03782",
+      "original": "もう間に合いません！\n",
+      "translation": "이미 늦었습니다！\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:03827",
+      "original": "何だって！？\n",
+      "translation": "뭐라고！？\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04149",
+      "original": "紋章機００１\n",
+      "translation": "문장기 ００１\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04151",
+      "original": "紋章機００２\n",
+      "translation": "문장기 ００２\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04153",
+      "original": "紋章機００３\n",
+      "translation": "문장기 ００３\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04155",
+      "original": "紋章機００４\n",
+      "translation": "문장기 ００４\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04157",
+      "original": "紋章機００５\n",
+      "translation": "문장기 ００５\n",
+      "state": "punctuation_width_consensus",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04248",
+      "original": "【Ａブロック】\n",
+      "translation": "【Ａ블록】\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04251",
+      "original": "【Ｂブロック】\n",
+      "translation": "【Ｂ블록】\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04253",
+      "original": "【Ｃブロック】\n",
+      "translation": "【Ｃ블록】\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    },
+    {
+      "id": "remaining:04255",
+      "original": "【Ｄブロック】\n",
+      "translation": "【Ｄ블록】\n",
+      "state": "manual_context_review",
+      "use_translation": true
+    }
+  ]
+}

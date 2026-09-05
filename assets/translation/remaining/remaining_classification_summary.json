@@ -1,0 +1,13 @@
+{
+  "schema": "moonlit-lovers-remaining-classification/v1",
+  "total_candidates": 4826,
+  "counts": {
+    "resource_path": 50,
+    "font_name": 1,
+    "translate": 4775
+  },
+  "rules": {
+    "resource_path": "원문이 dat\\\\ 또는 Dat\\\\ 로 시작",
+    "font_name": "큰따옴표로 감싼 20자 이하, 문장부호 없음"
+  }
+}

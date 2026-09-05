@@ -1,0 +1,294 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00020800.txt",
+    "encoding": "cp932",
+    "sha256": "805901f7ed37b6bf7d91aaa4c9b16825d372d3c3a961b0a6c58522c7cd49ffc6",
+    "dialogue_count": 22
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "voice": "GB130600,3",
+        "speaker": "2,0020102"
+      },
+      "original": "ごちそうさまでしたー。\n",
+      "translation": "잘 먹었습니다～.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "voice": "GB130601,3",
+        "speaker": "24,0240101"
+      },
+      "original": "はいよ、おそまつさま。\n",
+      "translation": "그래, 잘 먹어라.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "voice": "GB130601,3",
+        "speaker": "1,0010101"
+      },
+      "original": "やあ、ミルフィー。\n",
+      "translation": "안녕, 밀피.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "voice": "GB130602,3",
+        "speaker": "2,0020101",
+        "face": "0,0020905,0"
+      },
+      "original": "あ、タクトさん。\nタクトさんもお食事ですか？\n",
+      "translation": "아, 택트 씨. 택트 씨도 식사 중이신가요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "voice": "GB130602,3",
+        "speaker": "1,0010101",
+        "face": "0,0020905,0"
+      },
+      "original": "いや、ちょっと散歩してるところ。\n",
+      "translation": "아니, 잠깐 산책하는 중이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "voice": "GB130603,3",
+        "speaker": "2,0020101",
+        "face": "0,0020102,0"
+      },
+      "original": "お散歩ですか。\n楽しそうだなぁ。\n",
+      "translation": "산책인가요. 즐거워 보이네요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "voice": "GB130604,3",
+        "speaker": "2,0020101",
+        "face": "0,0020902,0"
+      },
+      "original": "ねえ、タクトさん。\nあたしも、おつきあいしていいですか？\n",
+      "translation": "저기, 택트 씨. 저도 같이 가도 될까요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "voice": "GB130604,3",
+        "speaker": "1,0010201",
+        "face": "0,0020902,0"
+      },
+      "original": "もちろん、大歓迎さ。\n",
+      "translation": "물론이지, 대환영이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "voice": "GB130605,3",
+        "speaker": "2,0020101",
+        "face": "0,0020902,0"
+      },
+      "original": "それじゃあ、後でクジラルームに行きません\nか？\n",
+      "translation": "그럼, 나중에 쿠지라 룸에 가지 않을래요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "voice": "GB130605,3",
+        "speaker": "1,0010102",
+        "face": "0,0020902,0"
+      },
+      "original": "クジラルーム？\nいいけど、どうしてだい？\n",
+      "translation": "쿠지라 룸？ 좋긴 한데, 왜 그러지？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "voice": "GB130606,3",
+        "speaker": "2,0020101",
+        "face": "0,0020902,0"
+      },
+      "original": "あそこには、浜辺があるじゃないですか。\nそこで、タクトさんと、したいことがあるん\nです。\n",
+      "translation": "저기에는, 해변이 있잖아요. 거기서, 택트\n씨와 하고 싶은 게 있어요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "voice": "GB130606,3",
+        "speaker": "1,0010102",
+        "face": "0,0020902,0"
+      },
+      "original": "したいことって……。\n",
+      "translation": "하고 싶은 거라니…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "voice": "GB130606,3",
+        "speaker": "1,0010102",
+        "face": "0,0,0"
+      },
+      "original": "（浜辺で、ふたりきり……。\n　もしかして、これってデートのお誘い？）\n",
+      "translation": "（해변에서, 둘이서만……. 혹시 이거\n　데이트 신청이야？）\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "voice": "GB130606,3",
+        "speaker": "1,0010104",
+        "face": "0,0,0"
+      },
+      "original": "（だとすると、「したいこと」というのは、\n　ひょっとして……）\n",
+      "translation": "（그렇다면, 「하고 싶은 것」이라는 건,\n　설마……）\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "voice": "GB130607,3",
+        "speaker": "2,0020101",
+        "face": "0,0020902,0"
+      },
+      "original": "あたし、今はちょっと用事があるんですけど、\nそれが済んだら、お迎えに行きますね。\n",
+      "translation": "저기, 지금은 좀 볼일이 있습니다만, 그게\n끝나면 데리러 갈게요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010403",
+        "face": "0,0020902,0",
+        "voice": "GB130607,3"
+      },
+      "original": "（い……いかんいかん。\n　さっき、みんながキスのことを聞いたりす\n　るから、つい意識しちゃうじゃないか）\n",
+      "translation": "（안…… 안 돼, 안 돼. 아까 다들 키스에\n　대해 묻거나 하니까, 나도 모르게\n　의식하게 되잖아）\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010301",
+        "face": "0,0020902,0",
+        "voice": "GB130607,3"
+      },
+      "original": "（……でも、もしかしたら、ついにミルフィー\n　と……）\n",
+      "translation": "（……하지만, 어쩌면 드디어 밀피와……）\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "0,0020901,0",
+        "voice": "GB130608,3",
+        "speaker": "2,0020101"
+      },
+      "original": "あのう、顔が赤いですけど、どうかしたんで\nすか？\n",
+      "translation": "저기, 얼굴이 붉은데, 무슨 일 있나요？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "face": "0,0020901,0",
+        "voice": "GB130608,3",
+        "speaker": "1,0010104"
+      },
+      "original": "な、なんでもないよ。\n",
+      "translation": "아, 아무것도 아니야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "voice": "GB130608,3",
+        "speaker": "1,0010201",
+        "face": "0,0020901,0"
+      },
+      "original": "よし、それじゃ散歩に行こう！\n気合いを入れて行くぞ、おー！\n",
+      "translation": "좋아, 그럼 산책하러 가자！ 기합을 넣고\n가는 거야, 오ー！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "voice": "GB130609,3",
+        "speaker": "2,0020101",
+        "face": "0,0020101,0"
+      },
+      "original": "うふふっ、おかしなタクトさん。\nお散歩は、のんびりするものですよ。\n",
+      "translation": "우후훗, 이상한 택트 씨. 산책은 느긋하게\n하는 법이에요.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00020800:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "voice": "GB130609,3",
+        "face": "0,0020101,0"
+      },
+      "original": "そ、そうだね。\nははは……。\n",
+      "translation": "그, 그렇네. 하하하…….\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}

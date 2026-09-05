@@ -1,0 +1,440 @@
+{
+  "schema": "galaxy-angel-translation-segment/v1",
+  "source": {
+    "path": "SCENARIO_DAT_00042000.txt",
+    "encoding": "cp932",
+    "sha256": "066135d7e0e2eda784df38c707f7fab11b0095ca65e92aab57ab74eb7f598f1f",
+    "dialogue_count": 33
+  },
+  "units": [
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0001",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB230600,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ふんふんふーん。\nらんららんららーん。\n",
+      "translation": "흠흠흠～ 란라란라라～ㄴ.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0002",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB230600,3",
+        "speaker": "1,0010101"
+      },
+      "original": "ランファ、遊びに来たよ。\n",
+      "translation": "란파, 놀러 왔어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0003",
+      "channel": 1,
+      "context": {
+        "face": "0,0030804,0",
+        "voice": "GB230601,3",
+        "speaker": "3,0030101"
+      },
+      "original": "あ、タクト。\nやっほー。\n",
+      "translation": "아, 택트. 안녕.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0004",
+      "channel": 1,
+      "context": {
+        "face": "0,0030804,0",
+        "voice": "GB230601,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ずいぶん機嫌がいいね。\nどうしたんだい？\n",
+      "translation": "꽤 기분이 좋아 보이네. 무슨 일이야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0005",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB230602,3",
+        "speaker": "3,0030101"
+      },
+      "original": "占いによると、今日のアタシは恋愛運が最高\nなの！\nとってもステキなことが起こるんだって。\n",
+      "translation": "점괘에 따르면, 오늘 나는 연애운이\n최고래！ 엄청 멋진 일이 일어날 거래.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0006",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB230602,3",
+        "speaker": "1,0010102"
+      },
+      "original": "ステキなことって？\n",
+      "translation": "멋진 일이라니？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0007",
+      "channel": 1,
+      "context": {
+        "face": "0,0030205,0",
+        "voice": "GB230603,3",
+        "speaker": "3,0030101"
+      },
+      "original": "それはもう、夢みたいにステキなことよ。\nきっと『ひそやかな月の光の下で』の告白シー\nンぐらいに、ステキなことだわ！\n",
+      "translation": "그건 말이야, 꿈처럼 멋진 일이지. 분명\n『은밀한 달빛 아래에서』의 고백\n장면만큼이나 멋진 일일 거야！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0008",
+      "channel": 1,
+      "context": {
+        "face": "0,0030205,0",
+        "voice": "GB230603,3",
+        "speaker": "1,0010105"
+      },
+      "original": "ひそやかな……なんだって？\n",
+      "translation": "은밀한…… 뭐라고？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0009",
+      "channel": 1,
+      "context": {
+        "face": "0,0030802,0",
+        "voice": "GB230604,3",
+        "speaker": "3,0030101"
+      },
+      "original": "うっそー、知らないの？\n",
+      "translation": "거짓말～ 몰라？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0010",
+      "channel": 1,
+      "context": {
+        "face": "0,0030804,0",
+        "voice": "GB230605,3",
+        "speaker": "3,0030101"
+      },
+      "original": "恋愛小説のバイブルとして、銀河中の乙女の\nハートをわしづかみにした名作、『ひそやか\nな月の光の下で』よ。\n",
+      "translation": "연애 소설의 바이블로서, 은하계 모든\n소녀의 마음을 사로잡은 명작, 『은밀한\n달빛 아래에서』 말이야.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0011",
+      "channel": 1,
+      "context": {
+        "face": "0,0030804,0",
+        "voice": "GB230605,3",
+        "speaker": "1,0010105"
+      },
+      "original": "うーん……その小説は読んだことないなぁ。\n",
+      "translation": "으음…… 그 소설은 읽어본 적 없는데.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0012",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB230606,3",
+        "speaker": "3,0030101"
+      },
+      "original": "やーねぇ、もう。\n教養がないんだから。\n",
+      "translation": "정말이지, 참나. 교양이 없다니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0013",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB230606,3",
+        "speaker": "1,0010105"
+      },
+      "original": "教養とは、ちょっと違うんじゃ……。\n",
+      "translation": "교양과는, 좀 다른 것 같은데…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0014",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB230607,3"
+      },
+      "original": "主人公がね、ヒロインに告白するときのセリ\nフが、もうすっごいステキなの！\n",
+      "translation": "주인공이 말이야, 히로인에게 고백할 때의\n대사가, 정말 엄청나게 멋지다고！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0015",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030801,0",
+        "voice": "GB230608,3"
+      },
+      "original": "「虹色の雫をまとい、水面に立つ天使。\n　その凍えた身体を、ぼくの心で溶かしたい」\n",
+      "translation": "「무지갯빛 물방울을 두르고, 수면에 서\n　있는 천사. 그 얼어붙은 몸을, 나의\n　마음으로 녹이고 싶어」\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0016",
+      "channel": 1,
+      "context": {
+        "voice": "GB230609,3",
+        "speaker": "3,0030101",
+        "face": "0,0030205,0"
+      },
+      "original": "あぁ～、ホントいいセリフよね～！\n",
+      "translation": "아아～, 정말 멋진 대사지～！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0017",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010401",
+        "face": "0,0030205,0",
+        "voice": "GB230609,3"
+      },
+      "original": "……なんか、舌かみそうなセリフだな。\n",
+      "translation": "……왠지, 혀를 깨물 것 같은 대사네.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0018",
+      "channel": 1,
+      "context": {
+        "face": "0,0030202,0",
+        "voice": "GB230610,3",
+        "speaker": "3,0030101"
+      },
+      "original": "ねぇ、ちゃんと聞いてる？\n",
+      "translation": "있잖아, 제대로 듣고 있어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0019",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0030202,0",
+        "voice": "GB230610,3"
+      },
+      "original": "う、うん、聞いてるよ。\n",
+      "translation": "으, 응, 듣고 있어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0020",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030804,0",
+        "voice": "GB230611,3"
+      },
+      "original": "じゃあ、今度はタクトも、アタシに続けて言っ\nてね。\n",
+      "translation": "그럼, 이번에는 택트도, 나를 따라서\n말해줘.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0021",
+      "channel": 1,
+      "context": {
+        "face": "0,0030804,0",
+        "voice": "GB230611,3",
+        "speaker": "1,0010105"
+      },
+      "original": "……へ？\n",
+      "translation": "……헤？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0022",
+      "channel": 1,
+      "context": {
+        "face": "0,0030801,0",
+        "voice": "GB230612,3",
+        "speaker": "3,0030101"
+      },
+      "original": "虹色の雫をまとい、水面に立つ天使……。\n",
+      "translation": "무지갯빛 물방울을 두르고, 수면 위에 서\n있는 천사…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0023",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0030801,0",
+        "voice": "GB230612,3"
+      },
+      "original": "に……虹色の雫をまとい、水面に立つ天\n使……。\n",
+      "translation": "에…… 무지갯빛 물방울을 두르고, 수면\n위에 서 있는 천사…….\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0024",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030801,0",
+        "voice": "GB230613,3"
+      },
+      "original": "その凍えた身体を、ぼくの心で溶かしたい。\n",
+      "translation": "그 얼어붙은 몸을, 나의 마음으로 녹이고\n싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0025",
+      "channel": 1,
+      "context": {
+        "face": "0,0030801,0",
+        "voice": "GB230613,3",
+        "speaker": "1,0010105"
+      },
+      "original": "その凍えた身体を、ぼくの心で溶かしたい。\n",
+      "translation": "그 얼어붙은 몸을, 나의 마음으로 녹이고\n싶어.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0026",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB230614,3"
+      },
+      "original": "ね、ステキでしょ？\nちゃんと覚えた？\n",
+      "translation": "있지, 멋지지？ 제대로 기억했어？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0027",
+      "channel": 1,
+      "context": {
+        "face": "0,0030105,0",
+        "voice": "GB230614,3",
+        "speaker": "1,0010401"
+      },
+      "original": "うん、たぶん……。\nでも、なんでそんなこと聞くの？\n",
+      "translation": "응, 아마도……. 근데, 왜 그런 걸\n물어봐？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0028",
+      "channel": 1,
+      "context": {
+        "face": "0,0030802,0",
+        "voice": "GB230615,3",
+        "speaker": "3,0030101"
+      },
+      "original": "あ、いっけない！\n下準備もしておかなきゃ！\n",
+      "translation": "아, 안 되겠다！ 밑준비도 해둬야지！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0029",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010102",
+        "face": "0,0030802,0",
+        "voice": "GB230615,3"
+      },
+      "original": "これから何かするのかい？\n",
+      "translation": "이제부터 뭔가 하는 거야？\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0030",
+      "channel": 1,
+      "context": {
+        "voice": "GB230616,3",
+        "speaker": "3,0030101",
+        "face": "0,0030105,0"
+      },
+      "original": "ううん、なんでもないの！\nそれじゃ、アタシ急ぐから。\n",
+      "translation": "아니, 아무것도 아니야！ 그럼, 나\n서둘러야 하니까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0031",
+      "channel": 1,
+      "context": {
+        "speaker": "3,0030101",
+        "face": "0,0030105,0",
+        "voice": "GB230617,3"
+      },
+      "original": "楽しみにしててね！\n",
+      "translation": "기대하고 있어！\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0032",
+      "channel": 1,
+      "context": {
+        "speaker": "1,0010105",
+        "face": "0,0,0",
+        "voice": "GB230617,3"
+      },
+      "original": "……楽しみに？\nランファ、何をするつもりなんだろう。\n",
+      "translation": "……기대하라고？ 란파, 무슨 생각을 하고\n있는 걸까.\n",
+      "state": "draft",
+      "use_translation": true
+    },
+    {
+      "id": "SCENARIO_DAT_00042000:dialogue:0033",
+      "channel": 1,
+      "context": {
+        "face": "0,0,0",
+        "voice": "GB230617,3",
+        "speaker": "1,0010101"
+      },
+      "original": "まぁいいや。\nランファがいないんじゃ、特にすることもな\nいし、ほかのところに行こう。\n",
+      "translation": "뭐, 됐어. 란파가 없으면 딱히 할 일도\n없으니까, 다른 곳으로 가자.\n",
+      "state": "draft",
+      "use_translation": true
+    }
+  ]
+}
