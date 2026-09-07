@@ -19,20 +19,22 @@
 
 ### v0.1 최종 ISO / XDelta
 
+- 실기 확인에서 영상 자막이 약 1초 빨리 표시되어, 대사가 있는 ASS 22개 / `Dialogue` 124개 전체의 시작·종료를 **+1.00초** 뒤로 이동했다. 빈 ASS 5개(`100/107/108/110/132`)는 그대로 유지했다.
+- 타이밍 수정본으로 PSS 27편을 다시 인코딩/mux했고 picture count 및 PSS 검증을 **27/27 PASS**했다.
 - 자막 PSS 27편을 기존 한글 `v19` ISO에 ISO9660 LBA/size 갱신 방식으로 삽입했다.
 - 기존 무비 풀에 모두 들어가지 않아 `GADAT100`, `GADAT122` 두 파일만 ISO 끝으로 재배치했고, 나머지는 기존 무비 풀 안에서 재패킹했다.
 - ISO 내부 27개 PSS를 새 PSS SHA-256과 전수 readback 비교: **27/27 PASS**.
 - 최종 ISO: `build/Galaxy_Angel_Moonlit_Lovers_KO_v0.1_SUBTITLED.iso`
   - 크기: `3,606,837,248 bytes`
-  - MD5: `c5389dc5ca110d787faf962b710eb890`
-  - SHA-1: `face271e7b5326b53a798b9e5dd1d84827e56933`
-  - SHA-256: `e2487647d0d1c3d3e4f27c018fdaa90d21d40ce00c0f99d7f870b905d96f1a71`
+  - MD5: `f42e8f7c47950d8be92e7907e0d7ef1a`
+  - SHA-1: `35aad22f121ef6ebcc3ab241a8f2be6566409eb9`
+  - SHA-256: `467f53bf8ac2e3cd71aca4754f1871fccfe225e445acd1be11148365782b45c3`
 - 배포 XDelta: `release/galaxy_angel_moonlit_lovers_ps2_kr_v0.1.xdelta`
-  - 크기: `460,524,540 bytes`
-  - MD5: `2093137a9a502a73e229392f7b414469`
-  - SHA-1: `1656245e4257f7a2adadcb73ed27b7b749991254`
-  - SHA-256: `22239da70b3016685bc6bec1feff971bfaaa48770c5c54df69d540dae5851285`
-- 원본 일본판 ISO에 새 v0.1 XDelta를 실제 적용해 최종 ISO와 SHA-256 일치: **PASS**.
+  - 크기: `460,286,918 bytes`
+  - MD5: `7bb9edbb07f64c3ae75405657fc99427`
+  - SHA-1: `c31adec74d968cdb3380c5183b178667611c860e`
+  - SHA-256: `f8f5d06b719655ece915cdeaae8ddd9d3ed6360740ebe73bd63038274d54ef9f`
+- 일본판 원본 ISO SHA-256 `990be804914335df22223c0070ec677ace4b5684f367dd9b04fa8ab55263a3fe`에 새 v0.1 XDelta를 실제 적용해 최종 ISO와 SHA-256 일치: **PASS**.
 
 ## 2026-09-05 폰트 원복 + 화자명 깨짐 수정
 
