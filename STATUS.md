@@ -1,6 +1,21 @@
 # Galaxy Angel - Moonlit Lovers (PS2) 한글화 진행 상태
 
-갱신: 2026-09-05
+갱신: 2026-09-07
+
+## 2026-09-07 영상 자막 검수 완료 + PS2 PSS 27편 생성
+
+문릿 러버즈 `movie/original`의 27개 PSS에 대해 `movie/output`의 원본 추출 M2V/PCM WAV와 검수 완료 한국어 ASS를 사용해 자막 번인 PSS를 생성했다.
+
+- 대상: `GADAT100,101,102,103,106~126,132,133` 총 **27편**.
+- 한국어 ASS: **27/27**, FFmpeg/libass 원본 PSS 렌더 검증 **27/27 PASS**.
+- 자막 번인 MPEG-2는 각 원본 M2V의 frame-rate code를 자동 감지한다. `GADAT100=30fps`, `GADAT111=30000/1001fps`, 나머지는 원본 값에 따라 처리하며 일괄 24fps로 강제하지 않는다.
+- 인코딩: MPEG-2 video, YUV420P, 4:3, 원본 프레임레이트, GOP 약 0.5초, B-frame 2, 5950kbps 목표 / 6000kbps max, VBV 1,835,008 bytes.
+- mux: 갤럭시 엔젤에서 실기 검증한 PSS Plex 호환 방식으로 16KiB pack, 새 MPEG-2의 GOP timecode + temporal reference 기준 PTS/DTS, 원본 48kHz stereo PCM WAV를 Sony SShd/SSbd private stream으로 재구성한다.
+- 각 PSS 생성 시 비디오 ES exact readback, PCM SS stream exact readback, 16KiB pack alignment를 검증했다.
+- 생성 후 27개 PSS를 FFmpeg로 전수 비디오 디코드: **27/27 PASS, 실패 0**.
+- 로컬 최종 산출물: `movie/subtitled/final/GADAT*.PSS` 및 대응 `*.m2v`, `*.pss.json`.
+- 종합 리포트: `build/moonlit_lovers_subtitled_pss_report.json` (`completed=27`, `requested=27`).
+- `movie/`는 원본 게임 데이터와 대용량 재생성 산출물이므로 갤럭시 엔젤 저장소와 동일하게 Git 추적에서 제외하고, 재현 가능한 전사/PSS 도구만 Git에 포함한다.
 
 ## 2026-09-05 폰트 원복 + 화자명 깨짐 수정
 
