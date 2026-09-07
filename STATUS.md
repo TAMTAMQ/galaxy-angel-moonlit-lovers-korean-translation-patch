@@ -17,6 +17,23 @@
 - 종합 리포트: `build/moonlit_lovers_subtitled_pss_report.json` (`completed=27`, `requested=27`).
 - `movie/`는 원본 게임 데이터와 대용량 재생성 산출물이므로 갤럭시 엔젤 저장소와 동일하게 Git 추적에서 제외하고, 재현 가능한 전사/PSS 도구만 Git에 포함한다.
 
+### v0.1 최종 ISO / XDelta
+
+- 자막 PSS 27편을 기존 한글 `v19` ISO에 ISO9660 LBA/size 갱신 방식으로 삽입했다.
+- 기존 무비 풀에 모두 들어가지 않아 `GADAT100`, `GADAT122` 두 파일만 ISO 끝으로 재배치했고, 나머지는 기존 무비 풀 안에서 재패킹했다.
+- ISO 내부 27개 PSS를 새 PSS SHA-256과 전수 readback 비교: **27/27 PASS**.
+- 최종 ISO: `build/Galaxy_Angel_Moonlit_Lovers_KO_v0.1_SUBTITLED.iso`
+  - 크기: `3,606,837,248 bytes`
+  - MD5: `c5389dc5ca110d787faf962b710eb890`
+  - SHA-1: `face271e7b5326b53a798b9e5dd1d84827e56933`
+  - SHA-256: `e2487647d0d1c3d3e4f27c018fdaa90d21d40ce00c0f99d7f870b905d96f1a71`
+- 배포 XDelta: `release/galaxy_angel_moonlit_lovers_ps2_kr_v0.1.xdelta`
+  - 크기: `460,524,540 bytes`
+  - MD5: `2093137a9a502a73e229392f7b414469`
+  - SHA-1: `1656245e4257f7a2adadcb73ed27b7b749991254`
+  - SHA-256: `22239da70b3016685bc6bec1feff971bfaaa48770c5c54df69d540dae5851285`
+- 원본 일본판 ISO에 새 v0.1 XDelta를 실제 적용해 최종 ISO와 SHA-256 일치: **PASS**.
+
 ## 2026-09-05 폰트 원복 + 화자명 깨짐 수정
 
 실기 스크린샷에서 `택트 → 탕퉁`, `밀피유 → 밀픈위`로 보이고 한글 글꼴 자체도 이전과 달라진 회귀를 확인해 원인을 두 갈래로 분리해 수정했다.
