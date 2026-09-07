@@ -2,6 +2,24 @@
 
 갱신: 2026-09-07
 
+## 2026-09-07 빈 ASS 영상 제외 재패키징
+
+영상 자막 패키징 대상을 실제 `Dialogue:` 이벤트가 있는 ASS로 제한했다.
+
+- 전체 27편 중 실제 자막이 있는 **22편만** 자막 PSS 교체 대상이다.
+- 빈 ASS 5편: `GADAT100`, `GADAT107`, `GADAT108`, `GADAT110`, `GADAT132`.
+- 위 5편은 재인코딩/재mux하지 않고 `build/Galaxy_Angel_Moonlit_Lovers_KO_v19.iso`의 기존 PSS를 그대로 유지한다.
+- `tools/moonlit_lovers_build_all_subtitled_pss.py`는 기본 실행 시 빈 ASS를 자동 제외한다.
+- `tools/moonlit_lovers_patch_all_movies_iso.py`도 22편만 ISO에 넣고, 제외 5편은 source ISO와 byte-identical인지 검증한다.
+- 새 ISO 내부 교체 PSS **22/22 SHA-256 readback PASS**.
+- 제외 PSS **5/5 source ISO와 byte-identical PASS**.
+- 새 최종 ISO: `build/Galaxy_Angel_Moonlit_Lovers_KO_v0.1_SUBTITLED.iso`
+  - 크기: `3,636,445,184 bytes`
+  - MD5: `4d841032fd1867822e34a23d78aae925`
+  - SHA-1: `b8cbfacc9a6afaed9aae9ba9052beb89ea565e70`
+  - SHA-256: `593673216b5be47b6eface3c5fe34c0347c96fcccf50c01dca056448c3219016`
+- 기존 `release/` v0.1 XDelta는 이 재패키징 전 산출물이므로 이번 작업에서는 갱신하지 않았다.
+
 ## 2026-09-07 영상 자막 검수 완료 + PS2 PSS 27편 생성
 
 문릿 러버즈 `movie/original`의 27개 PSS에 대해 `movie/output`의 원본 추출 M2V/PCM WAV와 검수 완료 한국어 ASS를 사용해 자막 번인 PSS를 생성했다.

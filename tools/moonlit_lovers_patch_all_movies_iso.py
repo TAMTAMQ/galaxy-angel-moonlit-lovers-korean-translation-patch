@@ -9,7 +9,7 @@ from pathlib import Path
 
 SECTOR = 2048
 META_BYTES = 8 * 1024 * 1024
-EXPECTED_MOVIES = 27
+EXPECTED_MOVIES = 22
 
 
 def sha256_file(path: Path) -> str:
@@ -132,17 +132,33 @@ def patch_volume_space_size(handle, sectors: int) -> list[int]:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Patch all 27 Moonlit Lovers subtitle PSS files into the Korean ISO.")
+    ap = argparse.ArgumentParser(description="Patch only Moonlit Lovers movies with non-empty Korean subtitles into the Korean ISO.")
     ap.add_argument("--iso", type=Path, default=Path("build/Galaxy_Angel_Moonlit_Lovers_KO_v19.iso"))
     ap.add_argument("--pss-dir", type=Path, default=Path("movie/subtitled/final"))
+    ap.add_argument("--subtitles-dir", type=Path, default=Path("movie/subtitles"))
     ap.add_argument("--output", type=Path, default=Path("build/Galaxy_Angel_Moonlit_Lovers_KO_v0.1_SUBTITLED.iso"))
     ap.add_argument("--report", type=Path, default=Path("build/moonlit_lovers_movies_iso_patch.json"))
     ap.add_argument("--plan-only", action="store_true")
     args = ap.parse_args()
 
-    replacements = sorted(args.pss_dir.glob("GADAT*.PSS"))
-    if len(replacements) != EXPECTED_MOVIES:
-        raise ValueError(f"expected {EXPECTED_MOVIES} final PSS files, found {len(replacements)}")
+    all_subtitle_names = {
+        p.name.removesuffix(".ko.ass")
+        for p in args.subtitles_dir.glob("GADAT*.ko.ass")
+    }
+    nonempty_names = {
+        p.name.removesuffix(".ko.ass")
+        for p in args.subtitles_dir.glob("GADAT*.ko.ass")
+        if any(line.startswith("Dialogue:") for line in p.read_text(encoding="utf-8").splitlines())
+    }
+    replacements = sorted(
+        p for p in args.pss_dir.glob("GADAT*.PSS")
+        if p.stem in nonempty_names
+    )
+    if len(replacements) != EXPECTED_MOVIES or len(nonempty_names) != EXPECTED_MOVIES:
+        raise ValueError(
+            f"expected {EXPECTED_MOVIES} non-empty-subtitle movies, "
+            f"found subtitles={len(nonempty_names)} pss={len(replacements)}"
+        )
 
     with args.iso.open("rb") as f:
         meta = f.read(META_BYTES)
@@ -287,8 +303,35 @@ def main() -> int:
         if a[1] > b[0]:
             raise ValueError(f"movie extents overlap: {a} vs {b}")
 
+    untouched_verification: list[dict[str, object]] = []
+    for name in sorted(all_subtitle_names - nonempty_names):
+        identifier = f"{name}.PSS;1"
+        source_rec = find_record(meta, identifier)
+        output_rec = find_record(out_meta, identifier)
+        if (
+            int(output_rec["extent"]) != int(source_rec["extent"])
+            or int(output_rec["size"]) != int(source_rec["size"])
+        ):
+            raise ValueError(f"{name}: untouched ISO9660 directory record changed")
+        extent = int(source_rec["extent"])
+        size = int(source_rec["size"])
+        source_hash = sha256_region(args.iso, extent * SECTOR, size)
+        output_hash = sha256_region(args.output, extent * SECTOR, size)
+        if output_hash != source_hash:
+            raise ValueError(f"{name}: untouched PSS region changed")
+        untouched_verification.append(
+            {
+                "name": name,
+                "extent": extent,
+                "size": size,
+                "sha256": output_hash,
+                "matches_source_iso": True,
+            }
+        )
+
     plan["volume_descriptors_updated"] = volume_descriptors
     plan["verification"] = verification
+    plan["untouched_verification"] = untouched_verification
     plan["output_iso"] = str(args.output.resolve())
     plan["output_iso_size"] = args.output.stat().st_size
     plan["output_iso_sha256"] = sha256_file(args.output)
