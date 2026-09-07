@@ -1,6 +1,37 @@
 # Galaxy Angel - Moonlit Lovers (PS2) 한글화 진행 상태
 
-갱신: 2026-09-07
+갱신: 2026-09-08
+
+## 2026-09-08 v0.1 재배포 완료
+
+복구된 자막 타임라인을 기준으로 영상 PSS와 최종 배포 파일을 다시 만들었다.
+
+- 실제 자막 22편 / Dialogue 124개를 +1.00초 보정 전 타임라인으로 복구한 상태를 사용했다.
+- 자막 PSS 22편을 기존 정식 설정인 MPEG-2 5950kbps target/minrate, 6000kbps maxrate, B-frame 2, VBV 1,835,008 bytes, Galaxy Angel/Moonlit 기본 mux 방식으로 다시 생성했다.
+- PSS picture count 및 mux 검증: **22/22 PASS**.
+- 빈 ASS 5편(`GADAT100/107/108/110/132`)은 v19 ISO의 기존 PSS를 그대로 유지했고 readback **5/5 PASS**.
+- ISO 내부 교체 PSS readback: **22/22 PASS**. 새 용량 때문에 `GADAT103`, `GADAT109`, `GADAT122`는 ISO 끝으로 재배치했고 ISO9660 LBA/size를 갱신했다.
+- 최근 UI 누락 수정도 다시 적용했다: ADV FSTS 481개 동기화 및 2,395 리소스 strict 검증, `GAML.DAT` Pause 이미지 17/17 패치·검증, 저장/불러오기 ELF 문자열 3개 패치.
+- 최종 ISO: `build/Galaxy_Angel_Moonlit_Lovers_KO_v0.1_SUBTITLED.iso`
+  - 크기: `3,636,445,184 bytes`
+  - MD5: `8f3d72777d33c4b74766c2a1e8ddc4cb`
+  - SHA-1: `e222b9c923ea013e9c2f59e6876103e76e466221`
+  - SHA-256: `2e76d68312028e90d795c676279694bd9423c8660f6c5517ea78a05fa2435eb9`
+- v0.1 XDelta: `release/galaxy_angel_moonlit_lovers_ps2_kr_v0.1.xdelta`
+  - 크기: `454,513,355 bytes`
+  - SHA-256: `70e2549e8a5dc6dd245d4dd361aa2c3ee1b82268efb593f57e6a9fd9fdfe6bc6`
+- 일본판 원본 ISO에 새 v0.1 XDelta를 실제 적용해 위 최종 ISO와 SHA-256 완전 일치: **PASS**.
+- `release/README.txt`, `release/SHA256SUMS.txt`, `release/release.json`도 새 값으로 갱신했다.
+
+## 2026-09-08 영상 자막 +1.00초 보정 취소
+
+후속 실기/구조 분석 결과, 이전에 자막 싱크 문제로 판단해 적용했던 **+1.00초 이동은 취소**한다. 실제 문제는 자막 타임라인 자체가 아니라 영상 인코딩/PSS 재생 호환성 쪽으로 좁혀졌다.
+
+- `movie/subtitles/GADAT*.ko.ass` 27개 중 실제 `Dialogue:`가 있는 **22편 / 124개 이벤트**의 시작·종료 시간을 모두 **-1.00초** 원상복구했다.
+- 0초보다 앞설 수 있는 이벤트는 `0:00:00.00`으로 유지했으며, 음수 타임코드는 **0개**다.
+- 빈 ASS 5편(`100/107/108/110/132`)은 변경하지 않았다.
+- 자막 문구/스타일/색상은 변경하지 않았다.
+- 이후 위 `2026-09-08 v0.1 재배포 완료` 단계에서 이 복구된 ASS를 기준으로 PSS/ISO와 배포 파일까지 다시 생성했다.
 
 ## 2026-09-07 빈 ASS 영상 제외 재패키징
 

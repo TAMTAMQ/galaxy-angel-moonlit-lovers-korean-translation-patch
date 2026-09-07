@@ -588,6 +588,7 @@ def image_commands(
         "--image-manifest", str(gadat032 / "japanese_images/manifest.json"),
         "--resource-manifest", str(full_root / "GADAT032/manifest.json"),
         "--runtime-container", "ADV",
+        "--runtime-container", "GAML",
         "--report", str(report032),
         "--cache-dir", str(BUILD / "image_cache_gadat032"),
     ]
@@ -697,6 +698,17 @@ def main() -> None:
         0,
         hangul_horizontal_scale=1.0,
     )
+    run([
+        sys.executable,
+        "-u",
+        str(ROOT / "tools/moonlit_lovers_patch_saveload_elf_strings.py"),
+        "--elf",
+        str(font_elf),
+        "--encoding-map",
+        str(font_map),
+        "--report",
+        str(BUILD / "saveload_elf_strings_report.json"),
+    ])
 
     if scenario_out.exists():
         shutil.rmtree(scenario_out)
