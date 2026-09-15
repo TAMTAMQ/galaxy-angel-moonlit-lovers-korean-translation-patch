@@ -16,7 +16,7 @@
         "speaker": "5,0050101"
       },
       "original": "あ、タクト、ちょっといいかい？\n",
-      "translation": "아, 택트, 잠깐 시간 좀 있나？\n",
+      "translation": "아, 택트, 잠깐 괜찮아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -29,7 +29,7 @@
         "speaker": "1,0010101"
       },
       "original": "なんだい、フォルテ？\n",
-      "translation": "왜 그래, 포르테？\n",
+      "translation": "왜 그래, 포르테?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -42,7 +42,7 @@
         "speaker": "5,0050101"
       },
       "original": "後で、シヴァ陛下の部屋にチェスを届けてや\nりなよ。\n",
-      "translation": "나중에 시바 님 방에 체스를 가져다드려.\n",
+      "translation": "나중에 시바 폐하의 방에 체스를\n가져다드려.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -55,7 +55,7 @@
         "speaker": "1,0010102"
       },
       "original": "チェス？\n",
-      "translation": "체스？\n",
+      "translation": "체스?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -68,7 +68,7 @@
         "speaker": "5,0050101"
       },
       "original": "ほら、前に陛下がこの艦に乗ってたときに、\nあんたがお相手をしてただろう？\n",
-      "translation": "있잖아, 전에 폐하께서 이 함선에 타고\n계셨을 때, 자네가 상대해 드렸었지？\n",
+      "translation": "있잖아, 전에 폐하께서 이 함선에 타고\n계셨을 때, 당신이 상대해 드렸었지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -81,7 +81,7 @@
         "speaker": "1,0010101"
       },
       "original": "ああ、チェスで遊んでもらおうってわけか。\nそれはいいアイデアだね。\n",
-      "translation": "아아, 체스로 즐겁게 해드리라는 뜻이군.\n그거 좋은 생각이네.\n",
+      "translation": "아아, 체스로 놀아드리자는 거구나.\n그거 좋은 생각이네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -94,7 +94,7 @@
         "speaker": "5,0050101"
       },
       "original": "あんたと遊べば、陛下も多少はリラックスさ\nれるだろうしね。\n",
-      "translation": "자네와 놀다 보면 폐하께서도 어느 정도는\n긴장을 푸실 테니까 말이야.\n",
+      "translation": "당신과 놀다 보면 폐하께서도 어느 정도는\n긴장을 푸실 테니까 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -120,7 +120,7 @@
         "speaker": "1,0010101"
       },
       "original": "ああ、任せとけ！\n",
-      "translation": "아아, 맡겨두라고！\n",
+      "translation": "아아, 맡겨두라고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -159,7 +159,7 @@
         "speaker": "11,0110401"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -172,7 +172,7 @@
         "voice": "GB440006,3"
       },
       "original": "お待たせしました、シヴァ様。\n",
-      "translation": "기다리게 했습니다, 시바 님.\n",
+      "translation": "기다리게 해서 죄송합니다, 시바 님.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -211,7 +211,7 @@
         "speaker": "1,0010101"
       },
       "original": "さてと……休みといっても、何をしようかな？\n",
-      "translation": "자 그럼…… 휴식이라고 해도, 뭘 할까？\n",
+      "translation": "자 그럼…… 휴식이라고 해도, 뭘 할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -237,7 +237,7 @@
         "voice": "GB440007,3"
       },
       "original": "フォルテ、オレだよ。\n入っていいかい？\n",
-      "translation": "포르테, 나야. 들어가도 될까？\n",
+      "translation": "포르테, 나야. 들어가도 될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -250,7 +250,7 @@
         "speaker": "5,0050204"
       },
       "original": "タクト？\nあ……悪い、ちょっと待ってくれない？\n",
-      "translation": "택트？ 아…… 미안, 잠깐만 기다려 줄래？\n",
+      "translation": "택트? 아…… 미안, 잠깐만 기다려 줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -263,7 +263,7 @@
         "face": "0,0110505,0"
       },
       "original": "え？\nああ、いいけど。\n",
-      "translation": "어？ 아아, 괜찮지만.\n",
+      "translation": "어? 아아, 괜찮지만.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -289,7 +289,7 @@
         "voice": "GB440101,3"
       },
       "original": "おじゃましちゃったかな？\n",
-      "translation": "방해가 된 건 아니겠지？\n",
+      "translation": "방해가 된 건 아니겠지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -315,7 +315,7 @@
         "face": "0,0050101,0"
       },
       "original": "適当に座っててくれるかい？\n今、コーヒーを淹れるよ。\n",
-      "translation": "편하게 앉아 있을래？ 지금 커피를 내릴게.\n",
+      "translation": "편하게 앉아 있을래? 지금 커피를 내릴게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -341,7 +341,7 @@
         "face": "0,0,0"
       },
       "original": "……ん？\nこれ、雑誌だ。\nフォルテが読んでたんだな。\n",
-      "translation": "……응？ 이거, 잡지네. 포르테가 읽고\n있었구나.\n",
+      "translation": "……응? 이거, 잡지네. 포르테가 읽고\n있었구나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -354,7 +354,7 @@
         "face": "0,0,0"
       },
       "original": "　なになに……。\n『トランスバール・ナイトスポット百選』？\n",
-      "translation": "뭐야 뭐야…… 『트랜스벌・나이트 스팟\n100선』？\n",
+      "translation": "뭐야 뭐야…… 『트랜스벌・나이트 스팟\n100선』?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -380,7 +380,7 @@
         "face": "0,0,0"
       },
       "original": "……あれ？\nここだけ、折り目がついてる。\nどれどれ……。\n",
-      "translation": "……어라？ 여기만 접힌 자국이 있어. 어디\n보자…….\n",
+      "translation": "……어라? 여기만 접힌 자국이 있어. 어디\n보자…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -432,7 +432,7 @@
         "speaker": "5,0050101"
       },
       "original": "あ……ああ、それ？\nちょっとヒマつぶしに買ってみただけだよ。\n",
-      "translation": "아…… 아아, 그거？ 그냥 시간 때우려고\n좀 사본 것뿐이야.\n",
+      "translation": "아…… 아아, 그거? 그냥 시간 때우려고\n좀 사본 것뿐이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -445,7 +445,7 @@
         "face": "0,0050101,0"
       },
       "original": "ダンスホールの記事のところに折り目が入っ\nてたけど……行きたいの？\n",
-      "translation": "댄스홀 기사가 있는 곳에 접힌 자국이\n있던데…… 가고 싶은 거야？\n",
+      "translation": "댄스홀 기사가 있는 곳에 접힌 자국이\n있던데…… 가고 싶은 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -471,7 +471,7 @@
         "speaker": "1,0010201"
       },
       "original": "じゃあ、行こう！\nこの戦いが終わったら、真っ先に！\n",
-      "translation": "그럼, 가자！ 이 싸움이 끝나면, 제일\n먼저！\n",
+      "translation": "그럼, 가자! 이 싸움이 끝나면, 제일\n먼저!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -484,7 +484,7 @@
         "voice": "GB440107,3"
       },
       "original": "えっ？\n行くって、ダンスホールに？\n",
-      "translation": "엣？ 간다니, 댄스홀에？\n",
+      "translation": "엣? 간다니, 댄스홀에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -510,7 +510,7 @@
         "voice": "GB440107,3"
       },
       "original": "でも、あのときはシヴァ様の命を狙う刺客を\n捕まえるために、フォルテとは踊れなかった\nだろう？\n",
-      "translation": "하지만, 그때는 시바 님의 목숨을 노리는\n자객을 붙잡기 위해, 포르테와는 춤출 수\n없었지？\n",
+      "translation": "하지만, 그때는 시바 님의 목숨을 노리는\n자객을 붙잡기 위해, 포르테와는 춤출 수\n없었지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -549,7 +549,7 @@
         "voice": "GB440108,3"
       },
       "original": "当たり前じゃないか。\n",
-      "translation": "당연한 거 아냐？\n",
+      "translation": "당연한 거 아냐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -575,7 +575,7 @@
         "speaker": "1,0010102"
       },
       "original": "……あ、ちょっと待って。\nこの記事だと、利用料金のことが書いてない\nな。\n",
-      "translation": "...아, 잠깐 기다려봐. 이 기사에는 이용\n요금에 대한 게 안 적혀 있네.\n",
+      "translation": "……아, 잠깐 기다려봐. 이 기사에는 이용\n요금에 대한 게 안 적혀 있네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -588,7 +588,7 @@
         "voice": "GB440110,3"
       },
       "original": "料金なら、左下のところに載ってるだろ？\n",
-      "translation": "요금이라면 왼쪽 아래에 나와 있잖아？\n",
+      "translation": "요금이라면 왼쪽 아래에 나와 있잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -601,7 +601,7 @@
         "voice": "GB440110,3"
       },
       "original": "でもこれは、通常時の料金だろ？\nオレは貸し切りの料金が知りたいんだけど。\n",
-      "translation": "하지만 이건 통상 요금이잖아？ 난 대관\n요금을 알고 싶은데.\n",
+      "translation": "하지만 이건 통상 요금이잖아? 난 대관\n요금을 알고 싶은데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -613,7 +613,7 @@
         "voice": "GB440111,3"
       },
       "original": "貸し切りぃ？\nこの広いホールを、貸し切るつもりかい？\n",
-      "translation": "대관이라니？ 이 넓은 홀을 통째로 빌릴\n생각이야？\n",
+      "translation": "대관이라니? 이 넓은 홀을 통째로 빌릴\n생각이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -673,7 +673,7 @@
         "voice": "GB440113,3"
       },
       "original": "あ、照れた？\n",
-      "translation": "아, 부끄러워해？\n",
+      "translation": "아, 부끄러워해?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -733,7 +733,7 @@
         "speaker": "1,0010101"
       },
       "original": "だろう？\n",
-      "translation": "그렇지？\n",
+      "translation": "그렇지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -913,7 +913,7 @@
         "speaker": "5,0050101"
       },
       "original": "もちろん、あたしのタクトにもね。\nだから、今度こそ『黒き月』を！\n",
-      "translation": "물론, 나의 택트에게도 말이야. 그러니까\n이번에야말로 『흑색 달』을！\n",
+      "translation": "물론, 나의 택트에게도 말이야. 그러니까\n이번에야말로 『흑색 달』을!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -937,7 +937,7 @@
         "speaker": "2,0020102"
       },
       "original": "わぁ、なんか息がピッタリですね！\n",
-      "translation": "와아, 뭔가 호흡이 척척 맞네요！\n",
+      "translation": "와아, 뭔가 호흡이 척척 맞네요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1009,7 +1009,7 @@
         "voice": "GB440208,3"
       },
       "original": "はい、がんばります！\n",
-      "translation": "네, 열심히 할게요！\n",
+      "translation": "네, 열심히 할게요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1021,7 +1021,7 @@
         "voice": "GB440208,3"
       },
       "original": "よーし、その意気だ。\nみんなをリードしてくれ、フォルテ！\n",
-      "translation": "좋아, 그 기세다. 모두를 이끌어줘,\n포르테！\n",
+      "translation": "좋아, 그 기세다. 모두를 이끌어줘,\n포르테!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1045,7 +1045,7 @@
         "voice": "GB440210,3"
       },
       "original": "さあ、みんな、派手に行くよ！\n",
-      "translation": "자, 모두들, 화려하게 가보자고！\n",
+      "translation": "자, 모두들, 화려하게 가보자고!\n",
       "state": "draft",
       "use_translation": true
     }

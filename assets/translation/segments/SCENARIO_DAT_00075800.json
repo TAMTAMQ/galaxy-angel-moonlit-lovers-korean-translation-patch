@@ -26,7 +26,7 @@
         "voice": "GB410600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -39,7 +39,7 @@
         "face": "0,0,0"
       },
       "original": "…………。\n",
-      "translation": "…………。\n",
+      "translation": "………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -52,7 +52,7 @@
         "face": "0,0,0"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -65,7 +65,7 @@
         "face": "0,0,0"
       },
       "original": "……マイヤーズ司令、指示をお願いします。\n",
-      "translation": "……마이어스 사령관님, 지시를\n부탁합니다.\n",
+      "translation": "……마이어스 사령관, 지시를\n부탁합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -78,7 +78,7 @@
         "face": "0,0,0"
       },
       "original": "えっ？\n",
-      "translation": "엣？\n",
+      "translation": "엣?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -91,7 +91,7 @@
         "face": "0,0,0"
       },
       "original": "おいタクト、寝てるのか！？\nお前が作戦を説明しないと、こっちも動けな\nいだろうが！\n",
-      "translation": "어이 택트, 자는 거냐！？ 네가 작전을\n설명하지 않으면 이쪽도 움직일 수\n없잖아！\n",
+      "translation": "어이 택트, 자는 거냐!? 네가 작전을\n설명하지 않으면 이쪽도 움직일 수\n없잖아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -130,7 +130,7 @@
         "face": "0,0,0"
       },
       "original": "ごめん、ごめん。\nえーと、それじゃ……。\n",
-      "translation": "미안, 미안. 에ー토, 그럼…….\n",
+      "translation": "미안, 미안. 음, 그럼…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -273,7 +273,7 @@
         "voice": "GB410605,3"
       },
       "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×３\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대\n편성～구축함×５　　　　　　순양함×３～\n승리 조건～적 함대의 전멸～패배\n조건～에르시올의 파괴 타임 오버\n",
+      "translation": "～적 부대 편성～\n　구축함×5　　　　　　순양함×3\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -286,7 +286,7 @@
         "face": "0170101,0,0"
       },
       "original": "もう一度、作戦内容を確認しますか？\n",
-      "translation": "다시 한번, 작전 내용을\n확인하시겠습니까？\n",
+      "translation": "다시 한번, 작전 내용을\n확인하시겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -299,7 +299,7 @@
         "face": "0170101,0,0"
       },
       "original": "そうだなぁ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -325,7 +325,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -351,7 +351,7 @@
         "face": "0,0,0"
       },
       "original": "６番機、問題ありません。\nご命令をお願いします。\n",
-      "translation": "６번기, 문제없습니다. 명령을\n부탁드립니다.\n",
+      "translation": "6번기, 문제없습니다. 명령을\n부탁드립니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -390,7 +390,7 @@
         "voice": "GB410609,3"
       },
       "original": "それじゃあ、エンジェル隊、出撃！\n",
-      "translation": "그럼, 엔젤대, 출격！\n",
+      "translation": "그럼, 엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -403,7 +403,7 @@
         "voice": "GB410610,3"
       },
       "original": "了解！\n",
-      "translation": "알았다！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }

@@ -27,7 +27,7 @@
         "speaker": "17,0170101"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -40,7 +40,7 @@
         "face": "0,0,0"
       },
       "original": "さて、クロミエに会っていこうかな……？\n管理室にいるはずだ。\n",
-      "translation": "자, 크로미에를 만나러 가볼까……？\n관리실에 있을 거야.\n",
+      "translation": "자, 크로미에를 만나러 가볼까……?\n관리실에 있을 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -66,7 +66,7 @@
         "face": "0,0080101,0"
       },
       "original": "今日はどんなご用ですか？\n宇宙クジラに、エンジェル隊のみなさんの気\n持ちを聞いてみましょうか？\n",
-      "translation": "오늘은 어떤 용건이신가요？ 우주\n고래에게, 엔젤대 여러분의 마음을\n물어볼까요？\n",
+      "translation": "오늘은 어떤 용건이신가요? 우주\n고래에게, 엔젤대 여러분의 마음을\n물어볼까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -79,7 +79,7 @@
         "face": "0,0080101,0"
       },
       "original": "ところで、タクトさん。\n宇宙クジラに、エンジェル隊のみなさんの気\n持ちを聞いてみますか？\n",
-      "translation": "그나저나, 택트 씨. 우주 고래에게 엔젤대\n여러분의 마음을 물어보시겠어요？\n",
+      "translation": "그나저나, 택트 씨. 우주 고래에게 엔젤대\n여러분의 마음을 물어보시겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -105,7 +105,7 @@
         "speaker": "1,0010105"
       },
       "original": "ところで……宇宙クジラにみんなの気持ちを\n聞くって、なんのことだっけ？\nひさしぶりだから、忘れちゃって。\n",
-      "translation": "그건 그렇고…… 우주 고래에게 모두의\n마음을 묻는다는 건, 무슨 말이었더라？\n오랜만이라 잊어버려서.\n",
+      "translation": "그건 그렇고…… 우주 고래에게 모두의\n마음을 묻는다는 건, 무슨 말이었더라?\n오랜만이라 잊어버려서.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -183,7 +183,7 @@
         "voice": "GB990105,3"
       },
       "original": "グラフが右に行けば行くほど、タクトさんは\nその人から好かれているということになりま\nす。\n",
-      "translation": "그래프가 오른쪽으로 가면 갈수록, 택트\n씨가 그 사람에게 사랑받고 있다는 뜻이\n됩니다.\n",
+      "translation": "그래프가 오른쪽으로 갈수록, 그 사람이\n택트 씨를 더 좋아한다는 뜻이 됩니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -196,7 +196,7 @@
         "voice": "GB990106,3"
       },
       "original": "みなさんに対して、どう接するかによって、\n表情やグラフは変化していきます。\nときどきチェックされることをお勧めします。\n",
-      "translation": "여러분에 대해 어떻게 대하느냐에 따라\n표정이나 그래프는 변화해 갑니다. 가끔\n확인해 보시는 것을 추천합니다.\n",
+      "translation": "여러분을 어떻게 대하느냐에 따라\n표정이나 그래프는 변화해 갑니다. 가끔\n확인해 보시는 것을 추천합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -209,7 +209,7 @@
         "voice": "GB990107,3"
       },
       "original": "……あ、宇宙クジラが答えてくれました。\nそれでは、みなさんのお気持ちをお見せしま\nすね。\n",
-      "translation": "……아, 우주쿠지라가 답해주었습니다.\n그럼, 여러분의 마음을 보여드릴게요.\n",
+      "translation": "……아, 우주 고래가 답해주었습니다.\n그럼, 여러분의 마음을 보여드릴게요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -222,7 +222,7 @@
         "speaker": "1,0010101"
       },
       "original": "お願いするよ。\n宇宙クジラに聞いてみてくれないか？\n",
-      "translation": "부탁하네. 우주쿠지라에게 물어봐 주지\n않겠나？\n",
+      "translation": "부탁할게. 우주 고래에게 물어봐 주지\n않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -248,7 +248,7 @@
         "speaker": "8,0080101"
       },
       "original": "……という感じみたいです。\nもう一度、ご覧になりますか？\n",
-      "translation": "……라는 느낌인 것 같습니다. 다시 한번\n보시겠습니까？\n",
+      "translation": "……라는 느낌인 것 같습니다. 다시 한번\n보시겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -261,7 +261,7 @@
         "face": "0,0080102,0"
       },
       "original": "悪いけど、もう一度見せてくれないか。\n",
-      "translation": "미안하지만, 다시 한번 보여주지 않겠나.\n",
+      "translation": "미안하지만, 다시 한번 보여줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -313,7 +313,7 @@
         "voice": "GAX01006,3"
       },
       "original": "ふぅ……なんだか疲れた。\n大した時間も取れないけど、少し休もうかな？\n",
-      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼\n수는 없지만, 조금 쉴까？\n",
+      "translation": "후우…… 왠지 피곤하네. 긴 시간을 낼\n수는 없지만, 조금 쉴까?\n",
       "state": "draft",
       "use_translation": true
     },

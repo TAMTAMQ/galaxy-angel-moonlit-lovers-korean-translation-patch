@@ -16,7 +16,7 @@
         "speaker": "3,0030101"
       },
       "original": "ふんふんふーん。\nらんららんららーん。\n",
-      "translation": "흠흠흠～ 란라란라라～ㄴ.\n",
+      "translation": "흠흠흠ー 란라란라라ー앙.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -55,7 +55,7 @@
         "speaker": "1,0010102"
       },
       "original": "ずいぶん機嫌がいいね。\nどうしたんだい？\n",
-      "translation": "꽤 기분이 좋아 보이네. 무슨 일이야？\n",
+      "translation": "꽤 기분이 좋아 보이네. 무슨 일이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -68,7 +68,7 @@
         "speaker": "3,0030101"
       },
       "original": "占いによると、今日のアタシは恋愛運が最高\nなの！\nとってもステキなことが起こるんだって。\n",
-      "translation": "점괘에 따르면, 오늘 나는 연애운이\n최고래！ 엄청 멋진 일이 일어날 거래.\n",
+      "translation": "점괘에 따르면, 오늘 나는 연애운이\n최고래! 엄청 멋진 일이 일어날 거래.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -81,7 +81,7 @@
         "speaker": "1,0010102"
       },
       "original": "ステキなことって？\n",
-      "translation": "멋진 일이라니？\n",
+      "translation": "멋진 일이라니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -94,7 +94,7 @@
         "speaker": "3,0030101"
       },
       "original": "それはもう、夢みたいにステキなことよ。\nきっと『ひそやかな月の光の下で』の告白シー\nンぐらいに、ステキなことだわ！\n",
-      "translation": "그건 말이야, 꿈처럼 멋진 일이지. 분명\n『은밀한 달빛 아래에서』의 고백\n장면만큼이나 멋진 일일 거야！\n",
+      "translation": "그건 말이야, 꿈처럼 멋진 일이지. 분명\n『은밀한 달빛 아래에서』의 고백\n장면만큼이나 멋진 일일 거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -107,7 +107,7 @@
         "speaker": "1,0010105"
       },
       "original": "ひそやかな……なんだって？\n",
-      "translation": "은밀한…… 뭐라고？\n",
+      "translation": "은밀한…… 뭐라고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -120,7 +120,7 @@
         "speaker": "3,0030101"
       },
       "original": "うっそー、知らないの？\n",
-      "translation": "거짓말～ 몰라？\n",
+      "translation": "에ー, 설마 몰라?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -185,7 +185,7 @@
         "voice": "GB230607,3"
       },
       "original": "主人公がね、ヒロインに告白するときのセリ\nフが、もうすっごいステキなの！\n",
-      "translation": "주인공이 말이야, 히로인에게 고백할 때의\n대사가, 정말 엄청나게 멋지다고！\n",
+      "translation": "주인공이 말이야, 히로인에게 고백할 때의\n대사가, 정말 엄청나게 멋지다고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -211,7 +211,7 @@
         "face": "0,0030205,0"
       },
       "original": "あぁ～、ホントいいセリフよね～！\n",
-      "translation": "아아～, 정말 멋진 대사지～！\n",
+      "translation": "아아～, 정말 멋진 대사지～!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -237,7 +237,7 @@
         "speaker": "3,0030101"
       },
       "original": "ねぇ、ちゃんと聞いてる？\n",
-      "translation": "있잖아, 제대로 듣고 있어？\n",
+      "translation": "있잖아, 제대로 듣고 있어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -276,7 +276,7 @@
         "speaker": "1,0010105"
       },
       "original": "……へ？\n",
-      "translation": "……헤？\n",
+      "translation": "……헤?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -302,7 +302,7 @@
         "voice": "GB230612,3"
       },
       "original": "に……虹色の雫をまとい、水面に立つ天\n使……。\n",
-      "translation": "에…… 무지갯빛 물방울을 두르고, 수면\n위에 서 있는 천사…….\n",
+      "translation": "무…… 무지갯빛 물방울을 두르고, 수면\n위에 서 있는 천사…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -341,7 +341,7 @@
         "voice": "GB230614,3"
       },
       "original": "ね、ステキでしょ？\nちゃんと覚えた？\n",
-      "translation": "있지, 멋지지？ 제대로 기억했어？\n",
+      "translation": "있지, 멋지지? 제대로 기억했어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -354,7 +354,7 @@
         "speaker": "1,0010401"
       },
       "original": "うん、たぶん……。\nでも、なんでそんなこと聞くの？\n",
-      "translation": "응, 아마도……. 근데, 왜 그런 걸\n물어봐？\n",
+      "translation": "응, 아마도……. 근데, 왜 그런 걸\n물어봐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -367,7 +367,7 @@
         "speaker": "3,0030101"
       },
       "original": "あ、いっけない！\n下準備もしておかなきゃ！\n",
-      "translation": "아, 안 되겠다！ 밑준비도 해둬야지！\n",
+      "translation": "아, 안 되겠다! 밑준비도 해둬야지!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -380,7 +380,7 @@
         "voice": "GB230615,3"
       },
       "original": "これから何かするのかい？\n",
-      "translation": "이제부터 뭔가 하는 거야？\n",
+      "translation": "이제부터 뭔가 하는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -393,7 +393,7 @@
         "face": "0,0030105,0"
       },
       "original": "ううん、なんでもないの！\nそれじゃ、アタシ急ぐから。\n",
-      "translation": "아니, 아무것도 아니야！ 그럼, 나\n서둘러야 하니까.\n",
+      "translation": "아니, 아무것도 아니야! 그럼, 나\n서둘러야 하니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -406,7 +406,7 @@
         "voice": "GB230617,3"
       },
       "original": "楽しみにしててね！\n",
-      "translation": "기대하고 있어！\n",
+      "translation": "기대해 줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -419,7 +419,7 @@
         "voice": "GB230617,3"
       },
       "original": "……楽しみに？\nランファ、何をするつもりなんだろう。\n",
-      "translation": "……기대하라고？ 란파, 무슨 생각을 하고\n있는 걸까.\n",
+      "translation": "……기대하라고? 란파, 무슨 생각을 하고\n있는 걸까.\n",
       "state": "draft",
       "use_translation": true
     },

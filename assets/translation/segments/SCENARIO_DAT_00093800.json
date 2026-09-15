@@ -26,7 +26,7 @@
         "voice": "GB110600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -78,7 +78,7 @@
         "face": "0,0,0"
       },
       "original": "以上だ。\nタクト、どうする？\n",
-      "translation": "이상이다. 택트, 어떻게 할 거지？\n",
+      "translation": "이상이다. 택트, 어떻게 할 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -143,7 +143,7 @@
         "face": "0,0,0"
       },
       "original": "タクトも相変わらずねぇ。\nまーた、ヴァニラに重労働させるつもり？\n",
-      "translation": "택트도 여전하네. 또 바닐라에게 중노동을\n시킬 생각이야？\n",
+      "translation": "택트도 여전하네. 또 바닐라에게 중노동을\n시킬 생각이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -169,7 +169,7 @@
         "face": "0,0,0"
       },
       "original": "それに、みんなのダメージが少なくなれば、\nそれだけヴァニラの負担も減るってものだろ\nう？\n",
-      "translation": "게다가, 모두의 데미지가 적어지면 그만큼\n바닐라의 부담도 줄어드는 법이잖아？\n",
+      "translation": "게다가, 모두의 데미지가 적어지면 그만큼\n바닐라의 부담도 줄어드는 법이잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -205,7 +205,7 @@
         "speaker": "999,0"
       },
       "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×３\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대의\n편성～구축함×５　　　　　　순양함×３～\n승리 조건～적 함대의 전멸～패배\n조건～에르시올의 파괴 타임 오버\n",
+      "translation": "～적 부대 편성～\n　구축함×5　　　　　　순양함×3\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -218,7 +218,7 @@
         "face": "0,0070101,0"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번, 작전 내용을 확인할까？\n",
+      "translation": "다시 한번, 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -231,7 +231,7 @@
         "face": "0,0070101,0"
       },
       "original": "そうだなぁ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -257,7 +257,7 @@
         "face": "0,0070101,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없어. 다들, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없어. 다들, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -270,7 +270,7 @@
         "face": "0,0070101,0"
       },
       "original": "いつでもいいわよ！\n",
-      "translation": "언제든 괜찮아요！\n",
+      "translation": "언제든 괜찮아요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -283,7 +283,7 @@
         "face": "0,0070101,0"
       },
       "original": "はい、マイヤーズ司令。\n足手まといにならないように、先輩方の戦い\n方を勉強させていただきます。\n",
-      "translation": "네, 마이어스 사령관님. 방해가 되지\n않도록 선배님들의 전투 방식을\n배우겠습니다.\n",
+      "translation": "네, 마이어스 사령관. 방해가 되지\n않도록 선배들의 전투 방식을\n배우겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -335,7 +335,7 @@
         "voice": "GB510313,3"
       },
       "original": "それじゃあ、エンジェル隊、出撃！\n",
-      "translation": "그럼, 엔젤대, 출격！\n",
+      "translation": "그럼, 엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -348,7 +348,7 @@
         "voice": "GB510314,3"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }

@@ -27,7 +27,7 @@
         "speaker": "1,0010101"
       },
       "original": "スペシャル３色ソフトクリームひとつ。\n",
-      "translation": "스페셜 ３색 소프트크림 하나.\n",
+      "translation": "스페셜 3색 소프트크림 하나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -91,7 +91,7 @@
         "face": "0,0040704,0"
       },
       "original": "まあ、タクトさんもいらしてたんですの？\n",
-      "translation": "어머, 택트 씨도 와 계셨던 건가요？\n",
+      "translation": "어머, 택트 씨도 와 계셨던 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -104,7 +104,7 @@
         "face": "0,0040702,0"
       },
       "original": "あら？\nもしかして、タクトさんがお持ちになってい\nるのは……。\n",
-      "translation": "어라？ 혹시 택트 씨가 들고 계신 건…….\n",
+      "translation": "어라? 혹시 택트 씨가 들고 계신 건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -117,7 +117,7 @@
         "face": "0,0040702,0"
       },
       "original": "うん、スペシャル３色ソフトだよ。\n急に食べたくなってね。\n",
-      "translation": "응, 스페셜 ３색 소프트야. 갑자기 먹고\n싶어져서 말이야.\n",
+      "translation": "응, 스페셜 3색 소프트야. 갑자기 먹고\n싶어져서 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -130,7 +130,7 @@
         "face": "0,0040102,0"
       },
       "original": "奇遇ですわね。\n実は、私もなんですの。\n",
-      "translation": "기우네요. 사실 저도 그렇답니다.\n",
+      "translation": "우연이네요. 사실 저도 그렇답니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -143,7 +143,7 @@
         "face": "0,0040704,0"
       },
       "original": "店員さん、私にも、おひとついただけます？\n",
-      "translation": "점원 씨, 저에게도 하나 주시겠어요？\n",
+      "translation": "점원 씨, 저에게도 하나 주시겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -221,7 +221,7 @@
         "voice": "GB330611,3"
       },
       "original": "そこまでやると、甘すぎないかなぁ？\n",
-      "translation": "거기까지 하면 너무 달지 않을까？\n",
+      "translation": "거기까지 하면 너무 달지 않을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -286,7 +286,7 @@
         "speaker": "4,0040101"
       },
       "original": "そうですわ、ホールで一緒に食べませんか？\n",
-      "translation": "맞아요, 홀에서 같이 드시지 않겠어요？\n",
+      "translation": "맞아요, 홀에서 같이 드시지 않겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -312,7 +312,7 @@
         "voice": "GB330615,3"
       },
       "original": "オレに話……？\nああ、いいよ。\nそれじゃ行こうか。\n",
-      "translation": "나한테 할 이야기……？ 아아, 좋아. 그럼\n갈까.\n",
+      "translation": "나한테 할 이야기……? 아아, 좋아. 그럼\n갈까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -351,7 +351,7 @@
         "face": "0,0040204,0"
       },
       "original": "コーンってさ、固いのと柔らかいのがあるよ\nね。\nミントは、どっちが好き？\n",
-      "translation": "콘 말이야, 딱딱한 거랑 부드러운 게\n있잖아. 민트는 어느 쪽이 좋아？\n",
+      "translation": "콘 말이야, 딱딱한 거랑 부드러운 게\n있잖아. 민트는 어느 쪽이 좋아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -364,7 +364,7 @@
         "face": "0,0040702,0"
       },
       "original": "え？\nええ……柔らかいの、ですかしら。\n",
-      "translation": "에？ 에에…… 부드러운 쪽, 인가요.\n",
+      "translation": "에? 에에…… 부드러운 쪽, 인가요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -403,7 +403,7 @@
         "face": "0,0040204,0"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -416,7 +416,7 @@
         "voice": "GB330619,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -429,7 +429,7 @@
         "speaker": "4,0040101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -455,7 +455,7 @@
         "voice": "GB330621,3"
       },
       "original": "えっ？\n",
-      "translation": "엣？\n",
+      "translation": "엣?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -481,7 +481,7 @@
         "voice": "GB330622,3"
       },
       "original": "何か考え事でもしていたの？\n",
-      "translation": "무슨 생각이라도 하고 있었던 거야？\n",
+      "translation": "무슨 생각이라도 하고 있었던 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -494,7 +494,7 @@
         "voice": "GB330623,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -520,7 +520,7 @@
         "voice": "GB330624,3"
       },
       "original": "なんだい？\n",
-      "translation": "뭔데？\n",
+      "translation": "뭔데?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -533,7 +533,7 @@
         "speaker": "4,0040101"
       },
       "original": "その……ふたりっきりになりたいなー……な\nんて、お考えになったこと、ありますか？\n",
-      "translation": "그…… 둘이서만 있고 싶다â～～... 같은\n생각, 해보신 적 있나요？\n",
+      "translation": "그…… 둘이서만 있고 싶다ー…… 같은\n생각, 해보신 적 있나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -546,7 +546,7 @@
         "voice": "GB330625,3"
       },
       "original": "えっ……？\n",
-      "translation": "엣……？\n",
+      "translation": "엣……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -585,7 +585,7 @@
         "face": "0,0040202,0"
       },
       "original": "あ、はい。\n今日は１８時に、ちとせさんと引き継ぎをし\nたら、あとはずっとヒマですわ。\n",
-      "translation": "아, 네. 오늘은 １８시에 치토세 씨와\n인수인계를 하고 나면, 그다음부터는 계속\n한가해요.\n",
+      "translation": "아, 네. 오늘은 18시에 치토세 씨와\n인수인계를 하고 나면, 그다음부터는 계속\n한가해요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -611,7 +611,7 @@
         "speaker": "4,0040101"
       },
       "original": "えっ？\nよろしいんですの？\n",
-      "translation": "엣？ 괜찮으신 건가요？\n",
+      "translation": "엣? 괜찮으신 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -663,7 +663,7 @@
         "face": "0,0040704,0"
       },
       "original": "今夜２２時、格納庫でお待ちしておりますわ！\n",
-      "translation": "오늘 밤 ２２시, 격납고에서 기다리고\n있겠습니다！\n",
+      "translation": "오늘 밤 22시, 격납고에서 기다리고\n있겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -676,7 +676,7 @@
         "face": "0,0,0"
       },
       "original": "あ、ミント？\n行っちゃった……。\n",
-      "translation": "아, 민트？ 가버렸네…….\n",
+      "translation": "아, 민트? 가버렸네…….\n",
       "state": "draft",
       "use_translation": true
     },

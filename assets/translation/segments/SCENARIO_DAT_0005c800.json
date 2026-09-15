@@ -14,7 +14,7 @@
         "speaker": "1,0010103"
       },
       "original": "ミント～っ！\n",
-      "translation": "민트으！\n",
+      "translation": "민트으!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -27,7 +27,7 @@
         "voice": "GB320800,3"
       },
       "original": "マ、マイヤーズ司令？\n",
-      "translation": "마, 마이어스 사령관？\n",
+      "translation": "마, 마이어스 사령관?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -53,7 +53,7 @@
         "voice": "GB320801,3"
       },
       "original": "どうしたんだ、タクト？\nお前にしちゃ、ずいぶん慌ててるようだが。\n",
-      "translation": "왜 그래, 택트？ 너답지 않게 상당히\n당황한 것 같은데.\n",
+      "translation": "왜 그래, 택트? 너답지 않게 상당히\n당황한 것 같은데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -66,7 +66,7 @@
         "voice": "GB320801,3"
       },
       "original": "ちょっとね。\nここにミントが来なかったか？\n",
-      "translation": "잠깐 말이야. 여기 민트가 오지 않았나？\n",
+      "translation": "잠깐 말이야. 여기 민트가 오지 않았나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -92,7 +92,7 @@
         "voice": "GB320803,3"
       },
       "original": "用事があるんでしたら、呼び出しましょうか？\n",
-      "translation": "볼일이 있으시다면, 불러올까요？\n",
+      "translation": "볼일이 있으시다면, 불러올까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -118,7 +118,7 @@
         "voice": "GB320804,3"
       },
       "original": "なんだ、それは？\n",
-      "translation": "그게 뭔데？\n",
+      "translation": "그게 뭔데?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -131,7 +131,7 @@
         "voice": "GB320805,3"
       },
       "original": "ねぇアルモ、聞いた？\nマイヤーズ司令ったら、ミントさんと個人的\nなお話だって！\n",
-      "translation": "있지 아르모, 들었어？ 마이어스\n사령관님이 민트 씨랑 개인적인\n이야기라는데！\n",
+      "translation": "있지 아르모, 들었어? 마이어스\n사령관이 민트 씨랑 개인적인\n이야기라는데!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -170,7 +170,7 @@
         "voice": "GB320807,3"
       },
       "original": "はぁ？\nどういう意味だ？\n",
-      "translation": "하아？ 무슨 뜻이야？\n",
+      "translation": "하아? 무슨 뜻이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -196,7 +196,7 @@
         "voice": "GB320808,3"
       },
       "original": "マイヤーズ司令、ミントさんと何かあったん\nですか？\n",
-      "translation": "마이어스 사령관님, 민트 씨와 무슨 일\n있었나요？\n",
+      "translation": "마이어스 사령관, 민트 씨와 무슨 일\n있었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -209,7 +209,7 @@
         "voice": "GB320809,3"
       },
       "original": "ひょっとして、ちとせさんに目移りしたのが\nバレちゃった、とか！？\n",
-      "translation": "설마, 치토세 씨에게 눈독 들인 게\n들켜버렸다, 라든가！？\n",
+      "translation": "설마, 치토세 씨에게 한눈판 게\n들켜버렸다든가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -235,7 +235,7 @@
         "speaker": "1,0010105"
       },
       "original": "……い、いや、違うよ！\n",
-      "translation": "……아, 아니야, 아니라고！\n",
+      "translation": "……아, 아니야, 아니라고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -248,7 +248,7 @@
         "speaker": "16,0160101"
       },
       "original": "今の微妙な間は、なんですか？\n",
-      "translation": "방금 그 미묘한 침묵은, 뭔가요？\n",
+      "translation": "방금 그 미묘한 침묵은, 뭔가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -261,7 +261,7 @@
         "voice": "GB320811,3"
       },
       "original": "まさか、図星なんですか？\n",
-      "translation": "설마, 정곡을 찔린 건가요？\n",
+      "translation": "설마, 정곡을 찔린 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -287,7 +287,7 @@
         "face": "0170101,0,0160101"
       },
       "original": "ともかく、ミントが来てないなら、いいや。\nほかを当たってみるよ。\nそれじゃっ！\n",
-      "translation": "어쨌든, 민트가 오지 않았다면 됐어. 다른\n곳을 알아볼게. 그럼 이만！\n",
+      "translation": "어쨌든, 민트가 오지 않았다면 됐어. 다른\n곳을 알아볼게. 그럼 이만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -300,7 +300,7 @@
         "face": "0170101,0,0160101"
       },
       "original": "ミント！\nミント、いないか！？\n",
-      "translation": "민트！ 민트, 있나！？\n",
+      "translation": "민트! 민트, 있나!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -326,7 +326,7 @@
         "face": "0170101,0,0160101"
       },
       "original": "あれ、マイヤーズ司令？\n",
-      "translation": "어라, 마이어스 사령관님？\n",
+      "translation": "어라, 마이어스 사령관?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -352,7 +352,7 @@
         "voice": "GB320901,3"
       },
       "original": "なんでしょう？\n俺で答えられることなら、なんだってお答え\nしますよ！\n",
-      "translation": "무엇인가요？ 제가 대답할 수 있는\n일이라면 무엇이든 대답하겠습니다！\n",
+      "translation": "무엇인가요? 제가 대답할 수 있는\n일이라면 무엇이든 대답하겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -365,7 +365,7 @@
         "face": "0170101,0,0160101"
       },
       "original": "ただし、ヴァニラちゃんとの秘密についてで\nしたら、お断りします！\n",
-      "translation": "단, 바닐라쨩과의 비밀에 관한 것이라면\n거절하겠습니다！\n",
+      "translation": "단, 바닐라쨩과의 비밀에 관한 것이라면\n거절하겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -378,7 +378,7 @@
         "voice": "GB320903,3"
       },
       "original": "『ヴァニラちゃん親衛隊』隊長の誇りと名誉\n　にかけて、絶対にしゃべりませんからね！\n",
-      "translation": "『바닐라쨩 친위대』 대장의 긍지와 명예를\n　걸고, 절대로 말하지 않을 테니까요！\n",
+      "translation": "『바닐라쨩 친위대』 대장의 긍지와 명예를\n　걸고, 절대로 말하지 않을 테니까요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -404,7 +404,7 @@
         "speaker": "1,0010401"
       },
       "original": "……というか、君とヴァニラの間に何か秘密\nがあるのかい？\n",
-      "translation": "……그보다, 자네와 바닐라 사이에 뭔가\n비밀이라도 있는 건가？\n",
+      "translation": "……그보다, 자네와 바닐라 사이에 뭔가\n비밀이라도 있는 건가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -428,7 +428,7 @@
         "voice": "GB320905,3"
       },
       "original": "ですが、今後そういうことがあれば、という\n予行演習のつもりで言ってみました！\n",
-      "translation": "하지만, 나중에 그런 일이 생길 경우를\n대비한 예행연습 삼아 말해봤습니다！\n",
+      "translation": "하지만, 나중에 그런 일이 생길 경우를\n대비한 예행연습 삼아 말해봤습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -452,7 +452,7 @@
         "voice": "GB320905,3"
       },
       "original": "そんなことより、このあたりでミントを見か\nけなかったか？\n",
-      "translation": "그런 것보다, 이 근처에서 민트를 보지\n못했나？\n",
+      "translation": "그런 것보다, 이 근처에서 민트를 보지\n못했나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -464,7 +464,7 @@
         "voice": "GB320906,3"
       },
       "original": "ミントさんですか？\nいえ、見てませんけど。\n",
-      "translation": "민트 씨 말씀인가요？ 아뇨, 못 봤는데요.\n",
+      "translation": "민트 씨 말씀인가요? 아뇨, 못 봤는데요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -488,7 +488,7 @@
         "speaker": "20,0200101"
       },
       "original": "ところで、俺からも質問なんですけど。\nこのあたりで、ヴァニラちゃんを見かけませ\nんでしたか？\n",
-      "translation": "그건 그렇고, 저도 질문 하나만\n하겠습니다. 이 근처에서 바닐라쨩을 보지\n못했습니까？\n",
+      "translation": "그건 그렇고, 저도 질문 하나만\n하겠습니다. 이 근처에서 바닐라쨩을 보지\n못했습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -500,7 +500,7 @@
         "voice": "GB320907,3"
       },
       "original": "ヴァニラ？\n……うーん、このあたりでは見てないなぁ。\n",
-      "translation": "바닐라？ ……으음, 이 근처에선 못 봤는데\n말이야.\n",
+      "translation": "바닐라? ……으음, 이 근처에선 못 봤는데\n말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -584,7 +584,7 @@
         "voice": "GB321000,3"
       },
       "original": "あっ、いた！\n",
-      "translation": "앗, 있다！\n",
+      "translation": "앗, 있다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -608,7 +608,7 @@
         "speaker": "1,0010301"
       },
       "original": "……いや！\nとにかく、きちんとミントと話をしなきゃ。\n",
-      "translation": "……아니！ 어쨌든, 제대로 민트와\n이야기를 해야 해.\n",
+      "translation": "……아니! 어쨌든, 제대로 민트와\n이야기를 해야 해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -620,7 +620,7 @@
         "voice": "GB321000,3"
       },
       "original": "ミント！！\n",
-      "translation": "민트！！\n",
+      "translation": "민트!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -698,7 +698,7 @@
         "face": "0,0040201,0"
       },
       "original": "でも！\n",
-      "translation": "하지만！\n",
+      "translation": "하지만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -724,7 +724,7 @@
         "face": "0,0,0"
       },
       "original": "あっ！\n待ってくれ、ミント！\n",
-      "translation": "앗！ 기다려줘, 민트！\n",
+      "translation": "앗! 기다려줘, 민트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -737,7 +737,7 @@
         "face": "0,0,0"
       },
       "original": "ミント……どうしてだよ……！\n",
-      "translation": "민트…… 왜 그러는 거야……！\n",
+      "translation": "민트…… 왜 그러는 거야……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -763,7 +763,7 @@
         "voice": "GB321100,3"
       },
       "original": "おや、司令さん。\nえらく深刻そうな顔してるけど、どうしたん\nだい？\n",
-      "translation": "어라, 사령관님. 엄청 심각한 얼굴을 하고\n있는데, 무슨 일인가？\n",
+      "translation": "어라, 사령관 씨. 엄청 심각한 얼굴을 하고\n있는데, 무슨 일인가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -776,7 +776,7 @@
         "voice": "GB321100,3"
       },
       "original": "あっ、おばさん！\nここにミントは来てませんでしたか？\n",
-      "translation": "앗, 아주머니！ 여기에 민트 씨는 안\n왔나요？\n",
+      "translation": "앗, 아주머니! 여기에 민트 씨는 안\n왔나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -789,7 +789,7 @@
         "speaker": "24,0240103"
       },
       "original": "ミントちゃんかい？\n……さあ、今日は見てないねぇ。\n",
-      "translation": "민트쨩 말인가？…… 글쎄, 오늘은 못\n봤네.\n",
+      "translation": "민트쨩 말인가?…… 글쎄, 오늘은 못\n봤네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -802,7 +802,7 @@
         "voice": "GB321102,3"
       },
       "original": "ひょっとして、ミントちゃんとなんかあった\nのかい？\n",
-      "translation": "혹시, 민트쨩이랑 무슨 일이라도 있었나？\n",
+      "translation": "혹시, 민트쨩이랑 무슨 일이라도 있었나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -828,7 +828,7 @@
         "voice": "GB321103,3"
       },
       "original": "ワケありみたいだね。\nあたしでよかったら、相談に乗るよ？\n",
-      "translation": "사정이 있는 모양이네. 나라도 괜찮다면\n상담해 줄까？\n",
+      "translation": "사정이 있는 모양이네. 나라도 괜찮다면\n상담해 줄까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -841,7 +841,7 @@
         "speaker": "1,0010103"
       },
       "original": "ありがとう、気持ちだけ受け取っておきます。\n急いでるんで、これで！\n",
-      "translation": "고마워요, 마음만 받을게요. 서둘러야 해서\n이만！\n",
+      "translation": "고마워요, 마음만 받을게요. 서둘러야 해서\n이만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -854,7 +854,7 @@
         "voice": "GB321200,3"
       },
       "original": "ああ、マイヤーズ司令～。\nいらっしゃいませ～。\n",
-      "translation": "아아, 마이어스 사령관님～ 어서 오세요～.\n",
+      "translation": "아아, 마이어스 사령관～ 어서 오세요～.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -866,7 +866,7 @@
         "voice": "GB321200,3"
       },
       "original": "ミントは来なかったかい！？\n",
-      "translation": "민트는 안 왔나！？\n",
+      "translation": "민트는 안 왔나!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -878,7 +878,7 @@
         "voice": "GB321201,3"
       },
       "original": "ミントさんですか～？\nえ～～と……。\n",
-      "translation": "민트 씨 말씀이신가요～？ 에～～또…….\n",
+      "translation": "민트 씨 말씀이신가요～? 으～～음…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -902,7 +902,7 @@
         "voice": "GB321202,3"
       },
       "original": "……ミントは？\n",
-      "translation": "……민트는？\n",
+      "translation": "……민트는?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -926,7 +926,7 @@
         "voice": "GB321203,3"
       },
       "original": "どっちなんだ！？\n",
-      "translation": "어느 쪽이야！？\n",
+      "translation": "어느 쪽이야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -938,7 +938,7 @@
         "speaker": "25,0250102"
       },
       "original": "よ、よく覚えてないです～。\nすみません～。\n",
-      "translation": "저, 잘 기억이 안 나요～. 죄송해요～.\n",
+      "translation": "자, 잘 기억이 안 나요～. 죄송해요～.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -975,7 +975,7 @@
         "face": "0,1070201,0"
       },
       "original": "あ、タクトさん。\n……あの、ミント先輩は？\n",
-      "translation": "아, 택트 씨. ……저기, 민트 선배는？\n",
+      "translation": "아, 택트 씨. ……저기, 민트 선배는?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1079,7 +1079,7 @@
         "voice": "GB321304,3"
       },
       "original": "部屋に戻ってくれていればいいけど……。\n",
-      "translation": "방으로 돌아가 있어 있으면 좋을 텐데…….\n",
+      "translation": "방으로 돌아가 있으면 좋을 텐데…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1092,7 +1092,7 @@
         "voice": "GB321304,3"
       },
       "original": "……あっ！！\n",
-      "translation": "……앗！！\n",
+      "translation": "……앗!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1105,7 +1105,7 @@
         "speaker": "4,0040101"
       },
       "original": "あっ……！\n",
-      "translation": "앗……！\n",
+      "translation": "앗……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1118,7 +1118,7 @@
         "speaker": "1,0010201"
       },
       "original": "ミント！\nよかった、ちょっと話が……！\n",
-      "translation": "민트！ 다행이다, 잠깐 이야기 좀……！\n",
+      "translation": "민트! 다행이다, 잠깐 이야기 좀……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1144,7 +1144,7 @@
         "voice": "GB321401,3"
       },
       "original": "あっ、待ってくれよ、ミント！\nミント！\n",
-      "translation": "앗, 기다려, 민트！ 민트！\n",
+      "translation": "앗, 기다려, 민트! 민트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1157,7 +1157,7 @@
         "speaker": "1,0010102"
       },
       "original": "どうして逃げるんだ？\n誤解を解きたいだけなのに。\nそれに、テレパシーのことも……。\n",
-      "translation": "왜 도망치는 거지？ 오해를 풀고 싶을\n뿐인데. 게다가, 텔레파시에 대해서도…….\n",
+      "translation": "왜 도망치는 거지? 오해를 풀고 싶을\n뿐인데. 게다가, 텔레파시에 대해서도…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1209,7 +1209,7 @@
         "face": "0,0060302,0"
       },
       "original": "あっ、ヴァニラ。\nミントを見かけなかったかい？\n",
-      "translation": "앗, 바닐라. 민트를 보지 못했나？\n",
+      "translation": "앗, 바닐라. 민트를 보지 못했나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1287,7 +1287,7 @@
         "voice": "GB321503,3"
       },
       "original": "ヴァニラのせいじゃないよ。\nケーラ先生も、そう言ってただろう？\n",
-      "translation": "바닐라의 탓이 아니야. 케라 선생님도\n그렇게 말씀하셨잖아？\n",
+      "translation": "바닐라의 탓이 아니야. 케라 선생님도\n그렇게 말씀하셨잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1313,7 +1313,7 @@
         "voice": "GB321505,3"
       },
       "original": "ミントさんは……大丈夫でしょうか……？\n",
-      "translation": "민트 씨는…… 괜찮을까요……？\n",
+      "translation": "민트 씨는…… 괜찮을까요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1404,7 +1404,7 @@
         "voice": "GB321700,3"
       },
       "original": "あ、マイヤーズ司令。\nどうだった？\n",
-      "translation": "아, 마이어스 사령관. 어땠어？\n",
+      "translation": "아, 마이어스 사령관. 어땠어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1443,7 +1443,7 @@
         "face": "0260102,0,0060301"
       },
       "original": "うん……避けられてるみたいだよ。\n",
-      "translation": "응…… 피하고 있는 것 같아.\n",
+      "translation": "응…… 민트가 나를 피하는 것 같아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1521,7 +1521,7 @@
         "speaker": "26,0260101"
       },
       "original": "しっかり頼むわね、司令。\n",
-      "translation": "잘 부탁할게, 사령.\n",
+      "translation": "잘 부탁할게, 사령관.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1560,7 +1560,7 @@
         "voice": "GB321800,3"
       },
       "original": "あ、マイヤーズ司令。\n",
-      "translation": "아, 마이어스 사령관님.\n",
+      "translation": "아, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1573,7 +1573,7 @@
         "voice": "GB321801,3"
       },
       "original": "……どうなさったんですか？\n顔色が悪いですよ。\n",
-      "translation": "……어떻게 된 일인가요？ 안색이 나빠\n보여요.\n",
+      "translation": "……어떻게 된 일인가요? 안색이 나빠\n보여요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1586,7 +1586,7 @@
         "voice": "GB321801,3"
       },
       "original": "クレータ班長、ミントを見なかった！？\n",
-      "translation": "크레타 반장, 민트를 못 봤나！？\n",
+      "translation": "크레이타 반장, 민트를 못 봤나!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1612,7 +1612,7 @@
         "face": "0,0,0"
       },
       "original": "ねぇ、みんな！\n誰か、ミントさんを見かけた人はいない？\n",
-      "translation": "있지, 모두들！ 누군가, 민트 씨를 본\n사람은 없어？\n",
+      "translation": "있지, 모두들! 누군가, 민트 씨를 본\n사람은 없어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1703,7 +1703,7 @@
         "speaker": "1,0010401"
       },
       "original": "ミント、ここに隠れてたりしないかな……？\n",
-      "translation": "민트, 여기에 숨어 있지는 않으려나……？\n",
+      "translation": "민트, 여기에 숨어 있지는 않으려나……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1729,7 +1729,7 @@
         "voice": "GB321900,3"
       },
       "original": "わっ、ちとせ！？\n先に来てたのか。\n",
-      "translation": "앗, 치토세！？ 먼저 와 있었던 거야？\n",
+      "translation": "앗, 치토세!? 먼저 와 있었던 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1755,7 +1755,7 @@
         "speaker": "1,0010401"
       },
       "original": "そうか……ミントのやつ、いったいどこへ行っ\nたんだろう？\n",
-      "translation": "그런가…… 민트 녀석, 대체 어디로 간\n걸까？\n",
+      "translation": "그런가…… 민트 녀석, 대체 어디로 간\n걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1768,7 +1768,7 @@
         "face": "0,1070207,0"
       },
       "original": "……申し訳ありません。\nあのとき、私が寝ぼけたりしなければ……。\n",
-      "translation": "……죄송합니다. 그때, 제가 잠결에\n실수하지만 않았더라면…….\n",
+      "translation": "……죄송합니다. 그때, 제가 잠이 덜\n깨지만 않았더라면…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1833,7 +1833,7 @@
         "voice": "GB322100,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1846,7 +1846,7 @@
         "voice": "GB322100,3"
       },
       "original": "あっ！\nあの箱の陰にいるのは……。\n",
-      "translation": "앗！ 저 상자 뒤에 있는 건…….\n",
+      "translation": "앗! 저 상자 뒤에 있는 건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1859,7 +1859,7 @@
         "speaker": "1,0010201"
       },
       "original": "ミント！\nやっと見つけた！\n",
-      "translation": "민트！ 겨우 찾아냈다！\n",
+      "translation": "민트! 겨우 찾아냈다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1898,7 +1898,7 @@
         "voice": "GB322102,3"
       },
       "original": "ちょうどよかったですわ。\nちょっとこの箱を、あそこの棚まで運んでは\nいただけないでしょうか？\n",
-      "translation": "마침 잘 됐어요. 이 상자를 저기 선반까지\n좀 옮겨 주시지 않겠습니까？\n",
+      "translation": "마침 잘 됐어요. 이 상자를 저기 선반까지\n좀 옮겨 주시지 않겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1911,7 +1911,7 @@
         "speaker": "1,0010102"
       },
       "original": "えっ？\nミント、なにを言って……。\n",
-      "translation": "엣？ 민트, 무슨 소리를 하는 거야…….\n",
+      "translation": "엣? 민트, 무슨 소리를 하는 거야…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1937,7 +1937,7 @@
         "voice": "GB322103,3"
       },
       "original": "えっと……ど、どうしよう……。\n",
-      "translation": "저기…… 어, 어떡하지…….\n",
+      "translation": "음…… 어, 어떡하지…….\n",
       "state": "draft",
       "use_translation": true
     },

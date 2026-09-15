@@ -63,7 +63,7 @@
         "speaker": "1,0010401"
       },
       "original": "う……う～ん……あと５分……。\n",
-      "translation": "으…… 으음…… 앞으로 ５분만…….\n",
+      "translation": "으…… 으음…… 5분만 더…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -87,7 +87,7 @@
         "speaker": "3,0030401"
       },
       "original": "おーきーなーさーい！！！\n",
-      "translation": "일·어-나-라！！！\n",
+      "translation": "일어나라!!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -99,7 +99,7 @@
         "speaker": "1,0010103"
       },
       "original": "うわわわわっ！\n",
-      "translation": "우와와와왓！\n",
+      "translation": "우와와와왓!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -111,7 +111,7 @@
         "speaker": "1,0010102"
       },
       "original": "……あれ？\nここは、ランファの部屋？\n",
-      "translation": "……어라？ 여기는, 란파의 방？\n",
+      "translation": "……어라? 여기는, 란파의 방?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -124,7 +124,7 @@
         "face": "0,0030802,0"
       },
       "original": "タクト、大丈夫？\nそんなに驚くなんて思わなかったから。\n",
-      "translation": "택트, 괜찮아？ 그렇게 놀랄 줄은\n몰랐으니까.\n",
+      "translation": "택트, 괜찮아? 그렇게 놀랄 줄은\n몰랐으니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -202,7 +202,7 @@
         "face": "0,0030804,0"
       },
       "original": "だめよ、そんなにぼけーっとしてちゃ。\nタクトには、いつも元気ハツラツでいてもら\nわないと！\n",
-      "translation": "안 돼, 그렇게 멍하니 있으면 안 된다구.\n택트는 언제나 활기차야 한다고！\n",
+      "translation": "안 돼, 그렇게 멍하니 있으면 안 된다구.\n택트는 언제나 활기차야 한다고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -241,7 +241,7 @@
         "voice": "GB210009,3"
       },
       "original": "ランファも一緒に、のんびりしてみない？\n",
-      "translation": "란파도 같이, 느긋하게 쉬어보지 않을래？\n",
+      "translation": "란파도 같이, 느긋하게 쉬어보지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -254,7 +254,7 @@
         "voice": "GB210010,3"
       },
       "original": "え？\nのんびりって……。\n",
-      "translation": "에？ 느긋하게라니…….\n",
+      "translation": "에? 느긋하게라니…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -293,7 +293,7 @@
         "speaker": "3,0030202"
       },
       "original": "……で、これからどうするの？\n",
-      "translation": "……그래서, 이제부터 어떻게 할 거야？\n",
+      "translation": "……그래서, 이제부터 어떻게 할 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -319,7 +319,7 @@
         "voice": "GB210013,3"
       },
       "original": "……そうなの？\n",
-      "translation": "……그래？\n",
+      "translation": "……그래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -332,7 +332,7 @@
         "speaker": "1,0010101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -384,7 +384,7 @@
         "face": "0,0030401,0"
       },
       "original": "……あぁーーっ、やっぱりムリぃー！\n",
-      "translation": "……아아앗, 역시 무리야아！\n",
+      "translation": "……아아앗, 역시 무리야아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -397,7 +397,7 @@
         "speaker": "1,0010105"
       },
       "original": "おいおい、まだ１分もたってないよ？\n",
-      "translation": "어이어이, 아직 １분도 안 지났다고？\n",
+      "translation": "어이어이, 아직 1분도 안 지났다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -423,7 +423,7 @@
         "voice": "GB210018,3"
       },
       "original": "せっかくふたりでいるのよ？\nふたりでしかできないことをしましょうよ！\n",
-      "translation": "모처럼 둘이 같이 있잖아？ 둘이서밖에 할\n수 없는 걸 하자구！\n",
+      "translation": "모처럼 둘이 같이 있잖아? 둘이서밖에 할\n수 없는 걸 하자구!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -436,7 +436,7 @@
         "speaker": "1,0010102"
       },
       "original": "例えば？\n",
-      "translation": "예를 들면？\n",
+      "translation": "예를 들면?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -462,7 +462,7 @@
         "face": "0,0030804,0"
       },
       "original": "例えば、おしゃべりよ。\n恋人同士だったら、いくら話をしても話題は\nつきないものでしょ？\n",
-      "translation": "예를 들면, 수다 말이야. 연인 사이라면\n아무리 이야기를 해도 화젯거리가 끊이지\n않잖아？\n",
+      "translation": "예를 들면, 수다 말이야. 연인 사이라면\n아무리 이야기를 해도 화젯거리가 끊이지\n않잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -488,7 +488,7 @@
         "face": "0,0030105,0"
       },
       "original": "とっても楽しくてウィットに富んだステキな\n話？\nえ、えーと……。\n",
-      "translation": "아주 즐겁고 위트 넘치는 멋진 이야기？\n에, 에토…….\n",
+      "translation": "아주 즐겁고 위트 넘치는 멋진 이야기?\n저, 저기…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -501,7 +501,7 @@
         "face": "0,0030105,0"
       },
       "original": "……よし、わかったよ、ランファ！\n",
-      "translation": "...좋아, 알았어, 란파！\n",
+      "translation": "……좋아, 알았어, 란파!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -527,7 +527,7 @@
         "voice": "GB210021B,3"
       },
       "original": "そうだわ、思い出した！\nラブシオールよ！\n",
-      "translation": "맞아, 생각났다！ 러브시올이야！\n",
+      "translation": "맞아, 생각났다! 러브시올이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -540,7 +540,7 @@
         "face": "0,0030401,0"
       },
       "original": "え？\n",
-      "translation": "에？\n",
+      "translation": "에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -553,7 +553,7 @@
         "face": "0,0030104,0"
       },
       "original": "もー、どうしてクールダラス副司令ったら、\nカーテンもクッションも、全部元に戻しちゃ\nうワケ？\n",
-      "translation": "정말이지, 쿨다라스 부사령관님은 왜\n커튼도 쿠션도 전부 원래대로 돌려놓는\n거야？\n",
+      "translation": "정말이지, 쿨다라스 부사령관은 왜\n커튼도 쿠션도 전부 원래대로 돌려놓는\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -566,7 +566,7 @@
         "speaker": "3,0030101"
       },
       "original": "ブリッジから艦内からぜーんぶ花柄で統一し\nた、完璧なコーディネートだったのに！\n",
-      "translation": "브릿지부터 함내까지 전부 꽃무늬로\n통일한, 완벽한 코디네이션이었는데！\n",
+      "translation": "브릿지부터 함내까지 전부 꽃무늬로\n통일한, 완벽한 코디네이션이었는데!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -631,7 +631,7 @@
         "face": "0,0030802,0"
       },
       "original": "夢……？\n",
-      "translation": "꿈……？\n",
+      "translation": "꿈……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -800,7 +800,7 @@
         "voice": "GB210026,3"
       },
       "original": "「今まで黙っていたが……私は女だ」\n　……だろう？\n",
-      "translation": "「지금까지 숨기고 있었지만…… 나는\n　여자다」……겠지？\n",
+      "translation": "「지금까지 숨기고 있었지만…… 나는\n　여자다」……겠지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -852,7 +852,7 @@
         "voice": "GB210029,3"
       },
       "original": "……でも、大きな話題になった割には、そん\nなに長続きしなかったわね。\n週刊誌でも、すぐ別な話題に移っちゃったし。\n",
-      "translation": "……하지만 큰 화제가 된 것에 비하면\n그렇게 오래 지속되지는 않았네.\n주간지에서도 금방 다른 화제로 넘어갔고.\n",
+      "translation": "……하지만 큰 화제가 된 것에 비하면\n그렇게 오래가진 않았네.\n주간지에서도 금방 다른 화제로 넘어갔고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -865,7 +865,7 @@
         "face": "0,0030101,0"
       },
       "original": "みんな復興するのに追われて、シヴァ女皇の\nゴシップどころじゃなかったんだろう。\n",
-      "translation": "다들 복구 작업에 쫓겨서, 시바 여황제의\n가십 따위 신경 쓸 겨를이 없었겠지.\n",
+      "translation": "다들 복구 작업에 쫓겨서, 시바 여황의\n가십 따위 신경 쓸 겨를이 없었겠지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -878,7 +878,7 @@
         "face": "0,0030101,0"
       },
       "original": "それに加えて、シヴァ女皇は民衆のために、\n自ら陣頭に立って懸命にがんばっている。\n",
-      "translation": "게다가 시바 여황제는 민중을 위해 스스로\n선두에 서서 열심히 노력하고 있고.\n",
+      "translation": "게다가 시바 여황은 민중을 위해 스스로\n선두에 서서 열심히 노력하고 있고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -930,7 +930,7 @@
         "face": "0,0030101,0"
       },
       "original": "ところで、ミルフィーやミント、ヴァニラや\nフォルテは今ごろどうしているかな？\n",
-      "translation": "그건 그렇고, 밀피나 민트, 바닐라와\n포르테는 지금쯤 어떻게 하고 있을까？\n",
+      "translation": "그건 그렇고, 밀피나 민트, 바닐라와\n포르테는 지금쯤 어떻게 하고 있을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -943,7 +943,7 @@
         "face": "0,0030101,0"
       },
       "original": "確かみんなは、復興作業の手伝いと、ロスト\nテクノロジー探しをかけ持ちしてるって話だ\nろ？\n",
-      "translation": "분명 다들 복구 작업 돕기랑 로스트\n테크놀로지 찾기를 병행하고 있다고\n들었지？\n",
+      "translation": "분명 다들 복구 작업 돕기랑 로스트\n테크놀로지 찾기를 병행하고 있다고\n했지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -969,7 +969,7 @@
         "face": "0,0030101,0"
       },
       "original": "この前、フォルテさんから届いたメッセージ\nだと、今度は第３方面軍の応援に行くみたい。\n",
-      "translation": "얼마 전에 포르테 씨에게 온 메시지에\n따르면, 이번에는 제３방면군 지원을 가나\n봐.\n",
+      "translation": "얼마 전에 포르테 씨에게 온 메시지에\n따르면, 이번에는 제3방면군 지원을 가나\n봐.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -982,7 +982,7 @@
         "face": "0,0030101,0"
       },
       "original": "第３方面軍？\nなんで、そんなところに……。\n",
-      "translation": "제３방면군？ 왜 그런 곳에…….\n",
+      "translation": "제3방면군? 왜 그런 곳에…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1021,7 +1021,7 @@
         "voice": "GB210032,3"
       },
       "original": "だけど、どうせ復興のドサクサにまぎれて悪\nさをしてる、よくある強盗まがいだろう？\n",
-      "translation": "하지만 어차피 복구 작업의 혼란을 틈타\n나쁜 짓을 하는, 흔한 강도 같은 거겠지？\n",
+      "translation": "하지만 어차피 복구 작업의 혼란을 틈타\n나쁜 짓을 하는, 흔한 강도 같은 거겠지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1060,7 +1060,7 @@
         "speaker": "1,0010102"
       },
       "original": "……どういうこと？\n",
-      "translation": "……무슨 뜻이야？\n",
+      "translation": "……무슨 뜻이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1073,7 +1073,7 @@
         "voice": "GB210034,3"
       },
       "original": "フォルテさんから教えてもらったんだけど、\nこのところ、辺境にある皇国軍の駐留基地な\nんかも襲われてるんだって。\n",
-      "translation": "포르테 씨에게 들었는데, 요즘 변방에 있는\n황국군 주류 기지 같은 곳도 습격당하고\n있대.\n",
+      "translation": "포르테 씨에게 들었는데, 요즘 변방에 있는\n황국군 주둔 기지 같은 곳도 습격당하고\n있대.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1086,7 +1086,7 @@
         "voice": "GB210034,3"
       },
       "original": "襲われてるって、その強奪船団に？\nぶっそうな話だなぁ……。\n",
-      "translation": "습격당하다니, 그 강탈 선단에게？ 끔찍한\n이야기네…….\n",
+      "translation": "습격당하다니, 그 강탈 선단에게? 끔찍한\n이야기네…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1099,7 +1099,7 @@
         "voice": "GB210034,3"
       },
       "original": "本星と直接交信ができるエリアに入ったら、\nルフト将軍にでも聞いてみようかな。\n",
-      "translation": "본성과 직접 교신할 수 있는 구역에\n들어가면, 루프트 장군님께라도 물어볼까.\n",
+      "translation": "본성과 직접 교신할 수 있는 구역에\n들어가면, 루프트 장군에게라도 물어볼까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1112,7 +1112,7 @@
         "speaker": "3,0030101"
       },
       "original": "そうしてくれる？\nみんなのことが気になるし。\n",
-      "translation": "그렇게 해줄래？ 다들 어떻게 지내는지\n걱정되니까.\n",
+      "translation": "그렇게 해줄래? 다들 어떻게 지내는지\n걱정되니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1138,7 +1138,7 @@
         "voice": "GB210035,3"
       },
       "original": "まぁ、たぶん大丈夫だとは思うけどね。\nみんなの強さは、オレたちが一番よく知って\nいる。そうだろう？\n",
-      "translation": "뭐, 아마 괜찮을 거라고 생각하지만\n말이야. 모두의 강함은 우리가 가장 잘\n알고 있잖아. 그렇지？\n",
+      "translation": "뭐, 아마 괜찮을 거라고 생각하지만\n말이야. 모두의 강함은 우리가 가장 잘\n알고 있잖아. 그렇지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1190,7 +1190,7 @@
         "speaker": "3,0030101"
       },
       "original": "いいわね！\nみんなでぱーっと、騒ぎましょ！\n",
-      "translation": "좋아！ 다 같이 왁자지껄하게 놀자！\n",
+      "translation": "좋아! 다 같이 왁자지껄하게 놀자!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1229,7 +1229,7 @@
         "voice": "GB210038,3"
       },
       "original": "じゃあ決まり！\nタクト、絶対だからね。\n約束よ。\n",
-      "translation": "그럼 결정！ 택트, 반드시여야 해.\n약속이야.\n",
+      "translation": "그럼 결정! 택트, 꼭이야.\n약속이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1281,7 +1281,7 @@
         "voice": "GB210039,3"
       },
       "original": "そうね。\nやっと皇国の領域内まで帰って来たのよね。\nただいま、ふるさとってカンジ？\n",
-      "translation": "그래. 겨우 황국의 영역 안까지 돌아온\n거니까 말이야. '다녀왔어'라는 느낌일까？\n",
+      "translation": "그래. 겨우 황국 영역 안까지\n돌아왔으니까. '다녀왔어, 고향아'라는\n느낌일까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1307,7 +1307,7 @@
         "speaker": "1,0010101"
       },
       "original": "もうじき、補給のために軌道ステーションに\n立ち寄るだろう？\nそのときに、一緒に市街区に出かけない？\n",
-      "translation": "곧 보급을 위해 궤도 스테이션에 들를\n거지？ 그때 같이 시가지로 나가지\n않을래？\n",
+      "translation": "곧 보급을 위해 궤도 스테이션에 들를\n거지? 그때 같이 시가지로 나가지\n않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1320,7 +1320,7 @@
         "voice": "GB210040,3"
       },
       "original": "オッケー！\nねえねえ、どこ行こっか！？\n",
-      "translation": "오케이！ 있잖아, 어디 갈까！？\n",
+      "translation": "오케이! 있잖아, 어디 갈까!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1346,7 +1346,7 @@
         "speaker": "3,0030101"
       },
       "original": "う～ん、悩んじゃうな～！\nあと、着ていく服も考えないと……。\n",
-      "translation": "으음, 고민되네～！ 그리고 입고 갈 옷도\n생각해야 하고…….\n",
+      "translation": "으음, 고민되네～! 그리고 입고 갈 옷도\n생각해야 하고…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1359,7 +1359,7 @@
         "face": "0,0030802,0"
       },
       "original": "あ、服で思い出したわ！\n",
-      "translation": "아, 옷 때문에 생각난 게 있어！\n",
+      "translation": "아, 옷 때문에 생각난 게 있어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1372,7 +1372,7 @@
         "voice": "GB210043,3"
       },
       "original": "タクト、ちょっと相談があるの。\nこれ見てくれない？\n",
-      "translation": "택트, 잠깐 상담할 게 있어. 이것 좀\n봐줄래？\n",
+      "translation": "택트, 잠깐 상담할 게 있어. 이것 좀\n봐줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1398,7 +1398,7 @@
         "voice": "GB210045,3"
       },
       "original": "ほらほら。\nこの服とか、ステキだと思わない？\n",
-      "translation": "자, 봐봐. 이 옷 같은 거, 멋지다고\n생각하지 않아？\n",
+      "translation": "자, 봐봐. 이 옷 같은 거, 멋지다고\n생각하지 않아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1411,7 +1411,7 @@
         "speaker": "1,0010105"
       },
       "original": "な、なんだい、このハデな服は？\n目がチカチカする……。\n",
-      "translation": "뭐, 뭐야, 이 화려한 옷은？ 눈이\n어질어질해…….\n",
+      "translation": "뭐, 뭐야, 이 화려한 옷은? 눈이\n어질어질해…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1437,7 +1437,7 @@
         "voice": "GB210047,3"
       },
       "original": "ねぇ、タクトはどんなのが好み？\n",
-      "translation": "있지, 택트는 어떤 스타일을 좋아해？\n",
+      "translation": "있지, 택트는 어떤 스타일을 좋아해?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1502,7 +1502,7 @@
         "speaker": "1,0010103"
       },
       "original": "ええっ！？\nオレもこの色にするのかい？\n",
-      "translation": "에엣！？ 나도 이 색으로 하는 거야？\n",
+      "translation": "에엣!? 나도 이 색으로 하는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1528,7 +1528,7 @@
         "voice": "GB210050,3"
       },
       "original": "ペ、ペアルック？\n君の服を選んでるんじゃなかったのか。\n",
-      "translation": "커, 커플룩？\\ 네 옷을 고르고 있던 게\n아니었나.\n",
+      "translation": "커, 커플룩? 네 옷을 고르고 있던 게\n아니었나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1553,7 +1553,7 @@
         "speaker": "3,0030205"
       },
       "original": "ふたりで街を歩けば、誰もが振り返って、う\nらやましがること間違いないわ！\n",
-      "translation": "둘이서 거리를 걸으면, 누구나 뒤돌아보며\n부러워할 게 틀림없어！\n",
+      "translation": "둘이서 거리를 걸으면, 누구나 뒤돌아보며\n부러워할 게 틀림없어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1578,7 +1578,7 @@
         "face": "0,0030202,0"
       },
       "original": "……タクトは、イヤなの？\nアタシとペアルックを着るの、恥ずかしい？\n",
-      "translation": "……택트는 싫은 거야？ 나랑 커플룩 입는\n거, 부끄러워？\n",
+      "translation": "……택트는 싫은 거야? 나랑 커플룩 입는\n거, 부끄러워?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1591,7 +1591,7 @@
         "face": "0,0030202,0"
       },
       "original": "えーと、それは……。\n",
-      "translation": "에-토, 그건…….\n",
+      "translation": "음, 그건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1617,7 +1617,7 @@
         "face": "0,0030202,0"
       },
       "original": "「ふたりだけのペアルックを作りませんか」\n　だって！\n",
-      "translation": "「둘만의 커플룩을 만들지\n　않겠습니까」라는데！\n",
+      "translation": "「둘만의 커플룩을 만들지\n　않겠습니까」라는데!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1643,7 +1643,7 @@
         "face": "0,0030202,0"
       },
       "original": "決めたわ！\nこれ、申し込みましょうよ。\nデザインはアタシに任せてちょうだい。\n",
-      "translation": "결정했어！ 이거, 신청하자. 디자인은\n나한테 맡겨줘.\n",
+      "translation": "결정했어! 이거, 신청하자. 디자인은\n나한테 맡겨줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1682,7 +1682,7 @@
         "face": "0,0030202,0"
       },
       "original": "タクトとペアルックかぁ……。\n今度のデートに間に合うといいなぁ。\n",
-      "translation": "택트랑 커플룩이라……. 이번 데이트에\n늦지 않으면 좋겠다.\n",
+      "translation": "택트랑 커플룩이라……. 이번 데이트에\n맞춰 도착하면 좋겠다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1721,7 +1721,7 @@
         "speaker": "2,0020102"
       },
       "original": "こんにちは～！\nタクトさん、おひさしぶりです！\n",
-      "translation": "안녕하세요～！ 택트 씨, 오랜만이에요！\n",
+      "translation": "안녕하세요～! 택트 씨, 오랜만이에요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1734,7 +1734,7 @@
         "face": "0,0,0"
       },
       "original": "ミルフィー！？\n君も来てたのか！\n",
-      "translation": "밀피！？ 너도 와 있었던 거야！\n",
+      "translation": "밀피!? 너도 와 있었던 거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1747,7 +1747,7 @@
         "face": "0,0,0"
       },
       "original": "はい！\nあたし、タクトさんに会うの、すっごく楽し\nみにしてたんですよ。\n",
-      "translation": "네！ 저, 택트 씨를 만나는 거, 엄청\n기대하고 있었다고요.\n",
+      "translation": "네! 저, 택트 씨를 만나는 거, 엄청\n기대하고 있었다고요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1773,7 +1773,7 @@
         "face": "0,0,0"
       },
       "original": "ミントまで！\nいったいどういうことだい？\n",
-      "translation": "민트까지！ 도대체 어떻게 된 일이야？\n",
+      "translation": "민트까지! 도대체 어떻게 된 일이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1786,7 +1786,7 @@
         "face": "0,0,0"
       },
       "original": "えっ？\nルフト将軍から、何も聞いてないんですか？\n",
-      "translation": "엣？ 루프트 장군님께 아무것도 못 들으신\n건가요？\n",
+      "translation": "엣? 루프트 장군에게 아무것도 못 들으신\n건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1825,7 +1825,7 @@
         "face": "0,0,0"
       },
       "original": "では、クイズですわ。\nどうして私たちがここへ来たのか、おわかり\nになります？\n",
-      "translation": "그럼, 퀴즈입니다. 우리가 왜 여기에\n왔는지, 알고 계신가요？\n",
+      "translation": "그럼, 퀴즈입니다. 우리가 왜 여기에\n왔는지, 알고 계신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1838,7 +1838,7 @@
         "face": "0,0,0"
       },
       "original": "君たちエンジェル隊が、ここに来た理由？\nそうだなぁ……。\n",
-      "translation": "너희 엔젤대가 여기 온 이유？ 글쎄다…….\n",
+      "translation": "너희 엔젤대가 여기 온 이유? 글쎄다…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1851,7 +1851,7 @@
         "face": "0,0,0"
       },
       "original": "ところで、タクトさん。\nお話の続きは、敵を倒してからにしませんか？\n",
-      "translation": "그건 그렇고, 택트 씨. 이야기는 적을\n쓰러뜨린 뒤에 하는 게 어떨까요？\n",
+      "translation": "그건 그렇고, 택트 씨. 이야기는 적을\n쓰러뜨린 뒤에 하는 게 어떨까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1876,7 +1876,7 @@
         "speaker": "1,0010101"
       },
       "original": "確かに、そのとおりだ。\n援護を頼めるかい？\n",
-      "translation": "확실히, 그 말이 맞다. 엄호를 부탁해도\n될까？\n",
+      "translation": "확실히, 그 말이 맞다. 엄호를 부탁해도\n될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1888,7 +1888,7 @@
         "speaker": "1,0010101"
       },
       "original": "さてと、みんな戻ってきたころかな？\n",
-      "translation": "자 그럼, 다들 돌아왔을 때인가？\n",
+      "translation": "자 그럼, 다들 돌아왔을 때인가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1901,7 +1901,7 @@
         "face": "0,0020102,0"
       },
       "original": "タクトさーん！\nまた会えて、すっごくうれしいです！\n",
-      "translation": "택트 씨！ 다시 만나서 정말 기뻐요！\n",
+      "translation": "택트 씨! 다시 만나서 정말 기뻐요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1927,7 +1927,7 @@
         "face": "0,0020102,0"
       },
       "original": "タクトさんの指揮だと、ラッキースターも絶\n好調です。\n",
-      "translation": "택트 씨의 지휘 덕분에 럭키 스타도\n절정이에요.\n",
+      "translation": "택트 씨의 지휘 덕분에 럭키 스타도\n최고조예요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2044,7 +2044,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミントこそ、ますます腕が上がったんじゃな\nいか？\n",
-      "translation": "민트야말로, 점점 실력이 늘어난 거\n아니야？\n",
+      "translation": "민트야말로, 점점 실력이 늘어난 거\n아니야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2057,7 +2057,7 @@
         "voice": "GB210506,3"
       },
       "original": "まあまあの結果だったでしょうか？\n私なりに全力をつくしたつもりですが。\n",
-      "translation": "뭐, 그럭저럭 괜찮은 결과였을까요？\n나름대로 최선을 다한 셈입니다만.\n",
+      "translation": "뭐, 그럭저럭 괜찮은 결과였을까요?\n나름대로 최선을 다한 셈입니다만.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2109,7 +2109,7 @@
         "speaker": "3,0030101"
       },
       "original": "やったわ、タクト！\nアタシの大活躍、見ててくれた？\n",
-      "translation": "해냈어, 택트！ 나의 활약, 보고 있었어？\n",
+      "translation": "해냈어, 택트! 나의 활약, 보고 있었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2200,7 +2200,7 @@
         "speaker": "2,0020101"
       },
       "original": "そうかなぁ？\nタクトさん、そんなことないですよね？\n",
-      "translation": "그럴까요？ 택트 씨, 그렇지 않나요？\n",
+      "translation": "그럴까요? 택트 씨, 그렇지 않나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2239,7 +2239,7 @@
         "speaker": "107,1070101"
       },
       "original": "は、はい……。\nですが……。\n",
-      "translation": "하, 하이…… 하지만…….\n",
+      "translation": "네, 네…… 하지만…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2252,7 +2252,7 @@
         "voice": "GB210603,3"
       },
       "original": "はぁ～っ！\nなんだかマジメな子ねぇ。\n",
-      "translation": "하아～！ 왠지 성실한 아이네.\n",
+      "translation": "하아～! 왠지 성실한 아이네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2304,7 +2304,7 @@
         "voice": "GB210607,3"
       },
       "original": "……ダーリン？\n",
-      "translation": "……달링？\n",
+      "translation": "……달링?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2317,7 +2317,7 @@
         "speaker": "3,0030101"
       },
       "original": "そう。\nアタシとタクトは宇宙イチの、スーパーラブ\nラブカップルなのよ！\n",
-      "translation": "그래. 아타시와 택트는 우주 제일의, 슈퍼\n러브러브 커플이라고！\n",
+      "translation": "그래.\n나와 택트는 우주 제일의, 슈퍼 러브러브\n커플이라고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2330,7 +2330,7 @@
         "speaker": "107,1070101"
       },
       "original": "は、はい、わかりました。\n肝に銘じておきます。\n",
-      "translation": "하, 하이, 알겠습니다. 명심하겠습니다.\n",
+      "translation": "네, 네, 알겠습니다. 명심하겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2382,7 +2382,7 @@
         "voice": "GB210611,3"
       },
       "original": "桜葉中尉？\nうーん、そう呼ぶと、まるでミルフィーとは\n別人みたいに聞こえるな。\n",
-      "translation": "사쿠라바 중위？ 으음, 그렇게 부르니 마치\n밀피와는 다른 사람처럼 들리는걸.\n",
+      "translation": "사쿠라바 중위? 으음, 그렇게 부르니 마치\n밀피와는 다른 사람처럼 들리는걸.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2486,7 +2486,7 @@
         "face": "0,0030102,0"
       },
       "original": "まぁ、とにかく。\n思い切って「タクト」って呼んでみなさいよ。\n意外とすぐ慣れるかもよ？\n",
-      "translation": "뭐, 어쨌든. 큰맘 먹고 「택트」라고 불러\n봐. 의외로 금방 익숙해질지도 몰라？\n",
+      "translation": "뭐, 어쨌든. 큰맘 먹고 「택트」라고 불러\n봐. 의외로 금방 익숙해질지도 몰라?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2538,7 +2538,7 @@
         "voice": "GB210801,3"
       },
       "original": "あれ、ふたりともどうしたの？\nちとせの荷物を取りに行ったんじゃなかったっ\nけ？\n",
-      "translation": "어라, 둘 다 어떻게 된 거야？ 치토세의\n짐을 가지러 간 거 아니었어？\n",
+      "translation": "어라, 둘 다 어떻게 된 거야? 치토세의\n짐을 가지러 간 거 아니었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2577,7 +2577,7 @@
         "speaker": "3,0030101"
       },
       "original": "ちとせ、ここが銀河展望公園よ。\n広くって気持ちいいでしょ？\n",
-      "translation": "치토세, 여기가 은하 전망 공원이야. 넓고\n기분 좋지？\n",
+      "translation": "치토세, 여기가 은하 전망 공원이야. 넓고\n기분 좋지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2603,7 +2603,7 @@
         "speaker": "3,0030101"
       },
       "original": "まぁ、もともとこの艦は、儀礼艦だからねー。\n住み心地は最高よ。\n",
-      "translation": "뭐, 원래 이 함선은 의례함이니까\n말이야～. 살기에는 최고라구.\n",
+      "translation": "뭐, 원래 이 함선은 의례함이니까\n말이야ー. 살기에는 최고라구.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2629,7 +2629,7 @@
         "speaker": "1,0010101"
       },
       "original": "ランファ、オレもつきあっていいかな？\n",
-      "translation": "란파, 나도 같이 가도 될까？\n",
+      "translation": "란파, 나도 같이 가도 될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2642,7 +2642,7 @@
         "voice": "GB210808,3"
       },
       "original": "もちろん！\n",
-      "translation": "물론이지！\n",
+      "translation": "물론이지!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2655,7 +2655,7 @@
         "speaker": "3,0030101"
       },
       "original": "それじゃあ次は……あ、あそこがいいわ！\n",
-      "translation": "그럼 다음은…… 아, 저기가 좋겠어！\n",
+      "translation": "그럼 다음은…… 아, 저기가 좋겠어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2720,7 +2720,7 @@
         "voice": "GB210813,3"
       },
       "original": "ん？　何か欲しいものがあった？\n",
-      "translation": "응？ 뭐 갖고 싶은 거라도 있어？\n",
+      "translation": "응? 뭐 갖고 싶은 거라도 있어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2733,7 +2733,7 @@
         "face": "0030802,0,1070201"
       },
       "original": "なになに……『エルシオールまんじゅう』？\nちとせ、おまんじゅう好きなの？\n",
-      "translation": "뭐야 뭐야…… 『에르시올 만쥬』？\n치토세, 만쥬 좋아해？\n",
+      "translation": "뭐야 뭐야…… 『에르시올 만쥬』?\n치토세, 만쥬 좋아해?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2785,7 +2785,7 @@
         "speaker": "107,1070101"
       },
       "original": "ランファ先輩もですか？\n",
-      "translation": "란파 선배님도요？\n",
+      "translation": "란파 선배도요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2837,7 +2837,7 @@
         "face": "0030804,0,-1"
       },
       "original": "ちとせは、おじいちゃんとおばあちゃんが喜\nぶ物を贈ろうって考えて、物を選ぶでしょ？\n",
-      "translation": "치토세는, 할아버지랑 할머니가 기뻐할\n물건을 보내야지 하고 생각하며 물건을\n고르잖아？\n",
+      "translation": "치토세는, 할아버지랑 할머니가 기뻐할\n물건을 보내야지 하고 생각하며 물건을\n고르잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2889,7 +2889,7 @@
         "speaker": "3,0030101"
       },
       "original": "え？\n",
-      "translation": "에？\n",
+      "translation": "에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2928,7 +2928,7 @@
         "speaker": "3,0030101"
       },
       "original": "そ、そうかしら？\n",
-      "translation": "그, 그런가？\n",
+      "translation": "그, 그런가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2967,7 +2967,7 @@
         "face": "0030804,0,-1"
       },
       "original": "うん。がんばって、ちとせ。\nアタシ、応援しちゃう！\n",
-      "translation": "응. 힘내, 치토세. 나, 응원할게！\n",
+      "translation": "응. 힘내, 치토세. 나, 응원할게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3006,7 +3006,7 @@
         "voice": "GB210834,3"
       },
       "original": "もちろん！\nあたしも、新人のころはいろんな人に助けて\nもらったしね。\n",
-      "translation": "물론이지！ 나도 신인 시절에는 여러\n사람에게 도움을 받았으니까.\n",
+      "translation": "물론이지! 나도 신인 시절에는 여러\n사람에게 도움을 받았으니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3175,7 +3175,7 @@
         "face": "0030802,0,1070304"
       },
       "original": "これが……ちとせの部屋？\n",
-      "translation": "이게…… 치토세의 방？\n",
+      "translation": "이게…… 치토세의 방?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3227,7 +3227,7 @@
         "voice": "GB210847,3"
       },
       "original": "ほとんど、木でできてるのね。\nでも……なんだか、草の香りもするわ。\nお庭にある鉢植えかしら？\n",
-      "translation": "거의 나무로 되어 있네. 하지만…… 왠지\n풀 내음도 나. 정원에 있는 화분일까？\n",
+      "translation": "거의 나무로 되어 있네. 하지만…… 왠지\n풀 내음도 나. 정원에 있는 화분일까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3305,7 +3305,7 @@
         "speaker": "107,1070101"
       },
       "original": "いえ、とんでもありません。\nお気遣いさせてしまったようで、申し訳あり\nません。\n",
-      "translation": "아니요, 천만다행입니다. 신경 쓰이게\n해드린 것 같아 죄송합니다.\n",
+      "translation": "아니요, 당치도 않습니다. 신경 쓰이게\n해드린 것 같아 죄송합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3383,7 +3383,7 @@
         "speaker": "1,0010101"
       },
       "original": "ランファとしても、かわいい後輩が出来てう\nれしいんじゃないか？\n",
-      "translation": "란파로서도, 귀여운 후배가 생겨서 기쁘지\n않아？\n",
+      "translation": "란파로서도, 귀여운 후배가 생겨서 기쁘지\n않아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3396,7 +3396,7 @@
         "speaker": "3,0030101"
       },
       "original": "うん！\nだから、思いっきり応援してあげるつもり！\n",
-      "translation": "응！ 그러니까, 마음껏 응원해 줄\n생각이야！\n",
+      "translation": "응! 그러니까, 마음껏 응원해 줄\n생각이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3435,7 +3435,7 @@
         "speaker": "1,0010102"
       },
       "original": "うん？\nどうかしたのかい？\n",
-      "translation": "응？ 왜 그러나？\n",
+      "translation": "응? 왜 그러나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3448,7 +3448,7 @@
         "speaker": "3,0030101"
       },
       "original": "あのね、タクト。\nちとせ……実は、とっても困ってるんじゃな\nいかしら？\n",
-      "translation": "있잖아, 택트. 치토세…… 사실은, 엄청\n곤란해하고 있는 거 아닐까？\n",
+      "translation": "있잖아, 택트. 치토세…… 사실은, 엄청\n곤란해하고 있는 거 아닐까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3461,7 +3461,7 @@
         "voice": "GB210857,3"
       },
       "original": "困るって……何が？\n",
-      "translation": "곤란하다니…… 무엇이？\n",
+      "translation": "곤란하다니…… 무엇이?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3474,7 +3474,7 @@
         "speaker": "3,0030101"
       },
       "original": "あの部屋のこと。\nほら、家具とか、全然なかったでしょ？\n",
-      "translation": "그 방 말이야. 봐, 가구 같은 게 전혀\n없었잖아？\n",
+      "translation": "그 방 말이야. 봐, 가구 같은 게 전혀\n없었잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3500,7 +3500,7 @@
         "voice": "GB210859,3"
       },
       "original": "だとしてもヘンよ。\nだって、ベッドがなかったら、寝られないで\nしょう？\n",
-      "translation": "그렇다 해도 이상해. 그치만 침대가\n없으면, 잠을 잘 수 없잖아？\n",
+      "translation": "그렇다 해도 이상해. 그치만 침대가\n없으면, 잠을 잘 수 없잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3526,7 +3526,7 @@
         "voice": "GB210860,3"
       },
       "original": "それに、机もなかったわ。\n手紙を書きたいときは、どうするの？\n床にはいつくばって書くことになっちゃうわ。\n",
-      "translation": "게다가, 책상도 없었어. 편지를 쓰고 싶을\n때는 어떻게 해？ 바닥에 엎드려서 써야\n하게 된다고.\n",
+      "translation": "게다가, 책상도 없었어. 편지를 쓰고 싶을\n때는 어떻게 해? 바닥에 엎드려서 써야\n하게 된다고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3539,7 +3539,7 @@
         "voice": "GB210861,3"
       },
       "original": "そうよ……それに、イスもなかった！\nあれじゃあ、お茶を飲みたいな～ってときも、\n立って飲まなくちゃいけないわ！\n",
-      "translation": "맞아…… 게다가, 의자도 없었어！ 저러면,\n차를 마시고 싶을 때도 서서 마셔야\n하잖아！\n",
+      "translation": "맞아…… 게다가, 의자도 없었어! 저러면,\n차를 마시고 싶을 때도 서서 마셔야\n하잖아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3565,7 +3565,7 @@
         "voice": "GB210862,3"
       },
       "original": "それとね……タクト、気づいてた？\nちとせの部屋の扉って、紙で出来てるの。\n",
-      "translation": "그리고 말이야…… 택트, 알고 있었어？\n치토세의 방 문은 종이로 되어 있어.\n",
+      "translation": "그리고 말이야…… 택트, 알고 있었어?\n치토세의 방 문은 종이로 되어 있어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3578,7 +3578,7 @@
         "face": "0,0030202,0"
       },
       "original": "えっ？　あれって紙だったの？\n",
-      "translation": "엣？ 저거 종이였어？\n",
+      "translation": "엣? 저거 종이였어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3604,7 +3604,7 @@
         "voice": "GB210864,3"
       },
       "original": "最初はね、アタシも「へ～、変わってるな」\nと思ったんだけど……。\nでも、やっぱりおかしいわ！\n",
-      "translation": "처음에는 말이야, 나도 「헤～,\n특이하네」라고 생각했지만……. 하지만,\n역시 이상해！\n",
+      "translation": "처음에는 말이야, 나도 「헤～,\n특이하네」라고 생각했지만……. 하지만,\n역시 이상해!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3617,7 +3617,7 @@
         "speaker": "3,0030101"
       },
       "original": "紙じゃ、なにかの拍子で簡単に穴が開いちゃ\nうじゃない！\nそしたら、すきま風がピープーよ！？\n",
-      "translation": "종이면, 무슨 바람에 쉽게 구멍이 뚫려\n버리잖아！ 그러면, 외풍이 쌩쌩 불\n거라고！？\n",
+      "translation": "종이면, 무슨 바람에 쉽게 구멍이 뚫려\n버리잖아! 그러면, 외풍이 쌩쌩 불\n거라고!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3656,7 +3656,7 @@
         "face": "0,0030106,0"
       },
       "original": "ねぇタクト、お願い。\nあの子の力になってあげて！\n",
-      "translation": "있지 택트, 부탁이야. 그 아이의 힘이\n되어줘！\n",
+      "translation": "있지 택트, 부탁이야. 그 아이의 힘이\n되어줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3682,7 +3682,7 @@
         "speaker": "1,0010101"
       },
       "original": "わかった、オレに任せてくれ。\n悪いようにはしないからさ。\n",
-      "translation": "알았어, 나에게 맡겨줘. 나쁜 일은 안 할\n테니까 말이야.\n",
+      "translation": "알았어, 나에게 맡겨줘. 잘 해결해 볼\n테니까 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3695,7 +3695,7 @@
         "voice": "GB210869,3"
       },
       "original": "ホント！？\nありがとう、ダーリン！\n",
-      "translation": "정말！？ 고마워, 달링！\n",
+      "translation": "정말!? 고마워, 달링!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3708,7 +3708,7 @@
         "speaker": "1,0010101"
       },
       "original": "それじゃ、善は急げだ。\nさっそく行ってくるよ。\n",
-      "translation": "그럼, 선은 급하게 처리해야지. 바로\n다녀올게.\n",
+      "translation": "그럼, 좋은 일은 서두르랬지. 바로\n다녀올게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3721,7 +3721,7 @@
         "face": "0,0030105,0"
       },
       "original": "うん！　行ってらっしゃい！\n",
-      "translation": "응！ 잘 다녀와！\n",
+      "translation": "응! 잘 다녀와!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3734,7 +3734,7 @@
         "face": "0,0030105,0"
       },
       "original": "ちとせ、ちょっといいかな？\n",
-      "translation": "치토세, 잠깐 괜찮을까？\n",
+      "translation": "치토세, 잠깐 괜찮을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3747,7 +3747,7 @@
         "face": "0,0030105,0"
       },
       "original": "タクトさん？\nはい、いま開けます。\n",
-      "translation": "택트 씨？ 네, 지금 열게요.\n",
+      "translation": "택트 씨? 네, 지금 열게요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3760,7 +3760,7 @@
         "speaker": "107,1070101"
       },
       "original": "タクトさん、何かご用でしょうか？\n",
-      "translation": "택트 씨, 무슨 용건이신가요？\n",
+      "translation": "택트 씨, 무슨 용건이신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3786,7 +3786,7 @@
         "speaker": "1,0010105"
       },
       "original": "あのさ、何か足りてない物はないかい？\n必要なら、こっちで用意するよ。\n",
-      "translation": "있잖아, 뭔가 부족한 건 없어？ 필요하다면\n이쪽에서 준비해 줄게.\n",
+      "translation": "있잖아, 뭔가 부족한 건 없어? 필요하다면\n이쪽에서 준비해 줄게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3799,7 +3799,7 @@
         "voice": "GB210873,3"
       },
       "original": "足りないもの……ですか？\nいえ、特にはありませんが。\n",
-      "translation": "부족한 것…… 말인가요？ 아니요, 딱히\n없습니다만.\n",
+      "translation": "부족한 것…… 말인가요? 아니요, 딱히\n없습니다만.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3825,7 +3825,7 @@
         "speaker": "1,0010401"
       },
       "original": "ベッド付きの部屋なら、まだ空いてるところ\nがあるんだ。そっちを使ってもいいんだよ？\n",
-      "translation": "침대가 있는 방이라면 아직 비어있는 곳이\n있어. 그쪽을 써도 된다고？\n",
+      "translation": "침대가 있는 방이라면 아직 비어있는 곳이\n있어. 그쪽을 써도 된다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3877,7 +3877,7 @@
         "face": "0,1070102,0"
       },
       "original": "……え？\n",
-      "translation": "……에？\n",
+      "translation": "……에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3903,7 +3903,7 @@
         "speaker": "1,0010105"
       },
       "original": "そういう習慣……なの？\n",
-      "translation": "그런 습관……인 거야？\n",
+      "translation": "그런 습관……인 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3929,7 +3929,7 @@
         "face": "0,1070204,0"
       },
       "original": "じゃあ、部屋に家具をあまり置いていないの\nも、もしかして……？\n",
-      "translation": "그럼, 방에 가구를 별로 두지 않은 것도,\n혹시……？\n",
+      "translation": "그럼, 방에 가구를 별로 두지 않은 것도,\n혹시……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3955,7 +3955,7 @@
         "speaker": "1,0010401"
       },
       "original": "扉が紙なのも……習慣なんだよね。\n",
-      "translation": "문이 종이인 것도…… 습관인 거지？\n",
+      "translation": "문이 종이인 것도…… 습관인 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3994,7 +3994,7 @@
         "face": "0,1070201,0"
       },
       "original": "あの、タクトさん？\n",
-      "translation": "저기, 택트 씨？\n",
+      "translation": "저기, 택트 씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4020,7 +4020,7 @@
         "speaker": "107,1070101"
       },
       "original": "……？\n",
-      "translation": "……？\n",
+      "translation": "……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4033,7 +4033,7 @@
         "speaker": "1,0010101"
       },
       "original": "あぁ、そうだ。\nちょうどお昼時だし、よかったら一緒に食事\nでもどうだい？\n",
-      "translation": "아, 맞다. 마침 점심시간인데, 괜찮다면\n같이 식사라도 하지 않을래？\n",
+      "translation": "아, 맞다. 마침 점심시간인데, 괜찮다면\n같이 식사라도 하지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4046,7 +4046,7 @@
         "face": "0,1070201,0"
       },
       "original": "よろしいのですか？\n",
-      "translation": "괜찮으신가요？\n",
+      "translation": "괜찮으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4072,7 +4072,7 @@
         "voice": "GB210883,3"
       },
       "original": "では、お言葉に甘えさせていただきます。\n",
-      "translation": "그럼, 말씀하신 대로 실례하겠습니다.\n",
+      "translation": "그럼, 감사히 함께하겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4085,7 +4085,7 @@
         "speaker": "4,0040101"
       },
       "original": "あら、タクトさんにちとせさん。\n",
-      "translation": "어머, 택트 씨에 치토세 씨.\n",
+      "translation": "어머, 택트 씨랑 치토세 씨.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4111,7 +4111,7 @@
         "face": "0,0,0030804"
       },
       "original": "ちとせも、お昼食べに来たの？\n",
-      "translation": "치토세도 점심 먹으러 온 거야？\n",
+      "translation": "치토세도 점심 먹으러 온 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4150,7 +4150,7 @@
         "face": "0020902,0,0"
       },
       "original": "せっかく、みんなそろったんですから、一緒\nに食べませんか？\n",
-      "translation": "모처럼 다 같이 모였으니까, 함께 먹지\n않을래요？\n",
+      "translation": "모처럼 다 같이 모였으니까, 함께 먹지\n않을래요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4176,7 +4176,7 @@
         "voice": "GB210890,3"
       },
       "original": "よろしいのですか？\nでは、失礼します。\n",
-      "translation": "괜찮은 건가요？ 그럼, 실례하겠습니다.\n",
+      "translation": "괜찮은 건가요? 그럼, 실례하겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4228,7 +4228,7 @@
         "face": "0,1070102,0"
       },
       "original": "さすが、うわさに名高いエルシオールです。\n食堂もきれいで立派ですね。\n",
-      "translation": "역시 소문으로 높다던 에르시올입니다.\n식당도 깨끗하고 훌륭하네요.\n",
+      "translation": "역시 소문으로 듣던 에르시올답네요.\n식당도 깨끗하고 훌륭합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4254,7 +4254,7 @@
         "speaker": "4,0040101"
       },
       "original": "ちとせさんは、何になさいますの？\n",
-      "translation": "치토세 씨는 무엇으로 하시겠어요？\n",
+      "translation": "치토세 씨는 무엇으로 하시겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4280,7 +4280,7 @@
         "speaker": "1,0010102"
       },
       "original": "それだけでいいの？\nずいぶん少食なんだね。\n",
-      "translation": "그것만으로 괜찮아？ 상당히 소식하는구나.\n",
+      "translation": "그것만으로 괜찮아? 상당히 소식하는구나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4319,7 +4319,7 @@
         "speaker": "3,0030101"
       },
       "original": "わかったわ。\nここはアタシが、なんでもおごってあげる！\n",
-      "translation": "알았어. 여기는 내가 전부 다 사줄게！\n",
+      "translation": "알았어. 여기는 내가 전부 다 사줄게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4332,7 +4332,7 @@
         "speaker": "107,1070101"
       },
       "original": "えっ？\nあの、ランファ先輩……。\n",
-      "translation": "엣？ 저기, 란파 선배…….\n",
+      "translation": "엣? 저기, 란파 선배…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4371,7 +4371,7 @@
         "speaker": "3,0030101"
       },
       "original": "いいの。\n気にしないで、お腹いっぱい食べなさい！\n",
-      "translation": "괜찮아. 신경 쓰지 말고 배불리 먹으렴！\n",
+      "translation": "괜찮아. 신경 쓰지 말고 배불리 먹으렴!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4423,7 +4423,7 @@
         "speaker": "2,0020101"
       },
       "original": "ちとせ、今日のおすすめは、野菜たっぷりの\nグラタンと、チキンの香草焼きなんだって。\nそれにしたら？\n",
-      "translation": "치토세, 오늘 추천 메뉴는 채소가 듬뿍\n들어간 그라탕이랑 치킨 허브 구이라던데.\n그걸로 할래？\n",
+      "translation": "치토세, 오늘 추천 메뉴는 채소가 듬뿍\n들어간 그라탕이랑 치킨 허브 구이라던데.\n그걸로 할래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4436,7 +4436,7 @@
         "voice": "GB210907,3"
       },
       "original": "ご本人が、サラダだけでいいとおっしゃって\nいるのですから、無理にすすめなくてもよろ\nしいのでは？\n",
-      "translation": "본인이 샐러드만으로 충분하다고 말씀하고\n계시니, 무리하게 권하지 않아도 되지\n않을까요？\n",
+      "translation": "본인이 샐러드만으로 충분하다고 말씀하고\n계시니, 무리하게 권하지 않아도 되지\n않을까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4462,7 +4462,7 @@
         "voice": "GB211000,3"
       },
       "original": "ところで、タクトさん。\n辺境調査って、どうでした？\n何かおもしろいこととかありましたか？\n",
-      "translation": "그건 그렇고, 택트 씨. 변경 조사 말인데,\n어땠나요？ 뭔가 재미있는 일이라든가\n있었나요？\n",
+      "translation": "그건 그렇고, 택트 씨. 변경 조사 말인데,\n어땠나요? 뭔가 재미있는 일이라든가\n있었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4488,7 +4488,7 @@
         "face": "0020902,0,0040101"
       },
       "original": "どんなことですの？\n",
-      "translation": "어떤 일인가요？\n",
+      "translation": "어떤 일인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4527,7 +4527,7 @@
         "speaker": "1,0010101"
       },
       "original": "そうなんだ。\nひょっとしたら、ロストテクノロジーに関係\nあるかもしれないだろ？\n",
-      "translation": "맞아. 어쩌면 로스트 테크놀로지와 관련이\n있을지도 모르잖아？\n",
+      "translation": "맞아. 어쩌면 로스트 테크놀로지와 관련이\n있을지도 모르잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4592,7 +4592,7 @@
         "speaker": "2,0020101"
       },
       "original": "できそうなんですか？\n",
-      "translation": "할 수 있을까요？\n",
+      "translation": "할 수 있을까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4605,7 +4605,7 @@
         "voice": "GB211004,3"
       },
       "original": "アルモやココ、それに整備班のクレータ班長\nとかにも聞いてみたんだけど、みんなお手上\nげらしい。\n",
-      "translation": "아르모나 코코, 그리고 정비반의 크레타\n반장님한테도 물어봤는데, 다들 손을 댈 수\n없다고 하더라고.\n",
+      "translation": "아르모나 코코, 그리고 정비반의 크레이타\n반장에게도 물어봤는데, 다들 손을 댈 수\n없다고 하더라고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4683,7 +4683,7 @@
         "speaker": "107,1070101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4709,7 +4709,7 @@
         "voice": "GB510808,3"
       },
       "original": "えっ、なに？\n",
-      "translation": "엣, 뭐야？\n",
+      "translation": "엣, 뭐야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4722,7 +4722,7 @@
         "voice": "GB510809,3"
       },
       "original": "よろしければ、そのデータを私に預けていた\nだけませんか？\n",
-      "translation": "괜찮으시다면, 그 데이터를 저에게 맡겨\n주시지 않겠습니까？\n",
+      "translation": "괜찮으시다면, 그 데이터를 저에게 맡겨\n주시지 않겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4735,7 +4735,7 @@
         "voice": "GB510809,3"
       },
       "original": "まさか、君が解読を？\n",
-      "translation": "설마, 네가 해독을？\n",
+      "translation": "설마, 네가 해독을?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4761,7 +4761,7 @@
         "voice": "GB510810,3"
       },
       "original": "そういえば、さっき読んだちとせの資料に、\nそんな記述があったな。\n『情報関連学科で優秀な成績を残した』って。\n",
-      "translation": "그러고 보니, 아까 읽은 치토세의 자료에\n그런 기술이 있었지. 『정보 관련 학과에서\n우수한 성적을 남겼다』라고.\n",
+      "translation": "그러고 보니, 아까 읽은 치토세의 자료에\n그런 내용이 있었지. 『정보 관련 학과에서\n우수한 성적을 남겼다』라고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4774,7 +4774,7 @@
         "speaker": "1,0010105"
       },
       "original": "しかも、ちとせの出身校ってセンパールだろ？\nあそこで優秀って言われるなんて、並大抵の\nことじゃないよ。\n",
-      "translation": "게다가, 치토세의 출신 학교는\n센퍼르잖아？ 거기서 우수하다고 불릴\n정도면 보통 일이 아니야.\n",
+      "translation": "게다가, 치토세의 출신 학교는\n센퍼르잖아? 거기서 우수하다고 불릴\n정도면 보통 일이 아니야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4787,7 +4787,7 @@
         "face": "0020102,0,0"
       },
       "original": "そうなんです。\nちとせって、すごいんですよ！\n",
-      "translation": "맞아요. 치토세는 대단하다고요！\n",
+      "translation": "맞아요. 치토세는 대단하다고요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4839,7 +4839,7 @@
         "voice": "GB510813,3"
       },
       "original": "いや、助かるよ。\nやってもらえるかい？\n",
-      "translation": "아니, 큰 도움이 돼. 부탁해도 될까？\n",
+      "translation": "아니, 큰 도움이 돼. 부탁해도 될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4891,7 +4891,7 @@
         "face": "-1,0,0030202"
       },
       "original": "うん、解読できればラッキー、ぐらいのこと\nだからさ。\n",
-      "translation": "응, 해독할 수 있으면 땡큐, 정도니까\n말이야.\n",
+      "translation": "응, 해독되면 다행인 정도니까 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4930,7 +4930,7 @@
         "face": "0,0030105,0"
       },
       "original": "さーてと……それじゃ食事も終わったし、そ\nろそろ行きますか。\nあー、お腹いっぱい。\n",
-      "translation": "자～ 그럼…… 식사도 끝났으니 슬슬\n가볼까. 아～ 배부르다.\n",
+      "translation": "자ー 그럼…… 식사도 끝났으니 슬슬\n가볼까. 아ー 배부르다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4969,7 +4969,7 @@
         "voice": "GB211021,3"
       },
       "original": "よし、艦内の見回りでもするか。\n３０分ぐらい歩き回れば、腹ごなしにもなる\nだろうし。\n",
-      "translation": "좋아, 함내 순찰이라도 할까. ３０분 정도\n돌아다니면 소화도 될 테고.\n",
+      "translation": "좋아, 함내 순찰이라도 할까. 30분 정도\n돌아다니면 소화도 될 테고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5047,7 +5047,7 @@
         "voice": "GB211100,3"
       },
       "original": "あれ、ちとせ。\n奇遇だね。\n",
-      "translation": "어라, 치토세. 기우네.\n",
+      "translation": "어라, 치토세. 우연이네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5060,7 +5060,7 @@
         "voice": "GB211101,3"
       },
       "original": "タクトさんは、どうしてこちらに？\n",
-      "translation": "택트 씨는 어째서 이쪽에？\n",
+      "translation": "택트 씨는 어째서 이쪽에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5112,7 +5112,7 @@
         "voice": "GB211102,3"
       },
       "original": "オレのほうこそ、じゃましちゃったかな？\n",
-      "translation": "내 쪽이야말로 방해한 걸까？\n",
+      "translation": "내 쪽이야말로 방해한 걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5138,7 +5138,7 @@
         "voice": "GB211103,3"
       },
       "original": "ということは、要するに、ぼーっとしてた？\n",
-      "translation": "그렇다는 건, 요컨대 멍하니 있었다는\n거야？\n",
+      "translation": "그렇다는 건, 요컨대 멍하니 있었다는\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5151,7 +5151,7 @@
         "voice": "GB211104,3"
       },
       "original": "は、はい……。\n日差しがやわらかくて、とても快適だったも\nのですから。\n",
-      "translation": "하, 네…… 햇살이 부드러워서 무척\n쾌적했거든요.\n",
+      "translation": "네, 네…… 햇살이 부드러워서 무척\n쾌적했거든요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5190,7 +5190,7 @@
         "speaker": "107,1070101"
       },
       "original": "あの……。\nよろしければ、タクトさんもお座りになりま\nせんか？\n",
-      "translation": "저기…… 괜찮으시다면, 택트 씨도 앉지\n않으실래요？\n",
+      "translation": "저기…… 괜찮으시다면, 택트 씨도 앉지\n않으실래요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5203,7 +5203,7 @@
         "voice": "GB211106,3"
       },
       "original": "いいのかい？\nそれじゃ、隣に失礼するよ。\n",
-      "translation": "괜찮은가？ 그럼, 옆에 실례할게.\n",
+      "translation": "괜찮은가? 그럼, 옆에 실례할게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5333,7 +5333,7 @@
         "face": "0,1070207,0"
       },
       "original": "ざっと思いつくだけでも、定期的な散水や肥\n料の補充に、適切な疑似日光の照射、それか\nら……。\n",
-      "translation": "대충 생각나는 것만으로도, 정기적인\n살수나 비료 보충에, 적절한 의사 일광의\n조사, 그리고…….\n",
+      "translation": "대충 생각나는 것만으로도, 정기적으로\n물을 주고 비료를 보충하고, 적절한 인공\n햇빛을 쬐게 하는 것, 그리고…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5385,7 +5385,7 @@
         "face": "0,1070101,0"
       },
       "original": "いえ、タクトさんや先輩方にご迷惑をおかけ\nしてはいけませんから、早くなじめるように、\n誠心誠意努力します。\n",
-      "translation": "아니요, 택트 씨나 선배님들께 폐를\n끼쳐서는 안 되니까, 빨리 적응할 수\n있도록 성심성의껏 노력하겠습니다.\n",
+      "translation": "아니요, 택트 씨나 선배들에게 폐를\n끼쳐서는 안 되니까, 빨리 적응할 수\n있도록 성심성의껏 노력하겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5424,7 +5424,7 @@
         "speaker": "107,1070101"
       },
       "original": "あ……おかしい、ですよね。\nこうして、ぼーっとしているなんて。\n",
-      "translation": "아…… 이상하죠, 그렇죠？ 이렇게 멍하니\n있다니.\n",
+      "translation": "아…… 이상하죠, 그렇죠? 이렇게 멍하니\n있다니.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5489,7 +5489,7 @@
         "voice": "GB211116,3"
       },
       "original": "オレ、ちょっと横になってもいいかな？\n",
-      "translation": "나, 잠깐 누워 있어도 될까？\n",
+      "translation": "나, 잠깐 누워 있어도 될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5580,7 +5580,7 @@
         "voice": "GB211119,3"
       },
       "original": "……う……ん……？\n",
-      "translation": "……으……응……？\n",
+      "translation": "……으……응……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5606,7 +5606,7 @@
         "voice": "GB211121,3"
       },
       "original": "……目が覚めた？\n",
-      "translation": "……정신이 들어？\n",
+      "translation": "……정신이 들어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5619,7 +5619,7 @@
         "speaker": "3,0030101"
       },
       "original": "こんなトコで寝てると、カゼひくわよ？\n",
-      "translation": "이런 데서 자고 있으면, 감기 걸린다구？\n",
+      "translation": "이런 데서 자고 있으면, 감기 걸린다구?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5632,7 +5632,7 @@
         "speaker": "1,0010105"
       },
       "original": "…………え？\nラ、ランファ！？\nこれは、その……！\n",
-      "translation": "…………에？ 라, 란파！？이건, 그……！\n",
+      "translation": "…………에? 라, 란파!? 이건, 그……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5645,7 +5645,7 @@
         "voice": "GB211123,3"
       },
       "original": "すみません、ランファ先輩。\n私がタクトさんを起こさなかったために……。\n",
-      "translation": "죄송해요, 란파 선배. 제가 택트 씨를\n깨우지 않아서...\n",
+      "translation": "죄송해요, 란파 선배. 제가 택트 씨를\n깨우지 않아서…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5671,7 +5671,7 @@
         "voice": "GB211124,3"
       },
       "original": "……怒ってないの？\n",
-      "translation": "……화 안 났어？\n",
+      "translation": "……화 안 났어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5684,7 +5684,7 @@
         "speaker": "3,0030101"
       },
       "original": "なんで？\n別にやましいことしてたワケでもないでしょ？\n",
-      "translation": "왜？ 딱히 부끄러운 짓을 한 것도\n아니잖아？\n",
+      "translation": "왜? 딱히 부끄러운 짓을 한 것도\n아니잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5697,7 +5697,7 @@
         "face": "0,0030802,0"
       },
       "original": "そ、それはもちろん！\n誓って！\n",
-      "translation": "그, 그건 물론이죠！ 맹세해요！\n",
+      "translation": "그, 그건 물론이죠! 맹세해요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5710,7 +5710,7 @@
         "face": "1070201,0,0"
       },
       "original": "あの、「やましいこと」とは、なんのことで\nすか？\n",
-      "translation": "저기, 「부끄러운 짓」이란 건, 무슨\n뜻인가요？\n",
+      "translation": "저기, 「부끄러운 짓」이란 건, 무슨\n뜻인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5723,7 +5723,7 @@
         "face": "1070201,0,0"
       },
       "original": "い、いや、気にしないで！\nなんでもないから！\n",
-      "translation": "아, 아니, 신경 쓰지 마！ 아무것도\n아니니까！\n",
+      "translation": "아, 아니, 신경 쓰지 마! 아무것도\n아니니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5853,7 +5853,7 @@
         "face": "0,1070205,0"
       },
       "original": "本当に優しい方ですね、ランファ先輩って。\n",
-      "translation": "정말 상냥한 분이시네요, 란파 선배님은.\n",
+      "translation": "정말 상냥한 분이시네요, 란파 선배는.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5879,7 +5879,7 @@
         "speaker": "1,0010102"
       },
       "original": "不安って……オレたちに会うことが？\n",
-      "translation": "불안이라니…… 우리를 만나는 게？\n",
+      "translation": "불안이라니…… 우리를 만나는 게?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5892,7 +5892,7 @@
         "voice": "GB211136,3"
       },
       "original": "皇国の英雄であるタクトさんやランファ先輩\nと、私のような若輩者が、うまくやっていけ\nるのかと……。\n",
-      "translation": "황국의 영웅인 택트 씨와 란파 선배님과,\n저 같은 애송이가 잘 해나갈 수 있을까\n하고…….\n",
+      "translation": "황국의 영웅인 택트 씨와 란파 선배와,\n저 같은 애송이가 잘 해나갈 수 있을까\n하고…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5905,7 +5905,7 @@
         "speaker": "107,1070101"
       },
       "original": "でも、取り越し苦労でした。\n素晴らしい先輩方や、タクトさんと出会うこ\nとができて、私は幸せ者です。\n",
-      "translation": "하지만 기우였습니다. 멋진 선배님들과\n택트 씨를 만날 수 있어서 저는\n행운아예요.\n",
+      "translation": "하지만 괜한 걱정이었습니다. 멋진\n선배들과 택트 씨를 만날 수 있어서\n저는 행운아예요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6087,7 +6087,7 @@
         "face": "0,0070201,0"
       },
       "original": "人生？\n",
-      "translation": "인생？\n",
+      "translation": "인생?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6100,7 +6100,7 @@
         "voice": "GB211145,3"
       },
       "original": "というわけで、乗組員全員にステーションへ\nの上陸を許可する。\n６時間ごとに３交代制だ。\n",
-      "translation": "그런 이유로, 승무원 전원에게 스테이션\n상륙을 허가한다. ６시간마다 ３교대다.\n",
+      "translation": "그런 이유로, 승무원 전원에게 스테이션\n상륙을 허가한다. 6시간마다 3교대다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6113,7 +6113,7 @@
         "face": "0170102,0,0"
       },
       "original": "やったぁー！\n",
-      "translation": "해냈다ー！\n",
+      "translation": "해냈다ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6126,7 +6126,7 @@
         "face": "0170102,0,0160101"
       },
       "original": "よろしいんですか、司令？\n",
-      "translation": "정말 괜찮은 겁니까, 사령관님？\n",
+      "translation": "정말 괜찮은 겁니까, 사령관?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6165,7 +6165,7 @@
         "face": "0170102,0,0"
       },
       "original": "わーい！\n街に行ったら、何しようかなぁ。\n",
-      "translation": "와아！ 마을에 가면 뭘 할까나.\n",
+      "translation": "와아! 마을에 가면 뭘 할까나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6217,7 +6217,7 @@
         "voice": "GB211152,3"
       },
       "original": "なんだ、もう行くのか？\n",
-      "translation": "뭐야, 벌써 가는 건가？\n",
+      "translation": "뭐야, 벌써 가는 건가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6230,7 +6230,7 @@
         "voice": "GB211152,3"
       },
       "original": "司令官たる者、常に部下の先頭に立って模範\nを示さなければならない。\n士官学校で習わなかったか？\n",
-      "translation": "사령관이라는 자, 항상 부하의 선두에 서서\n모범을 보여야 하는 법이다. 사관학교에서\n배우지 않았나？\n",
+      "translation": "사령관이라는 자, 항상 부하의 선두에 서서\n모범을 보여야 하는 법이다. 사관학교에서\n배우지 않았나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6308,7 +6308,7 @@
         "face": "0,0,0"
       },
       "original": "タクト、入ってもいい？\n",
-      "translation": "택트, 들어가도 돼？\n",
+      "translation": "택트, 들어가도 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6334,7 +6334,7 @@
         "voice": "GB211157,3"
       },
       "original": "ねえねえ、見て見て！\n",
-      "translation": "있지 있지, 이것 좀 봐봐！\n",
+      "translation": "있지 있지, 이것 좀 봐봐!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6347,7 +6347,7 @@
         "speaker": "1,0010102"
       },
       "original": "どうしたんだい？\nやけに、うれしそうだね。\n",
-      "translation": "왜 그래？ 유난히 기뻐 보이네.\n",
+      "translation": "왜 그래? 유난히 기뻐 보이네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6360,7 +6360,7 @@
         "voice": "GB211158,3"
       },
       "original": "できたのよ、アタシたちのペアルック！\n注文してたやつが、今の補給で届いたの！\n",
-      "translation": "완성됐어, 우리들의 커플룩！ 주문했던 게\n방금 보급으로 도착했어！\n",
+      "translation": "완성됐어, 우리들의 커플룩! 주문했던 게\n방금 보급으로 도착했어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6386,7 +6386,7 @@
         "speaker": "3,0030101"
       },
       "original": "ほらほら、これよ！\n",
-      "translation": "자자, 이거야！\n",
+      "translation": "자자, 이거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6399,7 +6399,7 @@
         "face": "0,0,0"
       },
       "original": "……うわっ！\nやっぱりピンク色！\n",
-      "translation": "……우와！ 역시 핑크색이야！\n",
+      "translation": "……우와! 역시 핑크색이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6412,7 +6412,7 @@
         "face": "0,0,0"
       },
       "original": "しかも胸のところに、でっかくランファの顔\nのイラストが入ってるし！\n",
-      "translation": "게다가 가슴 부분에 란파의 얼굴\n일러스트가 커다랗게 그려져 있고！\n",
+      "translation": "게다가 가슴 부분에 란파의 얼굴\n일러스트가 커다랗게 그려져 있고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6425,7 +6425,7 @@
         "voice": "GB211160,3"
       },
       "original": "アタシがデザインしたのよ。\nどう、すごいでしょ！？\n",
-      "translation": "내가 디자인한 거야. 어때, 굉장하지！？\n",
+      "translation": "내가 디자인한 거야. 어때, 굉장하지!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6464,7 +6464,7 @@
         "face": "0,0,0"
       },
       "original": "ぐはっ！\nこっちの服には、オレの顔が！\n",
-      "translation": "윽！ 이 옷에는 내 얼굴이！\n",
+      "translation": "윽! 이 옷에는 내 얼굴이!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6477,7 +6477,7 @@
         "voice": "GB211162,3"
       },
       "original": "ねっ、いいでしょコレ？\n",
-      "translation": "그치, 이거 멋지지？\n",
+      "translation": "그치, 이거 멋지지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6516,7 +6516,7 @@
         "speaker": "3,0030101"
       },
       "original": "タクトも、アタシのイラストが入ったこの服\nを着てれば、いつでもさびしくないでしょ？\n",
-      "translation": "택트도, 내 일러스트가 들어간 이 옷을\n입고 있으면 언제든 외롭지 않잖아？\n",
+      "translation": "택트도, 내 일러스트가 들어간 이 옷을\n입고 있으면 언제든 외롭지 않잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6542,7 +6542,7 @@
         "face": "0,0030105,0"
       },
       "original": "それじゃ、さっそくこのペアルックを着て、\n軌道ステーションにお出かけしましょう！\n",
-      "translation": "그럼, 당장 이 커플룩을 입고 궤도\n스테이션으로 외출하자！\n",
+      "translation": "그럼, 당장 이 커플룩을 입고 궤도\n스테이션으로 외출하자!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6555,7 +6555,7 @@
         "voice": "GB211165,3"
       },
       "original": "えっ！\nこ、これを着て！？\n",
-      "translation": "엣！ 이, 이걸 입고！？\n",
+      "translation": "엣! 이, 이걸 입고!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6568,7 +6568,7 @@
         "face": "0,0030804,0"
       },
       "original": "今週封切られたばかりの恋愛映画があるの。\nねっ、一緒に見ましょう。\n",
-      "translation": "이번 주에 막 개봉한 연애 영화가 있거든.\n응？ 같이 보자.\n",
+      "translation": "이번 주에 막 개봉한 연애 영화가 있거든.\n응? 같이 보자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6594,7 +6594,7 @@
         "face": "0,0030802,0"
       },
       "original": "えっ、どうして？\nちょうど出来上がったばっかりなのに。\n",
-      "translation": "에, 어째서？ 마침 막 완성된 참인데.\n",
+      "translation": "에, 어째서? 마침 막 완성된 참인데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6607,7 +6607,7 @@
         "voice": "GB211168,3"
       },
       "original": "これはきっと、このデートに着て行けってい\nうお告げに違いないわ！\n",
-      "translation": "이건 분명, 이 데이트에 입고 나가라는\n계시임에 틀림없어！\n",
+      "translation": "이건 분명, 이 데이트에 입고 나가라는\n계시임에 틀림없어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6620,7 +6620,7 @@
         "speaker": "1,0010105"
       },
       "original": "え、えーと……この色やデザインは、街を歩\nくよりも、ピクニックなんかのほうが向いて\nいる気がしないかい？\n",
-      "translation": "에, 에또…… 이 색깔이나 디자인은,\n거리를 걷는 것보다 피크닉 같은 쪽이 더\n어울리는 기분이 들지 않아？\n",
+      "translation": "저, 저기…… 이 색깔이나 디자인은,\n거리를 걷는 것보다 피크닉 같은 쪽이 더\n어울리는 기분이 들지 않아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6711,7 +6711,7 @@
         "speaker": "1,0010602"
       },
       "original": "いやー、にぎやかだな。\nこんなに大勢の人を見るのは、ひさしぶりだ\nね。\n",
-      "translation": "이야～ 북적북적하네. 이렇게 많은 사람을\n보는 건 오랜만이야.\n",
+      "translation": "이야ー 북적북적하네. 이렇게 많은 사람을\n보는 건 오랜만이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6737,7 +6737,7 @@
         "face": "0,0030903,0"
       },
       "original": "このステーションは、このあたりの宙域の要\n所になってるんだって。\nだから、人と物が集まってくるんだ。\n",
-      "translation": "이 스테이션은 이 근처 성계의 요충지가\n된다고 하더라고. 그래서 사람과 물자가\n모여드는 거야.\n",
+      "translation": "이 스테이션은 이 근처 우역의 요충지라고\n하더라고. 그래서 사람과 물자가\n모여드는 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6789,7 +6789,7 @@
         "speaker": "3,0030903"
       },
       "original": "んー、まぁ、そうなんだけど……。\n",
-      "translation": "음～, 뭐, 그렇긴 하지만…….\n",
+      "translation": "음ー, 뭐, 그렇긴 하지만…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6802,7 +6802,7 @@
         "voice": "GB211175,3"
       },
       "original": "そうそう！\nそうだよ、ランファ。\n",
-      "translation": "맞아 맞아！ 바로 그거야, 란파.\n",
+      "translation": "맞아 맞아! 바로 그거야, 란파.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6815,7 +6815,7 @@
         "voice": "GB211176,3"
       },
       "original": "……ねえ、タクト？\nタクトは、もしかして……。\n",
-      "translation": "……있지, 택트？ 택트는 혹시…….\n",
+      "translation": "……있지, 택트? 택트는 혹시…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6828,7 +6828,7 @@
         "voice": "GB211176,3"
       },
       "original": "えっ、なに？\n",
-      "translation": "엣, 뭐야？\n",
+      "translation": "엣, 뭐야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6854,7 +6854,7 @@
         "voice": "GB211178,3"
       },
       "original": "あっ、あのトートバッグ、かわいい！\n見に行ってもいい？\n",
-      "translation": "앗, 저 토트백, 귀엽다！ 구경하러 가도\n돼？\n",
+      "translation": "앗, 저 토트백, 귀엽다! 구경하러 가도\n돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6867,7 +6867,7 @@
         "voice": "GB211178,3"
       },
       "original": "いいけど、もうすぐ映画が始まっちゃうよ？\n時間はまだあるんだし、買い物は、後でゆっ\nくりしようよ。\n",
-      "translation": "돼, 하지만 곧 영화가 시작된다고？ 시간은\n아직 있으니까, 쇼핑은 나중에 천천히\n하자.\n",
+      "translation": "돼, 하지만 곧 영화가 시작된다고? 시간은\n아직 있으니까, 쇼핑은 나중에 천천히\n하자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6893,7 +6893,7 @@
         "voice": "GB211179,3"
       },
       "original": "そうそう。\nさぁ、久しぶりの外の世界だ。\nめいっぱい楽しもう！\n",
-      "translation": "그래그래. 자, 오랜만의 바깥 세상이야.\n마음껏 즐기자！\n",
+      "translation": "그래그래. 자, 오랜만의 바깥 세상이야.\n마음껏 즐기자!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6906,7 +6906,7 @@
         "speaker": "3,0030903"
       },
       "original": "うん！\nまずは映画からね！\n",
-      "translation": "응！ 우선은 영화부터지！\n",
+      "translation": "응! 우선은 영화부터지!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6919,7 +6919,7 @@
         "voice": "GB211180,3"
       },
       "original": "いやー、いい映画だったね。\n",
-      "translation": "이야～, 좋은 영화였어.\n",
+      "translation": "이야ー, 좋은 영화였어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6971,7 +6971,7 @@
         "voice": "GB211182,3"
       },
       "original": "……ランファ、どうかした？\n具合でも悪いの？\n",
-      "translation": "……란파, 왜 그래？ 몸이라도 안 좋아？\n",
+      "translation": "……란파, 왜 그래? 몸이라도 안 좋아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7023,7 +7023,7 @@
         "voice": "GB211184,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7036,7 +7036,7 @@
         "speaker": "1,0010602"
       },
       "original": "あ、あのさ！\n映画の話なんだけど。\n",
-      "translation": "아, 저기 말이야！ 영화 이야기인데.\n",
+      "translation": "아, 저기 말이야! 영화 이야기인데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7049,7 +7049,7 @@
         "speaker": "1,0010602"
       },
       "original": "特にあの、ヒロインが恋人に別れを切り出す\nシーン！\nあれは切なかったよね。\n",
-      "translation": "특히 그, 히로인이 연인에게 이별을 고하는\n장면！ 그거 정말 애절했지.\n",
+      "translation": "특히 그, 히로인이 연인에게 이별을 고하는\n장면! 그거 정말 애절했지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7062,7 +7062,7 @@
         "voice": "GB211184,3"
       },
       "original": "しかも身を引く理由が、恋人の男と貧しい少\n女の幸せのためだなんて！\nくぅ～、悲しいお話だよなぁ。\n",
-      "translation": "게다가 물러나는 이유가, 연인인 남자와\n가난한 소녀의 행복을 위해서라니！\n으으～, 슬픈 이야기야.\n",
+      "translation": "게다가 물러나는 이유가, 연인인 남자와\n가난한 소녀의 행복을 위해서라니!\n으으～, 슬픈 이야기야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7075,7 +7075,7 @@
         "face": "0,0,0"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7088,7 +7088,7 @@
         "voice": "GB211185,3"
       },
       "original": "……な、なんだっけ？\nほら、あの別れのシーンのセリフ。\n「あたし、あなたのことが……」\n",
-      "translation": "……뭐, 뭐였더라？ 있잖아, 그 이별\n장면의 대사. 「나, 당신을...」\n",
+      "translation": "……뭐, 뭐였더라? 있잖아, 그 이별 장면의\n대사. 「나, 당신을……」\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7127,7 +7127,7 @@
         "speaker": "1,0010602"
       },
       "original": "そうそう！\nさすがランファ、よく覚えてるなぁ。\n",
-      "translation": "맞아 맞아！ 역시 란파, 잘 기억하고 있네.\n",
+      "translation": "맞아 맞아! 역시 란파, 잘 기억하고 있네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7140,7 +7140,7 @@
         "voice": "GB211188,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7153,7 +7153,7 @@
         "voice": "GB211188,3"
       },
       "original": "……ランファ？\n",
-      "translation": "……란파？\n",
+      "translation": "……란파?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7201,7 +7201,7 @@
         "voice": "GB211190,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7237,7 +7237,7 @@
         "voice": "GB211191,3"
       },
       "original": "……ねえ、どうしたの？\nさっきから、なんかおかしいよ？\n",
-      "translation": "……있지, 왜 그래？ 아까부터 뭔가\n이상해.\n",
+      "translation": "……있지, 왜 그래? 아까부터 뭔가\n이상해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7249,7 +7249,7 @@
         "speaker": "3,0030904"
       },
       "original": "そう……？\n",
-      "translation": "그래……？\n",
+      "translation": "그래……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7273,7 +7273,7 @@
         "speaker": "3,0030901"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7297,7 +7297,7 @@
         "voice": "GB211194,3"
       },
       "original": "えっ、大丈夫かい？\nカゼひいたんじゃないのか？\n",
-      "translation": "엣, 괜찮은 거야？ 감기 걸린 거 아냐？\n",
+      "translation": "엣, 괜찮은 거야? 감기 걸린 거 아냐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7322,7 +7322,7 @@
         "face": "0,0030902,0"
       },
       "original": "……そろそろ、エルシオールに戻らない？\n",
-      "translation": "……슬슬, 에르시올로 돌아가지 않을래？\n",
+      "translation": "……슬슬, 에르시올로 돌아가지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7374,7 +7374,7 @@
         "face": "0,0030901,0"
       },
       "original": "ランファ……？\n",
-      "translation": "란파……？\n",
+      "translation": "란파……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7387,7 +7387,7 @@
         "face": "0,0030901,0"
       },
       "original": "……でね、街ですっごくかわいいフライパン\n見つけて、つい買ってきちゃったんです！\n",
-      "translation": "……그래서 말이죠, 거리에서 엄청 귀여운\n프라이팬을 발견해서, 그만 사버렸답니다！\n",
+      "translation": "……그래서 말이죠, 거리에서 엄청 귀여운\n프라이팬을 발견해서, 그만 사버렸답니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7413,7 +7413,7 @@
         "face": "0,0030901,0"
       },
       "original": "ひさしぶりのお買い物だから、自由時間いっ\nぱいまで楽しんじゃいました！\n",
-      "translation": "오랜만의 쇼핑이라서, 자유 시간 끝날\n때까지 즐겨버렸어요！\n",
+      "translation": "오랜만의 쇼핑이라서, 자유 시간 끝날\n때까지 즐겨버렸어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7452,7 +7452,7 @@
         "face": "0,0030901,0"
       },
       "original": "……ところで、ランファは？\n",
-      "translation": "……그런데, 란파는？\n",
+      "translation": "……그런데, 란파는?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7491,7 +7491,7 @@
         "face": "0040202,0,0020901"
       },
       "original": "タクトさん、どうかしたんですか？\n",
-      "translation": "택트 씨, 무슨 일 있나요？\n",
+      "translation": "택트 씨, 무슨 일 있나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7504,7 +7504,7 @@
         "voice": "GB211204,3"
       },
       "original": "もしかして、ランファとケンカしちゃったん\nですか？\n",
-      "translation": "혹시, 란파랑 싸운 건가요？\n",
+      "translation": "혹시, 란파랑 싸운 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7530,7 +7530,7 @@
         "face": "0040202,0,0020202"
       },
       "original": "それにしては、浮かないお顔ですわね？\n",
-      "translation": "그러기엔, 표정이 좋지 않으시네요？\n",
+      "translation": "그러기엔, 표정이 좋지 않으시네요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7543,7 +7543,7 @@
         "face": "0040202,0,0020202"
       },
       "original": "そ、そう？\n別に、いつもと変わらないよ。\n",
-      "translation": "그, 그래？ 딱히, 평소랑 다를 거 없어.\n",
+      "translation": "그, 그래? 딱히, 평소랑 다를 거 없어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7556,7 +7556,7 @@
         "face": "0040103,0,0020202"
       },
       "original": "警報……！？\n何事でしょう。\n",
-      "translation": "경보……！？ 무슨 일이죠.\n",
+      "translation": "경보……!? 무슨 일이죠.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7569,7 +7569,7 @@
         "face": "0040103,0,0020202"
       },
       "original": "前方に敵艦隊出現！\n総員、ただちに第１戦闘配備！\n繰り返します、総員ただちに第１戦闘配備！\n",
-      "translation": "전방에 적 함대 출현！ 전원, 즉시\n제１전투배치！ 반복합니다, 전원 즉시\n제１전투배치！\n",
+      "translation": "전방에 적 함대 출현! 전원, 즉시\n제1전투배치! 반복합니다, 전원 즉시\n제1전투배치!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7621,7 +7621,7 @@
         "speaker": "2,0020101"
       },
       "original": "はい、了解しました！\n",
-      "translation": "네, 알겠습니다！\n",
+      "translation": "네, 알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7686,7 +7686,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミントにほめられるとは、光栄だね。\nみんな、発進準備はできてるかい？\n",
-      "translation": "민트에게 칭찬을 듣다니 영광인걸. 다들,\n발진 준비는 됐나？\n",
+      "translation": "민트에게 칭찬을 듣다니 영광인걸. 다들,\n발진 준비는 됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7725,7 +7725,7 @@
         "speaker": "1,0010102"
       },
       "original": "ランファ、どうしたんだい？\n元気がないけど。\n",
-      "translation": "란파, 왜 그래？ 기운이 없어 보이는데.\n",
+      "translation": "란파, 왜 그래? 기운이 없어 보이는데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7751,7 +7751,7 @@
         "face": "0,0,0"
       },
       "original": "そうかい？\nだったら、いいんだけど……。\n",
-      "translation": "그래？ 그렇다면 다행이지만…….\n",
+      "translation": "그래? 그렇다면 다행이지만…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7790,7 +7790,7 @@
         "speaker": "1,0010302"
       },
       "original": "それじゃ、戦闘開始だ！\n",
-      "translation": "그럼, 전투 개시다！\n",
+      "translation": "그럼, 전투 개시다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7842,7 +7842,7 @@
         "face": "0,0020102,0"
       },
       "original": "タクトさん、見ていてくれましたか？\nあたし、がんばっちゃいました！\n",
-      "translation": "택트 씨, 지켜봐 주셨나요？ 저, 열심히\n했답니다！\n",
+      "translation": "택트 씨, 지켜봐 주셨나요? 저, 열심히\n했답니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7868,7 +7868,7 @@
         "face": "0,0020202,0"
       },
       "original": "すいません、タクトさん。\nやられちゃいました。\nこんなはずじゃなかったんですけど……。\n",
-      "translation": "죄송해요, 택트 씨. 당해버렸어요. 이럴\n계획은 아니었는데…….\n",
+      "translation": "죄송해요, 택트 씨. 당해버렸어요. 이럴\n줄은 몰랐는데…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7920,7 +7920,7 @@
         "speaker": "4,0040101"
       },
       "original": "本来のトリックマスターの性能はこんなもの\nではないはずなのに……。\nなぜやられてしまったのでしょうねぇ？\n",
-      "translation": "본래 트릭 마스터의 성능은 이 정도가 아닐\n텐데……. 어째서 당해버린 걸까요？\n",
+      "translation": "본래 트릭 마스터의 성능은 이 정도가 아닐\n텐데……. 어째서 당해버린 걸까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8024,7 +8024,7 @@
         "face": "1070103,0,0020202"
       },
       "original": "あの無人艦も、エオニア戦役では温存してい\nたものなのでしょうか……？\n",
-      "translation": "저 무인함도 에오니아 전역에서 온존하고\n있던 것일까요……？\n",
+      "translation": "저 무인함도 에오니아 전역 때 아껴 두었던\n것일까요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8037,7 +8037,7 @@
         "voice": "GB211512,3"
       },
       "original": "……あれ？\nランファはどうしたんだい？\n",
-      "translation": "……어라？ 란파는 어떻게 된 거지？\n",
+      "translation": "……어라? 란파는 어떻게 된 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8050,7 +8050,7 @@
         "speaker": "2,0020101"
       },
       "original": "えっ、あれ？\n一緒に帰ってきたはずなんですけど。\n",
-      "translation": "엣, 어라？ 같이 돌아왔을 텐데요.\n",
+      "translation": "엣, 어라? 같이 돌아왔을 텐데요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8089,7 +8089,7 @@
         "voice": "GB211516,3"
       },
       "original": "タクト、最近甘やかしすぎてるんじゃないの\nか？\n",
-      "translation": "택트, 요즘 너무 오냐오냐하고 있는 거\n아닌가？\n",
+      "translation": "택트, 요즘 너무 오냐오냐하고 있는 거\n아닌가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8115,7 +8115,7 @@
         "voice": "GB211516,3"
       },
       "original": "ランファ、聞こえる？\n",
-      "translation": "란파, 들려？\n",
+      "translation": "란파, 들려?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8141,7 +8141,7 @@
         "face": "0,0,0"
       },
       "original": "どうしたんだ？\nブリッジに顔も出さないで。\n今、どこにいるんだ？\n",
-      "translation": "무슨 일이야？ 브릿지에 얼굴도 안 비치고.\n지금 어디에 있는 거야？\n",
+      "translation": "무슨 일이야? 브릿지에 얼굴도 안 비치고.\n지금 어디에 있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8154,7 +8154,7 @@
         "speaker": "3,0030202"
       },
       "original": "……あのね、ちょっと話があるの。\n倉庫まで来てくれない？\n",
-      "translation": "……있잖아, 좀 할 말이 있어. 창고까지 와\n줄래？\n",
+      "translation": "……있잖아, 좀 할 말이 있어. 창고까지 와\n줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8180,7 +8180,7 @@
         "voice": "GB211519,3"
       },
       "original": "あっ、ランファ！？\nランファ、ちょっと！\n",
-      "translation": "앗, 란파！？ 란파, 잠깐만！\n",
+      "translation": "앗, 란파!? 란파, 잠깐만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8206,7 +8206,7 @@
         "face": "0,0,0020901"
       },
       "original": "ランファ、どうかしたんですか？\n",
-      "translation": "란파, 무슨 일 있으신가요？\n",
+      "translation": "란파, 무슨 일 있으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8219,7 +8219,7 @@
         "speaker": "1,0010401"
       },
       "original": "わからないんだ。\n深刻そうな感じだったけど、何かあったのか\nな？\n",
-      "translation": "모르겠어. 심각해 보이는 분위기였는데,\n무슨 일이 있었던 걸까？\n",
+      "translation": "모르겠어. 심각해 보이는 분위기였는데,\n무슨 일이 있었던 걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8258,7 +8258,7 @@
         "voice": "GB211521,3"
       },
       "original": "ランファ、来たよ。\nどこにいるんだ？\n",
-      "translation": "란파, 왔어. 어디 있는 거야？\n",
+      "translation": "란파, 왔어. 어디 있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8284,7 +8284,7 @@
         "face": "0,0030202,0"
       },
       "original": "どうしたんだい？\nこんなところに呼び出したりして。\n",
-      "translation": "왜 그래？ 이런 곳으로 불러내고.\n",
+      "translation": "왜 그래? 이런 곳으로 불러내고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8323,7 +8323,7 @@
         "voice": "GB211523,3"
       },
       "original": "今日は調子が悪くて、紋章機の性能が上がら\nなかったのか？\n見ていてハラハラしたよ。\n",
-      "translation": "오늘은 컨디션이 안 좋아서, 문장기의\n성능이 오르지 않았던 건가？ 보고 있는데\n조마조마했어.\n",
+      "translation": "오늘은 컨디션이 안 좋아서, 문장기의\n성능이 오르지 않았던 건가? 보고 있는데\n조마조마했어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8362,7 +8362,7 @@
         "voice": "GB211524,3"
       },
       "original": "……それに、どうして戦闘後のミーティング\nにも来なかったんだ？\n",
-      "translation": "……게다가, 왜 전투 후 미팅에도 오지\n않은 거지？\n",
+      "translation": "……게다가, 왜 전투 후 미팅에도 오지\n않은 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8388,7 +8388,7 @@
         "voice": "GB211524,3"
       },
       "original": "わかってくれるかい、ランファ？\n",
-      "translation": "이해해주겠나, 란파？\n",
+      "translation": "이해해주겠나, 란파?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8453,7 +8453,7 @@
         "voice": "GB211527,3"
       },
       "original": "え？　な、なんのこと？\n",
-      "translation": "에？ 무, 무슨 소리야？\n",
+      "translation": "에? 무, 무슨 소리야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8492,7 +8492,7 @@
         "voice": "GB211529B,3"
       },
       "original": "別れましょう！\n",
-      "translation": "헤어져요！\n",
+      "translation": "헤어져요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8505,7 +8505,7 @@
         "speaker": "1,0010105"
       },
       "original": "……………………えっ？\n",
-      "translation": "……………………에？\n",
+      "translation": "……………………에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8531,7 +8531,7 @@
         "voice": "GB211530,3"
       },
       "original": "ちょっ、待っ……何がどうなって……！\n",
-      "translation": "잠깐, 기다려…… 뭐가 어떻게 된\n거야……！\n",
+      "translation": "잠깐, 기다려…… 뭐가 어떻게 된\n거야……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8544,7 +8544,7 @@
         "voice": "GB211531,3"
       },
       "original": "さようならっ！\n",
-      "translation": "잘 가！\n",
+      "translation": "잘 가!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8557,7 +8557,7 @@
         "voice": "GB211531,3"
       },
       "original": "ラ、ランファ！？\n",
-      "translation": "란, 란파！？\n",
+      "translation": "란, 란파!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8570,7 +8570,7 @@
         "speaker": "1,0010103"
       },
       "original": "おーい、ランファ！\nま、待ってくれーーーっ！！\n",
-      "translation": "어이, 란파！ 기, 기다려줘어어！！\n",
+      "translation": "어이, 란파! 기, 기다려줘어어!!\n",
       "state": "draft",
       "use_translation": true
     }

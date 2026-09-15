@@ -25,7 +25,7 @@
         "speaker": "1,0010102"
       },
       "original": "……ん？\nミルフィー、どうしたんだい？\n窓の外なんか眺めて。\n",
-      "translation": "……응？ 밀피, 왜 그래？ 창밖을 보고\n있고.\n",
+      "translation": "……응? 밀피, 왜 그래? 창밖만 바라보고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -37,7 +37,7 @@
         "voice": "GB960000,3"
       },
       "original": "タクトさん、エルシオールのクロノ・ブレイ\nク・キャノンが、外されてるみたいなんです\nけど？\n",
-      "translation": "택트 씨, 에르시올의\n크로노・브레이크・캐논이, 해제된 것\n같은데요？\n",
+      "translation": "택트 씨, 에르시올의\n크로노・브레이크・캐논이, 떼어진 것\n같은데요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -49,7 +49,7 @@
         "voice": "GB960000,3"
       },
       "original": "……ん？\nランファ、どうしたんだい？\n窓の外なんか眺めて。\n",
-      "translation": "……응？ 란파, 왜 그래？ 창밖을 보고\n있고.\n",
+      "translation": "……응? 란파, 왜 그래? 창밖만 바라보고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -61,7 +61,7 @@
         "voice": "GB960001,3"
       },
       "original": "ねぇタクト、どうしてエルシオールからクロ\nノ・ブレイク・キャノンがなくなってるわけ？\n",
-      "translation": "있지 택트, 어째서 에르시올에서\n크로노・브레이크・캐논이 없어진 거야？\n",
+      "translation": "있지 택트, 어째서 에르시올에서\n크로노・브레이크・캐논이 없어진 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -73,7 +73,7 @@
         "voice": "GB960001,3"
       },
       "original": "……ん？\nミント、どうしたんだい？\n窓の外なんか眺めて。\n",
-      "translation": "……응？ 민트, 왜 그래？ 창밖을 보고\n있고.\n",
+      "translation": "……응? 민트, 왜 그래? 창밖만 바라보고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -85,7 +85,7 @@
         "voice": "GB960002,3"
       },
       "original": "エルシオールのクロノ・ブレイク・キャノン\nが、外されているようなのですが。\nタクトさん、何かご存じですか？\n",
-      "translation": "에르시올의 크로노・브레이크・캐논이,\n해제된 것 같습니다만. 택트 씨, 뭔가 알고\n계신 게 있습니까？\n",
+      "translation": "에르시올의 크로노・브레이크・캐논이,\n떼어져 있는 것 같습니다만. 택트 씨, 뭔가\n알고 계신 게 있습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -97,7 +97,7 @@
         "voice": "GB960002,3"
       },
       "original": "……ん？\nフォルテ、どうしたんだい？\n窓の外なんか眺めて。\n",
-      "translation": "……응？ 포르테, 왜 그래？ 창밖을 보고\n있고.\n",
+      "translation": "……응? 포르테, 왜 그래?\n창밖만 바라보고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -109,7 +109,7 @@
         "voice": "GB960003,3"
       },
       "original": "タクト、なんでクロノ・ブレイク・キャノン\nが、エルシオールから外されてんだい？\n",
-      "translation": "택트, 왜 크로노・브레이크・캐논이,\n에르시올에서 해제된 거야？\n",
+      "translation": "택트, 왜 크로노・브레이크・캐논을,\n에르시올에서 떼어낸 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -121,7 +121,7 @@
         "voice": "GB960003,3"
       },
       "original": "……ん？\nヴァニラ、どうしたんだい？\n窓の外なんか眺めて。\n",
-      "translation": "……응？ 바닐라, 왜 그래？ 창밖을 보고\n있고.\n",
+      "translation": "……응? 바닐라, 왜 그래?\n창밖만 바라보고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -145,7 +145,7 @@
         "voice": "GB960004,3"
       },
       "original": "ああ、そのことか。\n実は昨日、シャトヤーン様から取り外すって\n言われてね。\n",
-      "translation": "아아, 그건가. 사실 어제, 샤토얀\n님으로부터 분리하라는 말을 들어서\n말이야.\n",
+      "translation": "아아, 그건가. 사실 어제, 샤토얀 님이\n떼어내라고 하셔서 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -157,7 +157,7 @@
         "voice": "GB960004,3"
       },
       "original": "まぁ、何か理由があるんだとは思うけど。\n分解して整備でもしてるんじゃないかな？\n",
-      "translation": "뭐, 뭔가 이유가 있긴 하겠지만. 분해해서\n정비라도 하고 있는 거 아닐까？\n",
+      "translation": "뭐, 뭔가 이유가 있긴 하겠지만. 분해해서\n정비라도 하고 있는 거 아닐까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -183,7 +183,7 @@
         "face": "0,0070101,0"
       },
       "original": "あれ、レスター。\nお前こそ、どうしてここに？\n",
-      "translation": "어라, 레스터. 너야말로, 어째서 여기에？\n",
+      "translation": "어라, 레스터. 너야말로, 어째서 여기에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -222,7 +222,7 @@
         "face": "0,0070202,0"
       },
       "original": "ところで、レスター。\nクロノ・ブレイク・キャノンが外された理由、\nお前は何か知らないか？\n",
-      "translation": "그런데, 레스터. 크로노・브레이크・캐논이\n분리된 이유, 너는 뭔가 모르나？\n",
+      "translation": "그런데, 레스터. 크로노・브레이크・캐논이\n분리된 이유, 너는 뭔가 모르나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -248,7 +248,7 @@
         "face": "0,0070201,0"
       },
       "original": "まぁ、例のフィールドがある限り、あの巨大\n艦にクロノ・ブレイク・キャノンは効かない\nわけだしなぁ。\n",
-      "translation": "뭐, 그 필드가 있는 한, 저 거대함에\n크로노・브레이크・캐논은 통하지 않으니까\n말이야.\n",
+      "translation": "뭐, 그 필드가 있는 한, 저 거대 함선에\n크로노・브레이크・캐논은 통하지 않으니까\n말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -261,7 +261,7 @@
         "face": "0,0070201,0"
       },
       "original": "そういえば、敵のフィールドを打ち消すため\nの兵器のほうは、どうなったんだろうな？\n",
-      "translation": "그러고 보니, 적의 필드를 상쇄하기 위한\n병기 쪽은 어떻게 됐으려나？\n",
+      "translation": "그러고 보니, 적의 필드를 상쇄하기 위한\n병기 쪽은 어떻게 됐으려나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -274,7 +274,7 @@
         "face": "0,0070101,0"
       },
       "original": "さっき、クレータや月の巫女たちが忙しく動\nき回ってるのを見かけたから、もう製造に入っ\nたんじゃないか？\n",
-      "translation": "아까 크레타나 달의 무녀들이 바쁘게\n움직이는 걸 봤으니까, 벌써 제조에 들어간\n거 아닐까？\n",
+      "translation": "아까 크레이타나 달의 무녀들이 바쁘게\n움직이는 걸 봤으니까, 벌써 제조에 들어간\n거 아닐까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -352,7 +352,7 @@
         "voice": "GB960011,3"
       },
       "original": "了解、了解。\n",
-      "translation": "알았다, 알았어.\n",
+      "translation": "알았어, 알았어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -365,7 +365,7 @@
         "voice": "GB960100,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -391,7 +391,7 @@
         "speaker": "10,0100101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -404,7 +404,7 @@
         "speaker": "1,0010102"
       },
       "original": "……あれ？\nどうかしましたか？\n",
-      "translation": "……어라？ 무슨 일 있으신가요？\n",
+      "translation": "……어라? 무슨 일 있으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -417,7 +417,7 @@
         "face": "0,0090503,0"
       },
       "original": "うん？\n……いや、別になんでもないが……。\n",
-      "translation": "응？……아니, 딱히 아무것도\n아니지만…….\n",
+      "translation": "응?……아니, 딱히 아무것도\n아니지만…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -443,7 +443,7 @@
         "face": "0,1080101,0"
       },
       "original": "……というわけで、フィールド・キャンセラー\nを搭載した、対巨大艦用兵器は、急ピッチで\n製造を進めているところよ。\n",
-      "translation": "……그런 이유로, 필드・캔슬러를 탑재한 거대 함선 대항용 병기는 급피치로 제조를 진행 중이야.\n",
+      "translation": "……그런 이유로, 필드・캔슬러를 탑재한\n거대 함선 대항용 병기는 빠른 속도로\n제조 중이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -456,7 +456,7 @@
         "voice": "GB960105,3"
       },
       "original": "そうか。\nそいつがあれば、敵の巨大艦を倒せるんだな。\n",
-      "translation": "그런가. 그것만 있으면 적의 거대함을\n쓰러뜨릴 수 있다는 거군.\n",
+      "translation": "그런가. 그것만 있으면 적의 거대 함선을\n쓰러뜨릴 수 있다는 거군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -482,7 +482,7 @@
         "speaker": "107,1070101"
       },
       "original": "つまり、巨大艦以外の……通常の艦隊や戦闘\n機などには対処できない……ということです\nか？\n",
-      "translation": "즉, 거대함 이외의…… 통상적인 함대나\n전투기 등에는 대처할 수 없다……는\n뜻인가요？\n",
+      "translation": "즉, 거대 함선 이외의…… 통상적인 함대나\n전투기 등에는 대처할 수 없다……는\n뜻인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -508,7 +508,7 @@
         "face": "0,0090402,0"
       },
       "original": "そこで、エンジェル隊の出番となるわけじゃ。\n敵に届く前に撃ち落とされては、元も子もな\nいからの。\n",
-      "translation": "그래서 엔젤대의 차례가 오는 것이지.\n적에게 닿기도 전에 격추당해 버리면,\n본말전도니까 말이야.\n",
+      "translation": "그래서 엔젤대의 차례가 오는 것이지.\n적에게 닿기도 전에 격추당해 버리면,\n아무 소용도 없으니까 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -521,7 +521,7 @@
         "speaker": "9,0090401"
       },
       "original": "諸君の紋章機で、何があっても、この決戦兵\n器を守ってくれ。\n",
-      "translation": "제군의 문장기로, 무슨 일이 있어도 이 결전병기를 지켜주게.\n",
+      "translation": "제군의 문장기로, 무슨 일이 있어도 이\n결전병기를 지켜주게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -547,7 +547,7 @@
         "voice": "GB960112,3"
       },
       "original": "よ～し、やってやろうじゃないの！\n",
-      "translation": "좋아, 해보자고！\n",
+      "translation": "좋아, 해보자고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -599,7 +599,7 @@
         "speaker": "2,0020101"
       },
       "original": "あの、翼の生えたときのですね！\n",
-      "translation": "저기, 날개가 생겼을 때 말이죠！\n",
+      "translation": "저기, 날개가 생겼을 때 말이죠!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -612,7 +612,7 @@
         "speaker": "10,0100101"
       },
       "original": "そうです。\n先の戦いでは間に合いませんでしたが、今回\nは、みなさんの力になってくれるはずです。\n",
-      "translation": "그렇습니다. 지난 전투에서는 제때 맞추지\n못했지만, 이번에는 여러분의 힘이 되어줄\n것입니다.\n",
+      "translation": "그렇습니다. 지난 전투에는 미처 준비하지\n못했지만, 이번에는 여러분의 힘이 되어줄\n것입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -625,7 +625,7 @@
         "speaker": "3,0030101"
       },
       "original": "なら、なんの心配もないじゃない！\n楽勝よ、楽勝！\n",
-      "translation": "그럼 아무 걱정 없잖아！ 낙승이야, 낙승！\n",
+      "translation": "그럼 아무 걱정 없잖아! 낙승이야, 낙승!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -690,7 +690,7 @@
         "speaker": "2,0020101"
       },
       "original": "たぶん、なんとかなりますよ。\nねぇ、タクトさん？\n",
-      "translation": "아마, 어떻게든 될 거예요. 그쵸, 택트\n씨？\n",
+      "translation": "아마, 어떻게든 될 거예요. 그렇죠, 택트\n씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -703,7 +703,7 @@
         "speaker": "1,0010401"
       },
       "original": "うーん、そうだなぁ……。\n",
-      "translation": "으음, 글쎄...\n",
+      "translation": "으음, 글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -716,7 +716,7 @@
         "speaker": "9,0090401"
       },
       "original": "あー、ゴホン！\n……会議を続けてもよろしいかね？\n",
-      "translation": "아～, 흠흠！ ……회의를 계속해도\n되겠나？\n",
+      "translation": "아ー, 흠흠! ……회의를 계속해도\n되겠나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -755,7 +755,7 @@
         "speaker": "108,1080101"
       },
       "original": "この兵器は、エルシオールに積んで、フィー\nルドのギリギリそばまで運んでもらうわ。\n",
-      "translation": "이 병기는 에르시올에 실어서, 필드의\n아슬아슬한 근처까지 운반하도록 하겠다.\n",
+      "translation": "이 병기는 에르시올에 실어서, 필드 바로\n앞까지 운반해 달라고 할 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -768,7 +768,7 @@
         "speaker": "1,0010103"
       },
       "original": "えっ？\nエルシオールで！？\n",
-      "translation": "엣？ 에르시올로！？\n",
+      "translation": "엣? 에르시올로!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -807,7 +807,7 @@
         "voice": "GB960205,3"
       },
       "original": "なるほど。\nエルシオールは、２段ロケットの１段目って\nわけだ。\n",
-      "translation": "그렇군요. 에르시올은 ２단 로켓의\n１단이라는 뜻이네요.\n",
+      "translation": "그렇군요. 에르시올은 2단 로켓의\n1단이라는 뜻이네요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -833,7 +833,7 @@
         "speaker": "1,0010102"
       },
       "original": "ひょっとして、クロノ・ブレイク・キャノン\nを外したのも、その決戦兵器を積むのにジャ\nマだからですか？\n",
-      "translation": "혹시, 크로노・브레이크・캐논을 뗀 것도\n그 결전병기를 실으려니 방해가 되기\n때문인가요？\n",
+      "translation": "혹시, 크로노・브레이크・캐논을 뗀 것도\n그 결전병기를 싣는 데 방해가 되기\n때문인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -859,7 +859,7 @@
         "speaker": "1,0010102"
       },
       "original": "ルフト将軍？\n",
-      "translation": "루프트 장군？\n",
+      "translation": "루프트 장군?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -898,7 +898,7 @@
         "speaker": "107,1070101"
       },
       "original": "よろしいでしょうか？\nルフト将軍、質問があります。\n",
-      "translation": "괜찮습니까？ 루프트 장군, 질문이\n있습니다.\n",
+      "translation": "괜찮습니까? 루프트 장군, 질문이\n있습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -950,7 +950,7 @@
         "speaker": "9,0090402"
       },
       "original": "あの巨大艦を中心とする敵集団は、いくつか\nの資源衛星やエネルギープラントを制圧しな\nがら、『白き月』に向かってきておる。\n",
-      "translation": "저 거대함선을 중심으로 하는 적 집단은,\n몇 개의 자원 위성이나 에너지 플랜트를\n제압하며, 『백색 달』을 향해 오고 있다.\n",
+      "translation": "저 거대 함선을 중심으로 하는 적 집단은,\n몇 개의 자원 위성이나 에너지 플랜트를\n제압하며, 『백색 달』을 향해 오고 있다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -963,7 +963,7 @@
         "face": "0,0,0"
       },
       "original": "２時間前に届いた観測結果によると、現在は\nポイントＳＲｔ０５８付近。\nそこから計算した、予想到達時間は……。\n",
-      "translation": "２시간 전에 도착한 관측 결과에 따르면,\n현재는 포인트 ＳＲｔ０５８ 부근. 거기서\n계산한 예상 도달 시간은…….\n",
+      "translation": "2시간 전에 도착한 관측 결과에 따르면,\n현재는 포인트 SRt058 부근. 거기서\n계산한 예상 도달 시간은…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -976,7 +976,7 @@
         "speaker": "9,0090402"
       },
       "original": "およそ７２時間後じゃ。\n",
-      "translation": "대략 ７２시간 후다.\n",
+      "translation": "대략 72시간 후다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -989,7 +989,7 @@
         "speaker": "107,1070103"
       },
       "original": "７２時間……３日後ということですね。\n",
-      "translation": "７２시간…… ３일 뒤라는 뜻이군요.\n",
+      "translation": "72시간…… 3일 뒤라는 뜻이군요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1015,7 +1015,7 @@
         "voice": "GB960218,3"
       },
       "original": "今回の作戦には、皇国の未来がかかっている。\n困難な任務だと思うが、みな、よろしく頼む。\n",
-      "translation": "이번 작전에는 황국의 미래가 걸려 있다.\n곤란한 임무라고 생각하지만, 모두, 잘\n부탁하네.\n",
+      "translation": "이번 작전에는 황국의 미래가 걸려 있다.\n어려운 임무라고 생각하지만, 모두, 잘\n부탁하네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1028,7 +1028,7 @@
         "face": "0110405,0,0"
       },
       "original": "はっ！\n",
-      "translation": "옛！\n",
+      "translation": "옛!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1067,7 +1067,7 @@
         "speaker": "9,0090401"
       },
       "original": "では、これにて解散！\n",
-      "translation": "그럼, 이만 해산！\n",
+      "translation": "그럼, 이만 해산!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1106,7 +1106,7 @@
         "face": "0020202,0,0"
       },
       "original": "タクトさん。\nあたしたち、これから何をすればいいんです\nか？\n",
-      "translation": "택트 씨. 저희들, 이제부터 무엇을 하면\n되나요？\n",
+      "translation": "택트 씨. 저희들, 이제부터 무엇을 하면\n되나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1119,7 +1119,7 @@
         "face": "0020202,0,0"
       },
       "original": "これから？\nそうだな……作戦開始までは、自由にしてて\nいいよ。\n",
-      "translation": "이제부터？ 글쎄…… 작전 개시 전까지는,\n자유롭게 있어도 좋아.\n",
+      "translation": "이제부터? 글쎄…… 작전 개시 전까지는,\n자유롭게 있어도 좋아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1145,7 +1145,7 @@
         "face": "1070302,0,0"
       },
       "original": "不謹慎ですよ、フォルテ先輩。\nほかのみなさんだって、必死に準備をしてい\nるんですから。\n",
-      "translation": "불경해요, 포르테 선배. 다른 분들도,\n필사적으로 준비를 하고 있으니까요.\n",
+      "translation": "경솔해요, 포르테 선배. 다른 분들도,\n필사적으로 준비를 하고 있으니까요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1171,7 +1171,7 @@
         "voice": "GB960225,3"
       },
       "original": "あんまり、ムリしちゃダメよ？\nアタシたちは、本番に向けて英気を養っとか\nなくちゃ。\n",
-      "translation": "너무 무리하면 안 돼？ 우리들은 본전을\n위해 기력을 보충해 둬야 하니까.\n",
+      "translation": "너무 무리하면 안 돼. 우린 실전에 대비해\n기력을 비축해 둬야 하니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1184,7 +1184,7 @@
         "voice": "GB960226,3"
       },
       "original": "では、ランファさんはどうなさるおつもりで\nすの？\n",
-      "translation": "그럼, 란파 씨는 어떻게 하실 생각인가요？\n",
+      "translation": "그럼, 란파 씨는 어떻게 하실 생각인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1223,7 +1223,7 @@
         "speaker": "3,0030101"
       },
       "original": "なによぉ、じゃあミントは？\n",
-      "translation": "뭐야, 그럼 민트는？\n",
+      "translation": "뭐야, 그럼 민트는?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1249,7 +1249,7 @@
         "face": "0020102,0,0"
       },
       "original": "あ、じゃあ、あたしも付き合うー！\nフォルテさんも行きません？\n",
-      "translation": "아, 그럼 나도 같이 갈래！ 포르테 씨도 안\n갈래요？\n",
+      "translation": "아, 그럼 나도 같이 갈래! 포르테 씨도 안\n갈래요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1275,7 +1275,7 @@
         "speaker": "1,0010105"
       },
       "original": "いい若いもんが、不健康だなぁ。\n",
-      "translation": "젊은 애들이 참 불건강하네.\n",
+      "translation": "젊은 사람이 참 건강하지 못하네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1288,7 +1288,7 @@
         "voice": "GB960233,3"
       },
       "original": "あたしの勝手だろ。\nそう言うタクトは？\n",
-      "translation": "내 마음이잖아. 그렇게 말하는 택트는？\n",
+      "translation": "내 마음이잖아. 그렇게 말하는 택트는?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1353,7 +1353,7 @@
         "speaker": "1,0010102"
       },
       "original": "決戦兵器が、どうかしたのかい？\n",
-      "translation": "결전병기가, 왜 그러지？\n",
+      "translation": "결전병기가, 왜 그러지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1366,7 +1366,7 @@
         "speaker": "108,1080101"
       },
       "original": "あれはね、７番目の紋章機に、フィールド・\nキャンセラーとクロノ・ブレイク・キャノン\nを取り付けたものなの。\n",
-      "translation": "그건 말이야, ７번째 문장기에 필드・캔슬러와 크로노・브레이크・캐논을 장착한 거야.\n",
+      "translation": "그건 말이야, 7번째 문장기에\n필드・캔슬러와 크로노・브레이크・캐논을\n장착한 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1379,7 +1379,7 @@
         "speaker": "1,0010105"
       },
       "original": "紋章機に……クロノ・ブレイク・キャノン？\nそれに、７番目の紋章機って……。\n",
-      "translation": "문장기에…… 크로노・브레이크・캐논？\n게다가, ７번째 문장기라니…….\n",
+      "translation": "문장기에…… 크로노・브레이크・캐논?\n게다가, 7번째 문장기라니…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1392,7 +1392,7 @@
         "speaker": "108,1080101"
       },
       "original": "ネガティブ・クロノ・フィールドを打ち消す\nには、ぼう大なエネルギーが必要になる。\nこれは話したわよね？\n",
-      "translation": "네거티브・크로노・필드를 상쇄하려면,\n막대한 에너지가 필요해. 이건 말했었지？\n",
+      "translation": "네거티브・크로노・필드를 상쇄하려면,\n막대한 에너지가 필요해. 이건 말했었지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1405,7 +1405,7 @@
         "voice": "GB960403,3"
       },
       "original": "ああ。\nそのエネルギーを、どこから持ってくるかが\n問題だったわけだろう？\n",
-      "translation": "아아. 그 에너지를 어디서 가져올지가\n문제였다는 거지？\n",
+      "translation": "아아. 그 에너지를 어디서 가져올지가\n문제였다는 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1431,7 +1431,7 @@
         "voice": "GB960405,3"
       },
       "original": "それが紋章機のＨ．Ａ．Ｌ．Ｏ．システムよ。\n",
-      "translation": "그게 문장기의 Ｈ．Ａ．Ｌ．Ｏ．\n시스템이야.\n",
+      "translation": "그게 문장기의 H.A.L.O. 시스템이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1444,7 +1444,7 @@
         "speaker": "10,0100101"
       },
       "original": "Ｈ．Ａ．Ｌ．Ｏ．システムは、使い手の精神\n的テンションによって、クロノ・ストリング・\nエンジンからエネルギーを引き出します。\n",
-      "translation": "Ｈ．Ａ．Ｌ．Ｏ． 시스템은 사용자의\n정신적 텐션으로 크로노・스트링・엔진에서\n에너지를 끌어냅니다.\n",
+      "translation": "H.A.L.O. 시스템은 사용자의 정신적 텐션에\n따라 크로노・스트링・엔진에서 에너지를\n끌어냅니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1470,7 +1470,7 @@
         "face": "0,1080101,0"
       },
       "original": "つまり、Ｈ．Ａ．Ｌ．Ｏ．によって最大限の\nエネルギーを得ることができれば、敵のフィー\nルドを打ち消せる公算が高いわ。\n",
-      "translation": "즉, Ｈ．Ａ．Ｌ．Ｏ．를 통해 최대한의\n에너지를 얻을 수 있다면, 적의 필드를\n상쇄할 가능성이 높아.\n",
+      "translation": "즉, H.A.L.O.를 통해 최대한의 에너지를\n얻을 수 있다면, 적의 필드를 상쇄할\n가능성이 높아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1483,7 +1483,7 @@
         "voice": "GB960408,3"
       },
       "original": "その上、巨大艦を破壊できるクロノ・ブレイ\nク・キャノンのエネルギーをまかなうことも\n可能よ。\n",
-      "translation": "게다가, 거대함을 파괴할 수 있는\n크로노・브레이크・캐논의 에너지를\n충당하는 것도 가능해.\n",
+      "translation": "게다가, 거대 함선을 파괴할 수 있는\n크로노・브레이크・캐논의 에너지를\n충당하는 것도 가능해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1496,7 +1496,7 @@
         "face": "0,0,0100103"
       },
       "original": "幸い、そのために使える紋章機はありました。\n",
-      "translation": "다행히, 그를 위해 사용할 수 있는\n문장기는 있었습니다.\n",
+      "translation": "다행히, 그 목적에 사용할 수 있는\n문장기는 있었습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1509,7 +1509,7 @@
         "face": "0,0,0100103"
       },
       "original": "６番機シャープシューターとともに発見され\nて、まだ外装などの処理が終わっていなかっ\nた、７番目の機体です。\n",
-      "translation": "６번기 샤프 슈터와 함께 발견되어, 아직\n외장 등의 처리가 끝나지 않았던, ７번째\n기체입니다.\n",
+      "translation": "6호기 샤프 슈터와 함께 발견되어, 아직\n외장 등의 처리가 끝나지 않았던, 7번째\n기체입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1522,7 +1522,7 @@
         "voice": "GB960410,3"
       },
       "original": "……ちょっと待ってください。\nということは、決戦兵器は有人機なんですか？\n",
-      "translation": "……잠시만 기다려 주세요. 그렇다는 건,\n결전병기는 유인기인가요？\n",
+      "translation": "……잠시만 기다려 주세요. 그렇다는 건,\n결전병기는 유인기인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1535,7 +1535,7 @@
         "voice": "GB960410,3"
       },
       "original": "会議では、決戦兵器は巨大艦にギリギリまで\n近づいてから使うって……。\nそれって、まさか……。\n",
-      "translation": "회의에서는, 결전병기는 거대함에\n아슬아슬할 때까지 접근한 뒤\n사용한다고……. 설마, 그건…….\n",
+      "translation": "회의에서는, 결전병기는 거대 함선에\n바싹 접근한 뒤 사용한다고 했는데…….\n설마, 그건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1548,7 +1548,7 @@
         "face": "0090402,0,0"
       },
       "original": "お前の考えているとおりじゃ。\nまず、紋章機のパワーでフィールドに穴を開\nけ、敵のふところに飛び込み……。\n",
-      "translation": "네가 생각하는 그대로다. 우선, 문장기의\n파워로 필드에 구멍을 내고, 적의 품\n안으로 뛰어들어…….\n",
+      "translation": "네가 생각하는 그대로다. 우선, 문장기의\n파워로 필드에 구멍을 내고, 적진 깊숙이\n뛰어들어…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1561,7 +1561,7 @@
         "speaker": "9,0090401"
       },
       "original": "そして、クロノ・ブレイク・キャノンによっ\nて破壊する。\n",
-      "translation": "그리고, 크로노・브레이크・캐논에 의해\n파괴한다.\n",
+      "translation": "그리고, 크로노・브레이크・캐논으로\n파괴한다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1574,7 +1574,7 @@
         "voice": "GB960412,3"
       },
       "original": "つまり、７番機に誰かが乗って、敵の巨大艦\nに突っ込むと……？\n",
-      "translation": "즉, ７번기에 누군가가 타고서, 적의\n거대함선에 돌진하면……？\n",
+      "translation": "즉, 7호기에 누군가가 타고서, 적의\n거대 함선에 돌진하면……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1587,7 +1587,7 @@
         "voice": "GB960413,3"
       },
       "original": "そういうこと。\nＨ．Ａ．Ｌ．Ｏ．を使う以上、それを操る人\n間は必要不可欠よ。\n",
-      "translation": "그런 거야. Ｈ．Ａ．Ｌ．Ｏ．를 사용하는\n이상, 그것을 조종할 인간은\n필수불가결해.\n",
+      "translation": "그런 거야. H.A.L.O.를 사용하는 이상,\n그것을 조종할 인간은 필수불가결해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1626,7 +1626,7 @@
         "speaker": "1,0010302"
       },
       "original": "待ってください！\nどうしてミルフィーが！？\n",
-      "translation": "기다려 주세요！ 어째서 밀피가！？\n",
+      "translation": "기다려 주세요! 어째서 밀피가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1639,7 +1639,7 @@
         "face": "0,1080101,0"
       },
       "original": "待ってください！\nどうしてミントが！？\n",
-      "translation": "기다려 주세요！ 어째서 민트가！？\n",
+      "translation": "기다려 주세요! 어째서 민트가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1652,7 +1652,7 @@
         "voice": "GB960415,3"
       },
       "original": "待ってください！\nどうしてフォルテが！？\n",
-      "translation": "기다려 주세요！ 어째서 포르테가！？\n",
+      "translation": "기다려 주세요! 어째서 포르테가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1678,7 +1678,7 @@
         "speaker": "6,0060101"
       },
       "original": "私が……決戦兵器に……？\n",
-      "translation": "내가…… 결전병기로……？\n",
+      "translation": "제가…… 결전병기에……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1691,7 +1691,7 @@
         "face": "0,0060103,0"
       },
       "original": "待ってください！\nどうしてヴァニラが！？\n",
-      "translation": "기다려 주세요！ 어째서 바닐라가！？\n",
+      "translation": "기다려 주세요! 어째서 바닐라가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1717,7 +1717,7 @@
         "speaker": "3,0030101"
       },
       "original": "え？　ア、アタシ！？\n",
-      "translation": "에？ 나, 내가！？\n",
+      "translation": "에? 나, 내가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1730,7 +1730,7 @@
         "voice": "GB960419,3"
       },
       "original": "待ってください！\nどうしてランファが！？\n",
-      "translation": "기다려 주세요！ 어째서 란파가！？\n",
+      "translation": "기다려 주세요! 어째서 란파가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1756,7 +1756,7 @@
         "speaker": "9,0090401"
       },
       "original": "そのことは、実際に指揮をとっているお前な\nら、よくわかるはずじゃ。\n",
-      "translation": "그 사실은 실제로 지휘를 맡고 있는\n네가라면 잘 알고 있을 터다.\n",
+      "translation": "그 사실은 실제로 지휘를 맡고 있는\n너라면 잘 알고 있을 터다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1769,7 +1769,7 @@
         "face": "0090402,0,0"
       },
       "original": "……ですが！\n",
-      "translation": "……하지만！\n",
+      "translation": "……하지만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1782,7 +1782,7 @@
         "face": "0,1080101,0"
       },
       "original": "ほかのパイロットを選んでもいいのよ？\nでも、成功確率は格段に下がるわ。\n",
-      "translation": "다른 파일럿을 골라도 좋아. 하지만 성공\n확률은 격하게 낮아질 거야.\n",
+      "translation": "다른 파일럿을 골라도 좋아. 하지만 성공\n확률은 현저히 낮아질 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1821,7 +1821,7 @@
         "voice": "GB960423,3"
       },
       "original": "ですが、この方法はあまりに危険すぎます！\n",
-      "translation": "하지만, 이 방법은 너무나 위험합니다！\n",
+      "translation": "하지만, 이 방법은 너무나 위험합니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1860,7 +1860,7 @@
         "face": "0110405,0,0"
       },
       "original": "みなさんのおっしゃっている方法は、彼女ひ\nとりに、すべてを押しつけることになります！\n",
-      "translation": "여러분께서 말씀하시는 방법은, 그녀 한\n사람에게 모든 것을 떠넘기는 꼴이\n됩니다！\n",
+      "translation": "여러분께서 말씀하시는 방법은, 그녀 한\n사람에게 모든 것을 떠넘기는 꼴이\n됩니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1873,7 +1873,7 @@
         "voice": "GB960424,3"
       },
       "original": "これでは、パイロットを犠牲にするだけでは\nありませんか！\n",
-      "translation": "이것은 파일럿을 희생시키는 것과 다름없지\n않습니까！\n",
+      "translation": "이것은 파일럿을 희생시키는 것과 다름없지\n않습니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1886,7 +1886,7 @@
         "voice": "GB960425,3"
       },
       "original": "マイヤーズ……！\n",
-      "translation": "마이어스……！\n",
+      "translation": "마이어스……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1899,7 +1899,7 @@
         "voice": "GB960425,3"
       },
       "original": "作戦の再考を進言します！\nほかの手段だって、あるはずでしょう！？\n",
-      "translation": "작전의 재고를 건의합니다！ 다른 수단도\n분명 있을 것 아닙니까！？\n",
+      "translation": "작전의 재고를 건의합니다! 다른 수단도\n분명 있을 것 아닙니까!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1912,7 +1912,7 @@
         "face": "0,0110406,0"
       },
       "original": "ほかの手段があるなら取っている！\n",
-      "translation": "다른 수단이 있다면 이미 썼다！\n",
+      "translation": "다른 수단이 있다면 이미 썼다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1977,7 +1977,7 @@
         "voice": "GB960429,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1990,7 +1990,7 @@
         "voice": "GB960500,3"
       },
       "original": "……急にルフト将軍から召集だなんて……。\n何があったんでしょう？\n",
-      "translation": "……갑자기 루프트 장군님으로부터\n소집이라니……. 무슨 일인 걸까요？\n",
+      "translation": "……갑자기 루프트 장군으로부터\n소집이라니……. 무슨 일인 걸까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2016,7 +2016,7 @@
         "voice": "GB960502,3"
       },
       "original": "もしかして、計画が変わったとか？\n",
-      "translation": "혹시, 계획이 바뀌었다거나？\n",
+      "translation": "혹시, 계획이 바뀌었다거나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2042,7 +2042,7 @@
         "face": "0050802,0,0040202"
       },
       "original": "今日明日じゅうに、敵の本隊が来るってとき\nに……。\nまさか、事故でもあったのか？\n",
-      "translation": "오늘 내일 중에 적의 본대가 온다는데……\n설마, 사고라도 난 건가？\n",
+      "translation": "오늘 내일 중에 적의 본대가 온다는데……\n설마, 사고라도 난 건가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2068,7 +2068,7 @@
         "speaker": "107,1070101"
       },
       "original": "だとしたら、心配ですね……。\nタクトさんは、何かご存じですか？\n",
-      "translation": "그렇다면 걱정되네요……. 택트 씨는 뭔가\n알고 계신가요？\n",
+      "translation": "그렇다면 걱정되네요……. 택트 씨는 뭔가\n알고 계신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2146,7 +2146,7 @@
         "speaker": "107,1070101"
       },
       "original": "それは、どういう……。\n",
-      "translation": "그건, 무슨 뜻...\n",
+      "translation": "그건, 무슨 뜻……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2159,7 +2159,7 @@
         "voice": "GB960512,3"
       },
       "original": "ところで、ミルフィー。\n身体の具合は、もういいのかい？\n",
-      "translation": "그런데, 밀피. 몸 상태는 이제 괜찮니？\n",
+      "translation": "그런데, 밀피. 몸 상태는 이제 괜찮니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2172,7 +2172,7 @@
         "speaker": "2,0020101"
       },
       "original": "はい、もう大丈夫です。\nみなさんには、ご迷惑をおかけしました。\n",
-      "translation": "네, 이제 괜찮아요. 여러분께 폐을\n끼쳤네요.\n",
+      "translation": "네, 이제 괜찮아요. 여러분께 폐를\n끼쳤네요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2185,7 +2185,7 @@
         "speaker": "3,0030101"
       },
       "original": "ほんと、心配したんだから。\nもうこういうのは、かんべんしてよね。\n",
-      "translation": "정말, 걱정했다니까. 이제 이런 건\n사양할게.\n",
+      "translation": "정말, 걱정했다니까. 이런 건 이제\n제발 그만해 줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2315,7 +2315,7 @@
         "speaker": "107,1070101"
       },
       "original": "決戦兵器が、何か……？\n",
-      "translation": "결전병기가, 뭔가……？\n",
+      "translation": "결전병기가, 뭔가……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2328,7 +2328,7 @@
         "speaker": "10,0100101"
       },
       "original": "今回の決戦兵器ですが……。\n７番目の紋章機を使用することになりました。\n",
-      "translation": "이번 결전병기입니다만……. ７번째\n문장기를 사용하게 되었습니다.\n",
+      "translation": "이번 결전병기입니다만……. 7번째\n문장기를 사용하게 되었습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2341,7 +2341,7 @@
         "face": "0,0,0020901"
       },
       "original": "えっ！？\n７番目の紋章機……！？\n",
-      "translation": "엣！？ ７번째 문장기……！？\n",
+      "translation": "엣!? 7번째 문장기……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2354,7 +2354,7 @@
         "face": "0,0,0030802"
       },
       "original": "７番目の紋章機……！？\n",
-      "translation": "７번째 문장기……！？\n",
+      "translation": "7번째 문장기……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2367,7 +2367,7 @@
         "voice": "GB960527,3"
       },
       "original": "シャープシューターとともに発見された７番\n機に、クロノ・ブレイク・キャノンを取りつ\nけたもの……それが、決戦兵器です。\n",
-      "translation": "샤프 슈터와 함께 발견된 ７호기에,\n크로노・브레이크・캐논을 장착한 것……\n그것이 결전병기입니다.\n",
+      "translation": "샤프 슈터와 함께 발견된 7호기에,\n크로노・브레이크・캐논을 장착한 것……\n그것이 결전병기입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2380,7 +2380,7 @@
         "speaker": "3,0030401"
       },
       "original": "ちょ、ちょっと待って！\nそれって……。\n",
-      "translation": "잠, 잠깐 기다려！ 그건…….\n",
+      "translation": "잠, 잠깐 기다려! 그건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2393,7 +2393,7 @@
         "speaker": "9,0090402"
       },
       "original": "そう。\n有人機で巨大艦のフィールドを突破し、至近\n距離から破壊するのが、今回の作戦じゃ。\n",
-      "translation": "그래. 유인기로 거대함의 필드를 돌파하여,\n지근거리에서 파괴하는 것이 이번\n작전이다.\n",
+      "translation": "그래. 유인기로 거대 함선 필드를 돌파해,\n지근거리에서 파괴하는 것이\n이번 작전이다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2406,7 +2406,7 @@
         "speaker": "107,1070101"
       },
       "original": "そんな……危険すぎます！\n",
-      "translation": "말도 안 돼…… 너무 위험합니다！\n",
+      "translation": "말도 안 돼…… 너무 위험합니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2419,7 +2419,7 @@
         "speaker": "108,1080101"
       },
       "original": "それしかないのよ。\n敵艦のフィールドを打ち消すには、紋章機の\nＨ．Ａ．Ｌ．Ｏ．を使うしかないわ。\n",
-      "translation": "그 방법뿐이야. 적함의 필드를\n무효화하려면 문장기의 Ｈ．Ａ．Ｌ．Ｏ．를\n써야만 해.\n",
+      "translation": "그 방법뿐이야. 적함 필드를 무효화하려면\n문장기의 H.A.L.O.를 써야만 해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2432,7 +2432,7 @@
         "face": "0110405,0,0"
       },
       "original": "危険は承知だ。\nパイロットも、その点は了解してくれている。\n",
-      "translation": "위험은 알고 있다. 파일럿도 그 점은\n양해하고 있어.\n",
+      "translation": "위험은 알고 있다. 파일럿도 그 점은\n이해하고 있다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2471,7 +2471,7 @@
         "speaker": "4,0040101"
       },
       "original": "ミルフィーさん……！\n",
-      "translation": "밀피 씨……！\n",
+      "translation": "밀피 씨……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2484,7 +2484,7 @@
         "face": "0040103,0,0030202"
       },
       "original": "うそ、ミルフィーがパイロットなの！？\n",
-      "translation": "거짓말, 밀피가 파일럿이야！？\n",
+      "translation": "설마, 밀피가 파일럿이야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2562,7 +2562,7 @@
         "speaker": "5,0050101"
       },
       "original": "ミントが、パイロットに選ばれたのかい！？\n",
-      "translation": "민트가, 파일럿으로 뽑힌 건가！？\n",
+      "translation": "민트가, 파일럿으로 뽑힌 건가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2575,7 +2575,7 @@
         "face": "0,0040101,0"
       },
       "original": "はい。\n私が、現状においてＨ．Ａ．Ｌ．Ｏ．の力を\nもっとも引き出すことができる……。\n",
-      "translation": "네. 제가, 현 상황에서\nＨ．Ａ．Ｌ．Ｏ．의 힘을 가장 잘 이끌어낼\n수 있어서…….\n",
+      "translation": "네. 제가, 현 상황에서 H.A.L.O.의 힘을\n가장 잘 이끌어낼 수 있어서…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2627,7 +2627,7 @@
         "speaker": "3,0030101"
       },
       "original": "フォルテさん……！\n",
-      "translation": "포르테 씨……！\n",
+      "translation": "포르테 씨……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2640,7 +2640,7 @@
         "speaker": "6,0060101"
       },
       "original": "フォルテさんが、パイロット……？\n",
-      "translation": "포르테 씨가, 파일럿……？\n",
+      "translation": "포르테 씨가, 파일럿……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2705,7 +2705,7 @@
         "face": "0020901,0,0"
       },
       "original": "ヴァニラ……！\n",
-      "translation": "바닐라……！\n",
+      "translation": "바닐라……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2718,7 +2718,7 @@
         "face": "0020901,0,0040103"
       },
       "original": "ヴァニラさんが、パイロットに選ばれたんで\nすの！？\n",
-      "translation": "바닐라 씨가, 파일럿으로 뽑힌 건가요！？\n",
+      "translation": "바닐라 씨가, 파일럿으로 뽑힌 건가요!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2783,7 +2783,7 @@
         "speaker": "2,0020101"
       },
       "original": "そのサポート役っていうのも、もう決まって\nるんですか？\n",
-      "translation": "그 서포트 역할이라는 것도, 이미 정해져\n있나요？\n",
+      "translation": "그 서포트 역할이라는 것도, 이미 정해져\n있나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2796,7 +2796,7 @@
         "face": "0020901,0,0030802"
       },
       "original": "それは誰なんですか！？\n",
-      "translation": "그건 누구인가요！？\n",
+      "translation": "그건 누구인가요!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2848,7 +2848,7 @@
         "face": "0,0,0100102"
       },
       "original": "いいえ……サポート役は、すでに本人に選ん\nでいただきました。\n",
-      "translation": "아니요…… 서포트 역할은, 이미 본인에게\n선택받았습니다.\n",
+      "translation": "아니요…… 서포트 역할은, 이미 본인이\n골랐습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2861,7 +2861,7 @@
         "voice": "GB960565,3"
       },
       "original": "それが誰かを、この場でワシらに聞かせてほ\nしいんじゃ。\n",
-      "translation": "그게 누구인지, 이 자리에서 우리에게\n들려주었으면 하네.\n",
+      "translation": "그게 누구인지, 이 자리에서 우리에게\n말해 주었으면 하네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2874,7 +2874,7 @@
         "face": "0090402,0,0100102"
       },
       "original": "……心は決まったかね？\n",
-      "translation": "……마음은 정했는가？\n",
+      "translation": "……마음은 정했는가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2952,7 +2952,7 @@
         "voice": "GB960572,3"
       },
       "original": "タクトさんです！\n",
-      "translation": "택트 씨입니다！\n",
+      "translation": "택트 씨입니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2965,7 +2965,7 @@
         "speaker": "4,0040101"
       },
       "original": "タクトさん、ですわ。\n",
-      "translation": "택트 씨,예요.\n",
+      "translation": "택트 씨, 예요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3004,7 +3004,7 @@
         "face": "0,0060105,0"
       },
       "original": "……………………！？\n",
-      "translation": "……………………！？\n",
+      "translation": "……………………!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3017,7 +3017,7 @@
         "speaker": "11,0110401"
       },
       "original": "マ……マイヤーズだと！？\n",
-      "translation": "마……마이어스라고！？\n",
+      "translation": "마……마이어스라고!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3030,7 +3030,7 @@
         "speaker": "9,0090401"
       },
       "original": "なんと、本気か！？\n",
-      "translation": "뭐라고, 진심인가！？\n",
+      "translation": "뭐라고, 진심인가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3056,7 +3056,7 @@
         "voice": "GB960578,3"
       },
       "original": "ミルフィーのテンションを、もっとも上げら\nれる相手は、オレですから。\nどーんと任せてください。\n",
-      "translation": "밀피의 텐션을, 가장 높일 수 있는 상대는,\n저니까요. 팍 하고 맡겨주세요.\n",
+      "translation": "밀피의 텐션을 가장 높일 수 있는 상대는\n저니까요. 마음 놓고 맡겨 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3082,7 +3082,7 @@
         "speaker": "1,0010201"
       },
       "original": "ミントのテンションを、もっとも上げられる\n相手は、オレですから。\nどーんと任せてください。\n",
-      "translation": "민트의 텐션을, 가장 높일 수 있는 상대는,\n저니까요. 팍 하고 맡겨주세요.\n",
+      "translation": "민트의 텐션을 가장 높일 수 있는 상대는\n저니까요. 마음 놓고 맡겨 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3108,7 +3108,7 @@
         "voice": "GB960580,3"
       },
       "original": "フォルテのテンションを、もっとも上げられ\nる相手は、オレですから。\nどーんと任せてください。\n",
-      "translation": "포르테의 텐션을, 가장 높일 수 있는\n상대는, 저니까요. 팍 하고 맡겨주세요.\n",
+      "translation": "포르테의 텐션을 가장 높일 수 있는 상대는\n저니까요. 마음 놓고 맡겨 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3134,7 +3134,7 @@
         "face": "0,0060702,0"
       },
       "original": "ヴァニラのテンションを、もっとも上げられ\nる相手は、オレですから。\nどーんと任せてください。\n",
-      "translation": "바닐라의 텐션을 가장 높일 수 있는\n상대는, 저니까요. 듬직하게 맡겨 주세요.\n",
+      "translation": "바닐라의 텐션을 가장 높일 수 있는 상대는\n저니까요. 마음 놓고 맡겨 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3147,7 +3147,7 @@
         "face": "0,0090402,0"
       },
       "original": "タクト……！\n",
-      "translation": "택트……！\n",
+      "translation": "택트……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3160,7 +3160,7 @@
         "speaker": "1,0010301"
       },
       "original": "司令官という立場を逸脱した行為であること\nは、重々承知しています。\n",
-      "translation": "사령관이라는 입장을 일탈한 행위라는\n점은, 충분히 알고 있습니다.\n",
+      "translation": "사령관의 본분을 벗어난 행동이라는 점은,\n충분히 알고 있습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3186,7 +3186,7 @@
         "speaker": "1,0010301"
       },
       "original": "ルフト将軍、シヴァ陛下。\n皇国のため、みんなのために……。\nオレに、行かせてください。\n",
-      "translation": "루프트 장군님, 시바 폐하. 황국을 위해,\n모두를 위해……. 저를, 가게 해주십시오.\n",
+      "translation": "루프트 장군, 시바 폐하. 황국을 위해,\n모두를 위해……. 저를, 가게 해주십시오.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3212,7 +3212,7 @@
         "speaker": "108,1080101"
       },
       "original": "いいんじゃない？\n間違った選択じゃないと思うわよ。\n",
-      "translation": "괜찮지 않아？ 틀린 선택은 아니라고\n생각해.\n",
+      "translation": "괜찮지 않아? 틀린 선택은 아니라고\n생각해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3225,7 +3225,7 @@
         "voice": "GB960585,3"
       },
       "original": "ノア！\n",
-      "translation": "노아！\n",
+      "translation": "노아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3238,7 +3238,7 @@
         "speaker": "108,1080101"
       },
       "original": "パイロットが決めろって言ったのは、ほかな\nらぬあんたたちよ？\n",
-      "translation": "파일럿이 결정하라고 말한 건, 다름 아닌\n너희들이잖아？\n",
+      "translation": "파일럿이 결정하라고 말한 건, 다름 아닌\n너희들이잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3251,7 +3251,7 @@
         "voice": "GB960587,3"
       },
       "original": "それとも、今さらナシって言うつもり？\n",
-      "translation": "아니면, 이제 와서 없던 일로 하겠다는\n거야？\n",
+      "translation": "아니면, 이제 와서 없던 일로 하겠다는\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3316,7 +3316,7 @@
         "voice": "GB960591,3"
       },
       "original": "で、ですが……！\n",
-      "translation": "그, 그렇지만……！\n",
+      "translation": "그, 그렇지만……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3329,7 +3329,7 @@
         "speaker": "2,0020101"
       },
       "original": "大丈夫なんですか、タクトさん……？\n",
-      "translation": "괜찮은 건가요, 택트 씨……？\n",
+      "translation": "괜찮은 건가요, 택트 씨……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3342,7 +3342,7 @@
         "face": "-1,0,0030401"
       },
       "original": "そうよ！\nホントにいいの！？\n",
-      "translation": "맞아！ 정말 괜찮은 거야！？\n",
+      "translation": "맞아! 정말 괜찮은 거야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3446,7 +3446,7 @@
         "face": "-1,0,0020903"
       },
       "original": "あたしも、信じてます！\n",
-      "translation": "나도, 믿고 있어！\n",
+      "translation": "나도, 믿고 있어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3459,7 +3459,7 @@
         "speaker": "3,0030101"
       },
       "original": "帰ってこなかったら、タダじゃすまさないか\nらね！\n",
-      "translation": "돌아오지 않으면, 그냥 넘어가지 않을\n거야！\n",
+      "translation": "돌아오지 않으면, 그냥 넘어가지 않을\n거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3641,7 +3641,7 @@
         "speaker": "2,0020101"
       },
       "original": "はい、了解です！\n",
-      "translation": "네, 알겠습니다！\n",
+      "translation": "네, 알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3654,7 +3654,7 @@
         "speaker": "3,0030101"
       },
       "original": "任せといて！\n",
-      "translation": "맡겨만 둬！\n",
+      "translation": "맡겨만 둬!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3680,7 +3680,7 @@
         "voice": "GB960616,3"
       },
       "original": "おふたりを援護します！\n",
-      "translation": "두 분을 엄호하겠습니다！\n",
+      "translation": "두 분을 엄호하겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3732,7 +3732,7 @@
         "speaker": "1,0010102"
       },
       "original": "作戦名……ですか？\n",
-      "translation": "작전명…… 말인가요？\n",
+      "translation": "작전명…… 말인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3745,7 +3745,7 @@
         "speaker": "1,0010201"
       },
       "original": "……そうだ！\nミルフィー、耳を貸して。\n",
-      "translation": "……그렇지！ 밀피, 내 말 좀 들어보렴.\n",
+      "translation": "……그렇지! 밀피, 잠깐 귀 좀 빌려줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3758,7 +3758,7 @@
         "voice": "GB960620,3"
       },
       "original": "えっ、なんですか？\n",
-      "translation": "엣, 뭔가요？\n",
+      "translation": "엣, 뭔가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3771,7 +3771,7 @@
         "speaker": "1,0010401"
       },
       "original": "ゴニョゴニョ……。\n",
-      "translation": "구시구시…….\n",
+      "translation": "소곤소곤…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3784,7 +3784,7 @@
         "speaker": "1,0010101"
       },
       "original": "……ってのは、どうだい？\n",
-      "translation": "……라는 건, 어떤가？\n",
+      "translation": "……라는 건, 어떤가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3797,7 +3797,7 @@
         "speaker": "2,0020101"
       },
       "original": "あ、それ、すごくいいですね。\nそれにしましょう！\n",
-      "translation": "아, 그거 정말 좋네요. 그걸로 하죠！\n",
+      "translation": "아, 그거 정말 좋네요. 그걸로 하죠!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3823,7 +3823,7 @@
         "speaker": "1,0010201"
       },
       "original": "……そうだ！\nランファ、耳を貸して。\n",
-      "translation": "……맞다！ 란파, 이쪽을 좀 봐줘.\n",
+      "translation": "……맞다! 란파, 잠깐 귀 좀 빌려줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3836,7 +3836,7 @@
         "speaker": "3,0030101"
       },
       "original": "え、なに？\n",
-      "translation": "에, 뭐야？\n",
+      "translation": "에, 뭐야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3849,7 +3849,7 @@
         "speaker": "1,0010401"
       },
       "original": "ゴニョゴニョ……。\n",
-      "translation": "구시구시…….\n",
+      "translation": "소곤소곤…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3862,7 +3862,7 @@
         "face": "0,0030802,0"
       },
       "original": "……ってのは、どうだい？\n",
-      "translation": "……라는 건, 어떤가？\n",
+      "translation": "……라는 건, 어떤가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3875,7 +3875,7 @@
         "voice": "GB960623,3"
       },
       "original": "あはっ、いいじゃない！\nそれに決定！\n",
-      "translation": "아하하, 좋잖아！ 그걸로 결정！\n",
+      "translation": "아하하, 좋잖아! 그걸로 결정!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3901,7 +3901,7 @@
         "speaker": "1,0010201"
       },
       "original": "……そうだ！\nミント、耳を貸して。\n",
-      "translation": "……맞아！ 민트, 내 말 좀 들어봐.\n",
+      "translation": "……맞아! 민트, 잠깐 귀 좀 빌려줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3914,7 +3914,7 @@
         "face": "0,0040702,0"
       },
       "original": "はい、なんですの？\n",
-      "translation": "네, 무엇인가요？\n",
+      "translation": "네, 무엇인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3927,7 +3927,7 @@
         "voice": "GB960624,3"
       },
       "original": "ゴニョゴニョ……。\n",
-      "translation": "우물우물…….\n",
+      "translation": "소곤소곤…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3940,7 +3940,7 @@
         "voice": "GB960624,3"
       },
       "original": "……ってのは、どうだい？\n",
-      "translation": "……라는 건데, 어때？\n",
+      "translation": "……라는 건데, 어때?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3979,7 +3979,7 @@
         "voice": "GB960625,3"
       },
       "original": "……そうだ！\nフォルテ、耳を貸して。\n",
-      "translation": "……맞아！ 포르테, 내 말 좀 들어봐.\n",
+      "translation": "……맞아! 포르테, 잠깐 귀 좀 빌려줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3992,7 +3992,7 @@
         "face": "0,0050802,0"
       },
       "original": "ああ……なんだい？\n",
-      "translation": "아아…… 뭔데？\n",
+      "translation": "아아…… 뭔데?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4005,7 +4005,7 @@
         "voice": "GB960626,3"
       },
       "original": "ゴニョゴニョ……。\n",
-      "translation": "우물우물…….\n",
+      "translation": "소곤소곤…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4018,7 +4018,7 @@
         "voice": "GB960626,3"
       },
       "original": "……ってのは、どうだい？\n",
-      "translation": "……라는 건데, 어때？\n",
+      "translation": "……라는 건데, 어때?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4057,7 +4057,7 @@
         "voice": "GB960627,3"
       },
       "original": "……そうだ！\nヴァニラ、耳を貸して。\n",
-      "translation": "……맞다！ 바닐라, 내 말 좀 들어봐.\n",
+      "translation": "……맞다! 바닐라, 잠깐 귀 좀 빌려줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4096,7 +4096,7 @@
         "voice": "GB960628,3"
       },
       "original": "……ってのは、どうだい？\n",
-      "translation": "……라는 건데, 어떤 것 같아？\n",
+      "translation": "……라는 건데, 어떤 것 같아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4135,7 +4135,7 @@
         "voice": "GB960630,3"
       },
       "original": "ほう？\n聞かせてもらおうか。\n",
-      "translation": "호오？ 한번 들어볼까.\n",
+      "translation": "호오? 한번 들어볼까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4161,7 +4161,7 @@
         "voice": "GB960632,3"
       },
       "original": "『エンジェル・スラップ』でーす！\n",
-      "translation": "『엔젤・슬랩』이에요～！\n",
+      "translation": "『엔젤・슬랩』이에요ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4252,7 +4252,7 @@
         "speaker": "9,0090401"
       },
       "original": "ふふ……ははははっ！\nなるほど、これはいい！\n",
-      "translation": "후후…… 하하하하！ 과연, 이거\n괜찮은데！\n",
+      "translation": "후후…… 하하하하! 과연, 이거\n괜찮은데!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4278,7 +4278,7 @@
         "speaker": "5,0050101"
       },
       "original": "いいじゃないか、タクト！\n",
-      "translation": "좋잖아, 택트！\n",
+      "translation": "좋잖아, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4291,7 +4291,7 @@
         "voice": "GB960642,3"
       },
       "original": "ビンタは……とても痛いです。\n",
-      "translation": "뺨을 때리는 건…… 무척 아픕니다.\n",
+      "translation": "뺨을 맞는 건…… 무척 아픕니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4304,7 +4304,7 @@
         "voice": "GB960643,3"
       },
       "original": "キツいの一発、お見舞いしてやろうじゃない！\n",
-      "translation": "매운 맛을 한 방, 보여주마！\n",
+      "translation": "호된 한 방, 먹여주자고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4317,7 +4317,7 @@
         "face": "0020102,0,-1"
       },
       "original": "バーンとやっちゃいましょう！\n",
-      "translation": "빵 하고 해버리자고요！\n",
+      "translation": "빵 하고 해버리자고요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4330,7 +4330,7 @@
         "speaker": "1,0010201"
       },
       "original": "ああ！\n",
-      "translation": "아악！\n",
+      "translation": "그래!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4356,7 +4356,7 @@
         "face": "0,0110405,0"
       },
       "original": "はっ！\n",
-      "translation": "옛！\n",
+      "translation": "옛!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4369,7 +4369,7 @@
         "face": "0,0020902,0"
       },
       "original": "はい、任せてください！\n",
-      "translation": "네, 맡겨 주세요！\n",
+      "translation": "네, 맡겨 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4382,7 +4382,7 @@
         "face": "0,0030801,0"
       },
       "original": "アタシたちに任せてください！\n",
-      "translation": "저희에게 맡겨 주세요！\n",
+      "translation": "저희에게 맡겨 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4408,7 +4408,7 @@
         "voice": "GB960649,3"
       },
       "original": "はっ、了解しました！\n",
-      "translation": "하앗, 알겠습니다！\n",
+      "translation": "옛, 알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4434,7 +4434,7 @@
         "voice": "GB960651,3"
       },
       "original": "ルフト将軍！\nタクト！\n",
-      "translation": "루프트 장군님！ 택트！\n",
+      "translation": "루프트 장군! 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4460,7 +4460,7 @@
         "speaker": "7,0070301"
       },
       "original": "レーダーに敵の艦隊を感知しました！\n",
-      "translation": "레이더에 적의 함대를 감지했습니다！\n",
+      "translation": "레이더에 적의 함대를 감지했습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4473,7 +4473,7 @@
         "speaker": "9,0090401"
       },
       "original": "なんじゃと！？\n",
-      "translation": "뭐라고！？\n",
+      "translation": "뭐라고!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4551,7 +4551,7 @@
         "speaker": "1,0010301"
       },
       "original": "あと、どれぐらいかかる？\n",
-      "translation": "그리고, 얼마나 더 걸려？\n",
+      "translation": "얼마나 더 걸려?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4564,7 +4564,7 @@
         "speaker": "108,1080101"
       },
       "original": "最短で２時間ってとこ。\n",
-      "translation": "최단으로 ２시간 정도.\n",
+      "translation": "최단으로 2시간 정도.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4577,7 +4577,7 @@
         "speaker": "3,0030101"
       },
       "original": "それじゃ、間に合わないじゃない！\n",
-      "translation": "그럼, 제시간에 못 맞추잖아！\n",
+      "translation": "그럼, 제시간에 못 맞추잖아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4603,7 +4603,7 @@
         "face": "-1,0,0100102"
       },
       "original": "それしかなさそうですね。\nドックに連絡しておきましょう。\n",
-      "translation": "그 방법밖에 없을 것 같네요. 독（Dock）에\n연락해 두겠습니다.\n",
+      "translation": "그 방법밖에 없을 것 같네요. 도크에\n연락해 두겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4616,7 +4616,7 @@
         "face": "-1,0,0100102"
       },
       "original": "これが……決戦兵器……！\n",
-      "translation": "이것이…… 결전병기……！\n",
+      "translation": "이것이…… 결전병기……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4629,7 +4629,7 @@
         "speaker": "5,0050802"
       },
       "original": "上についてるのが、７機目の紋章機だよね？\nまるで、へばりついてるみたいだ。\n",
-      "translation": "위에 달려 있는 게, ７번째 문장기지？\n마치 달라붙어 있는 것 같네.\n",
+      "translation": "위에 달려 있는 게, 7번째 문장기지?\n마치 달라붙어 있는 것 같네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4655,7 +4655,7 @@
         "face": "0,0,0"
       },
       "original": "私です。\nクレータ、みなさん、聞こえますか？\n",
-      "translation": "저예요. 크레타, 여러분, 들리나요？\n",
+      "translation": "저예요. 크레이타, 여러분, 들리나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4668,7 +4668,7 @@
         "speaker": "19,0190103"
       },
       "original": "シャトヤーン様、どうなさったんですか？\n",
-      "translation": "샤토얀 님, 무슨 일이신가요？\n",
+      "translation": "샤토얀 님, 무슨 일이신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4681,7 +4681,7 @@
         "face": "0,0,0"
       },
       "original": "敵が間近に迫っています。\n予定を変更して、７番機をエルシオールに搭\n載してください。\n",
-      "translation": "적이 근처까지 다가오고 있습니다. 예정을\n변경하여, ７번기를 에르시올에 탑재해\n주세요.\n",
+      "translation": "적이 근처까지 다가오고 있습니다. 예정을\n변경하여, 7호기를 에르시올에 탑재해\n주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4707,7 +4707,7 @@
         "speaker": "19,0190104"
       },
       "original": "わかりました！\n",
-      "translation": "알겠습니다！\n",
+      "translation": "알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4733,7 +4733,7 @@
         "speaker": "1,0010101"
       },
       "original": "確かに、うけたまわったよ。\n",
-      "translation": "확실히, 접수했어.\n",
+      "translation": "확실히 맡았어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4746,7 +4746,7 @@
         "face": "0,0,0050102"
       },
       "original": "さぁて、うちらの出番だ。\n２時間きっちり、守りきってみせるよ！\n",
-      "translation": "자아, 우리 차례다. ２시간 동안 확실하게,\n지켜내 보이겠어！\n",
+      "translation": "자아, 우리 차례다. 2시간 동안 확실하게,\n지켜내 보이겠어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4759,7 +4759,7 @@
         "face": "0,0,0030101"
       },
       "original": "決戦兵器にも『白き月』にも、指一本触れさ\nせないんだから！\n",
-      "translation": "결전병기에도 『백색 달』에도, 손가락\n하나 대지 못하게 할 거니까！\n",
+      "translation": "결전병기에도 『백색 달』에도, 손가락\n하나 대지 못하게 할 거니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4772,7 +4772,7 @@
         "speaker": "4,0040101"
       },
       "original": "シャトヤーン様、私たちの紋章機の調整は、\nどうなっていますか？\n",
-      "translation": "샤토얀 님, 저희 문장기의 조정은 어떻게\n되어 가고 있습니까？\n",
+      "translation": "샤토얀 님, 저희 문장기의 조정은 어떻게\n되어 가고 있습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4785,7 +4785,7 @@
         "face": "0,0060105,0"
       },
       "original": "シャトヤーン様……私たちの紋章機の調整は、\nどうなっていますか……？\n",
-      "translation": "샤토얀 님…… 저희 문장기의 조정은\n어떻게 되어 가고 있나요……？\n",
+      "translation": "샤토얀 님…… 저희 문장기의 조정은\n어떻게 되어 가고 있나요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4824,7 +4824,7 @@
         "speaker": "1,0010302"
       },
       "original": "そうだな。\n行くぞ、みんな！\n",
-      "translation": "그렇군. 가자, 모두！\n",
+      "translation": "그렇군. 가자, 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4837,7 +4837,7 @@
         "voice": "GB960900,3"
       },
       "original": "こちら格納庫！\nマイヤーズ司令、応答願います。\n",
-      "translation": "여기는 격납고！ 마이어스 사령관님, 응답\n바랍니다.\n",
+      "translation": "여기는 격납고! 마이어스 사령관, 응답\n바랍니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4850,7 +4850,7 @@
         "speaker": "1,0010301"
       },
       "original": "こちらブリッジ。\n決戦兵器はどうなった？\n",
-      "translation": "여기는 브릿지. 결전병기는 어떻게 됐나？\n",
+      "translation": "여기는 브릿지. 결전병기는 어떻게 됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4863,7 +4863,7 @@
         "voice": "GB960901,3"
       },
       "original": "機体そのものの調整は、ほぼ完了しました！\n",
-      "translation": "기체 자체의 조정은 거의 완료되었습니다！\n",
+      "translation": "기체 자체의 조정은 거의 완료되었습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4876,7 +4876,7 @@
         "voice": "GB960902,3"
       },
       "original": "あとはＨ．Ａ．Ｌ．Ｏ．の調整になりますの\nで、至急パイロットを呼び戻してください！\n",
-      "translation": "남은 건 Ｈ．Ａ．Ｌ．Ｏ．의 조정뿐이니,\n지체 없이 파일럿을 불러와 주십시오！\n",
+      "translation": "남은 건 H.A.L.O.의 조정뿐이니,\n지체 없이 파일럿을 불러와 주십시오!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4915,7 +4915,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミルフィー、聞こえたかい？\n",
-      "translation": "밀피, 들리나？\n",
+      "translation": "밀피, 들리나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4941,7 +4941,7 @@
         "voice": "GB960903,3"
       },
       "original": "聞こえたかい、ランファ？\n",
-      "translation": "들렸나, 란파？\n",
+      "translation": "들렸나, 란파?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4954,7 +4954,7 @@
         "face": "1070103,0,0"
       },
       "original": "もちろんよ、タクト。\nいよいよアタシたちの出番ね！\n",
-      "translation": "물론이지, 택트. 드디어 우리들의 차례네！\n",
+      "translation": "물론이지, 택트. 드디어 우리들의 차례네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4966,7 +4966,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミント、聞こえたかい？\n",
-      "translation": "민트, 들렸나？\n",
+      "translation": "민트, 들렸나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4990,7 +4990,7 @@
         "speaker": "1,0010101"
       },
       "original": "フォルテ、聞こえたかい？\n",
-      "translation": "포르테, 들렸나？\n",
+      "translation": "포르테, 들렸나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5014,7 +5014,7 @@
         "speaker": "1,0010101"
       },
       "original": "ヴァニラ、聞こえたかい？\n",
-      "translation": "바닐라, 들렸나？\n",
+      "translation": "바닐라, 들렸나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5039,7 +5039,7 @@
         "face": "0,0,0"
       },
       "original": "レーダーに多数の艦影確認！\n敵の本隊と思われます！\n",
-      "translation": "레이더에 다수의 함영 확인！ 적의\n본대라고 판단됩니다！\n",
+      "translation": "레이더에 다수의 함영 확인! 적의\n본대라고 판단됩니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5078,7 +5078,7 @@
         "face": "0,0,0"
       },
       "original": "敵巨大艦より通信が入りました！\n",
-      "translation": "적 거대함선으로부터 통신이\n들어왔습니다！\n",
+      "translation": "적 거대 함선으로부터 통신이\n들어왔습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5104,7 +5104,7 @@
         "face": "0,0,0"
       },
       "original": "がんばっているようね。\nまぁ、少しは楽しませてもらわないと。\n",
-      "translation": "열심히 하고 있는 모양이네. 뭐, 조금은\n즐겁게 해줘야겠어.\n",
+      "translation": "열심히 하고 있는 모양이네. 뭐, 조금은\n재미를 봐야겠어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5117,7 +5117,7 @@
         "face": "0,0,0"
       },
       "original": "ネフューリア……！\n",
-      "translation": "네퓨리아……！\n",
+      "translation": "네퓨리아……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5130,7 +5130,7 @@
         "face": "0,0,0"
       },
       "original": "それで、新しいオモチャの準備は整ったのか\nしら？\n",
-      "translation": "그래서, 새로운 장난감 준비는 끝났을까？\n",
+      "translation": "그래서, 새로운 장난감 준비는 끝났을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5156,7 +5156,7 @@
         "face": "0,0,0"
       },
       "original": "へぇ？\nでは、いったいなんだというの？\n",
-      "translation": "헤에？ 그럼, 도대체 무엇이라는 거야？\n",
+      "translation": "헤에? 그럼, 도대체 무엇이라는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5169,7 +5169,7 @@
         "face": "0,0,0"
       },
       "original": "これは希望さ。\nお前を倒し、未来を取り戻す。\nオレたちとエンジェル隊の……。\n",
-      "translation": "이것은 희망이다. 너를 쓰러뜨리고, 미래를\n되찾는다. 우리와 엔젤대의…….\n",
+      "translation": "이건 희망이야. 너를 쓰러뜨리고 미래를\n되찾을, 우리와 엔젤대의…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5258,7 +5258,7 @@
         "speaker": "141,1410206"
       },
       "original": "…………ッ！\n",
-      "translation": "…………윽！\n",
+      "translation": "…………윽!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5378,7 +5378,7 @@
         "speaker": "1,0010302"
       },
       "original": "だから、オレたちはお前の脅しには屈しない。\n何があろうとも！\n",
-      "translation": "그러니까, 우리들은 네 협박에 굴하지\n않는다. 무슨 일이 있어도！\n",
+      "translation": "그러니까, 우리들은 네 협박에 굴하지\n않는다. 무슨 일이 있어도!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5417,7 +5417,7 @@
         "face": "0,1410202,0"
       },
       "original": "レーダーに反応！\n敵影、さらに増加！！\n",
-      "translation": "레이더에 반응！ 적의 그림자, 더욱\n증가！！\n",
+      "translation": "레이더에 반응! 적의 수, 더욱 증가!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5430,7 +5430,7 @@
         "face": "0,0070301,0"
       },
       "original": "増援……！？\nまだいやがったのか。\n",
-      "translation": "증원……！？ 아직 남아있었던 건가.\n",
+      "translation": "증원……!? 아직 남아있었던 건가.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5482,7 +5482,7 @@
         "face": "0,1410205,0"
       },
       "original": "じっくり見物させてもらうとするわ。\nうふふふふ……！\n",
-      "translation": "느긋하게 구경하도록 하겠어.\n우후후후후……！\n",
+      "translation": "느긋하게 구경하도록 하겠어.\n우후후후후……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5508,7 +5508,7 @@
         "face": "0,0070101,0"
       },
       "original": "敵さん、自信満々ってところだな。\n",
-      "translation": "적군 말이야, 자신만만하다는 거네.\n",
+      "translation": "적은 자신만만한 모양이군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5521,7 +5521,7 @@
         "speaker": "1,0010101"
       },
       "original": "なら、思いっきりビンタをくれてやるさ。\n決戦兵器でね……！\n",
-      "translation": "그렇다면, 마음껏 뺨을 때려주겠어.\n결전병기로 말이지……！\n",
+      "translation": "그렇다면, 마음껏 뺨을 때려주겠어.\n결전병기로 말이지……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5534,7 +5534,7 @@
         "face": "0,0070101,0"
       },
       "original": "マイヤーズ司令、格納庫より通信です。\n",
-      "translation": "마이어스 사령관님, 격납고에서\n통신입니다.\n",
+      "translation": "마이어스 사령관, 격납고에서\n통신입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5573,7 +5573,7 @@
         "face": "0,0070101,0"
       },
       "original": "はい。\nがんばりましょう。\n",
-      "translation": "네. 열심히 할게요.\n",
+      "translation": "네. 힘냅시다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5612,7 +5612,7 @@
         "face": "0,0070101,0"
       },
       "original": "もっちろん。\nタクトとアタシなら、なんだってできるわ！\n",
-      "translation": "물론이지. 택트와 나라면, 뭐든지 할 수\n있어！\n",
+      "translation": "물론이지. 택트와 나라면, 뭐든지 할 수\n있어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5699,7 +5699,7 @@
         "voice": "GB961009,3"
       },
       "original": "ヴァニラ・Ｈ、帰艦しました。\n",
-      "translation": "바닐라・H, 귀환했습니다.\n",
+      "translation": "바닐라・H, 귀함했습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5735,7 +5735,7 @@
         "speaker": "19,0190104"
       },
       "original": "こちらはこのまま、Ｈ．Ａ．Ｌ．Ｏ．の調整\nに入ります。\n",
-      "translation": "이쪽은 이대로, Ｈ．Ａ．Ｌ．Ｏ．의 조정에\n들어갑니다.\n",
+      "translation": "이쪽은 이대로, H.A.L.O. 조정에\n들어갑니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5748,7 +5748,7 @@
         "face": "0,0070201,0"
       },
       "original": "時間はどれぐらいかかる？\n",
-      "translation": "시간은 어느 정도 걸리지？\n",
+      "translation": "시간은 어느 정도 걸리지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5761,7 +5761,7 @@
         "face": "0,0070201,0"
       },
       "original": "３０分……いえ、２０分ください！\n",
-      "translation": "３０분…… 아니, ２０분만 주세요！\n",
+      "translation": "30분…… 아니, 20분만 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5774,7 +5774,7 @@
         "face": "0,0070301,0"
       },
       "original": "１５分でなんとかしろ。\n",
-      "translation": "１５분 안에 어떻게든 해.\n",
+      "translation": "15분 안에 어떻게든 해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5787,7 +5787,7 @@
         "face": "0,0,0"
       },
       "original": "りょ、了解！\n",
-      "translation": "아, 알겠습니다！\n",
+      "translation": "아, 알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5800,7 +5800,7 @@
         "face": "0,0,0"
       },
       "original": "マイヤーズ司令も、目標ポイントに到達した\nら、すぐこちらに来てください！\n",
-      "translation": "마이어스 사령관님도, 목표 포인트에\n도착하면 바로 이쪽으로 와 주세요！\n",
+      "translation": "마이어스 사령관도, 목표 포인트에\n도착하면 바로 이쪽으로 와 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5852,7 +5852,7 @@
         "face": "0,0,0"
       },
       "original": "はい？\n",
-      "translation": "네？\n",
+      "translation": "네?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5891,7 +5891,7 @@
         "face": "0,0,0"
       },
       "original": "なに？\n",
-      "translation": "뭐？\n",
+      "translation": "뭐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5930,7 +5930,7 @@
         "speaker": "4,0040702"
       },
       "original": "なんですの？\n",
-      "translation": "무슨 일이신가요？\n",
+      "translation": "무슨 일이신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5969,7 +5969,7 @@
         "speaker": "5,0050802"
       },
       "original": "なんだい？\n",
-      "translation": "왜 그래？\n",
+      "translation": "왜 그래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6030,7 +6030,7 @@
         "speaker": "1,0010301"
       },
       "original": "エンジェル隊のみんなも、聞こえてるな？\nこれより我々は、最終フェーズに移行する！\n",
-      "translation": "엔젤대 모두들도, 듣고 있겠지？ 지금부터\n우리는, 최종 페이즈로 이행한다！\n",
+      "translation": "엔젤대 모두, 듣고 있겠지? 지금부터\n우리는, 최종 페이즈로 이행한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6107,7 +6107,7 @@
         "face": "0,0070201,0"
       },
       "original": "もうひとつの……任務？\n",
-      "translation": "또 하나의…… 임무？\n",
+      "translation": "또 하나의…… 임무?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6120,7 +6120,7 @@
         "face": "0,0070201,0"
       },
       "original": "とても重要な任務だ。\n各人、心して聞いてくれ。\n",
-      "translation": "매우 중요한 임무다. 각자, 마음을 다해\n들어라.\n",
+      "translation": "매우 중요한 임무다. 각자, 명심하고\n들어라.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6146,7 +6146,7 @@
         "face": "0,0070201,0"
       },
       "original": "はい、なんですか？\n",
-      "translation": "네, 무엇인가요？\n",
+      "translation": "네, 무엇인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6172,7 +6172,7 @@
         "face": "0,0070201,0"
       },
       "original": "えっ？\n",
-      "translation": "엣？\n",
+      "translation": "엣?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6211,7 +6211,7 @@
         "voice": "GB961105,3"
       },
       "original": "はい、任せてください！\nとびっきりの特製ケーキ、作っちゃいます！\n",
-      "translation": "네, 맡겨 주세요！ 아주 특별한 특제\n케이크를 만들어 버릴게요！\n",
+      "translation": "네, 맡겨 주세요! 아주 특별한 특제\n케이크를 만들어 버릴게요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6237,7 +6237,7 @@
         "voice": "GB961106,3"
       },
       "original": "オッケー！\n激辛１０００倍カレー、山盛り用意するわ！\n",
-      "translation": "오케이！ 엄청 매운 １０００배 카레를\n산더미처럼 준비할게！\n",
+      "translation": "오케이! 매운맛 1000배 카레를\n산더미처럼 준비할게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6249,7 +6249,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミントは、最高級の紅茶の手配をよろしく。\n",
-      "translation": "민트는 최고급 홍차 수배를 부탁해.\n",
+      "translation": "민트는 최고급 홍차 준비를 부탁해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6273,7 +6273,7 @@
         "voice": "GB961107,3"
       },
       "original": "フォルテは、会場の手配と飾り付けを頼む。\nどかーんとハデにやろう！\n",
-      "translation": "포르테는 회장 수배와 장식을 부탁한다.\n화끈하고 화려하게 해보자고！\n",
+      "translation": "포르테는 행사장 준비와 장식을 부탁한다.\n화끈하고 화려하게 해보자고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6285,7 +6285,7 @@
         "speaker": "5,0050102"
       },
       "original": "まかしときな、タクト！\n",
-      "translation": "맡겨만 두라고, 택트！\n",
+      "translation": "맡겨만 두라고, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6297,7 +6297,7 @@
         "voice": "GB961108,3"
       },
       "original": "ヴァニラは、みんなが食べ過ぎたときのため\nに、胃薬の手配を。\n",
-      "translation": "바닐라는 모두가 과식했을 때를 대비해서\n위장약을 수배해 줘.\n",
+      "translation": "바닐라는 모두가 과식했을 때를 대비해서\n위장약을 준비해 줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6345,7 +6345,7 @@
         "speaker": "107,1070305"
       },
       "original": "了解しました。\n全力で任務にあたります！\n",
-      "translation": "알겠습니다. 전력을 다해 임무에\n임하겠습니다！\n",
+      "translation": "알겠습니다. 전력을 다해 임무에\n임하겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6369,7 +6369,7 @@
         "voice": "GB961111,3"
       },
       "original": "はい！\nがんばろうね、みんな！\n",
-      "translation": "네！ 힘내자, 모두！\n",
+      "translation": "네! 힘내자, 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6381,7 +6381,7 @@
         "voice": "GB961112,3"
       },
       "original": "了解です、ミルフィー先輩！\n",
-      "translation": "알겠습니다, 밀피 선배！\n",
+      "translation": "알겠습니다, 밀피 선배!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6393,7 +6393,7 @@
         "voice": "GB961113,3"
       },
       "original": "よーし、いっちょやってやろうじゃないの！\n",
-      "translation": "좋아, 한판 제대로 해보자고！\n",
+      "translation": "좋아, 한판 제대로 해보자고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6453,7 +6453,7 @@
         "speaker": "1,0010302"
       },
       "original": "オペレーション『エンジェル・スラップ』、\n開始！\n",
-      "translation": "작전 『엔젤・슬랩』, 개시！\n",
+      "translation": "작전 『엔젤・슬랩』, 개시!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6465,7 +6465,7 @@
         "voice": "GB961117,3"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6477,7 +6477,7 @@
         "speaker": "16,0160103"
       },
       "original": "敵の増援が現れました！\n攻撃、来ます！\n",
-      "translation": "적의 증원이 나타났습니다！ 공격이\n옵니다！\n",
+      "translation": "적의 증원이 나타났습니다! 공격이\n들어옵니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6489,7 +6489,7 @@
         "speaker": "17,0170103"
       },
       "original": "きゃああっ！\n",
-      "translation": "꺄악！\n",
+      "translation": "꺄악!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6501,7 +6501,7 @@
         "speaker": "16,0160103"
       },
       "original": "Ｄブロック右舷に直撃！\n１１時方向、戦闘機部隊が来ます！\n",
-      "translation": "Ｄ블록 우현에 직격！ １１시 방향, 전투기\n부대가 옵니다！\n",
+      "translation": "D블록 우현에 직격! 11시 방향, 전투기\n부대가 옵니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6513,7 +6513,7 @@
         "voice": "GB961202,3"
       },
       "original": "かまうな、前進だ！\n",
-      "translation": "상관없다, 전진해！\n",
+      "translation": "상관없다, 전진해!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6526,7 +6526,7 @@
         "face": "0,0070301,0"
       },
       "original": "Ｄブロック、４から１１エリア閉鎖！\n",
-      "translation": "Ｄ블록, ４에서 １１ 구역 폐쇄！\n",
+      "translation": "D블록, 4에서 11 구역 폐쇄!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6539,7 +6539,7 @@
         "face": "0,0,0"
       },
       "original": "了解！\n消火班、現場に急いでください！\n",
-      "translation": "네！ 소화반, 현장으로 서둘러 주세요！\n",
+      "translation": "알겠습니다! 소화반, 현장으로\n서둘러 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6552,7 +6552,7 @@
         "face": "0,0070301,0"
       },
       "original": "タクト、エルシオールで案内できるのはここ\nまでだ。\nあとは頼む。\n",
-      "translation": "택트, 에르시올로 안내할 수 있는 건\n여기까지다. 나머지는 부탁한다.\n",
+      "translation": "택트, 에르시올이 호위할 수 있는 건\n여기까지다. 나머지는 부탁한다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6578,7 +6578,7 @@
         "face": "0,0,0160102"
       },
       "original": "マイヤーズ司令、お気をつけて。\n",
-      "translation": "마이어스 사령관님, 조심하세요.\n",
+      "translation": "마이어스 사령관, 조심하세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6591,7 +6591,7 @@
         "face": "0170102,0,0160102"
       },
       "original": "ぜったいに、帰ってきてくださいね！\n",
-      "translation": "반드시, 돌아와 주셔야 해요！\n",
+      "translation": "반드시, 돌아와 주셔야 해요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6630,7 +6630,7 @@
         "face": "0,0070301,0"
       },
       "original": "ん？\n",
-      "translation": "응？\n",
+      "translation": "응?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6682,7 +6682,7 @@
         "speaker": "1,0010301"
       },
       "original": "それじゃ、行ってくる！\n",
-      "translation": "그럼, 다녀올게！\n",
+      "translation": "그럼, 다녀올게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6695,7 +6695,7 @@
         "speaker": "1,0010301"
       },
       "original": "さて、いよいよ決戦兵器の出番か……。\n",
-      "translation": "자, 드디어 결전 병기의 차례인가…….\n",
+      "translation": "자, 드디어 결전병기의 차례인가…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6708,7 +6708,7 @@
         "face": "0,0190103,0"
       },
       "original": "あっ、マイヤーズ司令！\nやっと来た！\n",
-      "translation": "앗, 마이어스 사령관님！ 드디어\n오셨네요！\n",
+      "translation": "앗, 마이어스 사령관! 드디어 오셨네요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6721,7 +6721,7 @@
         "speaker": "1,0010102"
       },
       "original": "あれ？\nクレータ班長、どうしてここに。\n",
-      "translation": "어라？ 크레타 반장, 어째서 여기에.\n",
+      "translation": "어라? 크레이타 반장, 어째서 여기에.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6734,7 +6734,7 @@
         "voice": "GB961211,3"
       },
       "original": "司令が遅いから、今か今かと待ってたんです！\n",
-      "translation": "사령관님이 늦으셔서, 언제 오시나 하고\n기다리고 있었어요！\n",
+      "translation": "사령관이 늦으셔서, 언제 오시나 하고\n기다리고 있었어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6760,7 +6760,7 @@
         "voice": "GB961212,3"
       },
       "original": "早くこちらに！\nもうパイロットの準備はできてますよ！\n",
-      "translation": "빨리 이쪽으로！ 벌써 파일럿 준비는\n끝났다니까요！\n",
+      "translation": "빨리 이쪽으로! 벌써 파일럿 준비는\n끝났다니까요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6786,7 +6786,7 @@
         "voice": "GB961300,3"
       },
       "original": "おふたりとも、聞こえますか？\n",
-      "translation": "두 분 모두, 들립니까？\n",
+      "translation": "두 분 모두, 들립니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6812,7 +6812,7 @@
         "voice": "GB961301,3"
       },
       "original": "システム、オールグリーン。\n進路クリア。\nいつでもどうぞ！\n",
-      "translation": "시스템, 올 그린. 진로 클리어. 언제든\n시작하세요！\n",
+      "translation": "시스템, 올 그린. 진로 클리어. 언제든\n시작하세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6838,7 +6838,7 @@
         "voice": "GB961301,3"
       },
       "original": "紋章機７番機、出力良好。\n発進スタンバイ完了。\n",
-      "translation": "문장기 ７번기, 출력 양호. 발진 스탠바이\n완료.\n",
+      "translation": "문장기 7호기, 출력 양호. 발진 스탠바이\n완료.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6851,7 +6851,7 @@
         "voice": "GB961301,3"
       },
       "original": "オペレーション『エンジェル・スラップ』、\nこれより最終フェーズを開始する！\n",
-      "translation": "작전 『엔젤・슬랩』, 지금부터 최종 페이즈를 개시한다！\n",
+      "translation": "작전 『엔젤・슬랩』, 지금부터 최종\n페이즈를 개시한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6864,7 +6864,7 @@
         "voice": "GB961302,3"
       },
       "original": "頼んだぞ、タクト！\n",
-      "translation": "부탁한다, 택트！\n",
+      "translation": "부탁한다, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6877,7 +6877,7 @@
         "voice": "GB961303,3"
       },
       "original": "２時の方向より、敵艦隊接近！\n１２時、および９時の方向からも来ました！\n",
-      "translation": "２시 방향에서 적 함대 접근！ １２시 및\n９시 방향에서도 왔습니다！\n",
+      "translation": "2시 방향에서 적 함대 접근! 12시 및\n9시 방향에서도 왔습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6890,7 +6890,7 @@
         "face": "0,0,0"
       },
       "original": "７番機、出撃急いでください！\n",
-      "translation": "７번기, 출격 서둘러 주세요！\n",
+      "translation": "7호기, 출격 서둘러 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6903,7 +6903,7 @@
         "face": "0,0,0"
       },
       "original": "了解しました。\n７番機、出撃します！\n",
-      "translation": "알겠습니다. ７번기, 출격합니다！\n",
+      "translation": "알겠습니다. 7호기, 출격합니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6929,7 +6929,7 @@
         "face": "0,0,0"
       },
       "original": "ああ、君の力を見せてやれ！\n",
-      "translation": "아아, 너의 힘을 보여줘라！\n",
+      "translation": "아아, 너의 힘을 보여줘라!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6942,7 +6942,7 @@
         "face": "0,0,0"
       },
       "original": "はい！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6955,7 +6955,7 @@
         "voice": "GB961308,3"
       },
       "original": "発進したら思いっきり加速して、敵さんにつっ\nこみます！\n",
-      "translation": "발진하면 마음껏 가속해서, 적분에게\n돌격하겠습니다！\n",
+      "translation": "발진하면 마음껏 가속해서, 적에게\n돌격하겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6968,7 +6968,7 @@
         "voice": "GB961309,3"
       },
       "original": "了解。\n７番機、出撃するわ！\n",
-      "translation": "알겠어. ７번기, 출격할게！\n",
+      "translation": "알겠어. 7호기, 출격할게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6994,7 +6994,7 @@
         "speaker": "1,0010301"
       },
       "original": "ああ、オレたちの愛の力を見せてやれ！\n",
-      "translation": "아아, 우리들의 사랑의 힘을 보여주자！\n",
+      "translation": "아아, 우리들의 사랑의 힘을 보여주자!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7007,7 +7007,7 @@
         "voice": "GB961311,3"
       },
       "original": "まかせて！\n",
-      "translation": "맡겨줘！\n",
+      "translation": "맡겨줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7020,7 +7020,7 @@
         "speaker": "3,0030702"
       },
       "original": "発進後、最大加速。\n敵巨大艦に、レッツゴー！\n",
-      "translation": "발진 후, 최대 가속. 적 거대함에,\n렛츠고！\n",
+      "translation": "발진 후, 최대 가속. 적 거대 함선으로,\n렛츠고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7032,7 +7032,7 @@
         "voice": "GB961313,3"
       },
       "original": "了解しました。\n７番機、出撃します！\n",
-      "translation": "알겠습니다. ７번기, 출격합니다！\n",
+      "translation": "알겠습니다. 7호기, 출격합니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7056,7 +7056,7 @@
         "speaker": "1,0010301"
       },
       "original": "ああ、君の力を見せてやれ！\n",
-      "translation": "아아, 너의 힘을 보여줘！\n",
+      "translation": "아아, 너의 힘을 보여줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7068,7 +7068,7 @@
         "speaker": "4,0040701"
       },
       "original": "はい！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7080,7 +7080,7 @@
         "speaker": "4,0040602"
       },
       "original": "発進後、最大加速。\n敵巨大艦へ、突撃いたします……！\n",
-      "translation": "발진 후, 최대 가속. 적 거대함으로,\n돌격하겠습니다……！\n",
+      "translation": "발진 후, 최대 가속. 적 거대 함선으로,\n돌격하겠습니다……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7092,7 +7092,7 @@
         "voice": "GB961317,3"
       },
       "original": "了解。\n７番機、出撃する！\n",
-      "translation": "알았다. ７번기, 출격한다！\n",
+      "translation": "알았다. 7호기, 출격한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7104,7 +7104,7 @@
         "voice": "GB961318,3"
       },
       "original": "……行くよ、タクト。\nビビるんじゃないよ？\n",
-      "translation": "……간다, 택트. 겁먹지 마？\n",
+      "translation": "……간다, 택트. 겁먹지 마?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7116,7 +7116,7 @@
         "voice": "GB961318,3"
       },
       "original": "誰に言ってるんだ？\nさあ、君の力を見せてやれ！\n",
-      "translation": "누구한테 하는 소리냐？ 자, 네 힘을\n보여줘라！\n",
+      "translation": "누구한테 하는 소리냐? 자, 네 힘을\n보여줘라!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7128,7 +7128,7 @@
         "speaker": "5,0051102"
       },
       "original": "よしきた！\n",
-      "translation": "좋아, 가자！\n",
+      "translation": "좋아, 가자!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7140,7 +7140,7 @@
         "voice": "GB961320,3"
       },
       "original": "発進後、最大加速。\n敵巨大艦へ、突撃する……！\n",
-      "translation": "발진 후, 최대 가속. 적 거대함으로,\n돌격한다……！\n",
+      "translation": "발진 후, 최대 가속. 적 거대 함선으로,\n돌격한다……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7152,7 +7152,7 @@
         "speaker": "6,0060105"
       },
       "original": "了解しました。\n７番機、出撃します。\n",
-      "translation": "알겠습니다. ７번기, 출격합니다.\n",
+      "translation": "알겠습니다. 7호기, 출격합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7176,7 +7176,7 @@
         "speaker": "1,0010301"
       },
       "original": "ああ、君の力を見せてやれ！\n",
-      "translation": "그래, 네 힘을 보여줘라！\n",
+      "translation": "그래, 네 힘을 보여줘라!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7188,7 +7188,7 @@
         "speaker": "6,0060105"
       },
       "original": "はい……！\n",
-      "translation": "네……！\n",
+      "translation": "네……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7200,7 +7200,7 @@
         "voice": "GB961324,3"
       },
       "original": "発進後、最大加速。\n敵巨大艦へ、突撃します……！\n",
-      "translation": "발진 후, 최대 가속. 적 거대함으로,\n돌격합니다……！\n",
+      "translation": "발진 후, 최대 가속. 적 거대 함선으로,\n돌격합니다……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7265,7 +7265,7 @@
         "face": "0,0110405,0"
       },
       "original": "武運を……！\n",
-      "translation": "무운을……！\n",
+      "translation": "무운을……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7278,7 +7278,7 @@
         "face": "0,0110405,0"
       },
       "original": "タクトさん、ミルフィー先輩……。\nよろしくお願いします！\n",
-      "translation": "택트 씨, 밀피 선배……. 잘\n부탁드립니다！\n",
+      "translation": "택트 씨, 밀피 선배……. 잘\n부탁드립니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7304,7 +7304,7 @@
         "speaker": "5,0050602"
       },
       "original": "ぶちかましてきな、タクト、ミルフィー！\n",
-      "translation": "한 방 먹여주고 와, 택트, 밀피！\n",
+      "translation": "한 방 먹여주고 와, 택트, 밀피!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7330,7 +7330,7 @@
         "speaker": "3,0030801"
       },
       "original": "ミルフィー、タクト……アンタたちなら、や\nれるわ。\nアタシが保証してあげる！\n",
-      "translation": "밀피, 택트…… 너희라면 할 수 있어. 내가\n보증할게！\n",
+      "translation": "밀피, 택트…… 너희라면 할 수 있어. 내가\n보증할게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7355,7 +7355,7 @@
         "speaker": "5,0050801"
       },
       "original": "あんたたちの愛にかけるよ。\n頼んだからね！\n",
-      "translation": "너희들의 사랑에 걸게. 부탁한다！\n",
+      "translation": "너희들의 사랑에 걸게. 부탁한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7379,7 +7379,7 @@
         "speaker": "107,1070103"
       },
       "original": "おふたりの愛の力……信じます！\n",
-      "translation": "두 분의 사랑의 힘…… 믿습니다！\n",
+      "translation": "두 분의 사랑의 힘…… 믿습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7391,7 +7391,7 @@
         "speaker": "2,0020903"
       },
       "original": "ランファ、タクトさん！\n必ず、生きて帰ってきてね！\n約束だからね！\n",
-      "translation": "란파, 택트 씨！ 반드시, 살아 돌아와야\n해！ 약속이야！\n",
+      "translation": "란파, 택트 씨! 반드시, 살아 돌아와야\n해! 약속이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7415,7 +7415,7 @@
         "speaker": "3,0030801"
       },
       "original": "任せたわよ、ふたりとも！\n",
-      "translation": "맡길게, 두 사람 모두！\n",
+      "translation": "맡길게, 두 사람 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7427,7 +7427,7 @@
         "speaker": "2,0020903"
       },
       "original": "ミント、タクトさん……。\nがんばってください！\n",
-      "translation": "민트, 택트 씨……. 힘내세요！\n",
+      "translation": "민트, 택트 씨……. 힘내세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7439,7 +7439,7 @@
         "voice": "GB961413,3"
       },
       "original": "必ず帰ってくるんだよ、ふたりとも！\n",
-      "translation": "반드시 돌아오는 거야, 두 사람 모두！\n",
+      "translation": "반드시 돌아오는 거야, 두 사람 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7451,7 +7451,7 @@
         "speaker": "107,1070103"
       },
       "original": "ミント先輩、タクトさん……。\nおふたりの絆を、信じます！\n",
-      "translation": "민트 선배, 택트 씨……. 두 분의 유대를,\n믿습니다！\n",
+      "translation": "민트 선배, 택트 씨……. 두 분의 유대를,\n믿습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7463,7 +7463,7 @@
         "voice": "GB961415,3"
       },
       "original": "フォルテさん、タクトさん！\nいってらっしゃい！\n",
-      "translation": "포르테 씨, 택트 씨！ 다녀오세요！\n",
+      "translation": "포르테 씨, 택트 씨! 다녀오세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7499,7 +7499,7 @@
         "voice": "GB961418,3"
       },
       "original": "必ず、帰ってきてくださいね！\nフォルテさん、タクト！\n",
-      "translation": "꼭, 돌아와 주세요！ 포르테 씨, 택트！\n",
+      "translation": "꼭, 돌아와 주세요! 포르테 씨, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7511,7 +7511,7 @@
         "speaker": "107,1070702"
       },
       "original": "フォルテ先輩、タクトさん……！\nおふたりは、私たちが守ります！\n",
-      "translation": "포르테 선배, 택트 씨……! 두 분은 저희가 지키겠습니다!\n",
+      "translation": "포르테 선배, 택트 씨……! 두 분은 저희가\n지키겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7523,7 +7523,7 @@
         "speaker": "2,0020903"
       },
       "original": "ヴァニラ、タクトさん！\n気をつけて！\n",
-      "translation": "바닐라, 택트 씨！ 조심해！\n",
+      "translation": "바닐라, 택트 씨! 조심해!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7535,7 +7535,7 @@
         "speaker": "3,0030801"
       },
       "original": "タクト、しっかりヴァニラのことを、守って\nやんなさいよ！\n",
-      "translation": "택트, 제대로 바닐라를 지켜줘야 해！\n",
+      "translation": "택트, 제대로 바닐라를 지켜줘야 해!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7559,7 +7559,7 @@
         "speaker": "107,1070103"
       },
       "original": "ヴァニラ先輩、タクトさん。\nよろしくお願いします！\n",
-      "translation": "바닐라 선배, 택트 씨. 잘 부탁드립니다！\n",
+      "translation": "바닐라 선배, 택트 씨. 잘 부탁드립니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7571,7 +7571,7 @@
         "voice": "GB961424,3"
       },
       "original": "いってきな、ヴァニラ、タクト！\n",
-      "translation": "다녀와, 바닐라, 택트！\n",
+      "translation": "다녀와, 바닐라, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7595,7 +7595,7 @@
         "voice": "GB961501,3"
       },
       "original": "タクトさんを……あのふたりを守るための、\n力を！\n",
-      "translation": "택트 씨를…… 그 두 사람을 지키기 위한,\n힘을！\n",
+      "translation": "택트 씨를…… 그 두 사람을 지키기 위한,\n힘을!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7607,7 +7607,7 @@
         "speaker": "3,0030801"
       },
       "original": "必ず守ってみせるわ……アタシのすべてをか\nけて！\n",
-      "translation": "반드시 지켜 보이겠어…… 나의 모든 것을\n걸고！\n",
+      "translation": "반드시 지켜 보이겠어…… 나의 모든 것을\n걸고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7619,7 +7619,7 @@
         "speaker": "3,0030702"
       },
       "original": "だから、ぜったいに……ぜったいに帰ってき\nなさいよね！\nタクト！\n",
-      "translation": "그러니까, 반드시…… 반드시 돌아오도록\n해！ 택트！\n",
+      "translation": "그러니까, 반드시…… 반드시 돌아오도록\n해! 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7667,7 +7667,7 @@
         "speaker": "5,0050602"
       },
       "original": "……あんたたちの背中は、あたしが守る。\nそう、決めたからね！\n",
-      "translation": "……너희의 등은, 내가 지킨다. 그렇게,\n결정했으니까！\n",
+      "translation": "……너희의 등은, 내가 지킨다. 그렇게,\n결정했으니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7679,7 +7679,7 @@
         "speaker": "6,0060903"
       },
       "original": "シスター・バレル……。\n……ウギウギ……。\nお願い、力を貸して……。\n",
-      "translation": "시스터・배럴……. ……우기우기……. 부탁이야, 힘을 빌려줘…….\n",
+      "translation": "시스터・배럴……. ……우기우기…….\n부탁이야, 힘을 빌려줘…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7691,7 +7691,7 @@
         "speaker": "6,0060105"
       },
       "original": "タクトさんを……守るために……！\n",
-      "translation": "택트 씨를…… 지키기 위해서……！\n",
+      "translation": "택트 씨를…… 지키기 위해서……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7703,7 +7703,7 @@
         "voice": "GB961510,3"
       },
       "original": "父さま、見ていてください。\n私の戦いを。\n大切な人たちを守るための、戦いを。\n",
-      "translation": "아버지, 지켜봐 주세요. 저의 싸움을.\n소중한 사람들을 지키기 위한, 싸움을.\n",
+      "translation": "아버님, 지켜봐 주세요. 저의 싸움을.\n소중한 사람들을 지키기 위한, 싸움을.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7715,7 +7715,7 @@
         "speaker": "107,1070702"
       },
       "original": "……必ずお守りします、タクトさん！\n",
-      "translation": "……반드시 지켜낼게요, 택트 씨！\n",
+      "translation": "……반드시 지켜낼게요, 택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7728,7 +7728,7 @@
         "face": "0,0,0"
       },
       "original": "７番機、目標までの距離、８０００！\n",
-      "translation": "７번기, 목표까지의 거리, ８０００！\n",
+      "translation": "7호기, 목표까지의 거리, 8000!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7741,7 +7741,7 @@
         "face": "0,0,0"
       },
       "original": "７番機、目標まで７０００！\n",
-      "translation": "７번기, 목표까지 ７０００！\n",
+      "translation": "7호기, 목표까지 7000!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7754,7 +7754,7 @@
         "face": "0,0,0"
       },
       "original": "目標まで６０００！\n",
-      "translation": "목표까지 ６０００！\n",
+      "translation": "목표까지 6000!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7767,7 +7767,7 @@
         "face": "0,0,0"
       },
       "original": "目標まで５０００！\n",
-      "translation": "목표까지 ５０００！\n",
+      "translation": "목표까지 5000!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7780,7 +7780,7 @@
         "face": "0,0,0"
       },
       "original": "目標まで３５００！\n",
-      "translation": "목표까지 ３５００！\n",
+      "translation": "목표까지 3500!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7793,7 +7793,7 @@
         "face": "0,0,0"
       },
       "original": "突撃艦タイプ２隻、７番機に向かっています！\n",
-      "translation": "돌격함 타입 ２척, ７번기를 향해 오고\n있습니다！\n",
+      "translation": "돌격함 타입 2척, 7호기를 향해 오고\n있습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7806,7 +7806,7 @@
         "face": "0,0,0"
       },
       "original": "ダメだ、遠すぎる！\n間に合わない！\n",
-      "translation": "안 돼, 너무 멀어！ 제시간에 못 가！\n",
+      "translation": "안 돼, 너무 멀어! 제시간에 못 가!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7819,7 +7819,7 @@
         "face": "0,0,0"
       },
       "original": "ここからじゃ追いつかないわ！\n",
-      "translation": "여기서라면 따라잡을 수 없어！\n",
+      "translation": "여기서라면 따라잡을 수 없어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7832,7 +7832,7 @@
         "face": "0,0,0"
       },
       "original": "私が行きます！\nシャープシューターの射程なら！\n",
-      "translation": "제가 가겠습니다！ 샤프 슈터의\n사정거리라면！\n",
+      "translation": "제가 가겠습니다! 샤프 슈터의\n사정거리라면!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7845,7 +7845,7 @@
         "speaker": "107,1070702"
       },
       "original": "退きなさい！\nフェイタルアロー！！\n",
-      "translation": "물러나세요！ 페이탈 애로우！！\n",
+      "translation": "물러나세요! 페이탈 애로우!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7857,7 +7857,7 @@
         "speaker": "17,0170102"
       },
       "original": "やったぁ！\nもう前に敵はいませんよ！\n",
-      "translation": "해냈다！ 이제 앞에 적은 없어요！\n",
+      "translation": "해냈어! 이제 앞에 적은 없어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7869,7 +7869,7 @@
         "voice": "GB962007,3"
       },
       "original": "７番機、目標まで３０００！！\n",
-      "translation": "７번기, 목표까지 ３０００！！\n",
+      "translation": "7호기, 목표까지 3000!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7881,7 +7881,7 @@
         "speaker": "16,0160101"
       },
       "original": "敵艦２、戦闘機６、いずれも７番機に接近！\n",
-      "translation": "적함 ２, 전투기 ６, 모두 ７번기에 접근！\n",
+      "translation": "적함 2척, 전투기 6기, 모두 7호기에 접근!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7893,7 +7893,7 @@
         "speaker": "17,0170103"
       },
       "original": "多すぎる……！\n援護射撃が追いつきません！\n",
-      "translation": "너무 많아……！ 엄호 사격이 따라가지\n못합니다！\n",
+      "translation": "너무 많아……! 엄호 사격이 따라가지\n못합니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7905,7 +7905,7 @@
         "speaker": "2,0020903"
       },
       "original": "大丈夫です！\n一気にバーンとやっちゃいます！\n",
-      "translation": "괜찮습니다！ 단번에 빵 하고 해치워\n버리겠습니다！\n",
+      "translation": "괜찮습니다! 단번에 빵 하고 해치워\n버리겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7917,7 +7917,7 @@
         "speaker": "2,0020702"
       },
       "original": "えーいっ！\nハイパーキャノン！！\n",
-      "translation": "에잇！ 하이퍼 캐논！！\n",
+      "translation": "에잇! 하이퍼 캐논!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7929,7 +7929,7 @@
         "voice": "GB962104,3"
       },
       "original": "全部撃ち落としました！\n今のうちです！\n",
-      "translation": "전부 격추했습니다！ 지금입니다！\n",
+      "translation": "전부 격추했습니다! 지금입니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7941,7 +7941,7 @@
         "speaker": "16,0160103"
       },
       "original": "７番機の正面に、敵艦が！\n回避してください！\n",
-      "translation": "７번기 정면에, 적함이！ 회피하십시오！\n",
+      "translation": "7호기 정면에, 적함이! 회피하십시오!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7953,7 +7953,7 @@
         "speaker": "3,0030401"
       },
       "original": "そんなヒマないわ！\n要は進路から、どかしゃいいんでしょ！？\n",
-      "translation": "그런 한가한 소리 할 시간 없어！ 요점은\n진로에서 비켜달라는 거지！？\n",
+      "translation": "그럴 시간 없어! 진로에서 치워버리면\n되는 거잖아!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7965,7 +7965,7 @@
         "speaker": "3,0030702"
       },
       "original": "ブッ飛べぇっ！\nアンカークローッ！！\n",
-      "translation": "날아가라아！ 앵커 클로！！\n",
+      "translation": "날아가라아! 앵커 클로!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7978,7 +7978,7 @@
         "face": "0,0,0"
       },
       "original": "敵艦、７番機の進路上より移動！\n大破しました！\n",
-      "translation": "적함, ７번기 진로상에서 이동！\n대파했습니다！\n",
+      "translation": "적함, 7호기 진로에서 벗어남!\n대파했습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7991,7 +7991,7 @@
         "face": "0,0,0"
       },
       "original": "よっしゃあ！！\n",
-      "translation": "좋았어！！\n",
+      "translation": "좋았어!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8004,7 +8004,7 @@
         "face": "0,0,0"
       },
       "original": "…………！\n７番機に、敵の編隊が接近！\n",
-      "translation": "…………！ ７번기에 적 편대가 접근！\n",
+      "translation": "…………! 7호기에 적 편대가 접근!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8017,7 +8017,7 @@
         "face": "0,0,0"
       },
       "original": "ほかにも２時方向から２隻、天頂方向から１\n隻……。\n",
-      "translation": "그 외에도 ２시 방향에서 ２척, 천정\n방향에서 １척…….\n",
+      "translation": "그 외에도 2시 방향에서 2척,\n천정 방향에서 1척…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8030,7 +8030,7 @@
         "face": "0,0,0"
       },
       "original": "このままだと、７番機が囲まれるぞ！\n",
-      "translation": "이대로라면 ７번기가 포위당하겠어！\n",
+      "translation": "이대로라면 7호기가 포위당하겠어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8043,7 +8043,7 @@
         "face": "0,0,0"
       },
       "original": "いいえ……この程度の数なら、問題ありませ\nんわ。\n",
-      "translation": "아니요…… 이 정도 숫자는 문제없어요.\n",
+      "translation": "아니요…… 이 정도 수라면 문제없어요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8056,7 +8056,7 @@
         "face": "0,0,0"
       },
       "original": "私にお任せを！\nフライヤーダンス！！\n",
-      "translation": "저에게 맡겨주세요！ 플라이어 댄스！！\n",
+      "translation": "저에게 맡겨주세요! 플라이어 댄스!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8069,7 +8069,7 @@
         "voice": "GB962305,3"
       },
       "original": "さあ、早く巨大艦へ！\n",
-      "translation": "자, 어서 거대함으로！\n",
+      "translation": "자, 어서 거대 함선으로!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8081,7 +8081,7 @@
         "voice": "GB962400,3"
       },
       "original": "敵の巡洋艦タイプが７番機に向かっているぞ！\nフォルテ、頼む！\n",
-      "translation": "적 순양함 타입이 ７번기에게 향하고\n있어！ 포르테, 부탁해！\n",
+      "translation": "적 순양함 타입이 7호기를 향하고\n있어! 포르테, 부탁해!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8093,7 +8093,7 @@
         "voice": "GB962401,3"
       },
       "original": "おお、任せときな！\n",
-      "translation": "오오, 맡겨두라고！\n",
+      "translation": "오오, 맡겨두라고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8105,7 +8105,7 @@
         "speaker": "5,0050602"
       },
       "original": "じゃますんじゃないよ！\nストライクバースト！！\n",
-      "translation": "방해하지 마！ 스트라이크 버스트！！\n",
+      "translation": "방해하지 마! 스트라이크 버스트!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8117,7 +8117,7 @@
         "speaker": "16,0160102"
       },
       "original": "敵艦、撃沈！\n",
-      "translation": "적함, 격침！\n",
+      "translation": "적함, 격침!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8129,7 +8129,7 @@
         "speaker": "5,0050602"
       },
       "original": "よーし！\nそのまま突き進めぇー！！\n",
-      "translation": "좋아！ 그대로 돌격해라ー！！\n",
+      "translation": "좋아! 그대로 돌격해라ー!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8141,7 +8141,7 @@
         "speaker": "3,0030701"
       },
       "original": "きゃああっ！\n",
-      "translation": "꺄악！\n",
+      "translation": "꺄악!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8153,7 +8153,7 @@
         "speaker": "16,0160103"
       },
       "original": "２番機、被弾！\n",
-      "translation": "２번기, 피격！\n",
+      "translation": "2호기, 피격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8165,7 +8165,7 @@
         "speaker": "3,0030701"
       },
       "original": "しまった、後ろから……！\nこのままじゃ、決戦兵器の援護が……！\n",
-      "translation": "아차, 뒤에서……！ 이대로라면,\n결전병기의 호위가……！\n",
+      "translation": "아차, 뒤에서……! 이대로라면,\n결전병기의 호위가……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8177,7 +8177,7 @@
         "speaker": "2,0020701"
       },
       "original": "きゃあああっ！\n",
-      "translation": "꺄아아악！\n",
+      "translation": "꺄아아악!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8189,7 +8189,7 @@
         "voice": "GB962504,3"
       },
       "original": "１番機、被弾！\n",
-      "translation": "１번기, 피격！\n",
+      "translation": "1호기, 피격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8201,7 +8201,7 @@
         "speaker": "2,0020701"
       },
       "original": "油断しました、前に気を取られてて……。\nこのままじゃ、決戦兵器の援護が……！\n",
-      "translation": "방심했습니다, 앞에 정신이 팔려서…….\n이대로라면, 결전병기의 지원이……！\n",
+      "translation": "방심했습니다, 앞에 정신이 팔려서…….\n이대로라면, 결전병기 엄호가……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8225,7 +8225,7 @@
         "voice": "GB962507,3"
       },
       "original": "ナノマシン、全方位散布……。\nリペアウェーブ……！\n",
-      "translation": "나노머신, 전방위 살포……. 리페어\n웨이브……！\n",
+      "translation": "나노머신, 전방위 살포……. 리페어\n웨이브……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8237,7 +8237,7 @@
         "speaker": "3,0030804"
       },
       "original": "ありがとう、ヴァニラ。\n助かったわ！\n",
-      "translation": "고마워, 바닐라. 덕분에 살았어！\n",
+      "translation": "고마워, 바닐라. 덕분에 살았어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8249,7 +8249,7 @@
         "speaker": "2,0020902"
       },
       "original": "ありがとう、ヴァニラ。\n助かったわ！\n",
-      "translation": "고마워, 바닐라. 덕분에 살았어！\n",
+      "translation": "고마워, 바닐라. 덕분에 살았어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8285,7 +8285,7 @@
         "speaker": "17,0170103"
       },
       "original": "勝った……の？\n",
-      "translation": "이긴…… 거야？\n",
+      "translation": "이긴…… 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8297,7 +8297,7 @@
         "speaker": "7,0070301"
       },
       "original": "状況を報告しろ！\n",
-      "translation": "상황을 보고해라！\n",
+      "translation": "상황을 보고해라!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8309,7 +8309,7 @@
         "speaker": "16,0160103"
       },
       "original": "は、はい！\n",
-      "translation": "예, 예！\n",
+      "translation": "예, 예!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8321,7 +8321,7 @@
         "speaker": "16,0160103"
       },
       "original": "……敵巨大艦、レーダーから消失！\n破壊を確認！\n",
-      "translation": "……적 거대함, 레이더에서 소실！ 파괴를\n확인！\n",
+      "translation": "……적 거대 함선, 레이더에서 소실!\n파괴를 확인!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8333,7 +8333,7 @@
         "voice": "GB962605,3"
       },
       "original": "周囲の無人艦も、動きを止めました。\nエネルギー反応、ゼロ！\n",
-      "translation": "주위의 무인함도 움직임을 멈췄습니다.\n에너지 반응, 제로！\n",
+      "translation": "주위의 무인함도 움직임을 멈췄습니다.\n에너지 반응, 제로!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8346,7 +8346,7 @@
         "face": "0170102,0,0"
       },
       "original": "……やったぁ！\n勝ったんですね、あたしたち！\n",
-      "translation": "……해냈다！ 우리가 이긴 거네요！\n",
+      "translation": "……해냈다! 우리가 이긴 거네요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8359,7 +8359,7 @@
         "face": "0170102,0,0160102"
       },
       "original": "うん！\nよかったぁ……！\n",
-      "translation": "응！ 다행이다……！\n",
+      "translation": "응! 다행이다……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8385,7 +8385,7 @@
         "face": "0,0070301,0"
       },
       "original": "…………！！\n決戦兵器は！？\n",
-      "translation": "…………！！결전병기는！？\n",
+      "translation": "…………!! 결전병기는!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8398,7 +8398,7 @@
         "face": "0,0070301,0"
       },
       "original": "ミルフィー！\nタクト！\n",
-      "translation": "밀피！택트！\n",
+      "translation": "밀피! 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8411,7 +8411,7 @@
         "face": "0,0070301,0"
       },
       "original": "おいっ、返事をしろ！\n聞こえてるんだろ！？\n",
-      "translation": "어이, 대답해！ 들리고 있잖아！？\n",
+      "translation": "어이, 대답해! 들리고 있잖아!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8424,7 +8424,7 @@
         "face": "0,0070301,0"
       },
       "original": "応答願います！\nタクトさん、ミルフィーさん！\n",
-      "translation": "응답 바랍니다！ 택트 씨, 밀피 씨！\n",
+      "translation": "응답 바랍니다! 택트 씨, 밀피 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8450,7 +8450,7 @@
         "face": "0,0070301,0"
       },
       "original": "ランファ！\nタクトさん！\n",
-      "translation": "란파！ 택트 씨！\n",
+      "translation": "란파! 택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8463,7 +8463,7 @@
         "speaker": "4,0040103"
       },
       "original": "返事をしてくださいませ！\n",
-      "translation": "대답해 주세요！\n",
+      "translation": "대답해 주세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8489,7 +8489,7 @@
         "voice": "GB962617,3"
       },
       "original": "約束しただろう……。\n生きて帰ってくるって……！\n",
-      "translation": "약속했잖아……. 살아서\n돌아오겠다고……！\n",
+      "translation": "약속했잖아……. 살아서\n돌아오겠다고……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8513,7 +8513,7 @@
         "speaker": "2,0020701"
       },
       "original": "返事をしてください！\nねえってば！\n",
-      "translation": "대답해 주세요！ 그러니까！\n",
+      "translation": "대답해 주세요! 그러니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8525,7 +8525,7 @@
         "speaker": "5,0050601"
       },
       "original": "応答してくれ！\nタクト、ミント……！\n",
-      "translation": "응답해 줘！ 택트, 민트……！\n",
+      "translation": "응답해 줘! 택트, 민트……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8537,7 +8537,7 @@
         "speaker": "3,0030701"
       },
       "original": "約束……したじゃない。\n……ふたりで、帰ってくるって……！\n",
-      "translation": "약속…… 했잖아. ……둘이서,\n돌아오겠다고……！\n",
+      "translation": "약속…… 했잖아. ……둘이서,\n돌아오겠다고……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8549,7 +8549,7 @@
         "speaker": "4,0040601"
       },
       "original": "フォルテさん！\nタクトさん！\n",
-      "translation": "포르테 씨！ 택트 씨！\n",
+      "translation": "포르테 씨! 택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8573,7 +8573,7 @@
         "speaker": "3,0030702"
       },
       "original": "応答してよ！\nねぇ、タクト！\nフォルテさん！\n",
-      "translation": "응답해 줘！ 저기, 택트！ 포르테 씨！\n",
+      "translation": "응답해 줘! 저기, 택트! 포르테 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8597,7 +8597,7 @@
         "voice": "GB962626,3"
       },
       "original": "ヴァニラ！\nタクト！\n",
-      "translation": "바닐라！ 택트！\n",
+      "translation": "바닐라! 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8609,7 +8609,7 @@
         "speaker": "3,0030702"
       },
       "original": "ちょっと、返事してよ！\n",
-      "translation": "잠깐, 대답 좀 해 줘！\n",
+      "translation": "잠깐, 대답 좀 해 줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8621,7 +8621,7 @@
         "speaker": "2,0020701"
       },
       "original": "応答してください！\nタクトさん、ヴァニラ……！？\n",
-      "translation": "응답해 주세요！ 택트 씨, 바닐라……！？\n",
+      "translation": "응답해 주세요! 택트 씨, 바닐라……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8633,7 +8633,7 @@
         "speaker": "4,0040103"
       },
       "original": "約束をたがえるのは、ナシですわよ……！\n",
-      "translation": "약속을 어기는 건, 안 돼요……！\n",
+      "translation": "약속을 어기는 건, 안 돼요……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8645,7 +8645,7 @@
         "speaker": "107,1070702"
       },
       "original": "７番機、応答願います！\n７番機！\n",
-      "translation": "７번기, 응답 바랍니다！ ７번기！\n",
+      "translation": "7호기, 응답 바랍니다! 7호기!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8657,7 +8657,7 @@
         "speaker": "107,1070701"
       },
       "original": "……お願いです、返事を……！\n",
-      "translation": "……부탁입니다, 대답을……！\n",
+      "translation": "……부탁입니다, 대답을……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8669,7 +8669,7 @@
         "speaker": "107,1070304"
       },
       "original": "……えっ……！？\n",
-      "translation": "……엣……！？\n",
+      "translation": "……엣……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8707,7 +8707,7 @@
         "face": "0,0110401,0"
       },
       "original": "先のエオニアとの戦いに続き、２度も皇国の\n危機を救ったそなたたちの名は、永くトラン\nスバール皇国の歴史に刻まれるであろう。\n",
-      "translation": "지난 에오니아와의 전투에 이어, 두 번이나\n황국의 위기를 구한 너희의 이름은 영원히\n트랜스벌 황국의 역사에 새겨질 것이다.\n",
+      "translation": "지난 에오니아와의 전투에 이어 이번에도\n황국의 위기를 구한 너희의 이름은\n오랫동안 그 역사에 새겨질 것이다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8785,7 +8785,7 @@
         "speaker": "11,0110401"
       },
       "original": "両名とも、大儀であった。\n",
-      "translation": "두 사람 모두, 대단하였다.\n",
+      "translation": "두 사람 모두, 수고가 많았다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8798,7 +8798,7 @@
         "speaker": "1,0010301"
       },
       "original": "はっ！\n",
-      "translation": "핫！\n",
+      "translation": "옛!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8876,7 +8876,7 @@
         "face": "0,0110505,0"
       },
       "original": "ほかのエンジェル隊も、よく戦ってくれた。\n",
-      "translation": "다른 엔젤대도, 잘 싸워주었다.\n",
+      "translation": "다른 엔젤대 대원들도 잘 싸워주었다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8889,7 +8889,7 @@
         "face": "0020902,0,0"
       },
       "original": "ありがとうございます、シヴァ陛下！\n",
-      "translation": "감사합니다, 시바 폐하！\n",
+      "translation": "감사합니다, 시바 폐하!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8902,7 +8902,7 @@
         "face": "0020102,0,0"
       },
       "original": "これも、タクトさんのおかげです！\n",
-      "translation": "이것도, 택트 씨 덕분이에요！\n",
+      "translation": "이것도, 택트 씨 덕분이에요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8928,7 +8928,7 @@
         "speaker": "3,0030101"
       },
       "original": "でも、これもタクトがいたからよね。\nアタシもいい調子で戦えたし。\n",
-      "translation": "하지만, 이것도 택트가 있었으니까겠지.\n나도 좋은 컨디션으로 싸울 수 있었고.\n",
+      "translation": "하지만, 이것도 택트가 있었기 때문이겠지.\n나도 좋은 컨디션으로 싸울 수 있었고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9084,7 +9084,7 @@
         "speaker": "1,0010102"
       },
       "original": "えっ？\n",
-      "translation": "에？\n",
+      "translation": "에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9097,7 +9097,7 @@
         "face": "1080101,0,0"
       },
       "original": "『ヴァル・ファスク』は、ネフューリアひと\n　りじゃないってことよ。\n　言ったはずでしょ？\n",
-      "translation": "『발・파스크』는, 네퓨리아 혼자가\n　아니라는 거야. 말했을 텐데？\n",
+      "translation": "『발・파스크』는 네퓨리아 혼자가\n아니라는 거야. 말했을 텐데?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9110,7 +9110,7 @@
         "speaker": "10,0100101"
       },
       "original": "あれから、『白き月』に残されていたデータ\nを調べていて、わかったのですが……。\n",
-      "translation": "그때부터, 『백색 달』에 남아있던\n데이터를 조사하고 있었습니다만…….\n",
+      "translation": "그 뒤 『백색 달』에 남아 있던 데이터를\n조사하다 알게 된 사실인데요…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9123,7 +9123,7 @@
         "speaker": "10,0100101"
       },
       "original": "ＥＤＥＮと戦っていた当時の『ヴァル・ファ\nスク』の軍勢は、もっと大規模だったようで\nす。\n",
-      "translation": "ＥＤＥＮ과 싸우던 당시의 『발・파스크』 군세는 훨씬 대규모였던 것 같습니다.\n",
+      "translation": "EDEN과 싸우던 당시의 『발・파스크』\n군세는 훨씬 대규모였던 것 같습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9162,7 +9162,7 @@
         "voice": "GB962819,3"
       },
       "original": "やつらが次に攻めて来るのが、１０年後なの\nか千年後なのか、それとも明日なのか……。\n",
-      "translation": "그놈들이 다음에 쳐들어오는 것이, １０년\n후인지 천 년 후인지, 아니면\n내일인지…….\n",
+      "translation": "그놈들이 다음에 오는 게 10년 후인지,\n천 년 후인지, 아니면 내일인지…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9240,7 +9240,7 @@
         "speaker": "10,0100101"
       },
       "original": "私も同じ考えです、シヴァ陛下。\n",
-      "translation": "저도 같은 생각입니다, 시바 님.\n",
+      "translation": "저도 같은 생각입니다, 시바 폐하.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9344,7 +9344,7 @@
         "face": "0,1080104,0"
       },
       "original": "よろしく頼むよ、ノア。\n",
-      "translation": "잘 부탁하네, 노아.\n",
+      "translation": "잘 부탁해, 노아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9383,7 +9383,7 @@
         "face": "0,0,0050802"
       },
       "original": "いい話？\nいったい、なんですか？\n",
-      "translation": "좋은 이야기？ 도대체, 무엇인가요？\n",
+      "translation": "좋은 이야기? 도대체, 무엇인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9409,7 +9409,7 @@
         "voice": "GB962835,3"
       },
       "original": "タクト・マイヤーズ、エンジェル隊、さらに\nエルシオールの全乗組員に、有給休暇３０日\nを与える！\n",
-      "translation": "택트・마이어스, 엔젤대, 그리고\n에르시올의 전 승무원에게 유급 휴가\n３０일을 부여한다！\n",
+      "translation": "택트・마이어스, 엔젤대, 그리고\n에르시올의 전 승무원에게 유급 휴가\n30일을 부여한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9422,7 +9422,7 @@
         "voice": "GB962836,3"
       },
       "original": "ほんとですか！？\n",
-      "translation": "정말인가요！？\n",
+      "translation": "정말인가요!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9448,7 +9448,7 @@
         "speaker": "107,1070101"
       },
       "original": "ささやかだなんて、とんでもありません！\n",
-      "translation": "작다니요, 당치도 않습니다！\n",
+      "translation": "작다니요, 당치도 않습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9474,7 +9474,7 @@
         "voice": "GB962840,3"
       },
       "original": "やったーっ！\nさっそくブランドショップめぐりよ！\n",
-      "translation": "해냈다！ 당장 브랜드 숍 순례다！\n",
+      "translation": "해냈다! 당장 브랜드 숍 순례다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9487,7 +9487,7 @@
         "voice": "GB962841,3"
       },
       "original": "ひさしぶりのガンショップめぐりか。\nいいねぇ～！\n",
-      "translation": "오랜만의 건숍 순례인가. 좋네～！\n",
+      "translation": "오랜만의 건숍 순례인가. 좋네～!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9526,7 +9526,7 @@
         "voice": "GB962844,3"
       },
       "original": "そうだ、ちとせ！\n一緒にケーキ屋さんめぐりしない？\nおいしいお店、教えてあげる！\n",
-      "translation": "맞다, 치토세！ 같이 케이크 가게 순례\n하지 않을래？ 맛있는 가게, 알려줄게！\n",
+      "translation": "맞다, 치토세! 같이 케이크 가게 순례\n하지 않을래? 맛있는 가게, 알려줄게!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9539,7 +9539,7 @@
         "voice": "GB962845,3"
       },
       "original": "本当ですか？\nぜひ、紹介してください。\n",
-      "translation": "정말인가요？ 꼭 소개해 주세요.\n",
+      "translation": "정말인가요? 꼭 소개해 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9552,7 +9552,7 @@
         "face": "1070403,0,0030401"
       },
       "original": "あっ、ミルフィー！\nアタシを置いてけぼりにするつもり！？\n",
-      "translation": "앗, 밀피！ 나를 두고 갈 셈이야！？\n",
+      "translation": "앗, 밀피! 나를 두고 갈 셈이야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9565,7 +9565,7 @@
         "voice": "GB962847,3"
       },
       "original": "それでしたら、時間を合わせて、全員で行き\nませんこと？\n",
-      "translation": "그렇다면, 시간을 맞춰서 다 함께 가는 건\n어떠신가요？\n",
+      "translation": "그렇다면, 시간을 맞춰서 다 함께 가는 건\n어떠신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9604,7 +9604,7 @@
         "speaker": "107,1070101"
       },
       "original": "先輩たちとご一緒できるなら、そちらのほう\nが、私もうれしいです。\n",
-      "translation": "선배님들과 함께할 수 있다면, 그쪽이 저도\n기뻐요.\n",
+      "translation": "선배들과 함께할 수 있다면, 그쪽이 저도\n기뻐요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9617,7 +9617,7 @@
         "face": "0,0020302,0"
       },
       "original": "それじゃ、みんなで行きましょう！\n",
-      "translation": "그럼, 다 같이 갑시다！\n",
+      "translation": "그럼, 다 같이 갑시다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9630,7 +9630,7 @@
         "speaker": "998,0"
       },
       "original": "おーーっ！\n",
-      "translation": "오오～！\n",
+      "translation": "오오ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9643,7 +9643,7 @@
         "speaker": "9,0090401"
       },
       "original": "いやはや、大騒ぎじゃのう。\nさっきまでの深刻なムードは、どこへ行った\nんじゃ？\n",
-      "translation": "이런이런, 소란스럽구먼. 아까까지의\n심각한 분위기는 어디로 간 게냐？\n",
+      "translation": "이런이런, 소란스럽구먼. 아까까지의\n심각한 분위기는 어디로 간 게냐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9721,7 +9721,7 @@
         "speaker": "1,0010102"
       },
       "original": "あれ、レスター。\nどうしたんだ？\n",
-      "translation": "어라, 레스터. 왜 그래？\n",
+      "translation": "어라, 레스터. 왜 그래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9734,7 +9734,7 @@
         "voice": "GB962906,3"
       },
       "original": "いつまで待たせるつもりだ？\n料理が冷めちまうぞ。\n",
-      "translation": "언제까지 기다리게 할 셈이지？ 요리가\n식어버린다고.\n",
+      "translation": "언제까지 기다리게 할 셈이지? 요리가\n식어버린다고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9760,7 +9760,7 @@
         "speaker": "1,0010201"
       },
       "original": "おーい、みんなー！\n有給休暇の話は後にして、祝勝会を始めよう！\nレスターが、しびれを切らしてるよ。\n",
-      "translation": "어이, 모두들！ 유급 휴가 이야기는 나중에\n하고, 축하 파티를 시작하자！ 레스터가,\n목을 빼고 기다리고 있어.\n",
+      "translation": "어이, 모두들! 유급 휴가 이야기는 나중에\n하고, 축하 파티를 시작하자! 레스터가\n참다 못했어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9773,7 +9773,7 @@
         "voice": "GB962907,3"
       },
       "original": "はーい！\n",
-      "translation": "네～！\n",
+      "translation": "네ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9786,7 +9786,7 @@
         "speaker": "1,0010101"
       },
       "original": "ルフト先生たちも、ご一緒にどうですか？\nみんなで祝勝会しましょうよ。\n",
-      "translation": "루프트 선생님 일행도, 함께 어떠신가요？\n다 같이 축하 파티를 해요.\n",
+      "translation": "루프트 선생님 일행도, 함께 어떠신가요?\n다 같이 축하 파티를 해요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9799,7 +9799,7 @@
         "face": "0,0,0090503"
       },
       "original": "よいのか？\n",
-      "translation": "괜찮은 건가？\n",
+      "translation": "괜찮은 건가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9838,7 +9838,7 @@
         "speaker": "11,0110401"
       },
       "original": "シャトヤーン様も、いかがですか？\n",
-      "translation": "샤토얀 님도, 어떠신가요？\n",
+      "translation": "샤토얀 님도, 어떠신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9851,7 +9851,7 @@
         "voice": "GB962911,3"
       },
       "original": "私も……ですか？\n",
-      "translation": "저도…… 인가요？\n",
+      "translation": "저도…… 말인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9864,7 +9864,7 @@
         "voice": "GB962911,3"
       },
       "original": "ええ、ぜひ！\nたまには、ハメを外すのもいいものですよ。\n",
-      "translation": "네, 기꺼이요！ 가끔은, 마음껏 노는 것도\n좋은 법이죠.\n",
+      "translation": "네, 기꺼이요! 가끔은, 마음껏 노는 것도\n좋은 법이죠.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9903,7 +9903,7 @@
         "face": "1080104,0,0100101"
       },
       "original": "やれやれ、しょーがない連中ね。\nちょっとだけなら、つきあってあげるわ。\n",
-      "translation": "어휴야, 어쩔 수 없는 사람들이라니까.\n조금뿐이라면, 상대해 줄게.\n",
+      "translation": "정말, 어쩔 수 없는 사람들이라니까.\n조금이라면, 어울려 줄게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9929,7 +9929,7 @@
         "face": "1080104,0,0100101"
       },
       "original": "よーし、それじゃあ大ホールに移動して、祝\n勝会だ！\n",
-      "translation": "좋아, 그럼 대홀로 이동해서, 축하\n파티다！\n",
+      "translation": "좋아, 그럼 대홀로 이동해서, 축하\n파티다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9942,7 +9942,7 @@
         "face": "1080104,0,0100101"
       },
       "original": "おーーっ！\n",
-      "translation": "오오～！\n",
+      "translation": "오오ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9955,7 +9955,7 @@
         "speaker": "107,1070101"
       },
       "original": "よかったら、タクトさんもご一緒しませんか？\n",
-      "translation": "괜찮으시다면, 택트 씨도 함께하시겠어요？\n",
+      "translation": "괜찮으시다면, 택트 씨도 함께하시겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9968,7 +9968,7 @@
         "voice": "GB963000,3"
       },
       "original": "えっ、オレも行っていいの？\n",
-      "translation": "엣, 나도 가도 되는 거야？\n",
+      "translation": "엣, 나도 가도 되는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -9981,7 +9981,7 @@
         "voice": "GB963001,3"
       },
       "original": "当たり前じゃないですか。\n行きましょうよ、タクトさん！\n",
-      "translation": "당연하잖아요. 가요, 택트 씨！\n",
+      "translation": "당연하잖아요. 가요, 택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -10007,7 +10007,7 @@
         "speaker": "4,0040101"
       },
       "original": "そのとおりですわ。\n私たちの司令官に、ささやかなお礼をさせて\nくださいな。\n",
-      "translation": "그렇습니다. 저희 사령관님께, 소박한\n감사의 인사를 전하게 해주세요.\n",
+      "translation": "그렇습니다. 저희 사령관에게 작게나마\n보답하게 해주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -10033,7 +10033,7 @@
         "face": "0,0,0050102"
       },
       "original": "なにも遠慮するこたぁないだろ？\nタクトなら、みんな大歓迎さ。\n",
-      "translation": "딱히 사양할 건 없잖아？ 택트라면 모두\n대환영이야.\n",
+      "translation": "딱히 사양할 건 없잖아? 택트라면 모두\n대환영이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -10085,7 +10085,7 @@
         "face": "0060702,0,0050102"
       },
       "original": "オレも、喜んで一緒に行かせてもらうよ！\n",
-      "translation": "나도, 기꺼이 함께 가도록 할게！\n",
+      "translation": "나도 기꺼이 같이 갈게!\n",
       "state": "draft",
       "use_translation": true
     }

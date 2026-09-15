@@ -26,7 +26,7 @@
         "voice": "GB110600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -78,7 +78,7 @@
         "face": "0,0,0"
       },
       "original": "敵艦隊の編成だが、いずれも見慣れないタイ\nプばかりだ。\nおそらく、例の巨大艦が生産したものだろう。\n",
-      "translation": "적 함대의 편성이지만, 하나같이 낯선\n타입뿐이다. 아마도 그 거대함이 생산한\n것이겠지.\n",
+      "translation": "적 함대의 편성이지만, 하나같이 낯선\n타입뿐이다. 아마도 그 거대 함선이 생산한\n것이겠지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -104,7 +104,7 @@
         "face": "0,0,0"
       },
       "original": "ついさっき、敵の分析データが届いた。\n第３方面軍が交戦したときのデータだ。\n",
-      "translation": "방금 전, 적의 분석 데이터가 도착했다.\n제３방면군이 교전했을 때의 데이터다.\n",
+      "translation": "방금 전, 적의 분석 데이터가 도착했다.\n제3방면군이 교전했을 때의 데이터다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -117,7 +117,7 @@
         "face": "0,0,0"
       },
       "original": "……そうか、第３方面軍の……。\nだったらなおさら、貴重なデータをムダには\nできないな。\n",
-      "translation": "……그런가, 제３방면군의……. 그렇다면\n더욱더, 귀중한 데이터를 낭비할 수는\n없겠군.\n",
+      "translation": "……그런가, 제3방면군의……. 그렇다면\n더욱더, 귀중한 데이터를 낭비할 수는\n없겠군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -156,7 +156,7 @@
         "face": "0,0,0"
       },
       "original": "現在のところ、敵は３種類確認されている。\nまずは、この艦だ。\n",
-      "translation": "현재로서는 적은 ３종류가 확인되었다.\n우선, 이 함선이다.\n",
+      "translation": "현재로서는 적은 3종류가 확인되었다.\n우선, 이 함선이다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -264,7 +264,7 @@
         "speaker": "1,0010301"
       },
       "original": "たぶんね。\nこれは実質的に、敵の主力の第１波だ。\n",
-      "translation": "아마도 그래. 이건 실질적으로, 적 주력의\n제１파다.\n",
+      "translation": "아마도 그래. 이건 실질적으로, 적 주력의\n제1파다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -372,7 +372,7 @@
         "speaker": "999,0"
       },
       "original": "～敵部隊の編成～\n　戦艦タイプ×４　　　突撃艦タイプ×１２\n　戦闘機タイプ×４\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대의 편성～전함\n타입×４　　　돌격함 타입×１２전투기\n타입×４～승리 조건～적 함대의\n전멸～패배 조건～에르시올의 파괴 타임\n오버\n",
+      "translation": "～적 부대 편성～\n　전함 타입×4　　　돌격함 타입×12\n　전투기 타입×4\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -385,7 +385,7 @@
         "face": "0,0070101,0"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번, 작전 내용을 확인할까？\n",
+      "translation": "다시 한번, 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -398,7 +398,7 @@
         "face": "0,0070101,0"
       },
       "original": "そうだなぁ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -424,7 +424,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없다. 다들, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 다들, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -437,7 +437,7 @@
         "face": "0,0,0"
       },
       "original": "エンジェル隊、出撃！\n",
-      "translation": "엔젤대, 출격！\n",
+      "translation": "엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -450,7 +450,7 @@
         "face": "0,0,0"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }

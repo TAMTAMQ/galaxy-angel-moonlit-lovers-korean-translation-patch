@@ -36,7 +36,7 @@
         "speaker": "1,0010102"
       },
       "original": "ん、誰か来た。\nはーい？\n",
-      "translation": "응, 누군가 왔다. 계세요？\n",
+      "translation": "응, 누군가 왔다. 계세요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -48,7 +48,7 @@
         "voice": "GB250000,3"
       },
       "original": "ねぇタクト、ちょっといい？\n",
-      "translation": "있지 택트, 잠깐 시간 돼？\n",
+      "translation": "있지 택트, 잠깐 시간 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -60,7 +60,7 @@
         "voice": "GB250000,3"
       },
       "original": "ランファかい？\nいいよ、入ってくれ。\n",
-      "translation": "란파인가？ 좋아, 들어오렴.\n",
+      "translation": "란파인가? 좋아, 들어오렴.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -73,7 +73,7 @@
         "face": "0,0030106,0"
       },
       "original": "タクト、あれからノアと話はできた？\n",
-      "translation": "택트, 그때 이후로 노아와 이야기는\n해봤어？\n",
+      "translation": "택트, 그때 이후로 노아와 이야기는\n해봤어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -112,7 +112,7 @@
         "face": "0,0030804,0"
       },
       "original": "だったら、アタシにやらせてみてくれない？\n",
-      "translation": "그렇다면, 나한테 해보게 해주지 않을래？\n",
+      "translation": "그렇다면, 나한테 해보게 해주지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -125,7 +125,7 @@
         "face": "0,0030804,0"
       },
       "original": "何か考えがあるのかい？\n",
-      "translation": "무슨 생각이라도 있는 거니？\n",
+      "translation": "무슨 생각이라도 있는 거니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -138,7 +138,7 @@
         "face": "0,0030105,0"
       },
       "original": "いいから、任せて。\n行くわよ！\n",
-      "translation": "됐으니까, 맡겨줘. 간다！\n",
+      "translation": "됐으니까, 맡겨줘. 간다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -151,7 +151,7 @@
         "face": "0,0030105,0"
       },
       "original": "えっ？\nちょっと、ランファ……！\n",
-      "translation": "엣？ 잠깐, 란파……！\n",
+      "translation": "엣? 잠깐, 란파……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -164,7 +164,7 @@
         "face": "0,0030803,0"
       },
       "original": "出てきなさいよ、ノア！\n",
-      "translation": "나와, 노아！\n",
+      "translation": "나와, 노아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -190,7 +190,7 @@
         "voice": "GB250006,3"
       },
       "original": "ノア！\nねぇ、聞こえてるんでしょ！？\n",
-      "translation": "노아！ 야, 들리고 있잖아！？\n",
+      "translation": "노아! 야, 들리고 있잖아!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -229,7 +229,7 @@
         "voice": "GB250008,3"
       },
       "original": "ノア、アタシと勝負しない？\n",
-      "translation": "노아, 나랑 승부하지 않을래？\n",
+      "translation": "노아, 나랑 승부하지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -242,7 +242,7 @@
         "speaker": "108,1080204"
       },
       "original": "……はぁ？\n",
-      "translation": "……하아？\n",
+      "translation": "……하아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -268,7 +268,7 @@
         "voice": "GB250011,3"
       },
       "original": "メンコ、ビー玉、コマ回し。\nなんでもいいわよ。\nアンタの得意なので勝負してあげる。\n",
-      "translation": "멘코, 구슬치기, 팽이치기. 뭐든 상관없어.\n네가 잘하는 걸로 승부해 줄게.\n",
+      "translation": "딱지, 구슬치기, 팽이치기. 뭐든 상관없어.\n네가 잘하는 걸로 승부해 줄게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -281,7 +281,7 @@
         "voice": "GB250012,3"
       },
       "original": "何よ、それ？\nゲームか何か？\n",
-      "translation": "뭐야, 그건？ 게임 같은 거야？\n",
+      "translation": "뭐야, 그건? 게임 같은 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -294,7 +294,7 @@
         "speaker": "3,0030101"
       },
       "original": "……え、知らないの？\n",
-      "translation": "……에, 몰라？\n",
+      "translation": "……에, 몰라?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -320,7 +320,7 @@
         "speaker": "108,1080103"
       },
       "original": "言いたいことはそれだけ？\nじゃあ、さっさと帰りなさい。\n",
-      "translation": "하고 싶은 말이 그것뿐이야？ 그럼 얼른\n돌아가.\n",
+      "translation": "하고 싶은 말이 그것뿐이야? 그럼 얼른\n돌아가.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -333,7 +333,7 @@
         "voice": "GB250016,3"
       },
       "original": "アタシに負けるのが、怖いの？\n",
-      "translation": "나한테 지는 게, 무서운 거야？\n",
+      "translation": "나한테 지는 게, 무서운 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -424,7 +424,7 @@
         "face": "0,0030101,0"
       },
       "original": "じゃあ、メンコで勝負よ。\n",
-      "translation": "그럼, 멘코로 승부야.\n",
+      "translation": "그럼, 딱지로 승부야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -437,7 +437,7 @@
         "face": "0,1080204,0"
       },
       "original": "だから、そのメンコとかいうやつは、なに？\n",
-      "translation": "그러니까, 그 멘코라는 건 뭐야？\n",
+      "translation": "그러니까, 그 딱지라는 건 뭐야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -450,7 +450,7 @@
         "speaker": "3,0030101"
       },
       "original": "こういうヤツよ。\nほんとに見たことないの？\n",
-      "translation": "이런 거야. 정말로 본 적 없는 거야？\n",
+      "translation": "이런 거야. 정말로 본 적 없는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -463,7 +463,7 @@
         "face": "0,0,0"
       },
       "original": "これがメンコというものなの？\nただの紙切れじゃない。\n",
-      "translation": "이게 멘코라는 건가？ 그냥\n종잇조각이잖아.\n",
+      "translation": "이게 딱지라는 건가? 그냥 종잇조각이잖아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -476,7 +476,7 @@
         "voice": "GB250026,3"
       },
       "original": "ノンノンノン。\nこれだからシロートさんは困るのよ。\n",
-      "translation": "논논논. 이래서 초보자는 곤란하다니까.\n",
+      "translation": "노, 노, 노. 이래서 초보자 씨는\n곤란하다니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -515,7 +515,7 @@
         "speaker": "3,0030101"
       },
       "original": "これを交互に床にたたきつけて、置かれてい\nる相手のメンコをひっくり返すの。\n",
-      "translation": "이걸 번갈아 가며 바닥에 내리쳐서, 놓여\n있는 상대의 멘코를 뒤집는 거야.\n",
+      "translation": "이걸 번갈아 가며 바닥에 내리쳐서, 놓여\n있는 상대의 딱지를 뒤집는 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -528,7 +528,7 @@
         "face": "0,0030804,0"
       },
       "original": "今回は、相手の持っている３枚のメンコを、\n先に全部ひっくり返した方が勝ちってことに\nしましょう。\n",
-      "translation": "이번에는, 상대가 가진 ３장의 멘코를 먼저\n전부 뒤집는 쪽이 이기는 걸로 하죠.\n",
+      "translation": "이번에는, 상대가 가진 3장의 딱지를 먼저\n전부 뒤집는 쪽이 이기는 걸로 하죠.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -580,7 +580,7 @@
         "speaker": "108,1080101"
       },
       "original": "そんなものいらないわ。\nどっちが先攻？\n",
-      "translation": "그런 건 필요 없어. 어느 쪽이 선공이지？\n",
+      "translation": "그런 건 필요 없어. 어느 쪽이 선공이지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -593,7 +593,7 @@
         "voice": "GB250035,3"
       },
       "original": "おっと、その前にひとつ……賭けをしない？\n",
-      "translation": "어라, 그전에 하나…… 내기할래？\n",
+      "translation": "어라, 그전에 하나…… 내기할래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -606,7 +606,7 @@
         "face": "0,1080204,0"
       },
       "original": "賭け？\n",
-      "translation": "내기？\n",
+      "translation": "내기?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -619,7 +619,7 @@
         "face": "0,0030804,0"
       },
       "original": "もし負けたら、勝ったほうの言うことをなん\nでも聞くの。\nどう？\n",
-      "translation": "만약 지면, 이긴 쪽이 말하는 건 뭐든지\n들어주는 거야. 어때？\n",
+      "translation": "만약 지면, 이긴 쪽이 말하는 건 뭐든지\n들어주는 거야. 어때?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -645,7 +645,7 @@
         "face": "0,0030102,0"
       },
       "original": "言ったわね。\nそう来なくっちゃ！\n",
-      "translation": "말했어. 그래야지！\n",
+      "translation": "말했어. 그래야지!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -658,7 +658,7 @@
         "speaker": "1,0010105"
       },
       "original": "おいおいランファ、そんな約束して大丈夫な\nのか？\n",
-      "translation": "어이어이 란파, 그런 약속을 해도 괜찮은\n거야？\n",
+      "translation": "어이어이 란파, 그런 약속을 해도 괜찮은\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -697,7 +697,7 @@
         "speaker": "3,0030101"
       },
       "original": "それじゃ、まずアタシが手本を見せるわね。\nノアのメンコを置いてちょうだい。\n",
-      "translation": "그럼, 우선 내가 본보기를 보여줄게.\n노아의 멘코를 놓아줘.\n",
+      "translation": "그럼, 우선 내가 본보기를 보여줄게.\n노아의 딱지를 놓아줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -710,7 +710,7 @@
         "voice": "GB250101,3"
       },
       "original": "わかったわ。\nこう？\n",
-      "translation": "알았어. 이렇게？\n",
+      "translation": "알았어. 이렇게?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -723,7 +723,7 @@
         "face": "0,0030102,0"
       },
       "original": "オッケー、行くわよ！\n",
-      "translation": "오케이, 간다！\n",
+      "translation": "오케이, 간다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -736,7 +736,7 @@
         "speaker": "3,0030702"
       },
       "original": "とりゃーっ！\n",
-      "translation": "이럇！\n",
+      "translation": "이럇!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -749,7 +749,7 @@
         "face": "0,0,0"
       },
       "original": "うわっ！\nす、すごい迫力だな……。\n",
-      "translation": "우와！ 어, 엄청난 박력이네…….\n",
+      "translation": "우와! 어, 엄청난 박력이네…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -788,7 +788,7 @@
         "voice": "GB250106,3"
       },
       "original": "いいの？\n後悔するわよ。\n",
-      "translation": "괜찮겠어？ 후회할 텐데.\n",
+      "translation": "괜찮겠어? 후회할 텐데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -801,7 +801,7 @@
         "speaker": "3,0030101"
       },
       "original": "言ってくれるじゃない。\n後悔するのは、どっちかしら？\n",
-      "translation": "말은 잘하네. 후회하는 건 어느 쪽일까？\n",
+      "translation": "말은 잘하네. 후회하는 건 어느 쪽일까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -827,7 +827,7 @@
         "face": "0,0,0"
       },
       "original": "……やっ！\n",
-      "translation": "……얏！\n",
+      "translation": "……얏!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -840,7 +840,7 @@
         "speaker": "1,0010103"
       },
       "original": "おっ！\nランファのメンコが、１枚ひっくり返った。\n",
-      "translation": "오！ 란파의 멘코가, 한 장 뒤집혔다.\n",
+      "translation": "오! 란파의 딱지가 한 장 뒤집혔다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -853,7 +853,7 @@
         "speaker": "3,0030101"
       },
       "original": "初めてにしては、やるじゃない。\nビギナーズラックってやつ？\n",
-      "translation": "처음치고는 제법인데. 비기너스 럭크라는\n건가？\n",
+      "translation": "처음치고는 제법인데. 비기너스 럭이라는\n건가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -879,7 +879,7 @@
         "voice": "GB250112,3"
       },
       "original": "あたしの体格……身長や腕の長さ、そして筋\n力から、メンコを投げるときのベストの投法\nは簡単に割り出せるわ。\n",
-      "translation": "내 체격…… 키나 팔 길이, 그리고\n근력으로 보아 멘코를 던질 때의 최적의\n투법은 간단히 산출할 수 있어.\n",
+      "translation": "내 체격…… 키나 팔 길이, 그리고\n근력으로 보아 딱지를 던질 때의 최적의\n투법은 간단히 산출할 수 있어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -892,7 +892,7 @@
         "speaker": "108,1080101"
       },
       "original": "あとは計算するだけよ。\n標的となるメンコをひっくり返すためには、\nどの箇所に当てればいいのかをね。\n",
-      "translation": "남은 건 계산뿐이야. 표적이 되는 멘코를\n뒤집기 위해서는 어느 부분을 맞춰야\n하는지를 말이지.\n",
+      "translation": "남은 건 계산뿐이야. 표적이 되는 딱지를\n뒤집으려면 어느 부분을 맞춰야 하는지를\n말이지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -944,7 +944,7 @@
         "face": "0260101,0,0"
       },
       "original": "ケーラ先生、どうしてここに？\n",
-      "translation": "케라 선생님, 어째서 여기에？\n",
+      "translation": "케라 선생님, 어째서 여기에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -983,7 +983,7 @@
         "face": "0260103,0,0"
       },
       "original": "それにしても、メンコなんて懐かしいわねぇ。\n私も小さいころは、男の子たちに混じって、\nよく遊んだものよ。\n",
-      "translation": "그나저나, 멘코라니 그리운걸. 나도 어릴\n적에는 남자아이들 사이에 섞여서 자주\n놀곤 했지.\n",
+      "translation": "그나저나, 딱지라니 그리운걸. 나도 어릴\n적에는 남자아이들 사이에 섞여서 자주\n놀곤 했지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1009,7 +1009,7 @@
         "face": "0,0,0"
       },
       "original": "はぁーっ！\n",
-      "translation": "하앗！\n",
+      "translation": "하앗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1035,7 +1035,7 @@
         "speaker": "26,0260101"
       },
       "original": "あの腰の入った構え、投げ方……。\nあれは一朝一夕で身につくものじゃないわ。\n",
-      "translation": "저 허리에 들어간 자세, 던지는 법…….\n저건 하루아침에 몸에 익힐 수 있는 게\n아니야.\n",
+      "translation": "저 허리에 힘을 실은 자세와\n던지는 법……. 저건 하루아침에 몸에 익힐\n수 있는 게 아니야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1048,7 +1048,7 @@
         "speaker": "1,0010102"
       },
       "original": "そうなんですか？\nだとしたら、ランファはかなり自信を持って\nこの勝負を言い出したんだな。\n",
-      "translation": "그렇습니까？ 그렇다면, 란파는 상당히\n자신감을 가지고 이 승부를 제안한 거군요.\n",
+      "translation": "그렇습니까? 그렇다면, 란파는 상당히\n자신감을 가지고 이 승부를 제안한 거군요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1074,7 +1074,7 @@
         "face": "0,0030102,0"
       },
       "original": "今からでも遅くないわよ。\n降参する？\n",
-      "translation": "지금이라도 늦지 않았어. 항복할래？\n",
+      "translation": "지금이라도 늦지 않았어. 항복할래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1100,7 +1100,7 @@
         "speaker": "3,0030101"
       },
       "original": "そうこなくっちゃ！\nさぁ、勝負はこれからよ！\n",
-      "translation": "그래야지！ 자, 승부는 이제부터야！\n",
+      "translation": "그래야지! 자, 승부는 이제부터야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1113,7 +1113,7 @@
         "speaker": "3,0030702"
       },
       "original": "はあっ！\n",
-      "translation": "하앗！\n",
+      "translation": "하앗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1126,7 +1126,7 @@
         "face": "0,0,0"
       },
       "original": "やっ！\n",
-      "translation": "얏！\n",
+      "translation": "얏!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1165,7 +1165,7 @@
         "speaker": "1,0010103"
       },
       "original": "って、クレータ班長！？\nいつの間に？\n",
-      "translation": "앗, 크레타 반장님！？ 언제 사이에？\n",
+      "translation": "앗, 크레이타 반장!? 언제부터 있었어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1178,7 +1178,7 @@
         "voice": "GB250123H,3"
       },
       "original": "何言ってるんですか。\nさっきからいましたよ？\n",
-      "translation": "무슨 말씀을 하시는 거예요. 아까부터\n있었다고요？\n",
+      "translation": "무슨 말씀을 하시는 거예요. 아까부터\n있었다고요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1204,7 +1204,7 @@
         "speaker": "1,0010105"
       },
       "original": "ク、クロミエまで！？\n",
-      "translation": "크, 크로미에까지！？\n",
+      "translation": "크, 크로미에까지!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1217,7 +1217,7 @@
         "speaker": "26,0260101"
       },
       "original": "しっ、静かに！\n真剣勝負の最中なのよ？\n",
-      "translation": "조, 조용히 해！ 진검승부 중이라고？\n",
+      "translation": "조, 조용히 해! 진검승부 중이라고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1243,7 +1243,7 @@
         "face": "0,0,0"
       },
       "original": "はあっ！\n",
-      "translation": "하앗！\n",
+      "translation": "하앗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1269,7 +1269,7 @@
         "face": "0,0030101,0"
       },
       "original": "……でも、なかなかやるじゃない。\n正直、ここまでとは思わなかったわ。\n",
-      "translation": "...하지만, 제법 하는걸. 솔직히 이 정도일\n줄은 몰랐어.\n",
+      "translation": "……하지만, 제법 하는걸. 솔직히 이\n정도일 줄은 몰랐어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1295,7 +1295,7 @@
         "voice": "GB250124A,3"
       },
       "original": "お互いがお互いを認め合う……まさにこれこ\nそ、ライバルのあるべき姿ですね！\n",
-      "translation": "서로가 서로를 인정한다…… 그야말로\n이것이야말로, 라이벌이 갖춰야 할\n모습이군요！\n",
+      "translation": "서로가 서로를 인정한다…… 그야말로\n이것이야말로, 라이벌이 갖춰야 할\n모습이군요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1321,7 +1321,7 @@
         "voice": "GB250124B,3"
       },
       "original": "……というか、これ本当にメンコの勝負？\n",
-      "translation": "……라기보다, 이거 정말 멘코 승부 맞아？\n",
+      "translation": "……라기보다, 이거 정말 딱지 승부 맞아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1347,7 +1347,7 @@
         "speaker": "108,1080101"
       },
       "original": "メンコを投げた拍子に、すでに裏返っている\nものがもう一度表に返ったら、どうなるの？\n",
-      "translation": "멘코를 던진 순간에, 이미 뒤집혀 있던\n것이 다시 앞면으로 돌아오면 어떻게 돼？\n",
+      "translation": "딱지를 던진 순간에, 이미 뒤집혀 있던\n것이 다시 앞면으로 돌아오면 어떻게 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1360,7 +1360,7 @@
         "voice": "GB250126,3"
       },
       "original": "え？\nそれは、表のまんまよ。\nもう一度裏返さないと、勝ちにはならないわ。\n",
-      "translation": "에？ 그건, 앞면인 그대로야. 다시 뒤집지\n않으면 승리가 되지 않아.\n",
+      "translation": "에? 그건, 앞면인 그대로야. 다시 뒤집지\n않으면 승리가 되지 않아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1386,7 +1386,7 @@
         "voice": "GB250128,3"
       },
       "original": "……やっ！\n",
-      "translation": "……얏！\n",
+      "translation": "……얏!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1399,7 +1399,7 @@
         "speaker": "1,0010103"
       },
       "original": "あああっ！？\nそんな……ランファのメンコが裏返されただ\nけじゃなく……。\n",
-      "translation": "아아앗！？ 그럴 수가…… 란파의 멘코가\n뒤집힌 것뿐만 아니라…….\n",
+      "translation": "아아앗!? 그럴 수가…… 란파의 딱지가\n뒤집힌 것뿐만 아니라…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1412,7 +1412,7 @@
         "speaker": "26,0260101"
       },
       "original": "あの子の裏返っていたメンコが表に戻ったわ！\n",
-      "translation": "저 아이의 뒤집혀 있던 멘코가 앞면으로\n돌아왔어！\n",
+      "translation": "저 아이의 뒤집혀 있던 딱지가 앞면으로\n돌아왔어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1425,7 +1425,7 @@
         "speaker": "19,0190101"
       },
       "original": "相手のメンコをひっくり返すと同時に、自分\nのメンコを復活させる……恐ろしい腕前です\nね。\n",
-      "translation": "상대의 멘코를 뒤집음과 동시에, 자신의\n멘코를 부활시키다니…… 무서운\n실력이군요.\n",
+      "translation": "상대의 딱지를 뒤집는 동시에, 자기 딱지를\n부활시키다니…… 무서운 실력이군요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1438,7 +1438,7 @@
         "voice": "GB250131,3"
       },
       "original": "これで状況は２枚対０枚。\nこのままでは、ランファさんは……。\n",
-      "translation": "이걸로 상황은 ２대 ０. 이대로라면, 란파\n씨는…….\n",
+      "translation": "이걸로 상황은 2대 0. 이대로라면, 란파\n씨는…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1477,7 +1477,7 @@
         "speaker": "3,0030101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1490,7 +1490,7 @@
         "speaker": "108,1080101"
       },
       "original": "わかってると思うけど、あんたが失敗すれば、\n次のあたしの番で勝負はつくわ。\n１００パーセント確実にね。\n",
-      "translation": "알고 있겠지만, 네가 실패하면 다음 내\n차례에서 승부가 나게 될 거야.\n１００퍼센트 확실하게 말이지.\n",
+      "translation": "알고 있겠지만, 네가 실패하면 다음 내\n차례에서 승부가 나게 될 거야.\n100퍼센트 확실하게 말이지.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1516,7 +1516,7 @@
         "voice": "GB250137,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1529,7 +1529,7 @@
         "voice": "GB250137,3"
       },
       "original": "ラ、ランファ……！\n",
-      "translation": "라, 란파……！\n",
+      "translation": "라, 란파……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1581,7 +1581,7 @@
         "speaker": "108,1080101"
       },
       "original": "あの技？\nそんな言葉であたしの動揺を誘おうとしても、\nムダよ。\n",
-      "translation": "저 기술？ 그런 말로 내 동요를 유도하려\n해도, 소용없어.\n",
+      "translation": "저 기술? 그런 말로 내 동요를 유도하려\n해도, 소용없어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1594,7 +1594,7 @@
         "speaker": "3,0030101"
       },
       "original": "……ふぉぉぉぉぉぉ……！\n",
-      "translation": "……후오오오오오오……！\n",
+      "translation": "……후오오오오오오……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1633,7 +1633,7 @@
         "speaker": "19,0190101"
       },
       "original": "でも、この状況から逆転できる方法があるん\nですか……！？\n",
-      "translation": "하지만, 이 상황에서 역전할 방법이\n있나요……！？\n",
+      "translation": "하지만, 이 상황에서 역전할 방법이\n있나요……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1646,7 +1646,7 @@
         "speaker": "3,0030101"
       },
       "original": "はぁぁぁぁぁぁぁ……！\n",
-      "translation": "하아아아아아아아……！\n",
+      "translation": "하아아아아아아아……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1659,7 +1659,7 @@
         "voice": "GB250146,3"
       },
       "original": "あっ！\nランファさんが、メンコを持った腕をブンブ\nン振り回し始めた！\n",
-      "translation": "앗！ 란파 씨가, 멘코를 쥔 팔을 붕붕\n휘두르기 시작했어！\n",
+      "translation": "앗! 란파 씨가, 딱지를 쥔 팔을 붕붕\n휘두르기 시작했어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1672,7 +1672,7 @@
         "face": "0260104,0,0190103"
       },
       "original": "あんな投げ方、見たことがないわ。\n何をするつもりなの……！？\n",
-      "translation": "저런 던지기 방식은 본 적이 없어. 뭘\n하려는 거지……！？\n",
+      "translation": "저런 던지기 방식은 본 적이 없어. 뭘\n하려는 거지……!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1698,7 +1698,7 @@
         "speaker": "26,0260101"
       },
       "original": "知っているの、クロミエ？\n",
-      "translation": "알고 있어, 크로미에？\n",
+      "translation": "알고 있어, 크로미에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1711,7 +1711,7 @@
         "voice": "GB250150,3"
       },
       "original": "以前、聞いたことがあります。\nあれこそ銀河最強のメンコ技「飛雲八爪拳」\nに違いありません。\n",
-      "translation": "이전에 들은 적이 있습니다. 그것이야말로\n은하 최강의 멘코 기술 「비운팔조권」임에\n틀림없습니다.\n",
+      "translation": "이전에 들은 적이 있습니다. 그것이야말로\n은하 최강의 딱지 기술 「비운팔조권」임에\n틀림없습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1724,7 +1724,7 @@
         "voice": "GB250151,3"
       },
       "original": "「飛雲八爪拳」！？\n",
-      "translation": "「비운팔조권」！？\n",
+      "translation": "「비운팔조권」!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1737,7 +1737,7 @@
         "speaker": "8,0080101"
       },
       "original": "辺境惑星ダガシーヤにのみ伝わる、一撃で相\n手のメンコをすべて裏返すという究極奥義で\nす。\n",
-      "translation": "변방 행성 다가시야에만 전해지는, 일격에\n상대의 멘코를 모두 뒤집어버린다는 궁극의\n오의입니다.\n",
+      "translation": "변방 행성 다가시야에만 전해지는, 일격에\n상대의 딱지를 모두 뒤집어버린다는 궁극의\n오의입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1750,7 +1750,7 @@
         "speaker": "8,0080101"
       },
       "original": "でも、メンコ界の長い歴史の中でも、「飛雲\n八爪拳」の使い手は、わずかに３人しかいな\nかったといわれています。\n",
-      "translation": "하지만, 멘코계의 긴 역사 중에서도\n「비운팔조권」의 사용자는 불과\n３명뿐이었다고 전해집니다.\n",
+      "translation": "하지만, 딱지계의 긴 역사 중에서도\n「비운팔조권」의 사용자는 불과\n3명뿐이었다고 전해집니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1763,7 +1763,7 @@
         "speaker": "26,0260101"
       },
       "original": "その伝説の奥義を、ランファが！？\n",
-      "translation": "그 전설의 오의를, 란파가！？\n",
+      "translation": "그 전설의 오의를, 란파가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1776,7 +1776,7 @@
         "speaker": "1,0010105"
       },
       "original": "……ところで、「メンコ界」って何……？\n",
-      "translation": "……그런데, 「멘코계」라니 뭐야……？\n",
+      "translation": "……그런데, 「딱지계」라니 뭐야……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1789,7 +1789,7 @@
         "voice": "GB250155,3"
       },
       "original": "精神集中完了！\nいくわよーっ！\n",
-      "translation": "정신 집중 완료！ 간다아！\n",
+      "translation": "정신 집중 완료! 간다아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1802,7 +1802,7 @@
         "voice": "GB250156,3"
       },
       "original": "な……なに、この巨大な力は！？\n",
-      "translation": "뭐…… 뭐야, 이 거대한 힘은！？\n",
+      "translation": "뭐…… 뭐야, 이 거대한 힘은!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1815,7 +1815,7 @@
         "voice": "GB250157,3"
       },
       "original": "吹けば飛ぶよなメンコの紙よ……今や汝は、\nメンコにしてメンコにあらず。\n",
-      "translation": "불면 날아갈 멘코 종이여…… 이제 너는,\n멘코이자 멘코가 아니로다.\n",
+      "translation": "불면 날아갈 딱지 종이여…… 이제 너는,\n딱지이자 딱지가 아니로다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1828,7 +1828,7 @@
         "voice": "GB250158,3"
       },
       "original": "汝は敵を切り裂く野獣の爪。\n雲を貫く飛燕の翼。\nその力、今こそ我が前に示せ！\n",
-      "translation": "그대는 적을 찢어발기는 야수의 발톱.\n구름을 꿰뚫는 비연의 날개. 그 힘,\n지금이야말로 내 앞에 보여라！\n",
+      "translation": "그대는 적을 찢어발기는 야수의 발톱.\n구름을 꿰뚫는 비연의 날개. 그 힘,\n지금이야말로 내 앞에 보여라!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1841,7 +1841,7 @@
         "speaker": "3,0030401"
       },
       "original": "究極奥義、「飛雲八爪拳」！！\n",
-      "translation": "궁극오의, 「비운팔조권」！！\n",
+      "translation": "궁극오의, 「비운팔조권」!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1854,7 +1854,7 @@
         "speaker": "3,0030702"
       },
       "original": "どおぅりゃああぁぁぁぁぁーっ！！！\n",
-      "translation": "도오아아아아아아아악！！！\n",
+      "translation": "도오아아아아아아아악!!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1867,7 +1867,7 @@
         "speaker": "19,0190103"
       },
       "original": "きゃああああっ！？\n",
-      "translation": "꺄아아아앗！？\n",
+      "translation": "꺄아아아앗!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1880,7 +1880,7 @@
         "speaker": "26,0260102"
       },
       "original": "な……何が起こったの！？\n",
-      "translation": "뭐…… 무슨 일이 일어난 거야！？\n",
+      "translation": "뭐…… 무슨 일이 일어난 거야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1893,7 +1893,7 @@
         "voice": "GB250162,3"
       },
       "original": "ランファ……！！\n",
-      "translation": "란파……！！\n",
+      "translation": "란파……!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1906,7 +1906,7 @@
         "face": "0,0030102,0"
       },
       "original": "……ふっ……決まったわ。\n",
-      "translation": "……훗…… 결정됐어.\n",
+      "translation": "……훗…… 성공이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1919,7 +1919,7 @@
         "speaker": "1,0010103"
       },
       "original": "あああっ！\nノアのメンコが、すべて裏になってる！\n",
-      "translation": "아아앗！ 노아의 멘코가, 전부 뒷면이 되어\n있어！\n",
+      "translation": "아아앗! 노아의 딱지가 전부 뒷면이 되어\n있어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1932,7 +1932,7 @@
         "speaker": "19,0190101"
       },
       "original": "じゃあ、ランファさんの逆転勝ちですね！\n",
-      "translation": "그럼, 란파 씨의 역전승이네요！\n",
+      "translation": "그럼, 란파 씨의 역전승이네요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1971,7 +1971,7 @@
         "face": "0,1080205,0"
       },
       "original": "そんな……。\nあたしの計算では、メンコがこんな挙動をす\nるなんて、あり得ないはずなのに……。\n",
-      "translation": "말도 안 돼……. 내 계산으로는 멘코가\n이런 거동을 하는 건 있을 수 없는\n일인데…….\n",
+      "translation": "말도 안 돼……. 내 계산으로는 딱지가\n이런 움직임을 보이는 건 있을 수 없는\n일인데…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1997,7 +1997,7 @@
         "face": "0,0030102,0"
       },
       "original": "どう？\nなんなら、もうひと勝負してもいいわよ。\n",
-      "translation": "어때？ 원한다면 한 판 더 해도 된다고.\n",
+      "translation": "어때? 원한다면 한 판 더 해도 된다고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2049,7 +2049,7 @@
         "voice": "GB250172,3"
       },
       "original": "エルシオールの艦史に残る、感動的な熱闘で\nした。\n",
-      "translation": "에르시올의 함사에 남을, 감동적인\n열투였습니다.\n",
+      "translation": "에르시올의 역사에 남을, 감동적인\n열전이었습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2088,7 +2088,7 @@
         "voice": "GB250175,3"
       },
       "original": "ところで、ノア。\n約束は覚えてるわよね？\n",
-      "translation": "그런데, 노아. 약속은 기억하고 있겠지？\n",
+      "translation": "그런데, 노아. 약속은 기억하고 있겠지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2114,7 +2114,7 @@
         "speaker": "108,1080101"
       },
       "original": "貴重なサンプルとして生体スキャンにかける\nつもり？　それとも、『黒き月』のコアを、\nそちらに引き渡せばいいの？\n",
-      "translation": "귀중한 샘플로서 생체 스캔을 할 셈이야？\n아니면, 『흑색 달』의 코어를 그쪽에\n넘겨주면 돼？\n",
+      "translation": "귀중한 샘플로서 생체 스캔을 할 셈이야?\n아니면, 『흑색 달』의 코어를 그쪽에\n넘겨주면 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2140,7 +2140,7 @@
         "speaker": "108,1080101"
       },
       "original": "え……？\n",
-      "translation": "에……？\n",
+      "translation": "에……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2153,7 +2153,7 @@
         "voice": "GB250180,3"
       },
       "original": "敵が何者なのかとか、あのバカでっかい艦を\nどうやったら倒せるかとか。\nアンタなら、知ってるんでしょう？\n",
-      "translation": "적이 누구인지라든가, 저 바보같이 커다란\n함선을 어떻게 하면 쓰러뜨릴 수 있는지\n같은 거 말이야. 너라면 알고 있겠지？\n",
+      "translation": "적이 누구인지라든가, 저 바보같이 커다란\n함선을 어떻게 하면 쓰러뜨릴 수 있는지\n같은 거 말이야. 너라면 알고 있겠지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2179,7 +2179,7 @@
         "speaker": "108,1080101"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2205,7 +2205,7 @@
         "face": "0,0030101,0"
       },
       "original": "ノア、オレからも頼むよ。\n君の知っていることを、話してくれないか。\n",
-      "translation": "노아, 나도 부탁할게. 네가 알고 있는 걸\n이야기해 주지 않겠어？\n",
+      "translation": "노아, 나도 부탁할게. 네가 알고 있는 걸\n이야기해 주지 않겠어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2231,7 +2231,7 @@
         "speaker": "1,0010201"
       },
       "original": "本当かい！？\nありがとう！\n",
-      "translation": "정말이야！？ 고마워！\n",
+      "translation": "정말이야!? 고마워!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2296,7 +2296,7 @@
         "speaker": "3,0030101"
       },
       "original": "とかなんとか言って、ホントはけっこう楽し\nかったんじゃない？\n",
-      "translation": "뭐라느니 뭐라느니 하면서, 사실은 꽤\n즐거웠던 거 아냐？\n",
+      "translation": "이러니저러니 해도, 사실은 꽤 즐거웠던 거\n아냐?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2335,7 +2335,7 @@
         "voice": "GB250191,3"
       },
       "original": "あ、待ってくれ。\nみんなにも聞いてもらいたいから、ブリッジ\nで話したいんだけど、いいかな？\n",
-      "translation": "아, 기다려 줘. 모두에게도 들려주고\n싶으니까, 브릿지에서 이야기하고 싶은데\n괜찮을까？\n",
+      "translation": "아, 기다려 줘. 모두에게도 들려주고\n싶으니까, 브릿지에서 이야기하고 싶은데\n괜찮을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2413,7 +2413,7 @@
         "speaker": "3,0030101"
       },
       "original": "ああいうタイプは、強引でもいいからこっち\nのペースに巻き込んで、一緒になって楽しん\nじゃえば、案外素直になるものよ。\n",
-      "translation": "저런 타입은, 강압적이어도 좋으니까 이쪽\n페이스에 휘말리게 해서, 함께 즐겨버리면\n의외로 솔직해지는 법이야.\n",
+      "translation": "저런 타입은, 좀 억지로라도 이쪽 페이스에\n끌어들여서 함께 즐기다 보면 의외로\n솔직해지는 법이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2426,7 +2426,7 @@
         "speaker": "1,0010102"
       },
       "original": "へぇー、お見それしました。\n",
-      "translation": "헤에～, 몰라뵀네요.\n",
+      "translation": "헤에ー, 몰라뵀네요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2556,7 +2556,7 @@
         "voice": "GB250200,3"
       },
       "original": "そうだろ、ランファ？\n",
-      "translation": "그렇지, 란파？\n",
+      "translation": "그렇지, 란파?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2595,7 +2595,7 @@
         "voice": "GB250302,3"
       },
       "original": "理屈が違う？　ロジックが違う？\nそんな言葉、愛の前にはなんの意味もないわ。\n",
-      "translation": "이치가 달라？ 로직이 달라？ 그런 말은,\n사랑 앞에서는 아무런 의미도 없어.\n",
+      "translation": "이치가 달라? 로직이 달라? 그런 말은,\n사랑 앞에서는 아무런 의미도 없어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2608,7 +2608,7 @@
         "speaker": "3,0030101"
       },
       "original": "だって、想いは……愛は、すべてを越えるん\nだもの！\n",
-      "translation": "그치만, 마음은…… 사랑은, 모든 것을\n뛰어넘는걸！\n",
+      "translation": "그치만, 마음은…… 사랑은, 모든 것을\n뛰어넘는걸!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2634,7 +2634,7 @@
         "voice": "GB250305,3"
       },
       "original": "そうやって、アタシとタクトは、戦ってきた\nんだもの。\nだから、大丈夫！\n",
-      "translation": "그렇게 해서, 아타시와 택트는, 싸워온걸.\n그러니까, 괜찮아！\n",
+      "translation": "그렇게 해서, 나와 택트는, 싸워온걸.\n그러니까, 괜찮아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2647,7 +2647,7 @@
         "speaker": "3,0030101"
       },
       "original": "任せといて！\nアタシがいるからには、タクトには指一本触\nれさせないわ。\n",
-      "translation": "맡겨둬！ 아타시가 있는 한은, 택트에게\n손가락 하나 대지 못하게 할 테니까.\n",
+      "translation": "맡겨둬! 내가 있는 한은, 택트에게\n손가락 하나 대지 못하게 할 테니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2660,7 +2660,7 @@
         "voice": "GB250401,3"
       },
       "original": "アタシたちの愛をじゃまする者は、敵も味方\nも、ぺぺぺのぺーよ。\n",
-      "translation": "아타시들의 사랑을 방해하는 자는, 적도\n아군도, 뻬뻬뻬의 뻬요.\n",
+      "translation": "우리들의 사랑을 방해하는 자는, 적도\n아군도, 뻬뻬뻬의 뻬요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2673,7 +2673,7 @@
         "voice": "GB250402,3"
       },
       "original": "え～、それだと味方もやっつけることになっ\nちゃうよ？\n",
-      "translation": "에～, 그러면 아군도 해치우게 되는\n거잖아？\n",
+      "translation": "에～, 그러면 아군도 해치우게 되는\n거잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2725,7 +2725,7 @@
         "face": "0,0030802,0"
       },
       "original": "あれっ、そうだったかしら？\n",
-      "translation": "어라, 그랬던가？\n",
+      "translation": "어라, 그랬던가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2751,7 +2751,7 @@
         "speaker": "107,1070101"
       },
       "original": "それは……ちょっと問題があるのではないで\nしょうか？\n",
-      "translation": "그건…… 조금 문제가 있는 것 아닌가요？\n",
+      "translation": "그건…… 조금 문제가 있는 것 아닌가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2777,7 +2777,7 @@
         "face": "0,0030202,0"
       },
       "original": "よしよし、大丈夫だからね。\nオレがついてるよ。\n",
-      "translation": "착하지 착해, 괜찮으니까 말이야. 내가\n곁에 있어 줄게.\n",
+      "translation": "그래, 그래. 괜찮으니까 말이야. 내가 곁에\n있어 줄게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2894,7 +2894,7 @@
         "face": "0040202,0,0050103"
       },
       "original": "ところで、すっかり忘れていましたが、『白\nき月』に戻らなくてよろしいんですの？\n",
-      "translation": "그건 그렇고, 완전히 잊고 있었습니다만,\n『백색 달』로 돌아가지 않아도\n괜찮으신가요？\n",
+      "translation": "그건 그렇고, 완전히 잊고 있었습니다만,\n『백색 달』로 돌아가지 않아도\n괜찮으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2920,7 +2920,7 @@
         "voice": "GB250418,3"
       },
       "original": "そうだな。\nよし、これより『白き月』に帰還する！\n",
-      "translation": "그렇군. 좋아, 지금부터 『백색 달』로\n귀환한다！\n",
+      "translation": "그렇군. 좋아, 지금부터 『백색 달』로\n귀환한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2933,7 +2933,7 @@
         "speaker": "2,0020101"
       },
       "original": "ねぇランファ、本当にあたしのこと攻撃しちゃ\nイヤだからね？\n",
-      "translation": "있지 란파, 정말로 나를 공격하면 안\n된다구？\n",
+      "translation": "있지 란파, 정말로 나를 공격하면 안\n된다구?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2946,7 +2946,7 @@
         "speaker": "3,0030101"
       },
       "original": "え、なにが？\n",
-      "translation": "에, 뭐가？\n",
+      "translation": "에, 뭐가?\n",
       "state": "draft",
       "use_translation": true
     },

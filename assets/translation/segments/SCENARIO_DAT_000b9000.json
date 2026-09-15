@@ -81,7 +81,7 @@
         "speaker": "7,0070101"
       },
       "original": "以上だ。\nどうする、タクト？\n",
-      "translation": "이상이다. 어떻게 할 거지, 택트？\n",
+      "translation": "이상이다. 어떻게 할 거지, 택트?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -133,7 +133,7 @@
         "speaker": "1,0010101"
       },
       "original": "ああ、わかってる。\n彼女にとって、これが初の実戦だ。\nオレたちでフォローしよう。\n",
-      "translation": "아아, 알고 있어. 그녀에게 있어서 이게 첫\n실전이다. 우리들이 서포트하자.\n",
+      "translation": "아아, 알고 있어. 그녀에게는 이게 첫\n실전이다. 우리가 도와주자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -158,7 +158,7 @@
         "speaker": "999,0"
       },
       "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×３\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　タクト艦の破壊\n　タイムオーバー\n",
-      "translation": "～적 부대\n편성～구축함×５　　　　　　순양함×３～\n승리 조건～적 함대의 전멸～패배\n조건～택트 함의 파괴, 타임 오버\n",
+      "translation": "～적 부대 편성～\n　구축함×5　　　　　　순양함×3\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　택트 함의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -171,7 +171,7 @@
         "face": "0,0070101,0"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번 작전 내용을 확인할까？\n",
+      "translation": "다시 한번 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -184,7 +184,7 @@
         "face": "0,0070101,0"
       },
       "original": "そうだなぁ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -210,7 +210,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\n烏丸少尉も、準備はいいね？\n",
-      "translation": "아니, 그럴 필요는 없다. 카라스마 소위도\n준비는 됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 카라스마 소위도\n준비는 됐나?\n",
       "state": "draft",
       "use_translation": true
     },

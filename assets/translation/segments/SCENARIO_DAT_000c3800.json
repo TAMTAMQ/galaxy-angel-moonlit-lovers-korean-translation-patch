@@ -14,7 +14,7 @@
         "speaker": "1,0010201"
       },
       "original": "いよう、みんな。\n調子はどうだい？\n",
-      "translation": "안녕, 모두들. 상태는 좀 어때？\n",
+      "translation": "안녕, 모두들. 상태는 좀 어때?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -27,7 +27,7 @@
         "voice": "GB620800,3"
       },
       "original": "どうしたんだ？\nなんだか、やけに明るいな。\n",
-      "translation": "왜 그래？ 왠지 엄청 밝은데.\n",
+      "translation": "왜 그래? 왠지 엄청 밝은데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -40,7 +40,7 @@
         "voice": "GB620800,3"
       },
       "original": "そうかい？\nオレはいつも艦内の雰囲気を明るくするため\nにこうして働いてるじゃないか。\n",
-      "translation": "그런가？ 난 언제나 함내 분위기를 밝게\n만들기 위해 이렇게 일하고 있잖아.\n",
+      "translation": "그런가? 난 언제나 함내 분위기를 밝게\n만들기 위해 이렇게 일하고 있잖아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -66,7 +66,7 @@
         "voice": "GB620802,3"
       },
       "original": "あー。\n司令はもしかして……。\n",
-      "translation": "아～. 사령님 혹시…….\n",
+      "translation": "아ー. 사령관, 혹시…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -79,7 +79,7 @@
         "voice": "GB620803,3"
       },
       "original": "ココ、なぁに？\nどうしたの？\n",
-      "translation": "코코, 왜 그래？ 무슨 일이야？\n",
+      "translation": "코코, 왜 그래? 무슨 일이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -92,7 +92,7 @@
         "voice": "GB620804,3"
       },
       "original": "ほら、今日の見回りはちとせさんが一緒じゃ\nないでしょ？\n",
-      "translation": "봐봐, 오늘 순찰은 치토세 씨가 같이 안\n있잖아？\n",
+      "translation": "봐봐, 오늘 순찰은 치토세 씨가 같이 안\n있잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -118,7 +118,7 @@
         "voice": "GB620807,3"
       },
       "original": "ああー。\nなるほどー。\nマイヤーズ司令、かわいそう……。\n",
-      "translation": "아아～. 그렇구나～. 마이어스 사령님,\n불쌍해…….\n",
+      "translation": "아아ー. 그렇구나ー. 마이어스 사령관,\n불쌍해…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -170,7 +170,7 @@
         "speaker": "17,0170101"
       },
       "original": "それで、ちとせさんはどうしたんですか？\n",
-      "translation": "그래서, 치토세 씨는 어떻게 된 건가요？\n",
+      "translation": "그래서, 치토세 씨는 어떻게 된 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -222,7 +222,7 @@
         "face": "0,0070501,0"
       },
       "original": "ううむ。\n俺には特に変わりないように思えたが……。\n",
-      "translation": "으음. 나에게는 딱히 변함없는 것처럼\n보였습니다만…….\n",
+      "translation": "으음. 내가 보기엔 딱히 달라진 게 없는 것\n같았습니다만…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -235,7 +235,7 @@
         "face": "0170101,0,0"
       },
       "original": "変わりないってことはないですよ。\n司令、何か思い当たることってあるんですか？\n",
-      "translation": "변함없을 리가 없잖아요. 사령님, 뭐 짐작\n가는 거라도 있으신가요？\n",
+      "translation": "변함없을 리가 없잖아요. 사령관, 뭐 짐작\n가는 거라도 있으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -274,7 +274,7 @@
         "speaker": "7,0070101"
       },
       "original": "いいのか、そんなこと言って。\nお前は艦内の雰囲気を明るくするために働い\nてるんだったな？\n",
-      "translation": "그런 말을 해도 괜찮은 건가. 너는 함내\n분위기를 밝게 만들기 위해 일하고\n있었지？\n",
+      "translation": "그런 말을 해도 괜찮은 건가. 너는 함내\n분위기를 밝게 만들기 위해 일하고\n있었지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -326,7 +326,7 @@
         "face": "0,0,0030802"
       },
       "original": "あ、タクト！\n",
-      "translation": "아, 택트！\n",
+      "translation": "아, 택트!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -339,7 +339,7 @@
         "face": "0020901,0,-1"
       },
       "original": "タクトさん！\n",
-      "translation": "택트 씨！\n",
+      "translation": "택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -352,7 +352,7 @@
         "voice": "GB620901,3"
       },
       "original": "みんな揃って、何をしてたんだい？\n",
-      "translation": "다들 모여서, 뭘 하고 있었던 거야？\n",
+      "translation": "다들 모여서, 뭘 하고 있었던 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -378,7 +378,7 @@
         "speaker": "1,0010102"
       },
       "original": "ちとせを喜ばせる方法？\n",
-      "translation": "치토세를 기쁘게 할 방법？\n",
+      "translation": "치토세를 기쁘게 할 방법?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -469,7 +469,7 @@
         "speaker": "1,0010105"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -482,7 +482,7 @@
         "face": "0020901,0,-1"
       },
       "original": "……タクトさん？\n",
-      "translation": "……택트 씨？\n",
+      "translation": "……택트 씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -495,7 +495,7 @@
         "speaker": "1,0010105"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -508,7 +508,7 @@
         "face": "0020901,0,-1"
       },
       "original": "それで、どうやってちとせを喜ばせるかは、\nいいアイデアを思いついたのかい？\n",
-      "translation": "그래서, 어떻게 치토세를 기쁘게 해줄지에\n대해서 좋은 아이디어는 떠올랐니？\n",
+      "translation": "그래서, 어떻게 치토세를 기쁘게 해줄지에\n대해서 좋은 아이디어는 떠올랐니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -521,7 +521,7 @@
         "speaker": "3,0030101"
       },
       "original": "ぜーんぜん。\nなかなか思いつかなくって困ってるの。\n",
-      "translation": "전～혀. 좀처럼 생각이 안 나서 곤란해하고\n있어.\n",
+      "translation": "전ー혀. 좀처럼 생각이 안 나서 곤란해하고\n있어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -534,7 +534,7 @@
         "voice": "GB620910,3"
       },
       "original": "そうだ！\nおいしいプリンを作るのはどうかな？\n",
-      "translation": "맞아！ 맛있는 푸딩을 만드는 건 어떨까？\n",
+      "translation": "맞아! 맛있는 푸딩을 만드는 건 어떨까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -547,7 +547,7 @@
         "speaker": "3,0030101"
       },
       "original": "ミルフィー……。\nそれは、さっきのカップケーキのアイデアと\nぜんぜん変わんないでしょ？\n",
-      "translation": "밀피……. 그건 아까 컵케이크 아이디어랑\n전혀 다를 게 없잖아？\n",
+      "translation": "밀피……. 그건 아까 컵케이크 아이디어랑\n전혀 다를 게 없잖아?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -573,7 +573,7 @@
         "speaker": "3,0030101"
       },
       "original": "あーあ。\nちとせを喜ばせるだけなのに、どうしてこん\nなに大変なの？\n",
-      "translation": "아아-아. 치토세를 기쁘게 해줄 뿐인데, 왜\n이렇게 힘든 거야？\n",
+      "translation": "아ー아. 치토세를 기쁘게 해줄 뿐인데, 왜\n이렇게 힘든 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -586,7 +586,7 @@
         "speaker": "3,0030101"
       },
       "original": "よーし、こうなったらアタシの占いで……！\n",
-      "translation": "좋아, 이렇게 된 이상 내 점으로……！\n",
+      "translation": "좋아, 이렇게 된 이상 내 점으로……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -599,7 +599,7 @@
         "face": "0060101,0,-1"
       },
       "original": "ランファさん……そのアイデアはこれで４回\n目です。\n",
-      "translation": "란파 씨…… 그 아이디어는 벌써\n４번째예요.\n",
+      "translation": "란파 씨…… 그 아이디어, 벌써 4번째예요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -625,7 +625,7 @@
         "face": "0,0030401,0"
       },
       "original": "あーもうっ！\nタクト、アンタも何か考えなさいよ！\n",
-      "translation": "아 정말！ 택트, 너도 뭔가 생각해 봐！\n",
+      "translation": "아 정말! 택트, 너도 뭔가 생각해 봐!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -703,7 +703,7 @@
         "speaker": "3,0030101"
       },
       "original": "うん、まかせといて！\n",
-      "translation": "응, 맡겨줘！\n",
+      "translation": "응, 맡겨줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -729,7 +729,7 @@
         "voice": "GB621101,3"
       },
       "original": "あ、タクトさん！\n",
-      "translation": "아, 택트 씨！\n",
+      "translation": "아, 택트 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -742,7 +742,7 @@
         "face": "0,0020902,0"
       },
       "original": "やぁ、ミルフィー。\n買い物かい？\n",
-      "translation": "안녕, 밀피. 쇼핑 중이니？\n",
+      "translation": "안녕, 밀피. 쇼핑 중이니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -768,7 +768,7 @@
         "speaker": "1,0010101"
       },
       "original": "うまそうだなぁ。\nでも、一度にふたつも食べるのかい？\n",
-      "translation": "맛있겠구나. 그런데, 한 번에 두 개나 먹는\n거니？\n",
+      "translation": "맛있겠구나. 그런데, 한 번에 두 개나 먹는\n거니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -794,7 +794,7 @@
         "voice": "GB621103,3"
       },
       "original": "なるほどね。\nそれで、そのちとせは今どこにいるんだい？\n",
-      "translation": "그렇군. 그래서, 그 치토세는 지금 어디에\n있는 거지？\n",
+      "translation": "그렇군. 그래서, 그 치토세는 지금 어디에\n있는 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -833,7 +833,7 @@
         "voice": "GB621104,3"
       },
       "original": "でも、先にソフトクリームは買っちゃったん\nだよね？\nということは……。\n",
-      "translation": "그렇지만, 먼저 소프트크림은 사버린\n거지？ 그렇다는 건…….\n",
+      "translation": "그렇지만, 먼저 소프트크림은 사버린\n거지? 그렇다는 건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -846,7 +846,7 @@
         "face": "0,0020202,0"
       },
       "original": "あれ？\nランファ、自分の部屋の前で何してるんだろ？\n",
-      "translation": "어라？ 란파, 자기 방 앞에서 뭘 하고 있는\n걸까？\n",
+      "translation": "어라? 란파, 자기 방 앞에서 뭘 하고 있는\n걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -859,7 +859,7 @@
         "face": "0,0020202,0"
       },
       "original": "おーい、ランファ。\nそんなところで何してるんだい？\n",
-      "translation": "이봐, 란파. 그런 곳에서 뭘 하고 있는\n거야？\n",
+      "translation": "이봐, 란파. 그런 곳에서 뭘 하고 있는\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -872,7 +872,7 @@
         "face": "0,0030802,0"
       },
       "original": "あ、タクト。\nちょうどよかった！\n",
-      "translation": "아, 택트. 마침 잘 됐다！\n",
+      "translation": "아, 택트. 마침 잘 됐다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -885,7 +885,7 @@
         "speaker": "3,0030101"
       },
       "original": "荷物で両手がふさがっちゃって、ドアが開け\nられないのよ。\nちょっとこれ持って！\n",
-      "translation": "짐 때문에 양손이 막혀서 문을 열 수가\n없어. 이것 좀 들어줘！\n",
+      "translation": "짐 때문에 양손이 막혀서 문을 열 수가\n없어. 이것 좀 들어줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -937,7 +937,7 @@
         "face": "0,0030804,0"
       },
       "original": "こんな大荷物、いったいどうしたんだい？\n",
-      "translation": "이런 큰 짐은 대체 뭐야？\n",
+      "translation": "이런 큰 짐은 대체 뭐야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -963,7 +963,7 @@
         "voice": "GB621203,3"
       },
       "original": "まとめ買い？\n",
-      "translation": "대량 구매？\n",
+      "translation": "대량 구매?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -989,7 +989,7 @@
         "voice": "GB621204,3"
       },
       "original": "タオル……って、これ全部！？\nこんなにたくさん、いったい何枚あるんだ？\n",
-      "translation": "수건……이라니, 이거 전부！？ 이렇게나\n많이, 대체 몇 장이나 있는 거야？\n",
+      "translation": "수건……이라니, 이거 전부!? 이렇게나\n많이, 대체 몇 장이나 있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1002,7 +1002,7 @@
         "voice": "GB621205,3"
       },
       "original": "全部で２５６枚だったかしら？\nどうせいつかはまた買い足すんだし、１枚あ\nたりの値段で考えれば激安よ。\n",
-      "translation": "전부 해서 ２５６장이었나？ 어차피\n언젠가는 다시 더 사게 될 테니까, 한 장당\n가격으로 치면 엄청 싸.\n",
+      "translation": "전부 해서 256장이었나? 어차피 언젠가는\n다시 더 사게 될 테니까, 한 장당 가격으로\n치면 엄청 싸.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1015,7 +1015,7 @@
         "speaker": "1,0010105"
       },
       "original": "そ、そういうものなのか……？\n",
-      "translation": "그, 그런 건가……？\n",
+      "translation": "그, 그런 건가……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1028,7 +1028,7 @@
         "speaker": "3,0030101"
       },
       "original": "ところでタクト、ちとせのこと、どう思う？\n",
-      "translation": "그런데 택트, 치토세에 대해서 어떻게\n생각해？\n",
+      "translation": "그런데 택트, 치토세에 대해서 어떻게\n생각해?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1041,7 +1041,7 @@
         "voice": "GB621206,3"
       },
       "original": "どう思うって？\n",
-      "translation": "어떻게 생각하냐니？\n",
+      "translation": "어떻게 생각하냐니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1054,7 +1054,7 @@
         "speaker": "3,0030101"
       },
       "original": "ほら、アンタ司令官でしょ？\nタクトから見て、ちとせは新人としてどうな\nのかなって思って。\n",
-      "translation": "있잖아, 당신 사령관이잖아？ 택트가\n보기에 치토세는 신인으로서 어떤지\n궁금해서.\n",
+      "translation": "있잖아, 너 사령관이잖아? 택트가 보기에\n치토세는 신인으로서 어떤지 궁금해서.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1106,7 +1106,7 @@
         "face": "0,0030201,0"
       },
       "original": "そうだなあ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1119,7 +1119,7 @@
         "voice": "GB621209,3"
       },
       "original": "部屋まで来てしまったけど、ちとせはいるの\nかな？\n",
-      "translation": "방까지 와 버렸는데, 치토세는 있을까？\n",
+      "translation": "방까지 와 버렸는데, 치토세는 있을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1132,7 +1132,7 @@
         "speaker": "1,0010101"
       },
       "original": "ちとせ、いるかい？\n",
-      "translation": "치토세, 있니？\n",
+      "translation": "치토세, 있니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1145,7 +1145,7 @@
         "voice": "GB621209,3"
       },
       "original": "ちとせ？\nおーい。\n",
-      "translation": "치토세？ 어이.\n",
+      "translation": "치토세? 어이.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1171,7 +1171,7 @@
         "voice": "GB621300,3"
       },
       "original": "タクトさん……どうなさったのですか？\n",
-      "translation": "택트 씨…… 무슨 일이신가요？\n",
+      "translation": "택트 씨…… 무슨 일이신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1184,7 +1184,7 @@
         "voice": "GB621300,3"
       },
       "original": "やぁヴァニラ、ちとせを探してるんだけど、\nどこかで見なかったかい？\n",
-      "translation": "안녕 바닐라, 치토세를 찾고 있는데 어디서\n보지 못했나？\n",
+      "translation": "안녕 바닐라, 치토세를 찾고 있는데 어디서\n보지 못했나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1262,7 +1262,7 @@
         "voice": "GB621401,3"
       },
       "original": "あら、マイヤーズ司令。\n見回り？\n",
-      "translation": "어머, 마이어스 사령관님. 순찰인가요？\n",
+      "translation": "어머, 마이어스 사령관. 순찰인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1288,7 +1288,7 @@
         "voice": "GB621402,3"
       },
       "original": "なぁに？\n",
-      "translation": "왜 그러시죠？\n",
+      "translation": "왜 그러시죠?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1301,7 +1301,7 @@
         "voice": "GB621402,3"
       },
       "original": "新人隊員のちとせから、何か相談を受けたり\nしました？\n",
-      "translation": "신입 대원인 치토세로부터 뭔가 상담을\n받은 적이 있습니까？\n",
+      "translation": "신입 대원인 치토세로부터 뭔가 상담을\n받은 적이 있습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1314,7 +1314,7 @@
         "voice": "GB621403,3"
       },
       "original": "いいえ。\n別にそういうことはなかったけど……。\n彼女、どうかしたの？\n",
-      "translation": "아니요. 딱히 그런 일은 없었지만…….\n그녀, 무슨 일 있어？\n",
+      "translation": "아니요. 딱히 그런 일은 없었지만…….\n그녀, 무슨 일 있어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1366,7 +1366,7 @@
         "voice": "GB621405,3"
       },
       "original": "なるほどね。\nそれで、もしも彼女が私のところに相談に来\nたら、私はどうしたらいいのかしら？\n",
-      "translation": "그렇구나. 그래서, 만약 그녀가 나에게\n상담하러 온다면, 나는 어떻게 하면\n좋을까？\n",
+      "translation": "그렇구나. 그래서, 만약 그녀가 나에게\n상담하러 온다면, 나는 어떻게 하면\n좋을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1431,7 +1431,7 @@
         "voice": "GB621501,3"
       },
       "original": "はい。\nなんでしょう？\n",
-      "translation": "네. 무엇인가요？\n",
+      "translation": "네. 무엇인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1444,7 +1444,7 @@
         "speaker": "1,0010401"
       },
       "original": "実は、ちとせの調子が良くないみたいなんだ。\nオレに何かしてやれることはないかな？\n",
-      "translation": "사실, 치토세의 상태가 좋지 않은 것 같아.\n내가 해줄 수 있는 일은 없을까？\n",
+      "translation": "사실, 치토세의 상태가 좋지 않은 것 같아.\n내가 해줄 수 있는 일은 없을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1470,7 +1470,7 @@
         "speaker": "1,0010101"
       },
       "original": "………………。\n",
-      "translation": "………………。\n",
+      "translation": "……………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1496,7 +1496,7 @@
         "face": "0,0080101,0"
       },
       "original": "オレの……力？\n",
-      "translation": "내…… 힘？\n",
+      "translation": "내…… 힘?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1548,7 +1548,7 @@
         "voice": "GB621506,3"
       },
       "original": "はぁ、はぁ……。\nマイヤーズ司令、見回りですか？\n",
-      "translation": "하아, 하아……. 마이어스 사령관님,\n순찰이신가요？\n",
+      "translation": "하아, 하아……. 마이어스 사령관,\n순찰이신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1561,7 +1561,7 @@
         "speaker": "1,0010103"
       },
       "original": "ああ。\nついでにちょっとクロミエと話を……って、\nクロミエがいなくなってる！\n",
-      "translation": "아아. 겸사겸사 잠깐 크로미에와\n이야기를…… 어라, 크로미에가 없어졌어！\n",
+      "translation": "아아. 겸사겸사 잠깐 크로미에와\n이야기를…… 어라, 크로미에가 없어졌어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1574,7 +1574,7 @@
         "face": "0,1070205,0"
       },
       "original": "ふふふっ。\nクロミエさんとは、大事なお話の途中だった\nんですか？\n",
-      "translation": "후후훗. 크로미에 씨와는 중요한 이야기를\n나누던 중이었나요？\n",
+      "translation": "후후훗. 크로미에 씨와는 중요한 이야기를\n나누던 중이었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1587,7 +1587,7 @@
         "face": "0,1070205,0"
       },
       "original": "まあ、大事というか、大丈夫というか……。\nちとせは、ここで何を？\n",
-      "translation": "뭐, 중요하다고 해야 할지, 괜찮다고 해야\n할지……. 치토세는 여기서 뭘？\n",
+      "translation": "뭐, 중요하다고 해야 할지, 괜찮다고 해야\n할지……. 치토세는 여기서 뭘?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1613,7 +1613,7 @@
         "voice": "GB621508,3"
       },
       "original": "そうか。\nじゃあ、クロミエはちとせがここにいること\nを知っていたんだね？\n",
-      "translation": "그런가. 그럼, 크로미에는 치토세가 여기에\n있다는 걸 알고 있었던 거네？\n",
+      "translation": "그런가. 그럼, 크로미에는 치토세가 여기에\n있다는 걸 알고 있었던 거네?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1626,7 +1626,7 @@
         "face": "0,1070201,0"
       },
       "original": "はい……？\nもちろん、ご存じだったと思います。\n",
-      "translation": "예……？ 물론, 알고 계셨을 거라고\n생각합니다.\n",
+      "translation": "예……? 물론, 알고 계셨을 거라고\n생각합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1652,7 +1652,7 @@
         "face": "0,1070201,0"
       },
       "original": "マイヤーズ司令、どうかしましたか？\n",
-      "translation": "마이어스 사령관님, 무슨 일 있으신가요？\n",
+      "translation": "마이어스 사령관, 무슨 일 있으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1704,7 +1704,7 @@
         "speaker": "107,1070101"
       },
       "original": "あっ、マイヤーズ司令。\n",
-      "translation": "앗, 마이어스 사령관님.\n",
+      "translation": "앗, 마이어스 사령관.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1717,7 +1717,7 @@
         "voice": "GB621600,3"
       },
       "original": "やぁ、ちとせ。\nトレーニング中かい？\n",
-      "translation": "안녕, 치토세. 트레이닝 중인가？\n",
+      "translation": "안녕, 치토세. 트레이닝 중인가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1743,7 +1743,7 @@
         "voice": "GB621601,3"
       },
       "original": "もしかして、ちとせもランファみたいに、蹴\nりや突きの練習をするの？\n",
-      "translation": "혹시 치토세도 란파처럼 발차기나 찌르기\n연습을 하는 거야？\n",
+      "translation": "혹시 치토세도 란파처럼 발차기나 찌르기\n연습을 하는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1756,7 +1756,7 @@
         "speaker": "107,1070101"
       },
       "original": "いえ、そういう練習はしていません。\nそれとも、やったほうがいいのでしょうか？\n",
-      "translation": "아니요, 그런 연습은 하고 있지 않습니다.\n아니면, 하는 편이 좋을까요？\n",
+      "translation": "아니요, 그런 연습은 하고 있지 않습니다.\n아니면, 하는 편이 좋을까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1782,7 +1782,7 @@
         "speaker": "1,0010101"
       },
       "original": "ちとせ、オレに何か手伝えることはないかい？\n",
-      "translation": "치토세, 내가 도와줄 일은 없을까？\n",
+      "translation": "치토세, 내가 도와줄 일은 없을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1795,7 +1795,7 @@
         "face": "0,1070306,0"
       },
       "original": "そんな、マイヤーズ司令にお手伝いをお願い\nするなんて……。\n",
-      "translation": "설마, 마이어스 사령관님께 도움을\n부탁드리다니…….\n",
+      "translation": "설마, 마이어스 사령관께 도움을\n부탁드리다니…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1847,7 +1847,7 @@
         "speaker": "107,1070101"
       },
       "original": "でしたら、あの、私とトレーニングをご一緒\nしていただけませんか？\n",
-      "translation": "그렇다면, 저기, 저와 트레이닝을 함께해\n주시지 않겠습니까？\n",
+      "translation": "그렇다면, 저기, 저와 트레이닝을 함께해\n주시지 않겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1860,7 +1860,7 @@
         "speaker": "1,0010102"
       },
       "original": "え？\n一緒に筋トレとか？\n",
-      "translation": "어？ 같이 근력 운동이라도？\n",
+      "translation": "어? 같이 근력 운동이라도?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1873,7 +1873,7 @@
         "voice": "GB621606,3"
       },
       "original": "はい。\nだめ……ですか？\n",
-      "translation": "네. 안... 되나요？\n",
+      "translation": "네. 안…… 되나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1925,7 +1925,7 @@
         "voice": "GB621607,3"
       },
       "original": "はぁ、はぁ、はぁ……ほんとに運動不足だ。\nちょっと休憩。\n",
-      "translation": "하아, 하아, 하아…… 정말 운동 부족다.\n잠깐 휴식.\n",
+      "translation": "하아, 하아, 하아…… 정말 운동 부족이다.\n잠깐 휴식.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1938,7 +1938,7 @@
         "voice": "GB621608,3"
       },
       "original": "マイヤーズ司令、始めたばかりでもう休憩で\nすか？\n",
-      "translation": "마이어스 사령관님, 시작한 지 얼마 되지도\n않았는데 벌써 휴식인가요？\n",
+      "translation": "마이어스 사령관, 시작한 지 얼마 되지도\n않았는데 벌써 휴식인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1964,7 +1964,7 @@
         "voice": "GB621609,3"
       },
       "original": "これでは、私よりもマイヤーズ司令のほうが\nトレーニングの必要があるみたいですね。\n",
-      "translation": "이래서는, 저보다 마이어스 사령관님이\n트레이닝을 더 해야 할 것 같네요.\n",
+      "translation": "이래서는, 저보다 마이어스 사령관이\n트레이닝을 더 해야 할 것 같네요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1990,7 +1990,7 @@
         "voice": "GB621609,3"
       },
       "original": "おっ、やってるな。\n６番……ちとせのシミュレーターが稼働中か。\n",
-      "translation": "오, 하고 있군. ６번…… 치토세의\n시뮬레이터가 가동 중인가.\n",
+      "translation": "오, 하고 있군. 6번…… 치토세의\n시뮬레이터가 가동 중인가.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2016,7 +2016,7 @@
         "speaker": "107,1070101"
       },
       "original": "ああっ！\nマ、マイヤーズ司令！\n……ご覧になってたんですか？\n",
-      "translation": "아앗！ 마, 마이어스 사령관님！ ……보고\n계셨던 건가요？\n",
+      "translation": "아앗! 마, 마이어스 사령관! ……보고\n계셨던 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2068,7 +2068,7 @@
         "face": "0,1070207,0"
       },
       "original": "それはどうかな？\n",
-      "translation": "그건 글쎄？\n",
+      "translation": "그건 글쎄?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2081,7 +2081,7 @@
         "voice": "GB621704,3"
       },
       "original": "えっ……？\n",
-      "translation": "엣……？\n",
+      "translation": "엣……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2094,7 +2094,7 @@
         "speaker": "1,0010101"
       },
       "original": "今のちとせは、少しずつ調子を取り戻してき\nているんじゃないか？\n",
-      "translation": "지금의 치토세는, 조금씩 컨디션을\n회복하고 있는 거 아닐까？\n",
+      "translation": "지금의 치토세는, 조금씩 컨디션을\n회복하고 있는 거 아닐까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2120,7 +2120,7 @@
         "voice": "GB621705,3"
       },
       "original": "自分の不調に落ち込んでいる間は、いつまで\nたっても調子を取り戻せないものさ。\n",
-      "translation": "자신의 불조절에 낙담하고 있는 동안에는,\n언제까지나 컨디션을 회복할 수 없는\n법이야.\n",
+      "translation": "자신의 컨디션 난조에 낙담하고 있는\n동안에는, 언제까지나 컨디션을 회복할 수\n없는 법이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2133,7 +2133,7 @@
         "voice": "GB621705,3"
       },
       "original": "自分の中の進歩から目をつむってちゃだめだ。\nもっと自分のことを素直に見つめるんだ。\n",
-      "translation": "자기 안의 진보로부터 눈을 감고 있으면 안\n돼. 좀 더 자신을 솔직하게 바라봐야 해.\n",
+      "translation": "자기 안의 발전을 외면하면 안 돼. 좀 더\n자신을 솔직하게 바라봐야 해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2198,7 +2198,7 @@
         "face": "0,1070102,0"
       },
       "original": "あ、マイヤーズ司令～。\nいらっしゃいませ～。\n",
-      "translation": "아, 마이어스 사령관님～. 어서 오세요～.\n",
+      "translation": "아, 마이어스 사령관～. 어서 오세요～.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2263,7 +2263,7 @@
         "voice": "GB425035,3"
       },
       "original": "一応聞いてみるけど、どんな商品があるの？\n",
-      "translation": "일단 들어는 보겠지만, 어떤 상품이 있는\n거야？\n",
+      "translation": "일단 들어는 보겠지만, 어떤 상품이 있는\n거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2289,7 +2289,7 @@
         "speaker": "1,0010105"
       },
       "original": "ちょ、ちょっと待った！\nなんで「淡いレモン味」ばっかりなのさ！？\n",
-      "translation": "잠, 잠깐 기다려！ 왜 「은은한 레몬\n맛」뿐인 거야！？\n",
+      "translation": "잠, 잠깐 기다려! 왜 「은은한 레몬\n맛」뿐인 거야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2302,7 +2302,7 @@
         "voice": "GB425037,3"
       },
       "original": "それが～、このキャンペーンのセールスポイ\nント、「伝説のＱシリーズ」なんです～。\n",
-      "translation": "그게～, 이번 캠페인의 세일즈 포인트인,\n「전설의 Ｑ 시리즈」랍니다～.\n",
+      "translation": "그게～, 이번 캠페인의 세일즈 포인트인,\n「전설의 Q 시리즈」랍니다～.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2315,7 +2315,7 @@
         "voice": "GB425037,3"
       },
       "original": "伝説のＱシリーズ？\n知らないなぁ。\n",
-      "translation": "전설의 Ｑ 시리즈？ 들어본 적 없는데.\n",
+      "translation": "전설의 Q 시리즈? 들어본 적 없는데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2339,7 +2339,7 @@
         "speaker": "1,0010105"
       },
       "original": "どんな筋だよ……。\nひょっとして、ほかにもシリーズがあるの？\n",
-      "translation": "그게 무슨 분야야……. 혹시 다른 시리즈도\n있는 거야？\n",
+      "translation": "그게 무슨 분야야……. 혹시 다른 시리즈도\n있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2423,7 +2423,7 @@
         "voice": "GBX425041,3"
       },
       "original": "まいどありがとうございます～。\n",
-      "translation": "매번 감사합니다～.\n",
+      "translation": "늘 감사합니다～.\n",
       "state": "draft",
       "use_translation": true
     }

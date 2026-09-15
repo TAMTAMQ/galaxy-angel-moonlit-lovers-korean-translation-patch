@@ -36,7 +36,7 @@
         "speaker": "1,0010102"
       },
       "original": "ん、誰か来た。\nはーい？\n",
-      "translation": "응, 누군가 왔다. 계세요～？\n",
+      "translation": "응, 누가 왔네. 네ー?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -48,7 +48,7 @@
         "voice": "GB350000,3"
       },
       "original": "タクトさん、入ってもよろしいですか？\n",
-      "translation": "택트 씨, 들어가도 될까요？\n",
+      "translation": "택트 씨, 들어가도 될까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -60,7 +60,7 @@
         "voice": "GB350000,3"
       },
       "original": "ミントかい？\nどうぞ？\n",
-      "translation": "민트니？ 들어오렴.\n",
+      "translation": "민트니? 들어오렴.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -112,7 +112,7 @@
         "face": "0,0040202,0"
       },
       "original": "いやあ、全然相手にしてもらえなかったよ。\nとりつくシマもないんだ。\n",
-      "translation": "아니, 전혀 상대도 안 해줬어. 대화할\n기미조차 없더라고.\n",
+      "translation": "아니, 전혀 상대도 안 해줬어. 말 붙일\n틈조차 없더라고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -177,7 +177,7 @@
         "face": "0,0040703,0"
       },
       "original": "話したくて仕方がないのに、周りにいるのは\n言葉がわからないおサルさんだらけ。\n……そんな感じでしたもの。\n",
-      "translation": "이야기하고 싶어 죽겠는데, 주변에 있는 건\n말을 못 알아듣는 원숭이들뿐이라니.\n……그런 느낌이었어요.\n",
+      "translation": "이야기하고 싶어 죽겠는데, 주변에 있는 건\n말을 못 알아듣는 원숭이 씨들뿐이라니.\n……그런 느낌이었어요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -190,7 +190,7 @@
         "face": "0,0040703,0"
       },
       "original": "うっ……。\nオレが話しかけても、サル山から１匹下りて\nきた、ってぐらいにしか思われてないのかな。\n",
-      "translation": "윽……. 내가 말을 걸어도, 원숭이 떼에서\n한 마리 내려온 정도라고밖에 생각 안 하는\n걸까.\n",
+      "translation": "윽……. 내가 말을 걸어도, 원숭이산에서\n한 마리 내려온 정도로밖에 생각 안 하는\n걸까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -216,7 +216,7 @@
         "speaker": "1,0010402"
       },
       "original": "はああ。\nいったい、どうしたら良いんだ……？\n",
-      "translation": "하아. 도대체 어떻게 해야 하는 거지……？\n",
+      "translation": "하아. 도대체 어떻게 해야 하는 거지……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -242,7 +242,7 @@
         "voice": "GB350007,3"
       },
       "original": "ミント？\n",
-      "translation": "민트？\n",
+      "translation": "민트?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -255,7 +255,7 @@
         "speaker": "4,0040101"
       },
       "original": "私が、ノアさんと話してみてはいけません？\n",
-      "translation": "제가, 노아 씨와 이야기해 보면 어떨까요？\n",
+      "translation": "제가, 노아 씨와 이야기해 보면 어떨까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -268,7 +268,7 @@
         "voice": "GB350008,3"
       },
       "original": "それは構わないけど……ミント、怒ってる？\n",
-      "translation": "그건 상관없지만…… 민트, 화났어？\n",
+      "translation": "그건 상관없지만…… 민트, 화났어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -281,7 +281,7 @@
         "speaker": "4,0040101"
       },
       "original": "あ……すみません。\n近親嫌悪というものですわ、たぶん。\n",
-      "translation": "아…… 죄송해요. 근친혐오라는 것이에요,\n아마도.\n",
+      "translation": "아…… 죄송해요. 동족혐오라는 것이에요,\n아마도.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -294,7 +294,7 @@
         "face": "0,0040202,0"
       },
       "original": "え？\n",
-      "translation": "에？\n",
+      "translation": "에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -320,7 +320,7 @@
         "voice": "GB350011,3"
       },
       "original": "ノアさん。\nちょっとよろしいですか？\n",
-      "translation": "노아 씨. 잠시 괜찮으신가요？\n",
+      "translation": "노아 씨. 잠시 괜찮으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -333,7 +333,7 @@
         "voice": "GB350012,3"
       },
       "original": "……なに？\n話をする気はないって言ったはずよ。\n",
-      "translation": "……뭐야？ 이야기할 생각은 없다고 말했을\n텐데.\n",
+      "translation": "……뭐야? 이야기할 생각은 없다고 말했을\n텐데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -346,7 +346,7 @@
         "voice": "GB350013,3"
       },
       "original": "なぜですか？\n",
-      "translation": "왜인가요？\n",
+      "translation": "왜인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -372,7 +372,7 @@
         "voice": "GB350015,3"
       },
       "original": "では、そうして閉じこもって黙っていること\nには、意味があるんですの？\n",
-      "translation": "그럼, 그렇게 틀어박혀서 침묵하고 있는\n것에는 의미가 있다는 건가요？\n",
+      "translation": "그럼, 그렇게 틀어박혀서 침묵하고 있는\n것에는 의미가 있다는 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -385,7 +385,7 @@
         "face": "0,0040102,0"
       },
       "original": "うるさいわね。\n話すだけムダだって言ってるのが、わからな\nいの？\n",
-      "translation": "시끄러워. 이야기해 봤자 헛수고라고\n말하는 게, 이해 안 돼？\n",
+      "translation": "시끄러워. 이야기해 봤자 헛수고라고\n말하는 게, 이해 안 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -411,7 +411,7 @@
         "face": "0,0040301,0"
       },
       "original": "ミント……？\nあ、あんまり怒らせちゃ……。\n",
-      "translation": "민트……？ 아, 너무 화나게 하면…….\n",
+      "translation": "민트……? 아, 너무 화나게 하면…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -424,7 +424,7 @@
         "speaker": "4,0040101"
       },
       "original": "タクトさん、ここは私に任せていただけませ\nんか？\n",
-      "translation": "택트 씨, 여기는 저에게 맡겨 주시지\n않겠습니까？\n",
+      "translation": "택트 씨, 여기는 저에게 맡겨 주시지\n않겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -437,7 +437,7 @@
         "voice": "GB350018,3"
       },
       "original": "え？\n",
-      "translation": "에？\n",
+      "translation": "에?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -463,7 +463,7 @@
         "face": "0,1080103,0"
       },
       "original": "ゴチャゴチャとうるさいわね！\nあんたみたいな末端の手足に何がわかるの\nよ。\n",
-      "translation": "이러쿵저러쿵 시끄럽네！ 너 같은 말단\n손발이 뭘 안다는 거야.\n",
+      "translation": "이러쿵저러쿵 시끄럽네! 너 같은 말단\n손발이 뭘 안다는 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -489,7 +489,7 @@
         "face": "0,0040101,0"
       },
       "original": "では、あなたは何者だというのです？\n",
-      "translation": "그럼, 당신은 누구라는 말입니까？\n",
+      "translation": "그럼, 당신은 누구라는 말입니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -515,7 +515,7 @@
         "face": "0,0040102,0"
       },
       "original": "その手足がどこにありまして？\n",
-      "translation": "그 손발이 어디에 있습니까？\n",
+      "translation": "그 손발이 어디에 있습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -541,7 +541,7 @@
         "voice": "GB350026,3"
       },
       "original": "どなたが、あなたの手足になりまして？\n",
-      "translation": "누가, 당신의 수족이 되어 주었나요？\n",
+      "translation": "누가, 당신의 수족이 되어 주었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -554,7 +554,7 @@
         "face": "0,1080103,0"
       },
       "original": "今は、そうかもしれないけど……！\n",
-      "translation": "지금은, 그럴지도 모르지만……！\n",
+      "translation": "지금은, 그럴지도 모르지만……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -593,7 +593,7 @@
         "speaker": "108,1080101"
       },
       "original": "言わせておけば……！\nあんたに何がわかるっていうの！？\n",
-      "translation": "말은 잘하는구나……！ 네가 뭘 안다는\n거야！？\n",
+      "translation": "듣자 듣자 하니까……! 네가 뭘 안다는\n거야!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -619,7 +619,7 @@
         "face": "0,1080103,0"
       },
       "original": "それなのに……あたしにどうしろっていうの\nよ！\n",
-      "translation": "그런데도…… 나보고 어쩌라는 거야！\n",
+      "translation": "그런데도…… 나보고 어쩌라는 거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -658,7 +658,7 @@
         "voice": "GB350035,3"
       },
       "original": "なんですって！？\n",
-      "translation": "뭐라고요！？\n",
+      "translation": "뭐라고요!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -671,7 +671,7 @@
         "voice": "GB350036,3"
       },
       "original": "そうやってすべてを拒絶して。\nひとりぼっちで、動けなくなってしまってい\nるんですわ。\n",
-      "translation": "그렇게 모든 것을 거부하고. 홀로\n남겨져서, 움직이지 못하게 되어버린\n거예요.\n",
+      "translation": "그렇게 모든 것을 거부하고. 혼자서\n꼼짝도 못 하게 되어버린 거예요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -697,7 +697,7 @@
         "face": "0,1080103,0"
       },
       "original": "わかったような口叩かないでよ！\n",
-      "translation": "다 아는 것처럼 말하지 마！\n",
+      "translation": "다 아는 것처럼 말하지 마!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -710,7 +710,7 @@
         "speaker": "4,0040101"
       },
       "original": "でも、なんにもできないのでしょう？\n……ひとりでは。\n",
-      "translation": "하지만, 아무것도 할 수 없는\n것이지요？…… 혼자서는.\n",
+      "translation": "하지만, 아무것도 할 수 없는\n것이지요?…… 혼자서는.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -723,7 +723,7 @@
         "speaker": "4,0040101"
       },
       "original": "それとも、ただ怠惰なだけなんですの？\n",
-      "translation": "아니면, 그저 게으른 것뿐인가요？\n",
+      "translation": "아니면, 그저 게으른 것뿐인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -736,7 +736,7 @@
         "voice": "GB350041,3"
       },
       "original": "……できるならやってるわよ！\n",
-      "translation": "……할 수 있다면 하고 있어！\n",
+      "translation": "……할 수 있다면 하고 있어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -749,7 +749,7 @@
         "voice": "GB350042,3"
       },
       "original": "じゃあ、やりましょう。\n",
-      "translation": "그럼, 시작하죠.\n",
+      "translation": "그럼, 해봅시다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -762,7 +762,7 @@
         "face": "0,1080205,0"
       },
       "original": "な……！\n軽々しく言わないでよ！\n",
-      "translation": "뭐……！ 함부로 말하지 마！\n",
+      "translation": "뭐……! 함부로 말하지 마!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -801,7 +801,7 @@
         "face": "0,1080205,0"
       },
       "original": "友人……？\n",
-      "translation": "친구……？\n",
+      "translation": "친구……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -814,7 +814,7 @@
         "speaker": "108,1080101"
       },
       "original": "それこそ、お笑いぐさだわ。\nあんたたちがなんの役に立つって言うの？\n",
-      "translation": "그거야말로, 웃음거리네. 당신들이 무슨\n도움이 된다는 거야？\n",
+      "translation": "그거야말로, 웃음거리네. 당신들이 무슨\n도움이 된다는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -827,7 +827,7 @@
         "face": "0,0040706,0"
       },
       "original": "あら、話を聞いてもらうだけでも、気持ちが\n軽くなることはありますわよ？\n",
-      "translation": "어머, 이야기를 들어주는 것만으로도\n마음이 가벼워질 때가 있답니다？\n",
+      "translation": "어머, 이야기를 들어주는 것만으로도\n마음이 가벼워질 때가 있답니다?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -840,7 +840,7 @@
         "voice": "GB350049,3"
       },
       "original": "気持ちが……軽く？\nなによ、それ？\n",
-      "translation": "기분이…… 가볍다고？ 뭐야, 그게？\n",
+      "translation": "마음이…… 가벼워진다고? 뭐야, 그게?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -853,7 +853,7 @@
         "face": "0,1080103,0"
       },
       "original": "あたし自身の気持ちなんて、どうだっていい\nの！\n問題は、『白き月』と『黒き月』の……！\n",
-      "translation": "내 기분 따위는 어떻게 돼도 상관없어！\n문제는, 『백색 달』과 『흑색\n달』의……！\n",
+      "translation": "내 기분 따위는 어떻게 돼도 상관없어!\n문제는, 『백색 달』과 『흑색\n달』의……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -879,7 +879,7 @@
         "voice": "GB350052,3"
       },
       "original": "だから、友人だなんて勝手に決めないで！\nあたしは認めないわよ！\n",
-      "translation": "그러니까, 친구라니 멋대로 정하지 마！ 난\n인정 안 할 거야！\n",
+      "translation": "그러니까, 친구라니 멋대로 정하지 마! 난\n인정 안 할 거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -905,7 +905,7 @@
         "speaker": "108,1080101"
       },
       "original": "……なに？\nこの真っ赤っかなの。\n",
-      "translation": "……뭐야？ 이 새빨간 건.\n",
+      "translation": "……뭐야? 이 새빨간 건.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -918,7 +918,7 @@
         "speaker": "4,0040101"
       },
       "original": "あんずアメですわ。\n",
-      "translation": "사탕이에요.\n",
+      "translation": "살구 사탕이에요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -931,7 +931,7 @@
         "voice": "GB350056,3"
       },
       "original": "アメ……？\n食べ物なの？\n",
-      "translation": "사탕……？ 먹는 거야？\n",
+      "translation": "사탕……? 먹는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1061,7 +1061,7 @@
         "speaker": "4,0040101"
       },
       "original": "理解できないから面白いんじゃありません？\n",
-      "translation": "이해할 수 없으니까 재미있는 거\n아닌가요？\n",
+      "translation": "이해할 수 없으니까 재미있는 거\n아닌가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1074,7 +1074,7 @@
         "speaker": "108,1080101"
       },
       "original": "もう、あんたと話してると、頭がおかしくな\nりそう！\n",
-      "translation": "정말, 당신이랑 이야기하고 있으면 머리가\n이상해질 것 같아！\n",
+      "translation": "정말, 당신이랑 이야기하고 있으면 머리가\n이상해질 것 같아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1087,7 +1087,7 @@
         "speaker": "4,0040101"
       },
       "original": "ノアさんは私がお嫌いですの？\n",
-      "translation": "노아 씨는 제가 싫으신가요？\n",
+      "translation": "노아 씨는 제가 싫으신가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1126,7 +1126,7 @@
         "speaker": "108,1080101"
       },
       "original": "な……！\n",
-      "translation": "뭐……！\n",
+      "translation": "뭐……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1152,7 +1152,7 @@
         "face": "0,0040101,0"
       },
       "original": "ノアさん？\n",
-      "translation": "노아 씨？\n",
+      "translation": "노아 씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1204,7 +1204,7 @@
         "speaker": "4,0040101"
       },
       "original": "そうですわ、おいしいお茶やケーキも試して\nみませんこと？\n",
-      "translation": "그렇답니다, 맛있는 차나 케이크도 시도해\n보시지 않겠어요？\n",
+      "translation": "그렇답니다, 맛있는 차나 케이크도 시도해\n보시지 않겠어요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1230,7 +1230,7 @@
         "speaker": "108,1080101"
       },
       "original": "まずは、ムダな努力の方からよ。\n……あたしは、何をすればいいの？\n",
-      "translation": "우선은, 쓸데없는 노력부터야. ……나는\n무엇을 하면 돼？\n",
+      "translation": "우선은, 쓸데없는 노력부터야. ……나는\n무엇을 하면 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1243,7 +1243,7 @@
         "face": "0,0040101,0"
       },
       "original": "話してください。\n敵のこと、あの巨大艦のこと……すべてを。\n",
-      "translation": "말해 주세요. 적에 대해서, 저 거대함에\n대해서…… 모든 것을.\n",
+      "translation": "말해 주세요. 적에 대해서, 저 거대 함선에\n대해서…… 모든 것을.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1256,7 +1256,7 @@
         "speaker": "108,1080101"
       },
       "original": "話したところで、どうにかなるの？\n本当にムダな努力に終わるかもしれないわよ？\n",
-      "translation": "이야기한다고 해서 어떻게 되는 거야？\n정말로 쓸데없는 노력로 끝날지도\n모른다고？\n",
+      "translation": "이야기한다고 해서 어떻게 되는 거야?\n정말로 쓸데없는 노력으로 끝날지도\n모른다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1282,7 +1282,7 @@
         "voice": "GB350083E,3"
       },
       "original": "どうして断言できるの？\n",
-      "translation": "어떻게 단언할 수 있는 거야？\n",
+      "translation": "어떻게 단언할 수 있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1373,7 +1373,7 @@
         "face": "0,1080101,0"
       },
       "original": "で、そこの男、何から話せばいいの？\n",
-      "translation": "그래서, 거기 남자, 뭐부터 말하면 돼？\n",
+      "translation": "그래서, 거기 남자, 뭐부터 말하면 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1412,7 +1412,7 @@
         "speaker": "1,0010101"
       },
       "original": "それで、ノアが話してくれるなら……ブリッ\nジで、みんなにも聞いてもらいたいんだど、\nいいかな？\n",
-      "translation": "그래서, 노아가 이야기해 준다면……\n브릿지에서 모두에게도 들려주고 싶은데,\n괜찮을까？\n",
+      "translation": "그래서, 노아가 이야기해 준다면……\n브릿지에서 모두에게도 들려주고 싶은데,\n괜찮을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1451,7 +1451,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミント、シヴァ様とエンジェル隊のみんなを\n呼んできてくれないか？\n一緒に話を聞いてもらいたいんだ。\n",
-      "translation": "민트, 시바 님과 엔젤대 여러분을 불러와\n줄 수 있겠나？ 같이 이야기를 듣고 싶네.\n",
+      "translation": "민트, 시바 님과 엔젤대 여러분을 불러와\n줄 수 있겠나? 같이 이야기를 듣고 싶네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1490,7 +1490,7 @@
         "speaker": "4,0040101"
       },
       "original": "はい？\n",
-      "translation": "네？\n",
+      "translation": "네?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1555,7 +1555,7 @@
         "voice": "GB350095,3"
       },
       "original": "昔の……ミント？\n",
-      "translation": "예전의…… 민트？\n",
+      "translation": "예전의…… 민트?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1620,7 +1620,7 @@
         "voice": "GB350098,3"
       },
       "original": "何コソコソ話してるの？\n早く案内してちょうだい。\n",
-      "translation": "뭘 그렇게 소곤소곤 얘기하고 있는 거야？\n빨리 안내해 줘.\n",
+      "translation": "뭘 그렇게 소곤소곤 얘기하고 있는 거야?\n빨리 안내해 줘.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1646,7 +1646,7 @@
         "face": "0,0040704,0"
       },
       "original": "それでは、私は皆さんを呼んでまいりますわ。\n",
-      "translation": "그러면, 저는 여러분을 불러오고\n오겠습니다.\n",
+      "translation": "그러면, 저는 여러분을 불러오겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1659,7 +1659,7 @@
         "voice": "GB350099,3"
       },
       "original": "そうだよね、ミント？\n",
-      "translation": "그렇지, 민트？\n",
+      "translation": "그렇지, 민트?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1789,7 +1789,7 @@
         "voice": "GB350204,3"
       },
       "original": "見せつけてくれるねぇ、おふたりさん。\n",
-      "translation": "멋진 모습을 보여주는구만, 두 사람\n말이야.\n",
+      "translation": "대놓고 애정을 과시하는구만, 두 사람.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1802,7 +1802,7 @@
         "speaker": "3,0030101"
       },
       "original": "あーあ、甘ったるくて胃にもたれるわー。\n",
-      "translation": "아～아, 달콤해서 위가 쓰리네～\n",
+      "translation": "아ー아, 너무 달아서 속이 느글거리네ー.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1867,7 +1867,7 @@
         "face": "0030105,0,0"
       },
       "original": "新しい恋の始まりね！\n",
-      "translation": "새로운 사랑의 시작네！\n",
+      "translation": "새로운 사랑의 시작이네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1893,7 +1893,7 @@
         "voice": "GB350210,3"
       },
       "original": "ミントだったら、いっぱいモテそうだもん\nねー！\n",
-      "translation": "민트라면, 엄청 인기 많을 것 같으니까\n말이야！\n",
+      "translation": "민트라면, 엄청 인기 많을 것 같으니까\n말이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1919,7 +1919,7 @@
         "voice": "GB350212,3"
       },
       "original": "ヘマしたら見捨てられるよ、タクト！\nミントは容赦ないからねぇ。\n",
-      "translation": "실수하면 버림받을 거야, 택트！ 민트는\n가차 없으니까 말이야.\n",
+      "translation": "실수하면 버림받을 거야, 택트! 민트는\n가차 없으니까 말이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1945,7 +1945,7 @@
         "speaker": "107,1070101"
       },
       "original": "……あの、みなさん。\nいつになったら、『白き月』に戻るんでしょ\nうか……？\n",
-      "translation": "……저기, 여러분. 언제쯤 『백색 달』으로\n돌아가는 건가요……？\n",
+      "translation": "……저기, 여러분. 언제쯤 『백색 달』으로\n돌아가는 건가요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1958,7 +1958,7 @@
         "speaker": "1,0010103"
       },
       "original": "そ、そうだ！\nオレたちは早く戻らなきゃ。\nこんな話をしてる場合じゃないよねー。\n",
-      "translation": "그, 그래！ 우리들은 빨리 돌아가야 해.\n이런 이야기를 하고 있을 때가 아니지～.\n",
+      "translation": "그, 그래! 우리들은 빨리 돌아가야 해.\n이런 이야기를 하고 있을 때가 아니지ー.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1984,7 +1984,7 @@
         "voice": "GB350214,3"
       },
       "original": "さ……さあさあ、レッツゴー！\n",
-      "translation": "자…… 자, 레츠고！\n",
+      "translation": "자…… 자, 레츠고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2023,7 +2023,7 @@
         "voice": "GB350216,3"
       },
       "original": "え？\n",
-      "translation": "어？\n",
+      "translation": "어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2049,7 +2049,7 @@
         "speaker": "1,0010101"
       },
       "original": "当たり前だろ？\n誰が他のヤツなんかに渡すもんか。\n",
-      "translation": "당연하잖아？ 누가 다른 녀석 따위에게\n넘겨줄 것 같냐.\n",
+      "translation": "당연하잖아? 누가 다른 녀석 따위에게\n넘겨줄 것 같냐.\n",
       "state": "draft",
       "use_translation": true
     },

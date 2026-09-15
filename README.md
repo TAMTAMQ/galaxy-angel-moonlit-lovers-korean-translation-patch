@@ -6,7 +6,7 @@
 
 PlayStation 2용 『ギャラクシーエンジェル ムーンリットラヴァーズ』 일본판(시리즈 2편)의 비공식 팬 한국어 번역 패치입니다.
 
-- 본편 시나리오 대사 **25,510개**, 선택지 286개, 그 밖의 화면 문구 4,121개를 다룹니다.
+- 본편 시나리오 대사 **25,510개**, 선택지 **286개**, SaveLabel **446개**, 비시나리오 `remaining` **4,135개**, 함내 TBI COM **46종/739곳**을 다룹니다.
 - 완성형 한글을 게임 실행 파일 `SLPM_654.29`의 폰트 테이블에 새로 그려 넣는 방식으로 표시합니다.
 - UI·함내 명판 이미지의 일본어도 원본 팔레트·픽셀 포맷 그대로 다시 그려 넣습니다.
 
@@ -34,23 +34,23 @@ PlayStation 2용 『ギャラクシーエンジェル ムーンリットラヴ�
 
 | 항목 | 값 |
 | --- | --- |
-| ISO 크기 | `3,606,837,248 bytes` |
-| SHA-256 | `467f53bf8ac2e3cd71aca4754f1871fccfe225e445acd1be11148365782b45c3` |
+| ISO 크기 | `3,636,396,032 bytes` |
+| SHA-256 | `526b1e9a73d29e2c96e3014bd353d8f636a2b34e86ca1dd9d6885e90e80f127a` |
 
 ## 2. 패치 적용
 
-1. [Releases](../../releases)에서 `galaxy_angel_moonlit_lovers_ps2_kr_v0.1.xdelta`를 받습니다.
+1. [Releases](../../releases)에서 `galaxy_angel_moonlit_lovers_ps2_kr_v0.2.xdelta`를 받습니다.
 2. xdelta3 또는 xdelta 패치를 지원하는 프로그램(예: Delta Patcher)에서 **원본 ISO를 Source로** 지정해 적용합니다.
 
    ```bash
    xdelta3 -d -s "Galaxy Angel - Moonlit Lovers (Japan).iso" \
-       galaxy_angel_moonlit_lovers_ps2_kr_v0.1.xdelta \
-       "Galaxy_Angel_Moonlit_Lovers_KO_v0.1.iso"
+       galaxy_angel_moonlit_lovers_ps2_kr_v0.2.xdelta \
+       "Galaxy_Angel_Moonlit_Lovers_KO_v0.2.iso"
    ```
 
 3. 결과 ISO의 SHA-256이 위 값과 같은지 확인하세요.
 
-패치 파일 자체의 SHA-256은 `f8f5d06b719655ece915cdeaae8ddd9d3ed6360740ebe73bd63038274d54ef9f` 입니다.
+패치 파일 자체의 SHA-256은 `0e03b655c706cf1dbcf7ce77028d5023a706552393a8f22638ff73b7d844dbb6` 입니다.
 
 원본 게임 파일(ISO, BIOS 등)은 이 저장소에 포함되어 있지 않습니다. 정당하게 소유한 정품 이미지에만 적용하세요.
 
@@ -60,10 +60,10 @@ PlayStation 2용 『ギャラクシーエンジェル ムーンリットラヴ�
 |---|---|
 | 본편 시나리오 (SCENARIO) | 대사 25,510개 |
 | 선택지 | 286개 |
-| 그 밖의 화면 문구 (SLG / SLGSTAGE / SLGRES / ADV / GADAT000 / GAML) | 4,121개 |
-| UI·함내 이미지 (GADAT030 / GADAT031 / GADAT032 / SLG / ADV) | 일본어 고유 592종 중 신규 223종 + 기존 369종 |
-| 이미지 런타임 사본 (SLGRES / SLGSTAGE / ADV) | 1,205곳 |
-| 게임 내 영상 자막 | PSS 27편 한국어 자막 번인 |
+| 그 밖의 화면 문구 (SLG / SLGSTAGE / SLGRES / ADV / GADAT000 / GAML) | `remaining` 4,135개 + TBI COM 46종 / 739곳 |
+| UI·함내 이미지 (GADAT030 / GADAT031 / GADAT032 / SLG / ADV) | 현재 권위 `translated_png` 1,403장, 최종 primary readback 697/697 |
+| 이미지 런타임 사본 (SLGRES / SLGSTAGE / ADV) | 최종 readback 498/498 |
+| 게임 내 영상 자막 | 실제 자막 22편 교체 + 빈 ASS 5편 원본 유지 |
 
 - 시나리오 스크립트는 `ADV.DAT`에도 런타임 사본이 있어 36개 블록을 함께 반영합니다.
 
@@ -110,13 +110,13 @@ python tools/moonlit_lovers_build.py \
 python tools/eternal_lovers_make_release.py \
     --original-iso "Galaxy Angel - Moonlit Lovers (Japan).iso" \
     --patched-iso build/Galaxy_Angel_Moonlit_Lovers_KO.iso \
-    --release-dir release --version v0.1 \
+    --release-dir release --version v0.2 \
     --title "Galaxy Angel - Moonlit Lovers" --slug galaxy_angel_moonlit_lovers
 
 python tools/galaxy_angel_apply_release_patch.py \
     --original-iso "Galaxy Angel - Moonlit Lovers (Japan).iso" \
     --release-dir release \
-    --output-iso release/Galaxy_Angel_Moonlit_Lovers_KO_v0.1.iso
+    --output-iso release/Galaxy_Angel_Moonlit_Lovers_KO_v0.2.iso
 ```
 
 `galaxy_angel_apply_release_patch.py`는 원본 ISO 해시를 `release.json`과 대조하고, 적용 결과의 해시·크기까지 다시 확인합니다.

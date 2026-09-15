@@ -27,7 +27,7 @@
         "speaker": "16,0160101"
       },
       "original": "敵集団、なおも接近中！\n",
-      "translation": "적 집단, 여전히 접근 중！\n",
+      "translation": "적 집단, 여전히 접근 중!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -51,7 +51,7 @@
         "speaker": "7,0070201"
       },
       "original": "例の巨大艦は、まだ交戦圏内には入っていな\nい。\nだが、姿を現すのも時間の問題だろう。\n",
-      "translation": "그 거대함은 아직 교전권 내에는 들어오지\n않았다. 하지만, 모습을 드러내는 것도\n시간문제겠군.\n",
+      "translation": "그 거대 함선은 아직 교전권 내에\n들어오지 않았다. 하지만, 모습을 드러내는\n것도 시간문제겠군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -63,7 +63,7 @@
         "speaker": "9,0090402"
       },
       "original": "タクト、エンジェル隊の諸君、聞こえている\nか？\n",
-      "translation": "택트, 엔젤대 여러분, 들리는가？\n",
+      "translation": "택트, 엔젤대 여러분, 들리는가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -75,7 +75,7 @@
         "speaker": "1,0010301"
       },
       "original": "はい、ルフト将軍。\nいよいよですね。\n",
-      "translation": "네, 루프트 장군님. 드디어군요.\n",
+      "translation": "네, 루프트 장군. 드디어군요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -87,7 +87,7 @@
         "speaker": "9,0090402"
       },
       "original": "うむ。\nここからは、お前たちだけが頼りじゃ。\n",
-      "translation": "음. 여기서부터는 너희들뿐이다.\n",
+      "translation": "음. 여기서부터는 너희만 믿는다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -99,7 +99,7 @@
         "speaker": "9,0090502"
       },
       "original": "これより皇国防衛最終作戦を発令する！\n",
-      "translation": "지금부터 황국 국방 최종 작전을\n발령한다！\n",
+      "translation": "지금부터 황국 방위 최종 작전을\n발령한다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -123,7 +123,7 @@
         "speaker": "1,0010302"
       },
       "original": "はっ、了解しました！\nお任せください、ルフト将軍。\n",
-      "translation": "옛, 알겠습니다！ 맡겨 주십시오, 루프트\n장군님.\n",
+      "translation": "옛, 알겠습니다! 맡겨 주십시오, 루프트\n장군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -175,7 +175,7 @@
         "face": "0,0,0"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -279,7 +279,7 @@
         "voice": "GBX210402,3"
       },
       "original": "頼むぞ、みんな！\n以上だ。\n",
-      "translation": "부탁한다, 모두들！ 이상이다.\n",
+      "translation": "부탁한다, 모두들! 이상이다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -292,7 +292,7 @@
         "voice": "GBX210402,3"
       },
       "original": "～敵部隊の編成～\n　戦艦タイプ×４　　　　突撃艦タイプ×８\n　戦闘機タイプ×８\n　\n～勝利条件～\n　敵艦隊の撃退\n　\n～敗北条件～\n　エルシオールの破壊\n",
-      "translation": "～적 부대의 편성～전함\n타입×４　　　　돌격함 타입×８전투기\n타입×８～승리 조건～적 함대의\n격퇴～패배 조건～에르시올의 파괴\n",
+      "translation": "～적 부대 편성～\n　전함 타입×4　　　　돌격함 타입×8\n　전투기 타입×8\n　\n～승리 조건～\n　적 함대의 격퇴\n　\n～패배 조건～\n　에르시올의 파괴\n",
       "state": "draft",
       "use_translation": true
     },
@@ -305,7 +305,7 @@
         "speaker": "7,0070101"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번, 작전 내용을 확인할까？\n",
+      "translation": "다시 한번, 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -331,7 +331,7 @@
         "face": "0,0070101,0"
       },
       "original": "うん。\n念のため、もう一度確認しておこう。\n",
-      "translation": "응. 만약을 위해, 다시 한번 확인해 두자.\n",
+      "translation": "응. 혹시 모르니, 다시 한번 확인해 두자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -344,7 +344,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -357,7 +357,7 @@
         "face": "0,0,0"
       },
       "original": "エンジェル隊、出撃！\n",
-      "translation": "엔젤대, 출격！\n",
+      "translation": "엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -370,7 +370,7 @@
         "voice": "GB930411,3"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     }

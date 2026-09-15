@@ -26,7 +26,7 @@
         "voice": "GB110600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -78,7 +78,7 @@
         "face": "0,0,0"
       },
       "original": "以上だ。\nタクト、どうする？\n",
-      "translation": "이상이다. 택트, 어떻게 할 거지？\n",
+      "translation": "이상이다. 택트, 어떻게 할 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -104,7 +104,7 @@
         "face": "0,0,0"
       },
       "original": "敵の数は多いけど、こっちにもミルフィーが\n加わったんだ。\n負けるはずないさ！\n",
-      "translation": "적의 수는 많지만, 이쪽에도 밀피가\n합류했어. 질 리가 없다고！\n",
+      "translation": "적의 수는 많지만, 이쪽에도 밀피가\n합류했어. 질 리가 없다고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -117,7 +117,7 @@
         "face": "0,0,0"
       },
       "original": "はい、タクトさん！\nあたし、がんばります！\n",
-      "translation": "네, 택트 씨！ 저, 열심히 할게요！\n",
+      "translation": "네, 택트 씨! 저, 열심히 할게요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -156,7 +156,7 @@
         "face": "0,0,0"
       },
       "original": "～敵部隊の編成～\n　攻撃衛星×２　　　　装甲ミサイル艦×２\n　巡洋艦×４　　　　　駆逐艦×４\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대 편성～공격\n위성×２　　　　장갑\n미사일함×２순양함×４　　　　　구축함×\n４～승리 조건～적 함대의 전멸～패배\n조건～에르시올의 파괴 타임 오버\n",
+      "translation": "～적 부대 편성～\n　공격위성×2　　　　장갑미사일함×2\n　순양함×4　　　　　구축함×4\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -169,7 +169,7 @@
         "speaker": "7,0070101"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번, 작전 내용을 확인할까？\n",
+      "translation": "다시 한번, 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -182,7 +182,7 @@
         "face": "0,0070101,0"
       },
       "original": "そうだなぁ……。\n",
-      "translation": "글쎄...\n",
+      "translation": "글쎄…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -208,7 +208,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -221,7 +221,7 @@
         "face": "0,0,0"
       },
       "original": "エンジェル隊、出撃！\n",
-      "translation": "엔젤대, 출격！\n",
+      "translation": "엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -234,7 +234,7 @@
         "face": "0,0,0"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }

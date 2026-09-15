@@ -36,7 +36,7 @@
         "speaker": "1,0010102"
       },
       "original": "ん、誰か来た。\nはーい？\n",
-      "translation": "응, 누군가 왔다. 계세요？\n",
+      "translation": "응, 누군가 왔다. 네ー?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -48,7 +48,7 @@
         "voice": "GB150000,3"
       },
       "original": "タクトさん……入ってもいいですか？\n",
-      "translation": "택트 씨…… 들어가도 될까요？\n",
+      "translation": "택트 씨…… 들어가도 될까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -60,7 +60,7 @@
         "voice": "GB150000,3"
       },
       "original": "ミルフィーかい？\nどうぞ？\n",
-      "translation": "밀피니？ 들어오렴.\n",
+      "translation": "밀피니? 들어오렴.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -73,7 +73,7 @@
         "face": "0,0020905,0"
       },
       "original": "ノアさんの様子……どうでした？\nちゃんとお話できましたか？\n",
-      "translation": "노아 씨의 상태는…… 어땠나요？ 제대로\n이야기할 수 있었나요？\n",
+      "translation": "노아 씨의 상태는…… 어땠나요? 제대로\n이야기할 수 있었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -86,7 +86,7 @@
         "face": "0,0020905,0"
       },
       "original": "心配して、わざわざ来てくれたのかい？\n",
-      "translation": "걱정돼서 일부러 와준 거니？\n",
+      "translation": "걱정돼서 일부러 와준 거니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -112,7 +112,7 @@
         "face": "0,0020901,0"
       },
       "original": "それで、どうでした？\n",
-      "translation": "그래서, 어땠나요？\n",
+      "translation": "그래서, 어땠나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -138,7 +138,7 @@
         "face": "0,0020202,0"
       },
       "original": "でも、ノアさんは何か話したいことがあるん\nですよね？\n",
-      "translation": "하지만, 노아 씨는 뭔가 하고 싶은 말이\n있는 거죠？\n",
+      "translation": "하지만, 노아 씨는 뭔가 하고 싶은 말이\n있는 거죠?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -203,7 +203,7 @@
         "face": "0,0020904,0"
       },
       "original": "正直、困ってるんだ。\nどうしたら話してくれるんだろう？\n",
-      "translation": "솔직히, 곤란해. 어떻게 해야 말해줄까？\n",
+      "translation": "솔직히, 곤란해. 어떻게 해야 말해줄까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -242,7 +242,7 @@
         "voice": "GB150007,3"
       },
       "original": "ノアが……不安？\n",
-      "translation": "노아가…… 불안하다고？\n",
+      "translation": "노아가…… 불안하다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -268,7 +268,7 @@
         "speaker": "2,0020101"
       },
       "original": "ひとりぼっちでエルシオールにやってきて、\n知らない人たちから「話せ～、話せ～」って\n言われて……。\n",
-      "translation": "혼자서 에르시올에 와서, 모르는\n사람들로부터 「말해라～, 말해라～」라는\n소리를 듣고…….\n",
+      "translation": "혼자서 에르시올에 와서, 모르는 사람들이\n「말해라～, 말해라～」라고 하고…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -359,7 +359,7 @@
         "speaker": "2,0020101"
       },
       "original": "……あっ！\nあたし、いいこと思いつきました！\n",
-      "translation": "……앗！ 저, 좋은 생각이 떠올랐어요！\n",
+      "translation": "……앗! 저, 좋은 생각이 떠올랐어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -372,7 +372,7 @@
         "speaker": "2,0020101"
       },
       "original": "タクトさん、ちょっと待っててもらえますか？\n用意ができたら、ノアさんのところへいっしょ\nに行きましょう！\n",
-      "translation": "택트 씨, 잠시만 기다려 주실래요？ 준비가\n되면 노아 씨가 있는 곳으로 같이 가요！\n",
+      "translation": "택트 씨, 잠시만 기다려 주실래요? 준비가\n되면 노아 씨가 있는 곳으로 같이 가요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -385,7 +385,7 @@
         "voice": "GB150015,3"
       },
       "original": "あたし、支度してきますね！\n",
-      "translation": "저, 준비하고 올게요！\n",
+      "translation": "저, 준비하고 올게요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -398,7 +398,7 @@
         "face": "0,0,0"
       },
       "original": "あっ、ミルフィー！\n",
-      "translation": "앗, 밀피！\n",
+      "translation": "앗, 밀피!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -424,7 +424,7 @@
         "voice": "GB150015,3"
       },
       "original": "いったい、何をするつもりなんだろう？\n",
-      "translation": "도대체, 뭘 할 생각인 걸까？\n",
+      "translation": "도대체, 뭘 할 생각인 걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -437,7 +437,7 @@
         "face": "0,0,0"
       },
       "original": "あれから３０分……。\nミルフィー、遅いなぁ。\n何してるんだろう？\n",
-      "translation": "그로부터 ３０분……. 밀피, 늦네. 뭐 하고\n있는 걸까？\n",
+      "translation": "그로부터 30분……. 밀피, 늦네. 뭐 하고\n있는 걸까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -450,7 +450,7 @@
         "voice": "GB150016,3"
       },
       "original": "タクトさん、お待たせしました。\n準備完了です！\n",
-      "translation": "택트 씨, 오래 기다리셨습니다. 준비\n완료입니다！\n",
+      "translation": "택트 씨, 오래 기다리셨습니다. 준비\n완료입니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -476,7 +476,7 @@
         "voice": "GB150016,3"
       },
       "original": "……あれ？　準備って、何か持ってくるんじゃ\nなかったの？\n",
-      "translation": "……어라？ 준비라니, 뭐 좀 가져와야 했던\n거 아니었어？\n",
+      "translation": "……어라? 준비라니, 뭐 좀 가져와야 했던\n거 아니었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -489,7 +489,7 @@
         "speaker": "2,0020101"
       },
       "original": "ここより、あたしの部屋のほうがいいかなっ\nて思って。\nさぁ、ノアさんを招待しましょう。\n",
-      "translation": "여기보다는, 내 방이 더 나을 것 같아서.\n자, 노아 씨을 초대하자.\n",
+      "translation": "여기보다는, 내 방이 더 나을 것 같아서.\n자, 노아 씨를 초대하자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -502,7 +502,7 @@
         "speaker": "1,0010102"
       },
       "original": "え？　招待？\n",
-      "translation": "에？ 초대？\n",
+      "translation": "에? 초대?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -515,7 +515,7 @@
         "face": "0,0,0"
       },
       "original": "ノアさん、こんにちはー！\nちょっといいですか？\n",
-      "translation": "노아 씨, 안녕하세요～！ 잠깐\n괜찮을까요？\n",
+      "translation": "노아 씨, 안녕하세요ー! 잠깐\n괜찮을까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -528,7 +528,7 @@
         "speaker": "108,1080204"
       },
       "original": "……なに？\nあんたたちに話はないって言ったはずよ。\n",
-      "translation": "……뭐야？ 너희에게 할 말은 없다고 했을\n텐데.\n",
+      "translation": "……뭐야? 너희에게 할 말은 없다고 했을\n텐데.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -541,7 +541,7 @@
         "voice": "GB150020,3"
       },
       "original": "あのですね、お茶とケーキを用意しているん\nです。\nいっしょに食べませんか？\n",
-      "translation": "저기 말이죠, 차와 케이크를 준비해\n두었답니다. 같이 드시지 않을래요？\n",
+      "translation": "저기 말이죠, 차와 케이크를 준비해\n두었답니다. 같이 드시지 않을래요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -554,7 +554,7 @@
         "voice": "GB150021,3"
       },
       "original": "は？\n",
-      "translation": "하？\n",
+      "translation": "하?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -567,7 +567,7 @@
         "voice": "GB150021,3"
       },
       "original": "えっ？\nちょ、ちょっとミルフィー？\n",
-      "translation": "엣？ 저, 잠깐 밀피？\n",
+      "translation": "엣? 저, 잠깐 밀피?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -580,7 +580,7 @@
         "voice": "GB150022,3"
       },
       "original": "……あたしも舐められたものね。\n物で釣ろうだなんて。\n",
-      "translation": "……나도 얕보인 모양이네. 먹을 걸로\n유혹하다니.\n",
+      "translation": "……나도 얕보인 모양이네. 먹을 걸로\n회유하려 들다니.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -606,7 +606,7 @@
         "speaker": "108,1080101"
       },
       "original": "じゃあどういうこと？\n",
-      "translation": "그럼 무슨 뜻이야？\n",
+      "translation": "그럼 무슨 뜻이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -632,7 +632,7 @@
         "voice": "GB150026,3"
       },
       "original": "……それが、理由？\n",
-      "translation": "……그게, 이유？\n",
+      "translation": "……그게, 이유?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -645,7 +645,7 @@
         "speaker": "2,0020102"
       },
       "original": "はい！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -658,7 +658,7 @@
         "voice": "GB150028,3"
       },
       "original": "それにノアさんって『黒き月』の中で、ずーっ\nとひとりで眠ってたんですよね？\nごはんとかちゃんと食べてました？\n",
-      "translation": "게다가 노아 씨는 『흑색 달』 안에서,\n계속 혼자서 잠들어 있었던 거죠？ 밥 같은\n건 제대로 먹었나요？\n",
+      "translation": "게다가 노아 씨는 『흑색 달』 안에서,\n계속 혼자서 잠들어 있었던 거죠? 밥 같은\n건 제대로 먹었나요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -671,7 +671,7 @@
         "speaker": "108,1080204"
       },
       "original": "食事？　そんなもの、コールドスリープして\nるんだから必要なかったわよ。\n",
-      "translation": "식사？ 그런 거, 콜드 슬립 중이었으니까\n필요 없었어.\n",
+      "translation": "식사? 그런 거, 콜드 슬립 중이었으니까\n필요 없었어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -684,7 +684,7 @@
         "speaker": "2,0020901"
       },
       "original": "えっ！？\n",
-      "translation": "엣！？\n",
+      "translation": "엣!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -697,7 +697,7 @@
         "face": "0,0,0"
       },
       "original": "必要な栄養分はアンプルで補給できるから、\n困らなかったし。\n",
-      "translation": "필요한 영양분은 앰플로 보충할 수\n있으니까, 곤란하지 않았고.\n",
+      "translation": "필요한 영양분은 앰플로 보충할 수\n있으니까, 문제없었고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -710,7 +710,7 @@
         "face": "0,0020903,0"
       },
       "original": "いけません！\n",
-      "translation": "안 돼요！\n",
+      "translation": "안 돼요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -723,7 +723,7 @@
         "face": "0,0020903,0"
       },
       "original": "……！\n",
-      "translation": "……！\n",
+      "translation": "……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -736,7 +736,7 @@
         "face": "0,0020903,0"
       },
       "original": "おいしいごはんは、心の栄養です！\nお薬じゃ、心はお腹いっぱいになりません！\n",
-      "translation": "맛있는 밥은, 마음의 영양입니다！\n약으로는, 마음이 배부르지 않아요！\n",
+      "translation": "맛있는 밥은, 마음의 영양입니다!\n약으로는, 마음이 배부르지 않아요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -749,7 +749,7 @@
         "speaker": "2,0020101"
       },
       "original": "わかりました！\nあたし今から、ノアさんのごはんを作ります。\n",
-      "translation": "알겠습니다！ 저 지금부터, 노아 씨의 밥을\n만들게요.\n",
+      "translation": "알겠습니다! 저 지금부터, 노아 씨의 밥을\n만들게요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -788,7 +788,7 @@
         "face": "0,1080205,0"
       },
       "original": "……なんなの、あれ？\n",
-      "translation": "……뭐야, 저거？\n",
+      "translation": "……뭐야, 저거?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -814,7 +814,7 @@
         "face": "0,1080205,0"
       },
       "original": "というわけで、つきあってくれないかな？\n",
-      "translation": "그런 의미에서, 같이 가주지 않을래？\n",
+      "translation": "그런 의미에서, 같이 가주지 않을래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -827,7 +827,7 @@
         "speaker": "108,1080101"
       },
       "original": "なんであたしが？\n",
-      "translation": "내가 왜？\n",
+      "translation": "내가 왜?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -866,7 +866,7 @@
         "speaker": "108,1080101"
       },
       "original": "それに？\n",
-      "translation": "게다가？\n",
+      "translation": "게다가?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -892,7 +892,7 @@
         "speaker": "2,0020102"
       },
       "original": "ノアさ～ん、タクトさ～ん、早く行きましょ\nう～！\n",
-      "translation": "노아 씨～ 택트 씨～ 빨리 가요～！\n",
+      "translation": "노아 씨～ 택트 씨～ 빨리 가요～!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -905,7 +905,7 @@
         "face": "0,1080204,0"
       },
       "original": "というわけで、レッツゴー！\n",
-      "translation": "그런 이유로, 렛츠 고！\n",
+      "translation": "그런 이유로, 렛츠 고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -918,7 +918,7 @@
         "speaker": "108,1080101"
       },
       "original": "ちょ、ちょっと！\n",
-      "translation": "잠, 잠깐만！\n",
+      "translation": "잠, 잠깐만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -931,7 +931,7 @@
         "speaker": "2,0020101"
       },
       "original": "ミルフィー特製ツナと卵のサンドイッチに、\n宇宙イカスミのパスタ、それに、ハヤシオム\nライスです！\n",
-      "translation": "밀피 특제 참치와 달걀 샌드위치에, 우주\n오징어 먹물 파스타, 그리고\n하야시오무라이스입니다！\n",
+      "translation": "밀피 특제 참치와 달걀 샌드위치에, 우주\n오징어 먹물 파스타, 그리고\n하야시오무라이스입니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -944,7 +944,7 @@
         "voice": "GB150044,3"
       },
       "original": "…………。\n",
-      "translation": "…………。\n",
+      "translation": "………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -970,7 +970,7 @@
         "speaker": "2,0020101"
       },
       "original": "さあ、あったかいうちにどうぞ！\n",
-      "translation": "자, 따뜻할 때 드세요！\n",
+      "translation": "자, 따뜻할 때 드세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -983,7 +983,7 @@
         "voice": "GB150045,3"
       },
       "original": "それじゃ、いただきまーす！\n",
-      "translation": "그럼, 잘 먹겠습니다！\n",
+      "translation": "그럼, 잘 먹겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1009,7 +1009,7 @@
         "voice": "GB150045,3"
       },
       "original": "……んん、うまい！\nパスタはしっかりアルデンテだ！\n",
-      "translation": "……음, 맛있다！ 파스타는 제대로\n알덴테야！\n",
+      "translation": "……음, 맛있다! 파스타는 제대로\n알덴테야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1022,7 +1022,7 @@
         "face": "0,1080202,0"
       },
       "original": "え、えっと……。\n",
-      "translation": "에, 에또…….\n",
+      "translation": "저, 저기…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1061,7 +1061,7 @@
         "face": "0,0020902,0"
       },
       "original": "お味のほうはどうですか、ノアさん？\n",
-      "translation": "맛은 어떠신가요, 노아 씨？\n",
+      "translation": "맛은 어떠신가요, 노아 씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1074,7 +1074,7 @@
         "speaker": "108,1080101"
       },
       "original": "……！\n",
-      "translation": "……！\n",
+      "translation": "……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1100,7 +1100,7 @@
         "face": "0,0020102,0"
       },
       "original": "よかった！\n",
-      "translation": "다행이다！\n",
+      "translation": "다행이다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1113,7 +1113,7 @@
         "speaker": "1,0010101"
       },
       "original": "だから言っただろう？\nミルフィーの料理は、食べておいて損はないっ\nて。\n",
-      "translation": "그러니까 내가 말했잖아？ 밀피의 요리는\n먹어두면 손해는 안 볼 거라고.\n",
+      "translation": "그러니까 내가 말했잖아? 밀피의 요리는\n먹어두면 손해는 안 볼 거라고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1139,7 +1139,7 @@
         "voice": "GB150054,3"
       },
       "original": "……なんで？\n",
-      "translation": "……왜？\n",
+      "translation": "……왜?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1152,7 +1152,7 @@
         "voice": "GB150055,3"
       },
       "original": "はい？\n",
-      "translation": "네？\n",
+      "translation": "네?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1165,7 +1165,7 @@
         "speaker": "108,1080101"
       },
       "original": "こんなことをされてもあたし、何も協力しな\nいわよ。\n",
-      "translation": "이런 짓을 당해도 나, 아무것도 협력 안 할\n거야.\n",
+      "translation": "이렇게 잘해줘도 나, 아무것도 협력 안 할\n거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1178,7 +1178,7 @@
         "speaker": "2,0020101"
       },
       "original": "やだなぁ、そんなつもりじゃないって、言っ\nたじゃありませんか。\n",
-      "translation": "싫어라, 그런 뜻이 아니라고 말했잖아요.\n",
+      "translation": "에이, 그런 뜻이 아니라고 말했잖아요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1217,7 +1217,7 @@
         "speaker": "108,1080101"
       },
       "original": "あんたたちにとって利益のあることなんて、\nひとつもないのよ？\nそれなのに、どうして……。\n",
-      "translation": "너희들에게 이득이 되는 것 따위, 하나도\n없다고？ 그런데 왜…….\n",
+      "translation": "너희들에게 이득이 되는 것 따위, 하나도\n없다고? 그런데 왜…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1256,7 +1256,7 @@
         "speaker": "108,1080101"
       },
       "original": "……それだけ？\nたったひと言じゃない！\n",
-      "translation": "……그것뿐이야？ 고작 한마디잖아！\n",
+      "translation": "……그것뿐이야? 고작 한마디잖아!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1295,7 +1295,7 @@
         "face": "0,1080103,0"
       },
       "original": "友達ですって？\nあたしはあんたたちなんかと……！\n",
-      "translation": "친구라고？ 나는 너희 같은 애들이랑……！\n",
+      "translation": "친구라고? 나는 너희 같은 애들이랑……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1386,7 +1386,7 @@
         "voice": "GB150072,3"
       },
       "original": "だから、ノアさんともお友達になれます。\n大丈夫です！\n",
-      "translation": "그러니까, 노아 씨와도 친구가 될 수\n있어요. 괜찮아요！\n",
+      "translation": "그러니까, 노아 씨와도 친구가 될 수\n있어요. 괜찮아요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1412,7 +1412,7 @@
         "voice": "GB150074,3"
       },
       "original": "……ひとつ、聞いていい？\nあんた、紋章機のパイロット？\n",
-      "translation": "……하나, 물어봐도 돼？ 너, 문장기의\n파일럿？\n",
+      "translation": "……하나, 물어봐도 돼? 너, 문장기의\n파일럿?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1503,7 +1503,7 @@
         "face": "0,0020901,0"
       },
       "original": "えっ？\n",
-      "translation": "엣？\n",
+      "translation": "엣?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1529,7 +1529,7 @@
         "speaker": "2,0020101"
       },
       "original": "……あの、ノアさん？\n",
-      "translation": "……저기, 노아 씨？\n",
+      "translation": "……저기, 노아 씨?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1542,7 +1542,7 @@
         "face": "0,1080103,0"
       },
       "original": "ちょっと、そこでパスタほおばってるあんた！\n",
-      "translation": "잠깐, 거기서 파스타를 입에 가득 물고\n있는 당신！\n",
+      "translation": "잠깐, 거기서 파스타를 입에 가득 물고\n있는 당신!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1555,7 +1555,7 @@
         "speaker": "1,0010102"
       },
       "original": "はい？\n",
-      "translation": "네？\n",
+      "translation": "네?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1581,7 +1581,7 @@
         "face": "0,1080101,0"
       },
       "original": "え？　それって……。\n",
-      "translation": "에？ 그건…….\n",
+      "translation": "에? 그건…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1594,7 +1594,7 @@
         "face": "0,1080101,0"
       },
       "original": "話をしてあげるってことよ。\nなんでも聞きなさい。\n",
-      "translation": "이야기를 해 주겠다는 뜻야. 무엇이든\n물어보렴.\n",
+      "translation": "이야기를 해 주겠다는 뜻이야. 무엇이든\n물어보렴.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1620,7 +1620,7 @@
         "face": "0,0020902,0"
       },
       "original": "ノアさん！\n",
-      "translation": "노아 씨！\n",
+      "translation": "노아 씨!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1633,7 +1633,7 @@
         "voice": "GB150088,3"
       },
       "original": "いい？　言っておくけど、食べ物に釣られた\nんじゃないわよ。\nそこのところ、間違えないように。\n",
-      "translation": "알았지？ 말해두겠는데, 음식에 낚인 게\n아니야. 그 점은 착각하지 않도록.\n",
+      "translation": "알았지? 말해두겠는데, 음식에 낚인 게\n아니야. 그 점은 착각하지 않도록.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1672,7 +1672,7 @@
         "voice": "GB150090,3"
       },
       "original": "ちょっと、これで料理はおしまいなの？\n",
-      "translation": "잠깐, 이걸로 요리는 끝인 거야？\n",
+      "translation": "잠깐, 이걸로 요리는 끝인 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1737,7 +1737,7 @@
         "face": "0,0020902,0"
       },
       "original": "タクトさんも食べますよね？\n",
-      "translation": "택트 씨도 먹을 거지？\n",
+      "translation": "택트 씨도 드실 거죠?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1776,7 +1776,7 @@
         "voice": "GB150095,3"
       },
       "original": "さっきまでは、そんなこと全然思ってなかっ\nたくせに……現金だなぁ。\n",
-      "translation": "아까 전까지는 그런 생각 전혀 안\n해놓고…… 현실적이네.\n",
+      "translation": "아까 전까지는 그런 생각 전혀 안\n했으면서…… 태도가 금방 바뀌네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1815,7 +1815,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミルフィー。レスターに連絡して、ブリッジ\nにエンジェル隊を集めるよう、伝えてもらえ\nるかな？\n",
-      "translation": "밀피. 레스터에게 연락해서, 브릿지에\n엔젤대를 모아달라고 전해줄래？\n",
+      "translation": "밀피. 레스터에게 연락해서, 브릿지에\n엔젤대를 모아달라고 전해줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1841,7 +1841,7 @@
         "speaker": "2,0020101"
       },
       "original": "はい、わかりました！\n",
-      "translation": "네, 알겠습니다！\n",
+      "translation": "네, 알겠습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1880,7 +1880,7 @@
         "speaker": "2,0020101"
       },
       "original": "タクトさん、よかったですね。\nノアさんが話す気になってくれて。\n",
-      "translation": "택트 씨, 잘됐네요. 노아 씨가 이야기할\n마음을 먹어줘서.\n",
+      "translation": "택트 씨, 잘됐네요. 노아 씨가 이야기를\n해주기로 해서.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1932,7 +1932,7 @@
         "voice": "GB150102,3"
       },
       "original": "ちょっと、ちゃんと案内してよね！\n",
-      "translation": "잠깐, 제대로 안내해 줘！\n",
+      "translation": "잠깐, 제대로 안내해 줘!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1945,7 +1945,7 @@
         "voice": "GB150102,3"
       },
       "original": "あ、はいはい！\n",
-      "translation": "아, 네네！\n",
+      "translation": "아, 네네!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1958,7 +1958,7 @@
         "voice": "GB150102,3"
       },
       "original": "そうだよね、ミルフィー？\n",
-      "translation": "그렇지, 밀피？\n",
+      "translation": "그렇지, 밀피?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2023,7 +2023,7 @@
         "voice": "GB150204,3"
       },
       "original": "だから大丈夫ですよ、ノアさん。\nきっと、できます！\n",
-      "translation": "그러니까 괜찮아요, 노아 씨. 분명, 할 수\n있어요！\n",
+      "translation": "그러니까 괜찮아요, 노아 씨. 분명, 할 수\n있어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2049,7 +2049,7 @@
         "speaker": "2,0020101"
       },
       "original": "タクトさん、がんばりましょうね！\n",
-      "translation": "택트 씨, 힘내요！\n",
+      "translation": "택트 씨, 힘내요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2075,7 +2075,7 @@
         "voice": "GB150302,3"
       },
       "original": "もちろんです！\nなんでも命令してくださいね。\n",
-      "translation": "물론이에요！ 뭐든지 명령해 주세요.\n",
+      "translation": "물론이에요! 뭐든지 명령해 주세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2114,7 +2114,7 @@
         "face": "0,0030104,0"
       },
       "original": "そーよそーよ！\nいっつもミルフィーばっか見ちゃって！\n",
-      "translation": "맞아 맞아！ 맨날 밀피만 보고 말이야！\n",
+      "translation": "맞아 맞아! 맨날 밀피만 보고 말이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2140,7 +2140,7 @@
         "speaker": "1,0010103"
       },
       "original": "ち、違うって。\nオレはみんなに言ったつもりなんだってば！\n",
-      "translation": "아, 아니야. 난 모두에게 말했다고！\n",
+      "translation": "아, 아니야. 난 모두에게 말했다고!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2153,7 +2153,7 @@
         "speaker": "4,0040101"
       },
       "original": "そうですか？\n完全におふたりだけの世界に入っていたよう\nですけれど。\n",
-      "translation": "그렇습니까？ 완전히 두 분만의 세계에\n빠져 있는 것 같았습니다만.\n",
+      "translation": "그렇습니까? 완전히 두 분만의 세계에\n빠져 있는 것 같았습니다만.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2179,7 +2179,7 @@
         "speaker": "2,0020101"
       },
       "original": "ヴァニラまで！\nも～っ！\n",
-      "translation": "바닐라까지！ 정말～！\n",
+      "translation": "바닐라까지! 정말～!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2205,7 +2205,7 @@
         "voice": "GB150309,3"
       },
       "original": "……あの、みなさん。\nいつになったら、『白き月』に戻るんでしょ\nうか……？\n",
-      "translation": "……저기, 여러분. 언제쯤 『백색 달』으로\n돌아가는 건가요……？\n",
+      "translation": "……저기, 여러분. 언제쯤 『백색 달』으로\n돌아가는 건가요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2218,7 +2218,7 @@
         "speaker": "1,0010201"
       },
       "original": "そ、そうだ！\nオレたちは早く戻らなきゃ。\nこんな話をしてる場合じゃないよねー。\n",
-      "translation": "그, 그래！ 우리들은 빨리 돌아가야 해.\n이런 이야기를 하고 있을 때가 아니지～.\n",
+      "translation": "그, 그래! 우리들은 빨리 돌아가야 해.\n이런 이야기를 하고 있을 때가 아니지ー.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2244,7 +2244,7 @@
         "speaker": "1,0010201"
       },
       "original": "さ……さあさあ、レッツゴー！\n",
-      "translation": "자…… 자, 레츠고！\n",
+      "translation": "자…… 자, 레츠고!\n",
       "state": "draft",
       "use_translation": true
     }

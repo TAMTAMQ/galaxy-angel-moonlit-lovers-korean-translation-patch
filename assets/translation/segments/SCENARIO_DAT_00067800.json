@@ -14,7 +14,7 @@
         "speaker": "1,0010102"
       },
       "original": "ミント、いるかい？\n",
-      "translation": "민트, 있니？\n",
+      "translation": "민트, 있니?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -77,7 +77,7 @@
         "face": "0,0040101,0"
       },
       "original": "私はこのとおり、変わりありませんわよ。\n",
-      "translation": "저는 이대로, 별일 없답니다.\n",
+      "translation": "저는 보시다시피, 별일 없답니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -90,7 +90,7 @@
         "face": "0,0040101,0"
       },
       "original": "そうかい？\nでも、オレには、なんだか無理をしてるみた\nいに見えるよ。\n",
-      "translation": "그래？ 하지만 내 눈에는 왠지 무리하고\n있는 것처럼 보여.\n",
+      "translation": "그래? 하지만 내 눈에는 왠지 무리하고\n있는 것처럼 보여.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -103,7 +103,7 @@
         "face": "0,0040202,0"
       },
       "original": "……そうですか？\n",
-      "translation": "……그런가요？\n",
+      "translation": "……그런가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -116,7 +116,7 @@
         "face": "0,0040202,0"
       },
       "original": "ああ、ズバリ言おうか？\nその理由は……。\n",
-      "translation": "아아, 딱 잘라 말할까？ 그 이유는…….\n",
+      "translation": "아아, 딱 잘라 말할까? 그 이유는…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -168,7 +168,7 @@
         "voice": "GB350402,3"
       },
       "original": "気にしないようにと思っていても、みなさん\nの心の中の不安が、私にまで伝わってきます\nの。\n",
-      "translation": "신경 쓰지 말아야지라고 생각해도,\n여러분의 마음속 불안이 저에게까지 전해져\n와요.\n",
+      "translation": "신경 쓰지 않으려고 해도, 여러분의 마음속\n불안이 저에게까지 전해져 와요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -181,7 +181,7 @@
         "speaker": "1,0010401"
       },
       "original": "そうか……。\nテレパシーが復活したのも、こんなときは、\nかえってつらいね。\n",
-      "translation": "그런가……. 텔레파시가 부활한 것도, 이럴\n때는 오히려 괴롭겠네.\n",
+      "translation": "그런가……. 텔레파시가 돌아온 것도, 이럴\n때는 오히려 괴롭겠네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -220,7 +220,7 @@
         "voice": "GB350404,3"
       },
       "original": "えっ、どうして？\n",
-      "translation": "엣, 어째서？\n",
+      "translation": "엣, 어째서?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -246,7 +246,7 @@
         "speaker": "4,0040101"
       },
       "original": "それは、タクトさんが不安を感じていないか\nらでしょうね。\n",
-      "translation": "그건, 택트 씨가 불안을 느끼지 않고 있기\n때문이겠죠.\n",
+      "translation": "그건, 택트 씨가 불안해하지 않아서겠죠.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -259,7 +259,7 @@
         "speaker": "1,0010105"
       },
       "original": "オレが不安じゃない？\n……確かに、何か必ず打つ手が見つかるだろ\nうと思ってはいたけど。\n",
-      "translation": "내가 불안하지 않다고？ ……확실히, 분명\n어떤 대책은 찾을 수 있을 거라고는\n생각했지만.\n",
+      "translation": "내가 불안하지 않다고? ……확실히, 분명\n어떤 대책은 찾을 수 있을 거라고는\n생각했지만.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -298,7 +298,7 @@
         "speaker": "4,0040101"
       },
       "original": "うふふっ。\nご自分で言っていたら、世話がありませんわ。\n",
-      "translation": "우후훗. 스스로 말씀하시니 쑥스럽네요.\n",
+      "translation": "우후훗. 본인이 직접 그러시면\n못 말리겠네요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -311,7 +311,7 @@
         "speaker": "1,0010201"
       },
       "original": "あ、そうか。\nはははは！\n",
-      "translation": "아, 그렇군. 하하하하！\n",
+      "translation": "아, 그렇군. 하하하하!\n",
       "state": "draft",
       "use_translation": true
     }

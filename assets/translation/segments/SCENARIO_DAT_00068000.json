@@ -15,7 +15,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミントは疲れているんだろう？\n",
-      "translation": "민트는 지쳐 있는 거지？\n",
+      "translation": "민트는 지쳐 있는 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -41,7 +41,7 @@
         "voice": "GB350500,3"
       },
       "original": "ミントは不安なんだろう？\n",
-      "translation": "민트는 불안한 거지？\n",
+      "translation": "민트는 불안한 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -54,7 +54,7 @@
         "voice": "GB350501,3"
       },
       "original": "えっ……どうしてそれを？\n",
-      "translation": "엣…… 어째서 그걸？\n",
+      "translation": "엣…… 어째서 그걸?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -93,7 +93,7 @@
         "voice": "GB350502,3"
       },
       "original": "ミントは駄菓子を食べたいんだろう？\n",
-      "translation": "민트는 군것질거리를 먹고 싶은 거지？\n",
+      "translation": "민트는 막과자를 먹고 싶은 거지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -119,7 +119,7 @@
         "voice": "GB350504,3"
       },
       "original": "って、違います！\n",
-      "translation": "가 아니라, 틀렸어요！\n",
+      "translation": "아니, 그게 아니에요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -132,7 +132,7 @@
         "voice": "GB350504,3"
       },
       "original": "あれ、違った？\nおかしいなぁ。\n",
-      "translation": "어라, 틀렸나？ 이상하네.\n",
+      "translation": "어라, 틀렸나? 이상하네.\n",
       "state": "draft",
       "use_translation": true
     },

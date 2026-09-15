@@ -52,7 +52,8 @@ import moonlit_lovers_verify_structure as structure_verify
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PROJECT = ROOT / "work/galaxy_angel_moonlit_lovers"
+PROJECT = ROOT if (ROOT / "assets").is_dir() else ROOT / "work/galaxy_angel_moonlit_lovers"
+REPO_ROOT = PROJECT.parents[1] if PROJECT.parent.name == "work" else ROOT
 ASSETS = PROJECT / "assets"
 BUILD = PROJECT / "build"
 IMAGE_REFERENCE_OVERRIDES = ASSETS / "image_extraction/reference_overrides.json"
@@ -692,7 +693,7 @@ def main() -> None:
         original_elf,
         font_elf,
         font_map,
-        ROOT
+        REPO_ROOT
         / "vendor/pretendard/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf",
         20,
         0,

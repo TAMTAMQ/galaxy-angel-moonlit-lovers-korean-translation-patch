@@ -26,7 +26,7 @@
         "voice": "GB110600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -156,7 +156,7 @@
         "face": "0,0,0"
       },
       "original": "よし、以上だ。\n頼むぞ、みんな！\n",
-      "translation": "좋아, 이상이다. 부탁한다, 모두！\n",
+      "translation": "좋아, 이상이다. 부탁한다, 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -169,7 +169,7 @@
         "speaker": "999,0"
       },
       "original": "～敵部隊の編成～\n　駆逐艦×５　　　　　　巡洋艦×２\n　\n～勝利条件～\n　シャトルの目標地点到達\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대\n편성～구축함×５　　　　　　순양함×２～\n승리 조건～셔틀의 목표 지점 도달～패배\n조건～에르시올 파괴 타임 오버\n",
+      "translation": "～적 부대 편성～\n　구축함×5　　　　　　순양함×2\n　\n～승리 조건～\n　셔틀의 목표 지점 도달\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -182,7 +182,7 @@
         "face": "0170101,0,0"
       },
       "original": "もう一度、作戦内容を確認しますか？\n",
-      "translation": "다시 한번, 작전 내용을\n확인하시겠습니까？\n",
+      "translation": "다시 한번, 작전 내용을\n확인하시겠습니까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -221,7 +221,7 @@
         "face": "0170101,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없어. 모두, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없어. 모두, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -273,7 +273,7 @@
         "voice": "GB110613,3"
       },
       "original": "はい、フォルテさん。\nがんばってください！\n",
-      "translation": "네, 포르테 씨. 힘내세요！\n",
+      "translation": "네, 포르테 씨. 힘내세요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -286,7 +286,7 @@
         "voice": "GB110613,3"
       },
       "original": "それじゃあ、エンジェル隊、出撃！\n",
-      "translation": "그럼, 엔젤대, 출격！\n",
+      "translation": "그럼, 엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -299,7 +299,7 @@
         "voice": "GB110614,3"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }

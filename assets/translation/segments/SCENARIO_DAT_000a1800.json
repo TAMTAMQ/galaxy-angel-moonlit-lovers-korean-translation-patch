@@ -15,7 +15,7 @@
         "speaker": "1,0010302"
       },
       "original": "よっしゃ、男は度胸だ！\nオレの誠意、見せてやるぜっ！\n",
-      "translation": "좋아, 남자는 배짱이지！ 내 성의를\n보여주겠어！\n",
+      "translation": "좋아, 남자는 배짱이지! 내 성의를\n보여주겠어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -28,7 +28,7 @@
         "voice": "GB521800,3"
       },
       "original": "あのー……どうして、そんなに気合たっぷり\nなんですか？\n",
-      "translation": "저기…… 어째서 그렇게 기합이 잔뜩\n들어가 있는 건가요？\n",
+      "translation": "저기…… 어째서 그렇게 기합이 잔뜩\n들어가 있는 건가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -54,7 +54,7 @@
         "voice": "GB521800,3"
       },
       "original": "そ、そう！\nヴァニラが作ってくれたものだから、うれし\nくてね！\n",
-      "translation": "그, 그래！ 바닐라가 만들어 준 거니까,\n기뻐서 말이야！\n",
+      "translation": "그, 그래! 바닐라가 만들어 준 거니까,\n기뻐서 말이야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -145,7 +145,7 @@
         "voice": "GB521803,3"
       },
       "original": "……お口に、合いましたか……？\n",
-      "translation": "……입에, 맞으셨나요……？\n",
+      "translation": "……입에, 맞으셨나요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -158,7 +158,7 @@
         "voice": "GB521803,3"
       },
       "original": "え……えっと、こういう場合はなんて……。\n……そうだ！\n",
-      "translation": "어…… 저기, 이럴 때는 뭐라고…….\n……맞다！\n",
+      "translation": "어…… 저기, 이럴 때는 뭐라고…….\n……맞다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -171,7 +171,7 @@
         "voice": "GB521803,3"
       },
       "original": "うまーい！\nもう１杯！\n",
-      "translation": "맛있어！ 한 그릇 더！\n",
+      "translation": "맛있어! 한 잔 더!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -184,7 +184,7 @@
         "speaker": "6,0060101"
       },
       "original": "……では、おかわりを……。\n",
-      "translation": "……그럼, 한 그릇 더 드릴게요…….\n",
+      "translation": "……그럼, 한 잔 더 드릴게요…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -197,7 +197,7 @@
         "face": "0,0060702,0"
       },
       "original": "……………………！！\n",
-      "translation": "……………………！！\n",
+      "translation": "……………………!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -210,7 +210,7 @@
         "voice": "GB521804,3"
       },
       "original": "ああっ、オレ、急用を思い出した！\nごめんヴァニラ、またね！\n",
-      "translation": "아앗, 나, 급한 일이 생각났어！ 미안\n바닐라, 나중에 봐！\n",
+      "translation": "아앗, 나, 급한 일이 생각났어! 미안\n바닐라, 나중에 봐!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -223,7 +223,7 @@
         "voice": "GB521804,3"
       },
       "original": "……ちとせさん、お先にどうぞ。\n",
-      "translation": "……치토세 씨, 먼저 가세요.\n",
+      "translation": "……치토세 씨, 먼저 드세요.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -236,7 +236,7 @@
         "face": "0060101,0,1070304"
       },
       "original": "えっ……でも、いいんですか？\nこのスープはヴァニラ先輩が、タクトさんの\nために……。\n",
-      "translation": "엣…… 그래도 괜찮은 건가요？ 이 스프는\n바닐라 선배가, 택트 씨을 위해서…….\n",
+      "translation": "엣…… 그래도 괜찮은 건가요? 이 스프는\n바닐라 선배가, 택트 씨를 위해서…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -314,7 +314,7 @@
         "speaker": "1,0010101"
       },
       "original": "ヴァニラも、いいだろ？\n",
-      "translation": "바닐라도, 괜찮지？\n",
+      "translation": "바닐라도, 괜찮지?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -379,7 +379,7 @@
         "voice": "GB521809,3"
       },
       "original": "……どう、ちとせ？\n",
-      "translation": "……어때, 치토세？\n",
+      "translation": "……어때, 치토세?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -405,7 +405,7 @@
         "voice": "GB521811,3"
       },
       "original": "……おいしいです！\n",
-      "translation": "……맛있어요！\n",
+      "translation": "……맛있어요!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -418,7 +418,7 @@
         "voice": "GB521811,3"
       },
       "original": "ええっ！？\n",
-      "translation": "에엣！？\n",
+      "translation": "에엣!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -444,7 +444,7 @@
         "speaker": "6,0060101"
       },
       "original": "……初めてなのですが……。\n気に入ってもらえましたか……？\n",
-      "translation": "……처음이라서 말이에요……. 입에\n맞으셨나요……？\n",
+      "translation": "……처음이라서 말이에요……. 입에\n맞으셨나요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -509,7 +509,7 @@
         "face": "0060702,0,1070305"
       },
       "original": "隠し味の黒酢が、またなんとも……！\n",
-      "translation": "숨겨진 맛인 흑초가, 정말이지……！\n",
+      "translation": "숨겨진 맛인 흑초가, 정말이지……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -522,7 +522,7 @@
         "voice": "GB521818,3"
       },
       "original": "……タクトさん、どうかなさいました？\n顔色がよくありませんが……。\n",
-      "translation": "……택트 씨, 왜 그러세요？ 안색이 좋지\n않은데…….\n",
+      "translation": "……택트 씨, 왜 그러세요? 안색이 좋지\n않은데…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -535,7 +535,7 @@
         "speaker": "1,0010105"
       },
       "original": "……いや、聞いてるだけで胸ヤケが……。\n",
-      "translation": "……아니, 듣고 있는 것만으로도 속이\n울렁거려…….\n",
+      "translation": "……아니, 듣고 있는 것만으로도 속이\n쓰려 와…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -548,7 +548,7 @@
         "speaker": "107,1070101"
       },
       "original": "体調が悪いのでしたら、このブルースープを\n召し上がってみては？\n",
-      "translation": "몸 상태가 좋지 않으시다면, 이 블루\n수프를 드셔보시는 건 어떨까요？\n",
+      "translation": "몸 상태가 좋지 않으시다면, 이 블루\n수프를 드셔보시는 건 어떨까요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -561,7 +561,7 @@
         "voice": "GB521819,3"
       },
       "original": "いいっ！？\n",
-      "translation": "정말！？\n",
+      "translation": "정말!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -626,7 +626,7 @@
         "face": "0060702,0,1070102"
       },
       "original": "ぐっ……！\nげほっ……うぐ……やっぱり……。\n",
-      "translation": "윽……！ 컥……으윽…… 역시…….\n",
+      "translation": "윽……! 컥……으윽…… 역시…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -652,7 +652,7 @@
         "voice": "GB521821,3"
       },
       "original": "だ、誰か先に、味見してくれないかなぁ……？\n",
-      "translation": "누, 누가 먼저 맛 좀 봐주지 않을래……？\n",
+      "translation": "누, 누가 먼저 맛 좀 봐주지 않을래……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -665,7 +665,7 @@
         "speaker": "997,0"
       },
       "original": "なんてことを言うんですか、マイヤーズ司令！\n",
-      "translation": "무슨 말씀을 하시는 겁니까, 마이어스\n사령관님！\n",
+      "translation": "무슨 말씀을 하시는 겁니까, 마이어스\n사령관!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -678,7 +678,7 @@
         "voice": "GB521822,3"
       },
       "original": "うわっ！？\nこ、この声は……。\n",
-      "translation": "우왓！？ 이, 이 목소리는…….\n",
+      "translation": "우왓!? 이, 이 목소리는…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -691,7 +691,7 @@
         "face": "0,0,0"
       },
       "original": "ヴァニラちゃんの手料理をいただかないなん\nて、言語道断です！\n",
-      "translation": "바닐라 쨩의 요리를 먹지 않다니,\n언어도단입니다！\n",
+      "translation": "바닐라쨩의 요리를 먹지 않다니,\n언어도단입니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -717,7 +717,7 @@
         "speaker": "20,0200101"
       },
       "original": "はい、自分です。\nヴァニラちゃん親衛隊隊長にして、「ヴァニ\nラちゃんを守る会」会長をしております！\n",
-      "translation": "네, 접니다. 바닐라 쨩 친위대 대장이자,\n「바닐라 쨩을 지키는 모임」 회장을 맡고\n있습니다！\n",
+      "translation": "네, 접니다. 바닐라쨩 친위대 대장이자,\n「바닐라쨩을 지키는 모임」 회장을 맡고\n있습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -730,7 +730,7 @@
         "face": "0,0,0"
       },
       "original": "なんか、一個増えてる気がするけど……。\nまた例によって、ヴァニラにくっついて回っ\nてたわけだね。\n",
-      "translation": "왠지 한 명 늘어난 것 같은 기분이\n드는데……. 또 평소처럼 바닐라에게\n붙어다니고 있었던 거네.\n",
+      "translation": "왠지 하나 늘어난 것 같은 기분이\n드는데……. 또 평소처럼 바닐라에게\n붙어다니고 있었던 거네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -743,7 +743,7 @@
         "face": "0,0,0"
       },
       "original": "護衛ですから！\nもちろん、このスープができる一部始終も見\n届けていました！\n",
-      "translation": "호위니까요！ 물론, 이 스프가 완성되는 전\n과정을 지켜보고 있었습니다！\n",
+      "translation": "호위니까요! 물론, 이 스프가 완성되는 전\n과정을 지켜보고 있었습니다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -756,7 +756,7 @@
         "face": "0,0,0"
       },
       "original": "ヴァニラちゃんは厨房を借りて、今朝からずっ\nと鍋をかき回してたんですよ！\nぐるぐるグツグツぐるぐるグツグツと！\n",
-      "translation": "바닐라 쨩은 주방을 빌려서 오늘 아침부터\n계속 냄비를 휘젓고 있었다고요！ 빙글빙글\n보글보글 빙글빙글 보글보글 하고 말이죠！\n",
+      "translation": "바닐라쨩은 주방을 빌려서 오늘 아침부터\n계속 냄비를 휘젓고 있었다고요! 빙글빙글\n보글보글 빙글빙글 보글보글 하고 말이죠!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -795,7 +795,7 @@
         "voice": "GB521828,3"
       },
       "original": "え、え、え、俺もですか？\nか、感激です～っ！\n",
-      "translation": "에, 에, 에, 저도 말입니까？ 감,\n감격입니다앗！\n",
+      "translation": "에, 에, 에, 저도 말입니까? 감,\n감격입니다앗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -821,7 +821,7 @@
         "voice": "GB521829,3"
       },
       "original": "いただきますっ！\nああ、ヴァニラちゃんの手料理……！\n",
-      "translation": "잘 먹겠습니다！ 아아, 바닐라쨩이\n손수 만든 요리……！\n",
+      "translation": "잘 먹겠습니다! 아아, 바닐라쨩이\n손수 만든 요리……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -834,7 +834,7 @@
         "face": "0,0,0"
       },
       "original": "ごく……ぐぐっ……んむ……ぷはぁっ！\n",
-      "translation": "꿀꺽…… 꿀꺽…… 음…… 푸하앗！\n",
+      "translation": "꿀꺽…… 꿀꺽…… 음…… 푸하앗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -847,7 +847,7 @@
         "face": "0,0,0"
       },
       "original": "うおっ、漢（おとこ）の一気飲み！？\n",
-      "translation": "우와, 사나이의 원샷！？\n",
+      "translation": "우와, 사나이의 원샷!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -873,7 +873,7 @@
         "face": "0,0,0"
       },
       "original": "本当かよ……？\n",
-      "translation": "진짜냐……？\n",
+      "translation": "진짜냐……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -899,7 +899,7 @@
         "face": "0,0060703,0"
       },
       "original": "うっ……！\n",
-      "translation": "윽……！\n",
+      "translation": "윽……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -912,7 +912,7 @@
         "face": "0,0060703,0"
       },
       "original": "もちろん、マイヤーズ司令も残したりしませ\nんよね？\n",
-      "translation": "물론, 마이어스 사령관님도 남기지는\n않으시겠죠？\n",
+      "translation": "물론, 마이어스 사령관도 남기지는\n않으시겠죠?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -925,7 +925,7 @@
         "face": "0,0060703,0"
       },
       "original": "ううっ……！\n",
-      "translation": "으윽……！\n",
+      "translation": "으윽……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -977,7 +977,7 @@
         "face": "0,0060702,0"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1029,7 +1029,7 @@
         "face": "0,0060903,0"
       },
       "original": "そう……ですか？\n",
-      "translation": "그……런가요？\n",
+      "translation": "그……런가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1107,7 +1107,7 @@
         "face": "0,0060702,0"
       },
       "original": "だろう？\nまた今度、作ってあげるよ。\n",
-      "translation": "그렇지？ 다음에 또 만들어 줄게.\n",
+      "translation": "그렇지? 다음에 또 만들어 줄게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1133,7 +1133,7 @@
         "voice": "GB521903,3"
       },
       "original": "ん、なんだい？\n",
-      "translation": "응, 왜 그래？\n",
+      "translation": "응, 왜 그래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1159,7 +1159,7 @@
         "voice": "GB521904,3"
       },
       "original": "あっ、ヴァニラ？\nちょっと！\n",
-      "translation": "앗, 바닐라？ 잠깐만！\n",
+      "translation": "앗, 바닐라? 잠깐만!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1263,7 +1263,7 @@
         "voice": "GB521908,3"
       },
       "original": "……やっぱり、ヘンでしょうか……？\n",
-      "translation": "……역시, 이상할까요……？\n",
+      "translation": "……역시, 이상할까요……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1276,7 +1276,7 @@
         "speaker": "1,0010101"
       },
       "original": "いや、そんなことないよ。\nちょっとビックリしたけど、いいんじゃない\nかな？\n",
-      "translation": "아니, 그렇지 않아. 조금 놀랐지만, 괜찮지\n않을까？\n",
+      "translation": "아니, 그렇지 않아. 조금 놀랐지만, 괜찮지\n않을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1302,7 +1302,7 @@
         "voice": "GB521909,3"
       },
       "original": "あっ、ヴァニラ？\n",
-      "translation": "앗, 바닐라？\n",
+      "translation": "앗, 바닐라?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1341,7 +1341,7 @@
         "speaker": "6,0060101"
       },
       "original": "え……？\n",
-      "translation": "에……？\n",
+      "translation": "에……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1367,7 +1367,7 @@
         "voice": "GB521911,3"
       },
       "original": "……………………。\n",
-      "translation": "……………………。\n",
+      "translation": "…………………….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1393,7 +1393,7 @@
         "voice": "GB521912,3"
       },
       "original": "あ、ちょっと、ヴァニラ！？\n",
-      "translation": "아, 잠깐, 바닐라！？\n",
+      "translation": "아, 잠깐, 바닐라!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1445,7 +1445,7 @@
         "voice": "GB522001,3"
       },
       "original": "大丈夫！\nこのランファさんに、まっかせなさぁーい！\n",
-      "translation": "괜찮아！ 이 란파 씨에게, 맡겨두라구～！\n",
+      "translation": "괜찮아! 이 란파 씨에게, 맡겨두라구ー!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1484,7 +1484,7 @@
         "voice": "GB522003,3"
       },
       "original": "あーん？\nなんか言った！？\n",
-      "translation": "앙？ 방금 뭐라고 했어！？\n",
+      "translation": "앙? 방금 뭐라고 했어!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1523,7 +1523,7 @@
         "voice": "GB522005,3"
       },
       "original": "でも、その代わり、ヴァニラの気持ちは、ちゃ\nんと受け止めてあげるのよ？\n",
-      "translation": "하지만, 그 대신, 바닐라의 마음은, 제대로\n받아들여 주는 거야？\n",
+      "translation": "하지만, 그 대신, 바닐라의 마음은, 제대로\n받아들여 주는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1549,7 +1549,7 @@
         "voice": "GB522006,3"
       },
       "original": "よーし、こうしちゃいられないわ。\nいろいろと仕込みにいかなきゃ！\n",
-      "translation": "좋아, 이럴 때만 있을 순 없지. 이것저것\n준비하러 가야겠어！\n",
+      "translation": "좋아, 이럴 때만 있을 순 없지. 이것저것\n준비하러 가야겠어!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1562,7 +1562,7 @@
         "voice": "GB522007,3"
       },
       "original": "じゃあね、タクト。\n今言ったこと、忘れんじゃないわよ？\n",
-      "translation": "그럼 안녕, 택트. 방금 한 말, 잊어버리면\n안 돼？\n",
+      "translation": "그럼 안녕, 택트. 방금 한 말, 잊어버리면\n안 돼?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1627,7 +1627,7 @@
         "speaker": "3,0030501"
       },
       "original": "ばっ……！\nバカなこと言わないでよ！\n",
-      "translation": "바앗……！ 바보 같은 소리 하지 마！\n",
+      "translation": "바앗……! 바보 같은 소리 하지 마!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1653,7 +1653,7 @@
         "speaker": "1,0010403"
       },
       "original": "あいてっ！\n",
-      "translation": "아얏！\n",
+      "translation": "아얏!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1679,7 +1679,7 @@
         "voice": "GB522010,3"
       },
       "original": "いーい？\nたとえ冗談でも、そんなこと言わないでくれ\nる？\n",
-      "translation": "알았어？ 설령 농담이라도, 그런 말은 하지\n말아 줄래？\n",
+      "translation": "알았어? 설령 농담이라도, 그런 말은 하지\n말아 줄래?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1692,7 +1692,7 @@
         "voice": "GB522011,3"
       },
       "original": "ヴァニラの純粋な気持ちを踏みにじったりな\nんかしたら、このアタシがタダじゃおかない\nからね！？\n",
-      "translation": "바닐라의 순수한 마음을 짓밟는 짓이라도\n하면, 이 내가 가만두지 않을 거니까！\n",
+      "translation": "바닐라의 순수한 마음을 짓밟는 짓이라도\n하면, 이 내가 가만두지 않을 거니까!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1731,7 +1731,7 @@
         "voice": "GB522013,3"
       },
       "original": "頼むから、ヴァニラの件は、冗談じゃなくマ\nジメに答えてあげてよ？\n",
-      "translation": "부탁이니까, 바닐라 건은 농담 말고\n진지하게 대답해 줘？\n",
+      "translation": "부탁이니까, 바닐라 건은 농담 말고\n진지하게 대답해 줘?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1770,7 +1770,7 @@
         "speaker": "1,0010401"
       },
       "original": "具体的には、どんなことをするわけ？\n",
-      "translation": "구체적으로는, 어떤 걸 하려는 거야？\n",
+      "translation": "구체적으로는, 어떤 걸 하려는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1809,7 +1809,7 @@
         "voice": "GB522015,3"
       },
       "original": "ふんふん、それで？\n",
-      "translation": "흠흠, 그래서？\n",
+      "translation": "흠흠, 그래서?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1822,7 +1822,7 @@
         "voice": "GB522016,3"
       },
       "original": "それで、いっせいにタクトに向けて撃つ！\n",
-      "translation": "그래서, 일제히 택트를 향해 쏘는 거야！\n",
+      "translation": "그래서, 일제히 택트를 향해 쏘는 거야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1835,7 +1835,7 @@
         "speaker": "1,0010201"
       },
       "original": "なるほど！\nそれなら、いくらオレでも、必死によけよう\nとして運動するよな。\n",
-      "translation": "그렇군！ 그렇다면, 아무리 나라도\n필사적으로 피하려고 운동하게 되겠네.\n",
+      "translation": "그렇군! 그렇다면, 아무리 나라도\n필사적으로 피하려고 운동하게 되겠네.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1848,7 +1848,7 @@
         "face": "0,0030507,0"
       },
       "original": "……って、おい！！\nそれじゃ死んじゃうって！！\n",
-      "translation": "……아니, 어이！！ 그러면\n죽어버린다고！！\n",
+      "translation": "……아니, 어이!! 그러면\n죽어버린다고!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1874,7 +1874,7 @@
         "voice": "GB522017,3"
       },
       "original": "ムリ、ぜったいムリ！\n",
-      "translation": "무리야, 절대로 무리！\n",
+      "translation": "무리야, 절대로 무리!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1887,7 +1887,7 @@
         "face": "0,0030506,0"
       },
       "original": "やる前から投げてたら、いつになってもでき\nないわよ？\n",
-      "translation": "하기 전부터 던지기 시작하면, 언제까지고\n할 수 없다고？\n",
+      "translation": "하기 전부터 포기하면, 언제까지고\n할 수 없다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1900,7 +1900,7 @@
         "speaker": "1,0010105"
       },
       "original": "ランファが実例を見せてくれたら、考えるよ。\nそれじゃ、さよならー。\n",
-      "translation": "란파가 실례를 보여준다면 생각해 볼게.\n그럼, 안녕～.\n",
+      "translation": "란파가 직접 시범을 보여준다면\n생각해 볼게. 그럼, 안녕ー.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1926,7 +1926,7 @@
         "face": "0,0061004,0"
       },
       "original": "……ヘン……？\n",
-      "translation": "……이상……？\n",
+      "translation": "……이상……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1952,7 +1952,7 @@
         "face": "0,0061005,0"
       },
       "original": "それは……自分でもわかっています。\nどうしたら、治るのですか……？\n",
-      "translation": "그건…… 저도 알고 있습니다. 어떻게\n하면, 나을 수 있습니까……？\n",
+      "translation": "그건…… 저도 알고 있습니다. 어떻게\n하면, 나을 수 있습니까……?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1965,7 +1965,7 @@
         "voice": "GB522101,3"
       },
       "original": "あ、そうか。\nオレは何を言ってるんだ？\nそうじゃなくて、えーと……。\n",
-      "translation": "아, 그렇구나. 내가 무슨 말을 하는 거지？\n그게 아니라, 에-토…….\n",
+      "translation": "아, 그렇구나. 내가 무슨 말을 하는 거지?\n그게 아니라, 음…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1978,7 +1978,7 @@
         "voice": "GB522101,3"
       },
       "original": "……そう！\nヴァニラの今の状態は……。\n",
-      "translation": "……그래！ 바닐라의 지금 상태는…….\n",
+      "translation": "……그래! 바닐라의 지금 상태는…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2017,7 +2017,7 @@
         "voice": "GB522102,3"
       },
       "original": "うっ、そうか。\nえーと、その、なんだ……。\n",
-      "translation": "윽, 그렇구나. 에-토, 그게, 그러니까…….\n",
+      "translation": "윽, 그렇구나. 음, 그게, 그러니까…….\n",
       "state": "draft",
       "use_translation": true
     },

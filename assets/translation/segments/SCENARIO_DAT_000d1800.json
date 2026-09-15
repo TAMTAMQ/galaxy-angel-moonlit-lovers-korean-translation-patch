@@ -26,7 +26,7 @@
         "voice": "GB110600,3"
       },
       "original": "了解。\n",
-      "translation": "알았다.\n",
+      "translation": "알겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -117,7 +117,7 @@
         "face": "0,0,0"
       },
       "original": "ん……？\nちょっと待て、あれは……！\n",
-      "translation": "음……？ 잠깐 기다려, 저건……！\n",
+      "translation": "음……? 잠깐 기다려, 저건……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -130,7 +130,7 @@
         "face": "0,0,0"
       },
       "original": "この戦闘機は、エオニア軍との戦いで、ヘル・\nハウンズ隊が乗っていた機体じゃないか！\n",
-      "translation": "이 전투기는 에오니아군과의 전투에서\n헬・하운즈대가 타고 있던 기체 아니야！\n",
+      "translation": "이 전투기는 에오니아군과의 전투에서\n헬・하운즈대가 타고 있던 기체 아니야!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -143,7 +143,7 @@
         "face": "0,0,0"
       },
       "original": "ああ、『黒き月』が造り出した紋章機もどき\nだ。\n今回は、人は乗っていないようだが。\n",
-      "translation": "아아, 『흑색 달』이 만들어낸 문장기\n모조리다. 이번에는 사람이 타고 있지 않은\n것 같군.\n",
+      "translation": "아아, 『흑색 달』이 만들어낸 문장기\n모조품이다. 이번엔 무인기인 것 같군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -216,7 +216,7 @@
         "voice": "GB941513,3"
       },
       "original": "以上だ。\n頼むぞ、みんな！\n",
-      "translation": "이상이다. 부탁한다, 모두！\n",
+      "translation": "이상이다. 부탁한다, 모두!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -228,7 +228,7 @@
         "speaker": "999,0"
       },
       "original": "～敵部隊の編成～\n　大型戦艦×１　　　　　　戦艦×３\n　装甲ミサイル艦×２　　　高速突撃艦×４\n　大型戦闘機×６\n　\n～勝利条件～\n　敵艦隊の全滅\n　\n～敗北条件～\n　エルシオールの破壊\n　タイムオーバー\n",
-      "translation": "～적 부대의 편성～대형\n전함×１　　　　　　전함×３장갑\n미사일함×２　　　고속 돌격함×４대형\n전투기×６～승리 조건～적 함대의\n전멸～패배 조건～에르시올의 파괴 타임\n오버\n",
+      "translation": "～적 부대 편성～\n　대형전함×1　　　　　　전함×3\n　장갑미사일함×2　　　고속돌격함×4\n　대형전투기×6\n　\n～승리 조건～\n　적 함대의 전멸\n　\n～패배 조건～\n　에르시올의 파괴\n　타임 오버\n",
       "state": "draft",
       "use_translation": true
     },
@@ -241,7 +241,7 @@
         "face": "0,0070201,0"
       },
       "original": "もう一度、作戦内容を確認するか？\n",
-      "translation": "다시 한번 작전 내용을 확인할까？\n",
+      "translation": "다시 한번 작전 내용을 확인할까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -280,7 +280,7 @@
         "face": "0,0,0"
       },
       "original": "いや、その必要はない。\nみんな、準備はいいな？\n",
-      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나？\n",
+      "translation": "아니, 그럴 필요는 없다. 모두, 준비는\n됐나?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -293,7 +293,7 @@
         "face": "0,0,0"
       },
       "original": "エンジェル隊、出撃！\n",
-      "translation": "엔젤대, 출격！\n",
+      "translation": "엔젤대, 출격!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -306,7 +306,7 @@
         "voice": "GB930411,3"
       },
       "original": "了解！\n",
-      "translation": "네！\n",
+      "translation": "네!\n",
       "state": "draft",
       "use_translation": true
     }
