@@ -42,10 +42,38 @@ def main() -> None:
         original_recs = resources.pidx_record_map(original_container, "SCENARIO")
         wanted_records: dict[int, tuple[str, int]] = {}
         for name, offset in wanted:
-            if offset not in original_recs:
-                raise SystemExit(f"missing pristine SCENARIO PIDX offset {offset:#x} for {name}")
-            record, _raw_size, _compressed_size = original_recs[offset]
-            wanted_records[record] = (name, offset)
+            if offset in original_recs:
+                record, _raw_size, _compressed_size = original_recs[offset]
+                wanted_records[record] = (name, offset)
+                continue
+
+            # A translated/rebuilt ISO may have relocated a small number of
+            # SCENARIO leaves, so the pristine filename offset is no longer a
+            # key in its PIDX table.  The script/header ID at the start of each
+            # leaf (for example ``IDS9311:{``) is structural and survives
+            # translation, so use it as a unique fallback to recover the PIDX
+            # record without depending on the old physical offset.
+            source_path = args.names_dir / name
+            source_raw = source_path.read_bytes()
+            first_line = source_raw.splitlines()[0] if source_raw else b""
+            if not first_line:
+                raise SystemExit(
+                    f"missing pristine SCENARIO PIDX offset {offset:#x} for {name}; "
+                    "source leaf has no structural first line"
+                )
+            matches: list[int] = []
+            for current_offset, (candidate_record, raw_size, compressed_size) in original_recs.items():
+                raw = resources.decompress_resource(
+                    original_container, current_offset, raw_size, compressed_size
+                )
+                if raw.startswith(first_line + b"\r\n") or raw.startswith(first_line + b"\n"):
+                    matches.append(candidate_record)
+            if len(matches) != 1:
+                raise SystemExit(
+                    f"cannot uniquely recover relocated SCENARIO record for {name}: "
+                    f"offset={offset:#x} structural_id={first_line!r} matches={len(matches)}"
+                )
+            wanted_records[matches[0]] = (name, offset)
 
     with args.iso.open("rb") as stream, mmap.mmap(stream.fileno(), 0, access=mmap.ACCESS_READ) as image:
         files = builder.iso_files(image)

@@ -26,6 +26,22 @@ import moonlit_lovers_resources as resources
 
 
 ENTRY_RE = re.compile(r"^(?P<prefix>[ \t]*#(?P<id>\d+)[ \t]*=[ \t]*)(?P<rest>.*)$")
+# speaker.tbl values are parsed as whitespace-delimited fields.  A normal ASCII
+# space therefore truncates Korean multi-word names (for example "우주 고래"
+# showed as "우주").  Use the parser-safe half-width blank byte the battle text
+# and save/load titles already use, but only inside translated names.
+CONFIG_HALF_SPACE = b"\xa0"
+CONFIG_SPACE_MARKER = ""
+
+
+def encode_config_text(text: str, custom_map: dict[str, bytes]) -> bytes:
+    output = bytearray()
+    for char in text:
+        if char == CONFIG_SPACE_MARKER:
+            output.extend(CONFIG_HALF_SPACE)
+        else:
+            output.extend(translation.encode_text(char, custom_map))
+    return bytes(output)
 
 
 def sha256(data: bytes) -> str:
@@ -91,7 +107,8 @@ def rebuild_table(
             continue
         _value, suffix = split_comment(match.group("rest"))
         old_value = _value.rstrip(" \t")
-        output.append(match.group("prefix") + target + suffix + ending)
+        safe_target = target.replace(" ", CONFIG_SPACE_MARKER)
+        output.append(match.group("prefix") + safe_target + suffix + ending)
         seen.add(speaker_id)
         changes[speaker_id] = {"before": old_value, "after": target}
 
@@ -102,7 +119,7 @@ def rebuild_table(
     if missing_preserved:
         raise SystemExit("preserved speaker IDs missing from table: " + ", ".join(missing_preserved))
 
-    rebuilt = translation.encode_text("".join(output), custom_map)
+    rebuilt = encode_config_text("".join(output), custom_map)
     if len(rebuilt) > len(raw):
         raise SystemExit(f"speaker table raw overflow: {len(rebuilt)} > {len(raw)}")
     rebuilt += b" " * (len(raw) - len(rebuilt))

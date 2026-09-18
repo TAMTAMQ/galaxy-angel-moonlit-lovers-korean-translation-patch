@@ -43,6 +43,29 @@ def pixel_hash(image: Image.Image) -> str:
     return digest.hexdigest()
 
 
+def authoritative_png_path(
+    project: Path,
+    images_root: Path,
+    translated_dir: str,
+    entry: dict,
+) -> Path:
+    """Resolve the current translated_png source used for this runtime copy."""
+    mirror_source = entry.get("mirror_source_png")
+    if mirror_source:
+        path = (
+            project
+            / "assets/image_extraction/SLG/japanese_images/translated_png"
+            / str(mirror_source)
+        )
+    else:
+        path = images_root / translated_dir / str(entry["translated_png"])
+    if not path.is_file():
+        raise FileNotFoundError(
+            f"missing translated_png authority for {entry.get('png')}: {path}"
+        )
+    return path
+
+
 def compress_to_fit(
     original: bytes,
     replacement: Image.Image,
@@ -203,14 +226,20 @@ def main() -> None:
                     except Exception:  # noqa: BLE001 - the original error is the useful one
                         skipped.append({"png": entry["png"], "reason": str(error)})
                         continue
-                    with Image.open(images_root / translated_dir / entry["translated_png"]) as opened:
+                    replacement_path = authoritative_png_path(
+                        args.project, images_root, translated_dir, entry
+                    )
+                    with Image.open(replacement_path) as opened:
                         expected = opened.convert("RGBA")
                     if pixel_hash(decode_tex(recovered)) == pixel_hash(expected):
                         unchanged += 1
                         continue
                     skipped.append({"png": entry["png"], "reason": str(error)})
                     continue
-                with Image.open(images_root / translated_dir / entry["translated_png"]) as opened:
+                replacement_path = authoritative_png_path(
+                    args.project, images_root, translated_dir, entry
+                )
+                with Image.open(replacement_path) as opened:
                     replacement = opened.convert("RGBA")
                 if pixel_hash(decode_tex(original_raw)) == pixel_hash(replacement):
                     unchanged += 1

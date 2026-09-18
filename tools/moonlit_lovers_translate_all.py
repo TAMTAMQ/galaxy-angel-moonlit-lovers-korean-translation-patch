@@ -449,19 +449,40 @@ def curated_png_args(
     quality_fixes = _quality_fix_overrides(container_dir.name)
     manual_authority = _manual_authority(container_dir.name)
     args: list[str] = []
+
+    if preserve_current_images:
+        # translated_png is the authority for *changed* images, but a file that is
+        # pixel-identical to the Japanese source should not be re-encoded needlessly.
+        # GADAT031 keeps its Japanese extraction in the container-level png/ directory,
+        # so resolve each source individually instead of deriving the target list from one
+        # fixed source directory.
+        targets = sorted(translated.glob("*.png"), key=lambda p: p.name.lower())
+        changed_targets: list[Path] = []
+        unchanged = 0
+        for target in targets:
+            source = originals / target.name
+            if not source.is_file():
+                source = container_dir / "png" / target.name
+            if not source.is_file():
+                raise SystemExit(
+                    f"translated_png source image is missing: {container_dir.name}:{target.name}"
+                )
+            if image_patcher.image_hash(target) == image_patcher.image_hash(source):
+                unchanged += 1
+                continue
+            changed_targets.append(target)
+        print(
+            f"translated_png authority inputs: {container_dir.name} "
+            f"changed={len(changed_targets)} unchanged={unchanged} total={len(targets)} "
+            f"from {translated}",
+            flush=True,
+        )
+        for target in changed_targets:
+            args.extend(["--png", str(target)])
+        return args
+
     for source in sorted(originals.glob("*.png"), key=lambda p: p.name.lower()):
         target = translated / source.name
-        if preserve_current_images:
-            if not target.is_file():
-                raise SystemExit(
-                    f"preserve-current-images translated_png is missing: {target}"
-                )
-            print(
-                f"preserved translated_png authority: {container_dir.name}:{source.name} -> {target}",
-                flush=True,
-            )
-            args.extend(["--png", str(target)])
-            continue
         if container_dir.name == "GADAT032" and target.is_file():
             print(
                 f"existing translated_png authority: {container_dir.name}:{source.name} -> {target}",
@@ -538,9 +559,9 @@ def image_commands(
     patcher = ROOT / "tools/galaxy_angel_patch_gadat032_images.py"
     image_root = ASSETS / "image_extraction"
     full_root = ASSETS / "full_extraction"
-    # Preserve mode freezes which PNG files are consumed and forbids regenerating them.
-    # TEX palette conversion itself remains enabled because indexed4/indexed8 target formats
-    # cannot represent arbitrary source RGBA byte-for-byte.
+    # Preserve mode freezes which translated_png files are consumed.  The existing fixed
+    # PIDX/FSTS slots and offsets must not move; normal target-format palette conversion and
+    # re-quantization remain allowed when needed to fit the historical slot.
     preserve_flags: list[str] = []
 
     gadat030 = image_root / "GADAT030"
@@ -639,13 +660,20 @@ def main() -> None:
     )
     parser.add_argument(
         "--preserve-current-images",
+        dest="preserve_current_images",
         action="store_true",
+        default=True,
         help=(
-            "Use only the current japanese_images/translated_png files, skip all image "
-            "render/regeneration/override paths, forbid redraw/refit fallbacks, and verify "
-            "the source/translated PNG trees remain byte-for-byte unchanged. Target TEX "
-            "palette conversion is still allowed when required by the original format."
+            "Use only the current japanese_images/translated_png files (default), skip all "
+            "image render/regeneration/override paths, forbid redraw/refit fallbacks, and "
+            "verify the source/translated PNG trees remain byte-for-byte unchanged."
         ),
+    )
+    parser.add_argument(
+        "--regenerate-images",
+        dest="preserve_current_images",
+        action="store_false",
+        help="Explicitly regenerate derived translated images instead of using translated_png authority.",
     )
     args = parser.parse_args()
 
@@ -698,6 +726,7 @@ def main() -> None:
         20,
         0,
         hangul_horizontal_scale=1.0,
+        compatibility_map=translation_assets / "font_compat_v0.1.json",
     )
     run([
         sys.executable,
@@ -944,6 +973,23 @@ def main() -> None:
             )
 
         adv_image_fsts.sync(output_iso, image_reports, adv_image_fsts_report)
+
+        # ADV also owns two hand-edited images that are not mirrors of another container.
+        # Apply those exact translated_png inputs before the runtime-mirror pass; a later ADV
+        # bank repack preserves them while relocating records if required.
+        run([
+            sys.executable, "-u",
+            str(ROOT / "tools/eternal_lovers_patch_battle_bank_images.py"),
+            "--iso", str(output_iso),
+            "--project", str(PROJECT),
+            "--layout", "moonlit",
+            "--container", "ADV",
+            "--manifest-name", "manifest.json",
+            "--translated-dir", "translated_png",
+            "--no-refit",
+            "--report", str(BUILD / "adv_direct_images_report.json"),
+        ])
+
         # Every battle texture is stored again inside each per-stage bank, and those banks are
         # FSTS-indexed, which the PIDX image patcher cannot address.  Patching only the named
         # copy leaves the Japanese one on screen during a battle, so each copy is written
@@ -980,6 +1026,21 @@ def main() -> None:
         str(font_map),
         "--report",
         str(speaker_report),
+    ])
+
+    saveload_runtime_report = BUILD / "saveload_runtime_titles_report.json"
+    run([
+        sys.executable,
+        "-u",
+        str(ROOT / "tools/moonlit_lovers_patch_saveload_runtime_titles.py"),
+        "--iso",
+        str(output_iso),
+        "--titles",
+        str(translation_assets / "saveload_runtime_titles.json"),
+        "--encoding-map",
+        str(font_map),
+        "--report",
+        str(saveload_runtime_report),
     ])
 
     index_verification = verify_named_container_indexes(
@@ -1040,6 +1101,9 @@ def main() -> None:
             adv_scenario_report.read_text(encoding="utf-8")
         ),
         "speaker_names": json.loads(speaker_report.read_text(encoding="utf-8")),
+        "saveload_runtime_titles": json.loads(
+            saveload_runtime_report.read_text(encoding="utf-8")
+        ),
         "images": image_final,
         "image_input_policy": (
             "current-translated-png-authority"

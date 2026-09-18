@@ -23,6 +23,7 @@ import galaxy_angel_translation as ga
 
 
 SAVE_LABEL_RE = re.compile(r"\\SaveLabel\((?P<label>[^\r\n]*)\)")
+SAVE_LABEL_HALF_SPACE = b"\xA0"
 
 
 def mission_layout_overrides(asset_dir: Path) -> dict[str, str]:
@@ -74,6 +75,53 @@ def replace_save_labels(
         return f"\\SaveLabel({translated})"
 
     return SAVE_LABEL_RE.sub(replace, text)
+
+
+def patch_encoded_save_label_spaces(
+    raw: bytes,
+    translations: dict[str, str],
+    custom_map: dict[str, bytes],
+) -> tuple[bytes, int]:
+    """Replace ASCII spaces inside translated SaveLabel payloads with 0xA0.
+
+    Moonlit's SaveLabel handler tokenizes the command argument on ordinary
+    ASCII spaces before persisting it to the memory card.  Korean labels such
+    as ``밀피와의 평온한 나날`` were therefore saved as only ``밀피와의``.
+    The engine already uses byte 0xA0 as a half-width visual blank and does not
+    treat it as an argument delimiter, so keep the visible spacing while making
+    the serialized label parser-safe.
+    """
+    patched = raw
+    replacements = 0
+    for translated in set(translations.values()):
+        if " " not in translated:
+            continue
+        encoded = ga.encode_text(translated, custom_map)
+        parser_safe = encoded.replace(b" ", SAVE_LABEL_HALF_SPACE)
+        if parser_safe == encoded:
+            continue
+        needle = b"\\SaveLabel(" + encoded + b")"
+        count = patched.count(needle)
+        if count:
+            patched = patched.replace(needle, b"\\SaveLabel(" + parser_safe + b")")
+            replacements += count
+    return patched, replacements
+
+
+def assert_no_ascii_space_in_save_labels(raw: bytes) -> None:
+    marker = b"\\SaveLabel("
+    cursor = 0
+    while True:
+        start = raw.find(marker, cursor)
+        if start < 0:
+            return
+        value_start = start + len(marker)
+        end = raw.find(b")", value_start)
+        if end < 0:
+            raise SystemExit(f"unterminated encoded SaveLabel at {start:#x}")
+        if b" " in raw[value_start:end]:
+            raise SystemExit(f"ASCII space remains in encoded SaveLabel at {start:#x}")
+        cursor = end + 1
 
 
 def selection_translations(asset_dir: Path) -> dict[str, str]:
@@ -184,6 +232,7 @@ def materialize(
     total_delta = 0
     file_report: list[dict] = []
     selection_overflows: list[dict] = []
+    save_label_half_space_occurrences = 0
 
     for segment, source in loaded:
         text = source["text"]
@@ -197,6 +246,18 @@ def materialize(
                 if mission_override is not None:
                     selected = mission_override
                     applied_mission_overrides.add(unit["original"])
+            elif unit.get("use_translation"):
+                # The translation assets were historically pre-wrapped at Moonlit's
+                # old 40-column estimate.  Treat those breaks as layout metadata,
+                # flatten them, and let the first Galaxy Angel's 3-row wrapper decide
+                # the runtime line breaks at Moonlit's safe width (40-column box - 1).
+                logical = " ".join(
+                    line.strip()
+                    for line in selected.rstrip("\r\n").splitlines()
+                    if line.strip()
+                )
+                if logical:
+                    selected = ga.reflow_translation_layout(logical + "\n")
             pieces.append(selected.replace("\n", "\r\n"))
             cursor = match.end(2)
             applied_dialogue += int(unit["use_translation"])
@@ -209,6 +270,11 @@ def materialize(
             rebuilt_text, save_labels, applied_save_labels
         )
         rebuilt = ga.encode_scenario(rebuilt_text, custom_map)
+        rebuilt, patched_spaces = patch_encoded_save_label_spaces(
+            rebuilt, save_labels, custom_map
+        )
+        save_label_half_space_occurrences += patched_spaces
+        assert_no_ascii_space_in_save_labels(rebuilt)
         output_name = segment["source"]["path"]
         source_path = source_dir / output_name
         source_size = source_path.stat().st_size
@@ -246,6 +312,11 @@ def materialize(
             if rebuilt_text == source_text:
                 continue
             rebuilt = ga.encode_scenario(rebuilt_text, custom_map)
+            rebuilt, patched_spaces = patch_encoded_save_label_spaces(
+                rebuilt, save_labels, custom_map
+            )
+            save_label_half_space_occurrences += patched_spaces
+            assert_no_ascii_space_in_save_labels(rebuilt)
             delta = len(rebuilt) - len(raw)
             (output_dir / path.name).write_bytes(rebuilt)
             selection_only_files += 1
@@ -285,6 +356,7 @@ def materialize(
         "mission_layout_override_patterns_applied": len(applied_mission_overrides),
         "save_label_translation_patterns": len(save_labels),
         "save_label_translation_patterns_applied": len(applied_save_labels),
+        "save_label_half_space_occurrences": save_label_half_space_occurrences,
         "applied_dialogue_units": applied_dialogue,
         "selection_translations": len(choices),
         "segment_files": len(loaded),
@@ -310,7 +382,8 @@ def materialize(
         f"materialized {len(file_report)} files; dialogue={applied_dialogue} "
         f"selections={len(choices)} selection_only={selection_only_files} "
         f"grown={grown_files} shrunk={shrunk_files} same={same_size_files} "
-        f"delta={total_delta:+d} selection_overflows={len(selection_overflows)}"
+        f"delta={total_delta:+d} selection_overflows={len(selection_overflows)} "
+        f"save_label_half_spaces={save_label_half_space_occurrences}"
     )
     return report
 

@@ -100,7 +100,7 @@ def reflow(translation: str, indents: tuple[str, str], maximum: int) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--assets", type=Path, required=True)
-    parser.add_argument("--max-columns", type=int, default=40)
+    parser.add_argument("--max-columns", type=int, default=39)
     parser.add_argument("--dialogue-max-lines", type=int, default=3)
     parser.add_argument("--report", type=Path,
                         help="write units that still exceed the dialogue budget")

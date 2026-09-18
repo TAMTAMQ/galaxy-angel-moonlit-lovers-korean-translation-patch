@@ -98,6 +98,41 @@ def collect_custom_chars(translations: list[Path]) -> list[str]:
     return sorted(chars)
 
 
+def load_compatibility_chars(path: Path | None) -> list[str]:
+    if path is None:
+        return []
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if payload.get("schema") != "moonlit-lovers-font-compat/v1":
+        raise SystemExit(f"unsupported font compatibility map: {path}")
+    chars = list(str(payload.get("characters", "")))
+    expected_count = int(payload.get("character_count", len(chars)))
+    if len(chars) != expected_count:
+        raise SystemExit(
+            f"font compatibility character count mismatch: {len(chars)} != {expected_count}"
+        )
+    if len(set(chars)) != len(chars):
+        raise SystemExit("font compatibility map contains duplicate characters")
+    for char in chars:
+        try:
+            char.encode("cp932")
+        except UnicodeEncodeError:
+            continue
+        raise SystemExit(
+            f"font compatibility map contains a native cp932 character: {char!r}"
+        )
+    return chars
+
+
+def ordered_custom_chars(
+    translations: list[Path], compatibility_map: Path | None
+) -> tuple[list[str], int, int]:
+    current = collect_custom_chars(translations)
+    compatibility = load_compatibility_chars(compatibility_map)
+    compatibility_set = set(compatibility)
+    ordered = compatibility + [char for char in current if char not in compatibility_set]
+    return ordered, len(current), len(compatibility)
+
+
 def safe_indices() -> list[int]:
     return [
         index
@@ -130,8 +165,11 @@ def build_font(
     font_size: int,
     font_index: int,
     hangul_horizontal_scale: float = 1.0,
+    compatibility_map: Path | None = None,
 ) -> None:
-    chars = collect_custom_chars(translations)
+    chars, current_count, compatibility_count = ordered_custom_chars(
+        translations, compatibility_map
+    )
     available_indices = safe_indices()
     if len(chars) > len(available_indices):
         raise SystemExit(
@@ -183,6 +221,11 @@ def build_font(
                 "pair_bytes": PAIR_BYTES,
                 "replacement_index_floor": FIRST_REPLACEMENT_INDEX,
                 "safe_capacity": len(available_indices),
+                "current_translation_characters": current_count,
+                "compatibility_map": (
+                    str(compatibility_map) if compatibility_map is not None else None
+                ),
+                "compatibility_baseline_characters": compatibility_count,
                 "characters": mapping,
             },
             ensure_ascii=False,
@@ -192,7 +235,8 @@ def build_font(
         encoding="utf-8",
     )
     print(
-        f"patched {len(mapping)} custom glyphs; "
+        f"patched {len(mapping)} custom glyphs; current={current_count} "
+        f"compatibility_baseline={compatibility_count} "
         f"capacity={len(available_indices)} output={output_elf}"
     )
 
@@ -221,6 +265,11 @@ def main() -> None:
     build.add_argument("--input-elf", type=Path, required=True)
     build.add_argument("--output-elf", type=Path, required=True)
     build.add_argument("--map-output", type=Path, required=True)
+    build.add_argument(
+        "--compatibility-map",
+        type=Path,
+        help="Preserve the character/code order from an earlier public font map.",
+    )
     build.add_argument(
         "--font",
         type=Path,
@@ -310,6 +359,7 @@ def main() -> None:
         args.font_size,
         args.font_index,
         args.hangul_horizontal_scale,
+        args.compatibility_map,
     )
 
 
