@@ -454,7 +454,7 @@
     {
       "id": "remaining:00046",
       "original": "おっと、回避されたか。\n",
-      "translation": "앗, 회피당했나.\n",
+      "translation": "앗, 적이 피했나.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -474,7 +474,7 @@
     {
       "id": "remaining:00048",
       "original": "回避されちゃったか。\n",
-      "translation": "회피당해 버렸나.\n",
+      "translation": "적이 피해 버렸나.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -514,7 +514,7 @@
     {
       "id": "remaining:00052",
       "original": "しまった、回避されたか。\n",
-      "translation": "이런, 회피당했나.\n",
+      "translation": "이런, 적이 피했나.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -1477,7 +1477,7 @@
     {
       "id": "remaining:00151",
       "original": "ああっ、回避されてしまったか。\n",
-      "translation": "아앗, 회피당하고 말았나.\n",
+      "translation": "아앗, 적이 피했나.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -1511,7 +1511,7 @@
     {
       "id": "remaining:00155",
       "original": "あっ、回避されました！\n",
-      "translation": "앗, 회피되었습니다!\n",
+      "translation": "앗, 적이 피했습니다!\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -2539,7 +2539,7 @@
     {
       "id": "remaining:00269",
       "original": "攻撃、かわされました。\n",
-      "translation": "공격, 회피되었습니다.\n",
+      "translation": "적이 공격을 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -2559,7 +2559,7 @@
     {
       "id": "remaining:00271",
       "original": "回避されちゃいました。\n",
-      "translation": "회피당했습니다.\n",
+      "translation": "적이 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -6120,7 +6120,7 @@
     {
       "id": "remaining:00659",
       "original": "攻撃、よけられました。\n",
-      "translation": "공격, 회피되었습니다.\n",
+      "translation": "적이 공격을 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -6342,7 +6342,7 @@
     {
       "id": "remaining:00686",
       "original": "今日の敵さん、強いですね。\n",
-      "translation": "오늘 적군 씨는 강하네요.\n",
+      "translation": "오늘 적는 강하네요.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -6562,7 +6562,7 @@
     {
       "id": "remaining:00714",
       "original": "早く敵さんをやっつけて、直接タクト\n",
-      "translation": "빨리 적군 씨를 쓰러뜨리고 직접 택트\n",
+      "translation": "빨리 적를 쓰러뜨리고 직접 택트\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -7427,7 +7427,7 @@
     {
       "id": "remaining:00819",
       "original": "タクト、敵によけられちゃった。\n",
-      "translation": "택트, 적에게 회피당해버렸어.\n",
+      "translation": "택트, 적이 공격을 피했어.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -9645,7 +9645,7 @@
     {
       "id": "remaining:01051",
       "original": "あっ、回避された！\n",
-      "translation": "앗, 회피당했다!\n",
+      "translation": "앗, 적이 피했어!\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -9665,7 +9665,7 @@
     {
       "id": "remaining:01053",
       "original": "攻撃、回避されたわ。\n",
-      "translation": "공격, 회피당했어.\n",
+      "translation": "적이 공격을 피했어.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -9685,7 +9685,7 @@
     {
       "id": "remaining:01055",
       "original": "いけない、回避されちゃった！\n",
-      "translation": "안 돼, 회피당해버렸어!\n",
+      "translation": "안 돼, 적이 피해버렸어!\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -10298,7 +10298,7 @@
     {
       "id": "remaining:01122",
       "original": "回避されちゃったわ。\n",
-      "translation": "회피당해 버렸어.\n",
+      "translation": "적이 피했어.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -12967,7 +12967,7 @@
     {
       "id": "remaining:01441",
       "original": "攻撃を回避されましたわ。\n",
-      "translation": "공격을 회피당했습니다.\n",
+      "translation": "적이 공격을 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -15048,7 +15048,7 @@
     {
       "id": "remaining:01659",
       "original": "こんなに撃ってもかわされるなんて。\n",
-      "translation": "이렇게나 쏴도 회피당하다니.\n",
+      "translation": "이렇게나 쏴도 적이 피하다니.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -16296,7 +16296,7 @@
     {
       "id": "remaining:01803",
       "original": "敵に回避されましたわ。\n",
-      "translation": "적에게 회피당했습니다.\n",
+      "translation": "적이 공격을 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -17954,7 +17954,7 @@
     {
       "id": "remaining:02009",
       "original": "しまった、攻撃がかわされたよ。\n",
-      "translation": "앗차, 공격을 회피당했어.\n",
+      "translation": "앗차, 적이 공격을 피했어.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -19396,7 +19396,7 @@
     {
       "id": "remaining:02160",
       "original": "あら、敵さん回避しちゃったよ。\n",
-      "translation": "어라, 적군 씨가 회피해 버렸네.\n",
+      "translation": "어라, 적가 회피해 버렸네.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -20155,7 +20155,7 @@
     {
       "id": "remaining:02240",
       "original": "しかし敵さん、無人艦を使ってするこ\n",
-      "translation": "그런데 적군 씨도 무인함으로 하는 짓\n",
+      "translation": "그런데 적도 무인함으로 하는 짓\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -21936,7 +21936,7 @@
     {
       "id": "remaining:02453",
       "original": "をするとは、敵さんもヤボだねぇ。\n",
-      "translation": "하다니 적군 씨도 눈치가 없네.\n",
+      "translation": "하다니 적도 눈치가 없네.\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -22038,7 +22038,7 @@
     {
       "id": "remaining:02465",
       "original": "は、親切な敵さんだねぇ。\n",
-      "translation": "니 참 친절한 적군 씨네.\n",
+      "translation": "니 참 친절한 적네.\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -22810,14 +22810,14 @@
     {
       "id": "remaining:02559",
       "original": "攻撃、回避されました……。\n",
-      "translation": "공격, 회피되었습니다…….\n",
+      "translation": "적이 공격을 피했습니다…….\n",
       "state": "draft",
       "use_translation": true
     },
     {
       "id": "remaining:02560",
       "original": "回避されました……。\n",
-      "translation": "회피되었습니다…….\n",
+      "translation": "적이 피했습니다…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -26089,7 +26089,7 @@
     {
       "id": "remaining:02944",
       "original": "回避されました。\n",
-      "translation": "회피당했습니다.\n",
+      "translation": "적이 피했습니다.\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -26103,7 +26103,7 @@
     {
       "id": "remaining:02946",
       "original": "攻撃、回避されました。\n",
-      "translation": "공격이 회피되었습니다.\n",
+      "translation": "적이 공격을 피했습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -26901,7 +26901,7 @@
     {
       "id": "remaining:03039",
       "original": "かわされた！\n",
-      "translation": "회피당했다!\n",
+      "translation": "적이 피했어!\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -28118,7 +28118,7 @@
     {
       "id": "remaining:03179",
       "original": "申し訳ありません、回避されました。\n",
-      "translation": "죄송합니다, 회피되었습니다.\n",
+      "translation": "죄송합니다, 적이 피했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -30511,7 +30511,7 @@
     {
       "id": "remaining:03469",
       "original": "攻撃が回避されました！\n",
-      "translation": "공격이 회피되었습니다!\n",
+      "translation": "적이 공격을 피했습니다!\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -34361,7 +34361,7 @@
     {
       "id": "remaining:04060",
       "original": "シヴァ皇子、それにエンジェル隊の\n",
-      "translation": "시바 황자, 그리고 엔젤대\n",
+      "translation": "시바 황태자, 그리고 엔젤대\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -35400,7 +35400,7 @@
     {
       "id": "remaining:04288",
       "original": "アルモ、作戦図をモニターへ。\n",
-      "translation": "아르모, 작전도를 모니터에 띄워줘.\n",
+      "translation": "아르모, 작전 지도를 모니터에 띄워줘.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [

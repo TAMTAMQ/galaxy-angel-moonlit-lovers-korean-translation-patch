@@ -981,6 +981,7 @@ def main() -> None:
             sys.executable, "-u",
             str(ROOT / "tools/eternal_lovers_patch_battle_bank_images.py"),
             "--iso", str(output_iso),
+            "--original-iso", str(original_iso),
             "--project", str(PROJECT),
             "--layout", "moonlit",
             "--container", "ADV",
@@ -998,6 +999,7 @@ def main() -> None:
             sys.executable, "-u",
             str(ROOT / "tools/eternal_lovers_patch_battle_bank_images.py"),
             "--iso", str(output_iso),
+            "--original-iso", str(original_iso),
             "--project", str(PROJECT),
             "--layout", "moonlit",
             "--container", "SLGRES",
@@ -1070,6 +1072,19 @@ def main() -> None:
             image_baseline, "final"
         )
 
+    fsts_physical_report = BUILD / "fsts_physical_layout_report.json"
+    run([
+        sys.executable,
+        "-u",
+        str(ROOT / "tools/verify_fsts_physical_layout.py"),
+        "--original-iso",
+        str(original_iso),
+        "--iso",
+        str(output_iso),
+        "--report",
+        str(fsts_physical_report),
+    ])
+
     final_digest = sha256(output_iso)
     report = {
         "schema": "moonlit-lovers-integrated-build/v1",
@@ -1135,6 +1150,9 @@ def main() -> None:
             else {}
         ),
         "named_container_index_verification": index_verification,
+        "fsts_physical_layout": json.loads(
+            fsts_physical_report.read_text(encoding="utf-8")
+        ),
         "wip_selection_overflow_original": bool(
             materialize_report["selection_overflow_count"]
         ),
