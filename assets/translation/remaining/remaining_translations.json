@@ -6342,7 +6342,7 @@
     {
       "id": "remaining:00686",
       "original": "今日の敵さん、強いですね。\n",
-      "translation": "오늘 적는 강하네요.\n",
+      "translation": "오늘 적은 강하네요.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -6562,7 +6562,7 @@
     {
       "id": "remaining:00714",
       "original": "早く敵さんをやっつけて、直接タクト\n",
-      "translation": "빨리 적를 쓰러뜨리고 직접 택트\n",
+      "translation": "빨리 적을 쓰러뜨리고 직접 택트\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -19396,7 +19396,7 @@
     {
       "id": "remaining:02160",
       "original": "あら、敵さん回避しちゃったよ。\n",
-      "translation": "어라, 적가 회피해 버렸네.\n",
+      "translation": "어라, 적이 피해 버렸네.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -22038,7 +22038,7 @@
     {
       "id": "remaining:02465",
       "original": "は、親切な敵さんだねぇ。\n",
-      "translation": "니 참 친절한 적네.\n",
+      "translation": "니 참 친절한 적이네.\n",
       "state": "manual_direct",
       "use_translation": true
     },
