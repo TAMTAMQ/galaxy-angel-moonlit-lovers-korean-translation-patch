@@ -723,7 +723,7 @@ def main() -> None:
         font_map,
         REPO_ROOT
         / "vendor/pretendard/packages/pretendard/dist/public/static/alternative/Pretendard-Bold.ttf",
-        20,
+        21,
         0,
         hangul_horizontal_scale=1.0,
         compatibility_map=translation_assets / "font_compat_v0.1.json",
