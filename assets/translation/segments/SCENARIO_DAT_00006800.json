@@ -269,7 +269,7 @@
         "voice": "GB110010,3"
       },
       "original": "ミルフィーとお隣さん暮らしを始めて半年か。\n『黒き月』との戦いが、遠い昔のことみたい\nだな。\n",
-      "translation": "밀피와 이웃 사촌 생활을 시작한 지도\n반년인가. 『흑색 달』과의 싸움이, 먼\n옛날 일처럼 느껴지는군.\n",
+      "translation": "밀피와 이웃 사촌 생활을 시작한 지도\n반년인가. 『검은 달』과의 싸움이, 먼\n옛날 일처럼 느껴지는군.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -334,7 +334,7 @@
         "face": "0,0021102,0"
       },
       "original": "（そろそろ、将来のことを考えないとなー。\n　いつまでもその日暮らしってワケにもいか\n　ないし）\n",
-      "translation": "(슬슬, 장래의 일을 생각해야겠네ー.\n　언제까지나 하루 벌어 하루 먹고 살 수는\n　없으니까)\n",
+      "translation": "（슬슬, 장래의 일을 생각해야겠네ー.\n　언제까지나 하루 벌어 하루 먹고 살 수는\n　없으니까）\n",
       "state": "draft",
       "use_translation": true
     },
@@ -672,7 +672,7 @@
         "voice": "GB110021,3"
       },
       "original": "だって、トランスバール皇国始まって以来の、\n皇王の衝撃発表だよ？\n",
-      "translation": "그치만, 트랜스벌 황국 건국 이래 최초의,\n황왕의 충격 발표였다고?\n",
+      "translation": "그치만, 트랜스벌 황국 건국 이래 최초의,\n황제의 충격 발표였다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1205,7 +1205,7 @@
         "voice": "GB110041,3"
       },
       "original": "ほかの人の話は聞いてるかい？\n",
-      "translation": "다른 사람들의 이야기는 들었나?\n",
+      "translation": "다른 사람들의 이야기는 들었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2921,7 +2921,7 @@
         "speaker": "1,0010603"
       },
       "original": "だいたい、どうしてエルシオールがここに？\n辺境調査に出かけてるんじゃなかったのか？\n",
-      "translation": "애초에, 왜 에르시올이 여기에? 변방\n조사하러 나간 거 아니었나?\n",
+      "translation": "애초에, 왜 에르시올이 여기에? 변방\n조사하러 나간 거 아니었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3038,7 +3038,7 @@
         "voice": "GB110419,3"
       },
       "original": "けど、あれはレナ星系に出てるんじゃなかっ\nたのか？\n",
-      "translation": "하지만, 그건 레나 성계에 나타난 거\n아니었나?\n",
+      "translation": "하지만, 그건 레나 성계에 나타난 거\n아니었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4244,7 +4244,7 @@
         "voice": "GB110825,3"
       },
       "original": "それで、オレに現役に復帰しろってか？\n",
-      "translation": "그래서, 나에게 현역 복귀를 하라는 건가?\n",
+      "translation": "그래서, 나에게 현역 복귀를 하라는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5479,7 +5479,7 @@
         "speaker": "107,1070101"
       },
       "original": "反乱軍との戦いが終わった後に、『白き月』\nの内部から発見されたのだそうです。\n",
-      "translation": "반란군과의 전투가 끝난 후에, 『백색 달』\n내부에서 발견되었다고 합니다.\n",
+      "translation": "반란군과의 전투가 끝난 후에, 『하얀 달』\n내부에서 발견되었다고 합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5505,7 +5505,7 @@
         "speaker": "1,0010401"
       },
       "original": "なるほど。\nあの戦いで、『白き月』の封印されていた区\n画が開放されたからか……。\n",
-      "translation": "그렇군. 그 전투에서 『백색 달』의\n봉인되어 있던 구역이 개방되었기\n때문인가…….\n",
+      "translation": "그렇군. 그 전투에서 『하얀 달』의\n봉인되어 있던 구역이 개방되었기\n때문인가…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5908,7 +5908,7 @@
         "face": "0050103,0,0"
       },
       "original": "軍規どおりで、大変よろしい。\n",
-      "translation": "군규대로라 아주 좋구나.\n",
+      "translation": "군율대로라 아주 좋구나.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5947,7 +5947,7 @@
         "face": "0050101,0,0"
       },
       "original": "軍規通りに堅苦しく呼び合うのと、軍規違反\nだけど親しげに呼び合うの。\nどちらが早く信頼関係を築けると思う？\n",
-      "translation": "군규대로 딱딱하게 부르는 것과,\n위반이지만 친근하게 부르는 것 중 어느\n쪽이 신뢰를 빨리 쌓을까?\n",
+      "translation": "군율대로 딱딱하게 부르는 것과,\n위반이지만 친근하게 부르는 것 중 어느\n쪽이 신뢰를 빨리 쌓을까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7451,7 +7451,7 @@
         "face": "0,0070301,0"
       },
       "original": "エルシオール損害率、２％。\n問題ありません。\n",
-      "translation": "에르시올 손해율, 2%. 문제없습니다.\n",
+      "translation": "에르시올 손해율, 2％. 문제없습니다.\n",
       "state": "draft",
       "use_translation": true
     },

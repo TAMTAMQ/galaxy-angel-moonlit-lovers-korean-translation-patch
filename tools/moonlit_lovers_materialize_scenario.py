@@ -77,6 +77,47 @@ def replace_save_labels(
     return SAVE_LABEL_RE.sub(replace, text)
 
 
+# The save/load screen wraps a SaveLabel every 20 bytes.  A wrapped line that
+# opens with 0xA0 hangs the game while saving or loading, the same renderer
+# rule as battle text (2026-10-06: "거대 함선 오・가우브 출현" froze, and
+# exactly this model explained all nine test labels).
+SAVE_LABEL_WRAP_BYTES = 20
+
+
+def _sjis_tokens(raw: bytes) -> list[bytes]:
+    tokens = []
+    index = 0
+    while index < len(raw):
+        byte = raw[index]
+        width = 2 if 0x81 <= byte <= 0x9F or 0xE0 <= byte <= 0xFC else 1
+        tokens.append(raw[index:index + width])
+        index += width
+    return tokens
+
+
+def wrap_leading_half_space_offsets(raw: bytes) -> list[int]:
+    offsets = []
+    column = 0
+    position = 0
+    for token in _sjis_tokens(raw):
+        if column + len(token) > SAVE_LABEL_WRAP_BYTES:
+            if token == SAVE_LABEL_HALF_SPACE:
+                offsets.append(position)
+            column = 0
+        column += len(token)
+        position += len(token)
+    return offsets
+
+
+def drop_wrap_leading_half_spaces(raw: bytes) -> bytes:
+    """Drop a word gap that would open a wrapped line; the break shows it anyway."""
+    while True:
+        offsets = wrap_leading_half_space_offsets(raw)
+        if not offsets:
+            return raw
+        raw = raw[:offsets[0]] + raw[offsets[0] + 1:]
+
+
 def patch_encoded_save_label_spaces(
     raw: bytes,
     translations: dict[str, str],
@@ -97,7 +138,9 @@ def patch_encoded_save_label_spaces(
         if " " not in translated:
             continue
         encoded = ga.encode_text(translated, custom_map)
-        parser_safe = encoded.replace(b" ", SAVE_LABEL_HALF_SPACE)
+        parser_safe = drop_wrap_leading_half_spaces(
+            encoded.replace(b" ", SAVE_LABEL_HALF_SPACE)
+        )
         if parser_safe == encoded:
             continue
         needle = b"\\SaveLabel(" + encoded + b")"
@@ -106,6 +149,11 @@ def patch_encoded_save_label_spaces(
             patched = patched.replace(needle, b"\\SaveLabel(" + parser_safe + b")")
             replacements += count
     return patched, replacements
+
+
+# Longest \SaveLabel value in the original scenario; the label is copied into the
+# save data, so a translation must not exceed it.
+SAVE_LABEL_MAX_BYTES = 48
 
 
 def assert_no_ascii_space_in_save_labels(raw: bytes) -> None:
@@ -121,7 +169,26 @@ def assert_no_ascii_space_in_save_labels(raw: bytes) -> None:
             raise SystemExit(f"unterminated encoded SaveLabel at {start:#x}")
         if b" " in raw[value_start:end]:
             raise SystemExit(f"ASCII space remains in encoded SaveLabel at {start:#x}")
+        if wrap_leading_half_space_offsets(raw[value_start:end]):
+            raise SystemExit(f"SaveLabel wraps onto a line that opens with 0xA0 at {start:#x}")
+        if end - value_start > SAVE_LABEL_MAX_BYTES:
+            raise SystemExit(
+                f"encoded SaveLabel at {start:#x} is {end - value_start} bytes; "
+                f"the longest original is {SAVE_LABEL_MAX_BYTES}"
+            )
         cursor = end + 1
+
+
+def assert_no_new_ascii_percent(source: bytes, rebuilt: bytes, name: str) -> None:
+    # ISL_Analysis.cpp treats '%' in script text as a paired variable marker and
+    # asserts ("%の対応が異常") when the closing '%' is missing; the assert aborts
+    # to the PS2 browser.  Shift-JIS trail bytes never equal 0x25, so a byte count
+    # is exact.  Translations must use the original full-width '％' instead.
+    if rebuilt.count(b"%") > source.count(b"%"):
+        raise SystemExit(
+            f"{name}: ASCII '%' added by translation "
+            f"({source.count(b'%')} -> {rebuilt.count(b'%')}); use full-width '％'"
+        )
 
 
 def selection_translations(asset_dir: Path) -> dict[str, str]:
@@ -277,6 +344,7 @@ def materialize(
         assert_no_ascii_space_in_save_labels(rebuilt)
         output_name = segment["source"]["path"]
         source_path = source_dir / output_name
+        assert_no_new_ascii_percent(source_path.read_bytes(), rebuilt, output_name)
         source_size = source_path.stat().st_size
         delta = len(rebuilt) - source_size
         (output_dir / output_name).write_bytes(rebuilt)
@@ -317,6 +385,7 @@ def materialize(
             )
             save_label_half_space_occurrences += patched_spaces
             assert_no_ascii_space_in_save_labels(rebuilt)
+            assert_no_new_ascii_percent(raw, rebuilt, path.name)
             delta = len(rebuilt) - len(raw)
             (output_dir / path.name).write_bytes(rebuilt)
             selection_only_files += 1

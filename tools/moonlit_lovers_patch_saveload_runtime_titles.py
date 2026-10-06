@@ -42,6 +42,8 @@ TARGET_PATHS = (
 )
 EXPECTED_CHAPTER_ROWS = 16
 EXPECTED_SLG_ROWS = 48
+# Movie names shown after "ムービー：" in the backlog.
+EXPECTED_MOVIE_ROWS = 25
 EXPECTED_ADV_RUNTIME_COPIES = 3
 
 
@@ -81,7 +83,10 @@ def load_titles(path: Path) -> dict[str, dict[str, str]]:
         )
     if not slg:
         raise SystemExit("SLG title translation table is empty")
-    return {"LOG_CHAPTER": chapter, "LOG_SLG": slg}
+    movie = {str(k): str(v) for k, v in payload.get("movie", {}).items()}
+    if not movie:
+        raise SystemExit("movie title translation table is empty")
+    return {"LOG_CHAPTER": chapter, "LOG_SLG": slg, "LOG_MOVIE": movie}
 
 
 def rebuild_log_tables(
@@ -92,8 +97,8 @@ def rebuild_log_tables(
     text = raw.decode("cp932")
     section = ""
     output: list[str] = []
-    seen_rows = {"LOG_CHAPTER": 0, "LOG_SLG": 0}
-    replaced_rows = {"LOG_CHAPTER": 0, "LOG_SLG": 0}
+    seen_rows = {"LOG_CHAPTER": 0, "LOG_SLG": 0, "LOG_MOVIE": 0}
+    replaced_rows = {"LOG_CHAPTER": 0, "LOG_SLG": 0, "LOG_MOVIE": 0}
     replaced_values: dict[str, dict[str, str]] = {}
 
     for line in text.splitlines(keepends=True):
@@ -137,6 +142,16 @@ def rebuild_log_tables(
         raise SystemExit(
             f"LOG_SLG translation mismatch: {replaced_rows['LOG_SLG']}/"
             f"{EXPECTED_SLG_ROWS}"
+        )
+    if seen_rows["LOG_MOVIE"] != EXPECTED_MOVIE_ROWS:
+        raise SystemExit(
+            f"LOG_MOVIE row count mismatch: {seen_rows['LOG_MOVIE']} != {EXPECTED_MOVIE_ROWS}"
+        )
+    if replaced_rows["LOG_MOVIE"] != EXPECTED_MOVIE_ROWS:
+        missing = sorted(set(title_maps["LOG_MOVIE"]) - set(replaced_values.get("LOG_MOVIE", {})))
+        raise SystemExit(
+            f"LOG_MOVIE translation mismatch: {replaced_rows['LOG_MOVIE']}/"
+            f"{EXPECTED_MOVIE_ROWS}; missing={missing}"
         )
 
     rebuilt = encode_config_text("".join(output), custom_map)

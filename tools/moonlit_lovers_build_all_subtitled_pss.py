@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import shutil
 import subprocess
 from fractions import Fraction
@@ -37,6 +38,24 @@ def get_ffmpeg() -> str:
         raise RuntimeError("ffmpeg is unavailable") from exc
 
 
+# Largest picture any subtitled movie has played back with on hardware is ~93 KB.
+# 2026-10-06: a re-timed GADAT102 got a scene-cut I-frame of 141 KB at 87 s and
+# the game stopped the movie there, ten seconds early.  Encodes above this size
+# are redone with scene-cut I-frames off, which keeps the fixed GOP phase.
+MAX_PICTURE_BYTES = 100_000
+NO_SCENE_CUT = ["-sc_threshold", "1000000000"]
+
+
+def max_picture_bytes(m2v: Path) -> int:
+    data = m2v.read_bytes()
+    starts = [match.start() for match in re.finditer(rb"\x00\x00\x01\x00", data)]
+    sizes = [
+        (starts[index + 1] if index + 1 < len(starts) else len(data)) - start
+        for index, start in enumerate(starts)
+    ]
+    return max(sizes, default=0)
+
+
 def encode_m2v(
     ffmpeg: str,
     source: Path,
@@ -46,6 +65,35 @@ def encode_m2v(
     frame_rate: Fraction,
     bitrate_kbps: int,
     vbv_bytes: int,
+) -> list[str]:
+    # The encode being replaced has already played on hardware, so its largest
+    # picture is also a proven size for this movie.
+    limit = max(MAX_PICTURE_BYTES, max_picture_bytes(output) if output.is_file() else 0)
+    cmd = _encode_m2v(
+        ffmpeg, source, subtitle, output, movie_root, frame_rate, bitrate_kbps, vbv_bytes, []
+    )
+    if max_picture_bytes(output) <= limit:
+        return cmd
+    cmd = _encode_m2v(
+        ffmpeg, source, subtitle, output, movie_root, frame_rate, bitrate_kbps, vbv_bytes,
+        NO_SCENE_CUT,
+    )
+    largest = max_picture_bytes(output)
+    if largest > limit:
+        raise SystemExit(f"{output.name}: largest picture {largest} > {limit} bytes")
+    return cmd
+
+
+def _encode_m2v(
+    ffmpeg: str,
+    source: Path,
+    subtitle: Path,
+    output: Path,
+    movie_root: Path,
+    frame_rate: Fraction,
+    bitrate_kbps: int,
+    vbv_bytes: int,
+    extra: list[str],
 ) -> list[str]:
     src_arg = source.resolve().relative_to(movie_root.resolve()).as_posix()
     sub_arg = subtitle.resolve().relative_to(movie_root.resolve()).as_posix()
@@ -95,6 +143,7 @@ def encode_m2v(
         "31",
         "-trellis",
         "1",
+        *extra,
         "-f",
         "mpeg2video",
         out_arg,

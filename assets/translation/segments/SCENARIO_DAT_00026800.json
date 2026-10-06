@@ -1021,7 +1021,7 @@
         "voice": "GB160217,3"
       },
       "original": "そうなんだ。\nそれで、『白き月』に行ったっきりなんだよ。\n",
-      "translation": "그렇단 말이지. 그래서 『백색 달』에 가고\n아직 안 돌아왔어.\n",
+      "translation": "그렇단 말이지. 그래서 『하얀 달』에 가고\n아직 안 돌아왔어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1593,7 +1593,7 @@
         "speaker": "1,0010102"
       },
       "original": "……と、その前に。\nミルフィーの様子、どこかおかしくなかった\nかい？\n",
-      "translation": "……아니, 그전에. 밀피의 상태, 어딘가\n이상하지 않았나?\n",
+      "translation": "……아니, 그전에. 밀피의 상태, 어딘가\n이상하지 않았어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1645,7 +1645,7 @@
         "voice": "GB160244,3"
       },
       "original": "え、そうなのかい？\n",
-      "translation": "에, 그런 건가?\n",
+      "translation": "에, 그런 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2035,7 +2035,7 @@
         "speaker": "1,0010101"
       },
       "original": "……とにかく、夕食になれば会えるんだ。\nそのときに『白き月』で何があったのか聞こ\nう。\n",
-      "translation": "……어쨌든, 저녁 식사가 되면 만날 수\n있어. 그때 『백색 달』에서 무슨 일이\n있었는지 물어보자.\n",
+      "translation": "……어쨌든, 저녁 식사가 되면 만날 수\n있어. 그때 『하얀 달』에서 무슨 일이\n있었는지 물어보자.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2061,7 +2061,7 @@
         "speaker": "1,0010101"
       },
       "original": "ミルフィー、いるかい？\n",
-      "translation": "밀피, 안에 있나?\n",
+      "translation": "밀피, 안에 있어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3491,7 +3491,7 @@
         "voice": "GB160356,3"
       },
       "original": "様子がおかしくなったのは、『白き月』から\n帰ってきてからだ。\n",
-      "translation": "상태가 이상해진 것은, 『백색 달』에서\n돌아온 뒤부터다.\n",
+      "translation": "상태가 이상해진 것은, 『하얀 달』에서\n돌아온 뒤부터다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3543,7 +3543,7 @@
         "face": "0050801,0,0040202"
       },
       "original": "『白き月』に行ってくる。\n　シャトヤーン様に事情を聞くんだ。\n",
-      "translation": "『백색 달』에 다녀올게. 샤토얀 님께\n　사정을 물어봐야겠어.\n",
+      "translation": "『하얀 달』에 다녀올게. 샤토얀 님께\n　사정을 물어봐야겠어.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4310,7 +4310,7 @@
         "face": "0,0100103,0"
       },
       "original": "自分の力では何もできず、『白き月』の中で\nエンジェル隊に守られているだけ。\n",
-      "translation": "내 힘으로는 아무것도 할 수 없고,\n『백색 달』 안에서 엔젤대의 보호를\n받고 있을 뿐.\n",
+      "translation": "내 힘으로는 아무것도 할 수 없고,\n『하얀 달』 안에서 엔젤대의 보호를\n받고 있을 뿐.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4375,7 +4375,7 @@
         "speaker": "1,0010101"
       },
       "original": "『白き月』に戻ってきたとき、エンジェル隊\n　のみんなが言ってました。\n",
-      "translation": "『백색 달』로 돌아왔을 때, 엔젤대 모두가\n　말했습니다.\n",
+      "translation": "『하얀 달』로 돌아왔을 때, 엔젤대 모두가\n　말했습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4414,7 +4414,7 @@
         "speaker": "1,0010101"
       },
       "original": "彼女たちにとって、この『白き月』は第２の\n故郷とも言えるものなんです。\n",
-      "translation": "그녀들에게 있어서, 이 『백색 달』은\n제2의 고향이라고도 할 수 있는 곳입니다.\n",
+      "translation": "그녀들에게 있어서, 이 『하얀 달』은\n제2의 고향이라고도 할 수 있는 곳입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4427,7 +4427,7 @@
         "face": "0,0100104,0"
       },
       "original": "そして、シャトヤーン様は、彼女たちの帰る\n場所、故郷を守る母なるお方。\nまさに『白き月の聖母』なのです。\n",
-      "translation": "그리고 샤토얀 님은, 그녀들이 돌아갈 곳,\n고향을 지키는 어머니 같은 분. 그야말로\n『백색 달의 성모』이십니다.\n",
+      "translation": "그리고 샤토얀 님은, 그녀들이 돌아갈 곳,\n고향을 지키는 어머니 같은 분. 그야말로\n『하얀 달의 성모』이십니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -6789,7 +6789,7 @@
         "speaker": "10,0100101"
       },
       "original": "……『白き月』よ。\nあのふたりをお守りください……。\n",
-      "translation": "……『백색 달』이여. 저 두 사람을\n지켜주소서…….\n",
+      "translation": "……『하얀 달』이여. 저 두 사람을\n지켜주소서…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7461,7 +7461,7 @@
         "speaker": "2,0021302"
       },
       "original": "それに『白き月』も、あんなにおっきく！\nすごいなぁ……。\n",
-      "translation": "게다가 『백색 달』도, 저렇게나 크게!\n대단하다…….\n",
+      "translation": "게다가 『하얀 달』도, 저렇게나 크게!\n대단하다…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7809,7 +7809,7 @@
         "speaker": "1,0010601"
       },
       "original": "あの空に浮かぶ『白き月』も……。\nこの平和な世界も……。\n",
-      "translation": "저 하늘에 떠 있는 『백색 달』도……. 이\n평화로운 세계도…….\n",
+      "translation": "저 하늘에 떠 있는 『하얀 달』도……. 이\n평화로운 세계도…….\n",
       "state": "draft",
       "use_translation": true
     },

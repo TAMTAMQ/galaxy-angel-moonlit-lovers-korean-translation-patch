@@ -5356,7 +5356,7 @@
     {
       "id": "remaining:00569",
       "original": "この艦隊をなんとかすれば『黒き月』\n",
-      "translation": "이 함대를 어떻게든 하면 『흑색 달』을\n",
+      "translation": "이 함대를 어떻게든 하면 『검은 달』을\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -5370,7 +5370,7 @@
     {
       "id": "remaining:00571",
       "original": "『黒き月』を壊して、あのレゾムって\n",
-      "translation": "『흑색 달』을 부수고 그 레좀이라는\n",
+      "translation": "『검은 달』을 부수고 그 레좀이라는\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -5418,7 +5418,7 @@
     {
       "id": "remaining:00577",
       "original": "あの人たち、どうやって『黒き月』の\n",
-      "translation": "그 사람들, 어떻게 『흑색 달』의\n",
+      "translation": "그 사람들, 어떻게 『검은 달』의\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -5669,7 +5669,7 @@
     {
       "id": "remaining:00603",
       "original": "絶対『黒き月』をやっつけましょう！\n",
-      "translation": "반드시 『흑색 달』을 쓰러뜨려요!\n",
+      "translation": "반드시 『검은 달』을 쓰러뜨려요!\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -5696,7 +5696,7 @@
     {
       "id": "remaining:00606",
       "original": "せっかく『黒き月』を倒せたと思った\n",
-      "translation": "모처럼 『흑색 달』을 쓰러뜨렸다고\n",
+      "translation": "모처럼 『검은 달』을 쓰러뜨렸다고\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -6768,7 +6768,7 @@
     {
       "id": "remaining:00743",
       "original": "『黒き月』は、あたしたちがやっつけ\n",
-      "translation": "『흑색 달』은 우리가 쓰러뜨렸\n",
+      "translation": "『검은 달』은 우리가 쓰러뜨렸\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -10923,7 +10923,7 @@
     {
       "id": "remaining:01195",
       "original": "『黒き月』が復活するだなんて、冗談\n",
-      "translation": "『흑색 달』이 부활한다니, 농담\n",
+      "translation": "『검은 달』이 부활한다니, 농담\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -10958,14 +10958,14 @@
     {
       "id": "remaining:01200",
       "original": "アンタは『黒き月』を頼むわ！\n",
-      "translation": "넌 『흑색 달』을 부탁해!\n",
+      "translation": "넌 『검은 달』을 부탁해!\n",
       "state": "manual_direct",
       "use_translation": true
     },
     {
       "id": "remaining:01201",
       "original": "『黒き月』さえ破壊すれば、後の連中\n",
-      "translation": "『흑색 달』만 파괴하면 나머지 녀석\n",
+      "translation": "『검은 달』만 파괴하면 나머지 녀석\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -11034,14 +11034,14 @@
     {
       "id": "remaining:01210",
       "original": "『黒き月』を破壊すれば……！\n",
-      "translation": "『흑색 달』을 파괴하면……!\n",
+      "translation": "『검은 달』을 파괴하면……!\n",
       "state": "manual_direct",
       "use_translation": true
     },
     {
       "id": "remaining:01211",
       "original": "今まで戦ってきた無人艦は『黒き月』\n",
-      "translation": "지금까지 싸운 무인함은 『흑색 달』\n",
+      "translation": "지금까지 싸운 무인함은 『검은 달』\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -11146,7 +11146,7 @@
     {
       "id": "remaining:01223",
       "original": "『黒き月』も、このアタシに見つかっ\n",
-      "translation": "『흑색 달』도 나한테 들\n",
+      "translation": "『검은 달』도 나한테 들\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -16167,7 +16167,7 @@
     {
       "id": "remaining:01788",
       "original": "本格的な侵攻が始まる前に『黒き月』\n",
-      "translation": "본격적인 침공이 시작되기 전에 『흑색 달』\n",
+      "translation": "본격적인 침공이 시작되기 전에 『검은 달』\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -16202,7 +16202,7 @@
     {
       "id": "remaining:01793",
       "original": "『黒き月』が二度と再生できないよう\n",
-      "translation": "『흑색 달』이 다시는 재생하지 못하도\n",
+      "translation": "『검은 달』이 다시는 재생하지 못하도\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -16380,7 +16380,7 @@
     {
       "id": "remaining:01812",
       "original": "私にできる限りのことをいたしますか\n",
-      "translation": "낼게요. 제가 할 수 있는 한의 일을 하겠습니다.\n",
+      "translation": "제가 할 수 있는 일은 뭐든 하겠으니,\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -16440,7 +16440,7 @@
     {
       "id": "remaining:01818",
       "original": "トリックマスター、絶好調ですわ。\n",
-      "translation": "트릭 마스터, 절호조예요.\n",
+      "translation": "트릭 마스터, 컨디션 최고예요.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -16464,7 +16464,7 @@
     {
       "id": "remaining:01821",
       "original": "『黒き月』を破壊できたと思ったら、\n",
-      "translation": "『흑색 달』을 파괴했다고 생각했더니,\n",
+      "translation": "『검은 달』을 파괴했다고 생각했더니,\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -16966,7 +16966,7 @@
     {
       "id": "remaining:01885",
       "original": "タクトさんがブリッジにいるというだ\n",
-      "translation": "택트 씨가 함교에 있다는 것만으\n",
+      "translation": "택트 씨가 브릿지에 있다는 것만으\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -20909,7 +20909,7 @@
     {
       "id": "remaining:02330",
       "original": "これ以上悪さをする前に、『黒き月』\n",
-      "translation": "더 나쁜 짓을 하기 전에 『흑색 달』\n",
+      "translation": "더 나쁜 짓을 하기 전에 『검은 달』\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -20954,7 +20954,7 @@
     {
       "id": "remaining:02336",
       "original": "タクトは『黒き月』を頼む！\n",
-      "translation": "택트는 『흑색 달』을 부탁해!\n",
+      "translation": "택트는 『검은 달』을 부탁해!\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -24815,7 +24815,7 @@
     {
       "id": "remaining:02785",
       "original": "私も、お役に立てるように、がんばり\n",
-      "translation": "겠습니다.\n",
+      "translation": "저도 도움이 될 수 있도록 힘내겠\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -24853,7 +24853,7 @@
     {
       "id": "remaining:02789",
       "original": "一度破壊したはずの『黒き月』が……\n",
-      "translation": "한번 파괴했던 『흑색 달』이……\n",
+      "translation": "한번 파괴했던 『검은 달』이……\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -24867,7 +24867,7 @@
     {
       "id": "remaining:02791",
       "original": "もし『黒き月』が、完全に再生された\n",
-      "translation": "만약 『흑색 달』이 완전히 재생된다\n",
+      "translation": "만약 『검은 달』이 완전히 재생된다\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -24881,7 +24881,7 @@
     {
       "id": "remaining:02793",
       "original": "タクトさん……もう一度、『黒き月』\n",
-      "translation": "택트 씨…… 다시 한번 『흑색 달』\n",
+      "translation": "택트 씨…… 다시 한번 『검은 달』\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -24930,7 +24930,7 @@
     {
       "id": "remaining:02800",
       "original": "あの『黒き月』が、メッセージにあっ\n",
-      "translation": "저 『흑색 달』이 메시지에 있\n",
+      "translation": "저 『검은 달』이 메시지에 있\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -24965,7 +24965,7 @@
     {
       "id": "remaining:02805",
       "original": "タクトさんは『黒き月』を……。\n",
-      "translation": "택트 씨는 『흑색 달』을…….\n",
+      "translation": "택트 씨는 『검은 달』을…….\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -25012,7 +25012,7 @@
     {
       "id": "remaining:02810",
       "original": "タクトさん……『黒き月』を、今度こ\n",
-      "translation": "택트 씨…… 『흑색 달』을 이번에야\n",
+      "translation": "택트 씨…… 『검은 달』을 이번에야\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -26120,7 +26120,7 @@
     {
       "id": "remaining:02948",
       "original": "ゆ、油断しました。\n",
-      "translation": "지, 방심했습니다.\n",
+      "translation": "바, 방심했습니다.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -29116,7 +29116,7 @@
     {
       "id": "remaining:03301",
       "original": "あれが『黒き月』……話には聞いてい\n",
-      "translation": "저게 『흑색 달』…… 이야기는 들었\n",
+      "translation": "저게 『검은 달』…… 이야기는 들었\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -29137,7 +29137,7 @@
     {
       "id": "remaining:03304",
       "original": "なんとしても、今のうちに『黒き月』\n",
-      "translation": "어떻게 해서든 지금 『흑색 달』\n",
+      "translation": "어떻게 해서든 지금 『검은 달』\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -29158,7 +29158,7 @@
     {
       "id": "remaining:03307",
       "original": "あの『黒き月』が、無人艦隊を作り出\n",
-      "translation": "저 『흑색 달』이 무인 함대를 만들\n",
+      "translation": "저 『검은 달』이 무인 함대를 만들\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -29179,7 +29179,7 @@
     {
       "id": "remaining:03310",
       "original": "タクトさんは『黒き月』を！\n",
-      "translation": "택트 씨는 『흑색 달』을!\n",
+      "translation": "택트 씨는 『검은 달』을!\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -29655,7 +29655,7 @@
     {
       "id": "remaining:03369",
       "original": "あ、タクトさん、こちらをご覧になっ\n",
-      "translation": "아, 택트 씨, 이곳을 보고 계신 건가요?\n",
+      "translation": "아, 택트 씨, 저를\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -30853,7 +30853,7 @@
     {
       "id": "remaining:03517",
       "original": "さすが『白き月』の申し子。\n",
-      "translation": "역시 『백색 달』의 총아.\n",
+      "translation": "역시 『하얀 달』의 총아.\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -31411,7 +31411,7 @@
     {
       "id": "remaining:03595",
       "original": "これが『白き月』の最精鋭の力……。\n",
-      "translation": "이것이 『백색 달』 최정예의 힘…….\n",
+      "translation": "이것이 『하얀 달』 최정예의 힘…….\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -32006,7 +32006,7 @@
     {
       "id": "remaining:03720",
       "original": "メカ脳（通常）\n",
-      "translation": "메카 뇌(통상)\n",
+      "translation": "메카 뇌（통상）\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -32033,7 +32033,7 @@
     {
       "id": "remaining:03732",
       "original": "異星人脳（通常）\n",
-      "translation": "외계인 뇌(일반)\n",
+      "translation": "외계인 뇌（일반）\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -32092,7 +32092,7 @@
     {
       "id": "remaining:03748",
       "original": "『黒き月』を倒せば、この騒動も終結\n",
-      "translation": "『흑색 달』을 쓰러뜨리면 이 소동도 끝\n",
+      "translation": "『검은 달』을 쓰러뜨리면 이 소동도 끝\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -32151,7 +32151,7 @@
     {
       "id": "remaining:03756",
       "original": "『黒き月』を破壊して、この戦いを終\n",
-      "translation": "『흑색 달』을 파괴해서 이 싸움을 끝\n",
+      "translation": "『검은 달』을 파괴해서 이 싸움을 끝\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -32210,7 +32210,7 @@
     {
       "id": "remaining:03764",
       "original": "『黒き月』を破壊するぞ！\n",
-      "translation": "『흑색 달』을 파괴하자!\n",
+      "translation": "『검은 달』을 파괴하자!\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -32456,7 +32456,7 @@
     {
       "id": "remaining:03792",
       "original": "……『白き月』とトランスバール本星\n",
-      "translation": "……『백색 달』과 트랜스벌 본성\n",
+      "translation": "……『하얀 달』과 트랜스벌 본성\n",
       "state": "manual_direct",
       "use_translation": true
     },

@@ -403,7 +403,7 @@
         "voice": "GB410012,3"
       },
       "original": "皇国じゅう、まさに上を下への大騒ぎだった\nらしいね。\nああ、オレもその場にいたかったよ。\n",
-      "translation": "황국 전체가, 그야말로 상하를 막론하고\n대소동이었던 모양이네. 아아, 나도 그\n자리에 있고 싶었다고.\n",
+      "translation": "황국 전체가, 그야말로 너나 할 것 없이\n큰 소동이었던 모양이네. 아아, 나도 그\n자리에 있고 싶었다고.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -429,7 +429,7 @@
         "face": "0,0,0"
       },
       "original": "だって、トランスバール皇国始まって以来の、\n皇王の衝撃発表だよ？\n",
-      "translation": "그치만, 트랜스벌 황국 역사상 유례없는,\n황왕의 충격 발표였다고?\n",
+      "translation": "그치만, 트랜스벌 황국 역사상 유례없는,\n황제의 충격 발표였다고?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1430,7 +1430,7 @@
         "face": "0,0080104,0"
       },
       "original": "エルシオールでとらえることができる？\nなんだそれ、通信みたいなものなのか？\n",
-      "translation": "에르시올로 포착할 수 있다고? 그게 뭐야,\n통신 같은 건가?\n",
+      "translation": "에르시올로 포착할 수 있다고? 그게 뭐야,\n통신 같은 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2158,7 +2158,7 @@
         "voice": "GB910142,3"
       },
       "original": "……ＥＤＥＮ……\nコエテ……イソゲ……\n",
-      "translation": "……EDEN……코에테……이소게……\n",
+      "translation": "……EDEN……\n넘어서……서둘러……\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2171,7 +2171,7 @@
         "face": "0,0,0"
       },
       "original": "……ロキ……ヨ……\n……ユウゲン……サダメラレ……\n",
-      "translation": "……로키……요…………\n유우겐……사다메라 레……\n",
+      "translation": "……하얀 달……이여……\n……유한……정해진……\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2184,7 +2184,7 @@
         "face": "0,0,0"
       },
       "original": "……ラヨ……イソゲ……\n……ニオオワ……\n",
-      "translation": "……라요……이소게…………니오오와……\n",
+      "translation": "……이여……서둘러……\n……끝나……\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3250,7 +3250,7 @@
         "speaker": "16,0160101"
       },
       "original": "そうです。\nエオニアは倒して、『黒き月』も破壊したじゃ\nありませんか。\n",
-      "translation": "맞습니다. 에오니아는 쓰러뜨렸고, 『흑색\n달』도 파괴하지 않았습니까.\n",
+      "translation": "맞습니다. 에오니아는 쓰러뜨렸고, 『검은\n달』도 파괴하지 않았습니까.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3750,7 +3750,7 @@
         "voice": "GB910337,3"
       },
       "original": "敵艦の接近に際し、緊急事態と判断。\n皇国軍軍規、第１２７条第３項に照らしあわ\nせ、貴艦の許可なく発砲を行ないました。\n",
-      "translation": "적함의 접근을 긴급 사태로 판단.\n황국군 군규 제127조 제3항에 따라,\n귀함의 허가 없이 발포하였습니다.\n",
+      "translation": "적함의 접근을 긴급 사태로 판단.\n황국군 군율 제127조 제3항에 따라,\n귀함의 허가 없이 발포하였습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3846,7 +3846,7 @@
         "speaker": "107,1070103"
       },
       "original": "……いえ、軍規にのっとって、しかるべき対\n応をとったまでです。\n",
-      "translation": "……아니요, 군규에 따라 적절한 대응을\n했을 뿐입니다.\n",
+      "translation": "……아니요, 군율에 따라 적절한 대응을\n했을 뿐입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3870,7 +3870,7 @@
         "speaker": "1,0010101"
       },
       "original": "ところで君、エンジェル隊所属と言ったね？\n新入隊員かい？\n",
-      "translation": "그런데 자네, 엔젤대 소속이라고 했지?\n신입 대원인가?\n",
+      "translation": "그런데 너, 엔젤대 소속이라고 했지?\n신입 대원이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4283,7 +4283,7 @@
         "voice": "GB410807,3"
       },
       "original": "あんたの言っていることは軍規どおりで、大\n変よろしい。\n",
-      "translation": "네가 말하는 건 군규대로라 아주 훌륭해.\n",
+      "translation": "네가 말하는 건 군율대로라 아주 훌륭해.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4530,7 +4530,7 @@
         "speaker": "1,0010101"
       },
       "original": "フォルテの言うとおりさ。\nこちらとしては、大助かりだしね。\nやってもらえるかい？\n",
-      "translation": "포르테가 말한 대로야. 이쪽으로서는 큰\n도움이 되니까 말이야. 부탁해도 될까?\n",
+      "translation": "포르테가 말한 대로야. 우리로서는 큰\n도움이 되니까 말이야. 부탁해도 될까?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8348,7 +8348,7 @@
         "face": "0,0050801,0"
       },
       "original": "まじめすぎるってことかい？\n",
-      "translation": "너무 성실하다는 점 말인가?\n",
+      "translation": "너무 성실하다는 점 말이야?\n",
       "state": "draft",
       "use_translation": true
     },

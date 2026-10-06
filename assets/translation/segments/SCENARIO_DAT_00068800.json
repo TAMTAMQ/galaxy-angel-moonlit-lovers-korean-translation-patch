@@ -2092,7 +2092,7 @@
         "speaker": "1,0010102"
       },
       "original": "そ、それでミント、『白き月』に呼ばれたの\nは何の話だったんだ？\n",
-      "translation": "그, 그래서 민트, 『백색 달』에 불려간 건\n무슨 이야기였어?\n",
+      "translation": "그, 그래서 민트, 『하얀 달』에 불려간 건\n무슨 이야기였어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2105,7 +2105,7 @@
         "speaker": "2,0020101"
       },
       "original": "あれ？\nミント、『白き月』に行ってたの？\n",
-      "translation": "어라? 민트, 『백색 달』에 갔었어?\n",
+      "translation": "어라? 민트, 『하얀 달』에 갔었어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2846,7 +2846,7 @@
         "voice": "GB360285,3"
       },
       "original": "でも、『白き月』でのことも話してくれなかっ\nたし……。\n",
-      "translation": "하지만, 『백색 달』에서의 일도 말해주지\n않았고…….\n",
+      "translation": "하지만, 『하얀 달』에서의 일도 말해주지\n않았고…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2950,7 +2950,7 @@
         "face": "0,0060101,0"
       },
       "original": "あれ、ミントは部屋に戻ったんじゃ？\n",
-      "translation": "어라, 민트는 방으로 돌아가지 않았나?\n",
+      "translation": "어라, 민트는 방으로 돌아가지 않았어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4326,7 +4326,7 @@
         "voice": "GB360328,3"
       },
       "original": "ううん、そうじゃないんだ。\n……ちょっとオレ、これから『白き月』に行っ\nてくるよ。\n",
-      "translation": "아니, 그런 게 아니야. ……나, 이제부터\n『백색 달』에 다녀올게.\n",
+      "translation": "아니, 그런 게 아니야. ……나, 이제부터\n『하얀 달』에 다녀올게.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4339,7 +4339,7 @@
         "speaker": "2,0020101"
       },
       "original": "『白き月』に？\n",
-      "translation": "『백색 달』에 말인가요?\n",
+      "translation": "『하얀 달』에 말인가요?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4352,7 +4352,7 @@
         "face": "0,0020901,0"
       },
       "original": "もし、ミントに会うことがあったら……。\nオレは『白き月』に行った、って伝えてくれ\nるかな。\n",
-      "translation": "혹시, 민트를 만나게 되면…… 내가 『백색\n달』에 갔다고 전해줄래.\n",
+      "translation": "혹시, 민트를 만나게 되면…… 내가 『하얀\n달』에 갔다고 전해줄래.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4391,7 +4391,7 @@
         "speaker": "1,0010301"
       },
       "original": "ミントの様子がおかしくなったのは、『白き\n月』に行ってからだ。\n",
-      "translation": "민트의 상태가 이상해진 건, 『백색 달』에\n다녀온 뒤부터야.\n",
+      "translation": "민트의 상태가 이상해진 건, 『하얀 달』에\n다녀온 뒤부터야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4404,7 +4404,7 @@
         "face": "0,0,0"
       },
       "original": "きっと……『白き月』で、何かがあったんだ。\n",
-      "translation": "분명…… 『백색 달』에서, 무슨 일이\n있었던 거야.\n",
+      "translation": "분명…… 『하얀 달』에서, 무슨 일이\n있었던 거야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5587,7 +5587,7 @@
         "voice": "GB360520,3"
       },
       "original": "オレがこう言い出すと思ったから、口紅を返\nしに来たのか？\n",
-      "translation": "내가 이렇게 말할 줄 알고, 립스틱을\n돌려주러 온 건가?\n",
+      "translation": "내가 이렇게 말할 줄 알고, 립스틱을\n돌려주러 온 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5912,7 +5912,7 @@
         "face": "0,0040201,0"
       },
       "original": "この言葉も嘘だって、君は言うかい？\n",
-      "translation": "이 말도 거짓말이라고, 너는 말할 건가?\n",
+      "translation": "이 말도 거짓말이라고, 너는 말할 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -7233,7 +7233,7 @@
         "voice": "GB560735,3"
       },
       "original": "……『白き月』よ。\nあのふたりをお守りください……。\n",
-      "translation": "……『백색 달』이여. 저 두 사람을\n지켜주세요…….\n",
+      "translation": "……『하얀 달』이여. 저 두 사람을\n지켜주세요…….\n",
       "state": "draft",
       "use_translation": true
     },

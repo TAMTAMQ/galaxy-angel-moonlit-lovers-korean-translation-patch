@@ -66,7 +66,7 @@
         "voice": "GB320801,3"
       },
       "original": "ちょっとね。\nここにミントが来なかったか？\n",
-      "translation": "잠깐 말이야. 여기 민트가 오지 않았나?\n",
+      "translation": "잠깐 말이야. 여기 민트가 오지 않았어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -404,7 +404,7 @@
         "speaker": "1,0010401"
       },
       "original": "……というか、君とヴァニラの間に何か秘密\nがあるのかい？\n",
-      "translation": "……그보다, 자네와 바닐라 사이에 뭔가\n비밀이라도 있는 건가?\n",
+      "translation": "……그보다, 너와 바닐라 사이에 뭔가\n비밀이라도 있는 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -452,7 +452,7 @@
         "voice": "GB320905,3"
       },
       "original": "そんなことより、このあたりでミントを見か\nけなかったか？\n",
-      "translation": "그런 것보다, 이 근처에서 민트를 보지\n못했나?\n",
+      "translation": "그런 것보다, 이 근처에서 민트를 보지\n못했어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1209,7 +1209,7 @@
         "face": "0,0060302,0"
       },
       "original": "あっ、ヴァニラ。\nミントを見かけなかったかい？\n",
-      "translation": "앗, 바닐라. 민트를 보지 못했나?\n",
+      "translation": "앗, 바닐라. 민트를 보지 못했어?\n",
       "state": "draft",
       "use_translation": true
     },

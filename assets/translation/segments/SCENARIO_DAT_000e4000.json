@@ -156,7 +156,7 @@
         "voice": "GB910004,3"
       },
       "original": "やあ、クロミエ。\n何か用事かい？\n",
-      "translation": "여어, 크로미에. 무슨 일이라도 있나?\n",
+      "translation": "여어, 크로미에. 무슨 일이라도 있어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -819,7 +819,7 @@
         "face": "0,0080104,0"
       },
       "original": "エルシオールでとらえることができる？\nなんだそれ、通信みたいなものなのか？\n",
-      "translation": "에르시올에서 포착할 수 있다고? 그게\n뭐야, 통신 같은 건가?\n",
+      "translation": "에르시올에서 포착할 수 있다고? 그게\n뭐야, 통신 같은 거야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1573,7 +1573,7 @@
         "face": "0,0,0"
       },
       "original": "……ラヨ……イソゲ……\n……ニオオワ……\n",
-      "translation": "……아이들이여……서둘러……\n……에 뒤덮이……\n",
+      "translation": "……이여……서둘러……\n……끝나……\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2625,7 +2625,7 @@
         "face": "0,0,0"
       },
       "original": "そうだぞ、タクト。\nエオニアは死んで、『黒き月』も破壊した。\nほかでもない、俺たちがやったんだろうが。\n",
-      "translation": "맞아, 택트. 에오니아는 죽었고, 『흑색\n달』도 파괴했다. 다름 아닌 우리가 해낸\n거잖아.\n",
+      "translation": "맞아, 택트. 에오니아는 죽었고, 『검은\n달』도 파괴했다. 다름 아닌 우리가 해낸\n거잖아.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3191,7 +3191,7 @@
         "speaker": "107,1070101"
       },
       "original": "敵艦の接近に際し、緊急事態と判断。\n皇国軍軍規、第１２７条第３項に照らしあわ\nせ、貴艦の許可なく発砲を行ないました。\n",
-      "translation": "적함의 접근에 따라 긴급 사태로 판단.\n황국군 군규 제127조 제3항에 따라\n귀함의 허가 없이 발포했습니다.\n",
+      "translation": "적함의 접근에 따라 긴급 사태로 판단.\n황국군 군율 제127조 제3항에 따라\n귀함의 허가 없이 발포했습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3287,7 +3287,7 @@
         "voice": "GB910342,3"
       },
       "original": "……いえ、軍規にのっとって、しかるべき対\n応をとったまでです。\n",
-      "translation": "……아니요, 군규에 따라 적절한 대응을\n했을 뿐입니다.\n",
+      "translation": "……아니요, 군율에 따라 적절한 대응을\n했을 뿐입니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3311,7 +3311,7 @@
         "voice": "GB910342,3"
       },
       "original": "ところで君、エンジェル隊所属と言ったね？\n新入隊員かい？\n",
-      "translation": "그런데 자네, 엔젤대 소속이라고 했지?\n신입 대원인가?\n",
+      "translation": "그런데 너, 엔젤대 소속이라고 했지?\n신입 대원이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3515,7 +3515,7 @@
         "voice": "GB910500,3"
       },
       "original": "君は、実戦は初めてかい？\n",
-      "translation": "자네는 실전은 처음인가?\n",
+      "translation": "너는 실전은 처음이야?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3635,7 +3635,7 @@
         "voice": "GB910505,3"
       },
       "original": "先の戦いで得られたデータをもとに、『白き\n月』で改良を加えた、新しいシステムが完成\nしています。\n",
-      "translation": "지난 전투에서 얻은 데이터를 바탕으로,\n『백색 달』에서 개량을 가한 새로운\n시스템이 완성되어 있습니다.\n",
+      "translation": "지난 전투에서 얻은 데이터를 바탕으로,\n『하얀 달』에서 개량을 가한 새로운\n시스템이 완성되어 있습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4006,7 +4006,7 @@
         "face": "0,0070102,0"
       },
       "original": "ああ、レスター。\n元気だったか？\n",
-      "translation": "아아, 레스터. 잘 지냈나?\n",
+      "translation": "아아, 레스터. 잘 지냈어?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4461,7 +4461,7 @@
         "voice": "GB910715,3"
       },
       "original": "反乱軍との戦いが終わった後に、『白き月』\nの内部から発見されたのだそうです。\n",
-      "translation": "반란군과의 전투가 끝난 뒤, 『백색 달』\n내부에서 발견되었다고 합니다.\n",
+      "translation": "반란군과의 전투가 끝난 뒤, 『하얀 달』\n내부에서 발견되었다고 합니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4487,7 +4487,7 @@
         "voice": "GB910716,3"
       },
       "original": "なるほど。\nあの戦いで、『白き月』の封印されていた区\n画が開放されたからか……。\n",
-      "translation": "그렇군. 그 전투에서, 『백색 달』의\n봉인되어 있던 구역이 개방되었기\n때문인가…….\n",
+      "translation": "그렇군. 그 전투에서, 『하얀 달』의\n봉인되어 있던 구역이 개방되었기\n때문인가…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4747,7 +4747,7 @@
         "voice": "GB910901,3"
       },
       "original": "た、タ、タ、タ……！\n",
-      "translation": "타, 타, 타, 타……!\n",
+      "translation": "태, 태, 태, 태……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -4760,7 +4760,7 @@
         "speaker": "107,1070101"
       },
       "original": "……タ、タクトさん……。\n",
-      "translation": "……타, 택트 씨…….\n",
+      "translation": "……태, 택트 씨…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -5709,7 +5709,7 @@
         "speaker": "107,1070101"
       },
       "original": "皇国軍軍規、第８７条第１項に照らしあわせ、\n命令書に記載されている合流ポイントにて待\n機します。\n",
-      "translation": "황국군 군규 제87조 제1항에 따라,\n명령서에 적힌 합류 포인트에서\n대기하겠습니다.\n",
+      "translation": "황국군 군율 제87조 제1항에 따라,\n명령서에 적힌 합류 포인트에서\n대기하겠습니다.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -8726,7 +8726,7 @@
         "voice": "GB911848,3"
       },
       "original": "き、聞いてたのか。\nあはは、はは……。\n",
-      "translation": "기, 듣고 있었나. 아하하, 하하…….\n",
+      "translation": "드, 듣고 있었나. 아하하, 하하…….\n",
       "state": "draft",
       "use_translation": true
     },

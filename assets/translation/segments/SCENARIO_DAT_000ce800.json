@@ -1340,7 +1340,7 @@
         "face": "0,0,0"
       },
       "original": "『黒き月』の中から、あんな艦が……。\n",
-      "translation": "『흑색 달』 안에서, 저런 함선이…….\n",
+      "translation": "『검은 달』 안에서, 저런 함선이…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1964,7 +1964,7 @@
         "face": "0,1410202,0"
       },
       "original": "衛星の資源とエネルギーによって『黒き月』\nを再生し、そのテクノロジーを利用して、こ\nの『オ・ガウブ』を作り上げる……。\n",
-      "translation": "위성의 자원과 에너지로 『흑색 달』을\n재생하고, 그 테크놀로지를 이용해 이\n『오・가우브』를 만들어낸다…….\n",
+      "translation": "위성의 자원과 에너지로 『검은 달』을\n재생하고, 그 테크놀로지를 이용해 이\n『오・가우브』를 만들어낸다…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -1990,7 +1990,7 @@
         "face": "0,1410202,0"
       },
       "original": "後は、あなた方を排除すれば、『白き月』も\nトランスバールも、我ら『ヴァル・ファスク』\nのもの……。\n",
-      "translation": "남은 건 당신들을 배제하면, 『백색 달』도\n트랜스벌도 우리 『발・파스크』의 것…….\n",
+      "translation": "남은 건 당신들을 배제하면, 『하얀 달』도\n트랜스벌도 우리 『발・파스크』의 것…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2003,7 +2003,7 @@
         "speaker": "141,1410201"
       },
       "original": "……いいえ、この私のもの……！\n",
-      "translation": "……아니, 이 나의 것……!\n",
+      "translation": "……아니, 이 몸의 것……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2666,7 +2666,7 @@
         "voice": "GB941689,3"
       },
       "original": "『黒き月』を一度は倒した武器だから、今度\n　も効くだろう……そう思ったのでしょう？\n　なんて浅はかな考え……ふふふっ！\n",
-      "translation": "『흑색 달』을 쓰러뜨린 무기라 이번에도\n　통할 거라 생각했겠지? 참 얕은\n　생각이야…… 후후훗!\n",
+      "translation": "『검은 달』을 쓰러뜨린 무기라 이번에도\n　통할 거라 생각했겠지? 참 얕은\n　생각이야…… 후후훗!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2679,7 +2679,7 @@
         "face": "0,0,0"
       },
       "original": "『黒き月』のテクノロジーと、我ら『ヴァル・\n　ファスク』のテクノロジーが融合した姿。\n　……それが、オ・ガウブなのよ。\n",
-      "translation": "『흑색 달』의 테크놀로지와 우리\n　『발・파스크』의 테크놀로지가 융합한\n　모습. ……그것이, 오・가우브야.\n",
+      "translation": "『검은 달』의 테크놀로지와 우리\n　『발・파스크』의 테크놀로지가 융합한\n　모습. ……그것이, 오・가우브야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2852,7 +2852,7 @@
         "speaker": "5,0050201"
       },
       "original": "『黒き月』と戦ったときのことさ。\n",
-      "translation": "『흑색 달』과 싸웠을 때의 일이야.\n",
+      "translation": "『검은 달』과 싸웠을 때의 일이야.\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2877,7 +2877,7 @@
         "face": "0,0110506,0"
       },
       "original": "なんということだ……。\nあの艦は、『黒き月』の能力も備えていると\nいうのか！？\n",
-      "translation": "이럴 수가……. 저 함선은, 『흑색 달』의\n능력도 갖추고 있다는 건가!?\n",
+      "translation": "이럴 수가……. 저 함선은, 『검은 달』의\n능력도 갖추고 있다는 건가!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2903,7 +2903,7 @@
         "face": "0,0,0"
       },
       "original": "これに、『白き月』の力が加われば……。\nうふふふふ……！\n",
-      "translation": "여기에, 『백색 달』의 힘이 더해지면…….\n우후후후후……!\n",
+      "translation": "여기에, 『하얀 달』의 힘이 더해지면…….\n우후후후후……!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2916,7 +2916,7 @@
         "face": "0,0110506,0"
       },
       "original": "『白き月』……だと！？\n",
-      "translation": "『백색 달』……이라고!?\n",
+      "translation": "『하얀 달』……이라고!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -2929,7 +2929,7 @@
         "face": "0,0110406,0"
       },
       "original": "……貴様などに、『白き月』を渡すわけには！\n",
-      "translation": "……네놈 따위에게, 『백색 달』을 넘겨줄\n수는 없다!\n",
+      "translation": "……네놈 따위에게, 『하얀 달』을 넘겨줄\n수는 없다!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3033,7 +3033,7 @@
         "face": "0,0,0"
       },
       "original": "外壁の６０％にダメージ！\nもう一撃きたら、ダメです！！\n",
-      "translation": "외벽의 60%에 데미지! 한 대만 더 맞으면,\n끝입니다!!\n",
+      "translation": "외벽의 60％에 데미지! 한 대만 더 맞으면\n끝입니다!!\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3267,7 +3267,7 @@
         "face": "0,0,0"
       },
       "original": "そこの『白き月』の艦、聞こえる？\n",
-      "translation": "거기 『백색 달』의 함선, 들려?\n",
+      "translation": "거기 『하얀 달』의 함선, 들려?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3397,7 +3397,7 @@
         "face": "0,0,0"
       },
       "original": "これは……『黒き月』のコア！？\n",
-      "translation": "이건…… 『흑색 달』의 코어!?\n",
+      "translation": "이건…… 『검은 달』의 코어!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3410,7 +3410,7 @@
         "face": "0,0,0"
       },
       "original": "バカな……。\nさっき『黒き月』は破壊して……だが、その\n中からあの艦が……。\n",
-      "translation": "말도 안 돼……. 아까 『흑색 달』은\n파괴했는데…… 하지만, 그 안에서 저\n함선이…….\n",
+      "translation": "말도 안 돼……. 아까 『검은 달』은\n파괴했는데…… 하지만, 그 안에서 저\n함선이…….\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3514,7 +3514,7 @@
         "voice": "GB941740,3"
       },
       "original": "ま、待て！\nどうして『黒き月』のコアが、我らを助ける\nのだ！？\n",
-      "translation": "기, 기다려! 어째서 『흑색 달』의 코어가\n우리를 돕는 거지!?\n",
+      "translation": "기, 기다려! 어째서 『검은 달』의 코어가\n우리를 돕는 거지!?\n",
       "state": "draft",
       "use_translation": true
     },
@@ -3588,7 +3588,7 @@
         "face": "0110406,0,0070301"
       },
       "original": "タクト、相手は『黒き月』なんだぞ！？\nのこのこ付いていくつもりか？\n",
-      "translation": "택트, 상대는 『흑색 달』이라고!? 넙죽\n따라갈 셈이야?\n",
+      "translation": "택트, 상대는 『검은 달』이라고!? 넙죽\n따라갈 셈이야?\n",
       "state": "draft",
       "use_translation": true
     },
