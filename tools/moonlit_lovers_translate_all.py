@@ -1072,6 +1072,21 @@ def main() -> None:
             image_baseline, "final"
         )
 
+    # The PIDX header and IDX.DAT give each FSTS bank a byte size the game reads before
+    # decoding.  Grow it over streams the repacks let run past it, or their tails decode
+    # as garbage (Eternal Lovers crashed this way on its post-battle briefing script).
+    run([
+        sys.executable,
+        "-u",
+        str(ROOT / "tools/sync_fsts_bank_sizes.py"),
+        "--iso",
+        str(output_iso),
+        "--original-iso",
+        str(original_iso),
+        "--report",
+        str(BUILD / "fsts_bank_sizes_report.json"),
+    ])
+
     fsts_physical_report = BUILD / "fsts_physical_layout_report.json"
     run([
         sys.executable,
