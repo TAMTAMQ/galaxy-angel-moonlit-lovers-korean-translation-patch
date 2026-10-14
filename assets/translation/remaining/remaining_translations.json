@@ -8684,7 +8684,7 @@
     {
       "id": "remaining:00953",
       "original": "……今の絶妙な攻撃が、当たってない\n",
-      "translation": "……방금 그 절묘한 공격이, 안 맞았어\n",
+      "translation": "……방금 그 절묘한 공격이, 안 맞았다\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -8694,7 +8694,7 @@
     {
       "id": "remaining:00954",
       "original": "のぉ！？\n",
-      "translation": "는!?\n",
+      "translation": "고!?\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -24353,7 +24353,7 @@
     {
       "id": "remaining:02725",
       "original": "緊急退避します……。\n",
-      "translation": "긴급 퇴피합니다…….\n",
+      "translation": "긴급 대피합니다…….\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
@@ -32560,7 +32560,7 @@
     {
       "id": "remaining:03806",
       "original": "この翼があれば、敵なんか目じゃない\n",
-      "translation": "이 날개가 있으면 적 따윈 상대도 아니겠\n",
+      "translation": "이 날개면 적 따윈 상대도 안 돼.\n",
       "state": "manual_direct",
       "use_translation": true
     },
@@ -35400,7 +35400,7 @@
     {
       "id": "remaining:04288",
       "original": "アルモ、作戦図をモニターへ。\n",
-      "translation": "아르모, 작전 지도를 모니터에 띄워줘.\n",
+      "translation": "아르모, 작전 지도를 모니터에 띄워 줘.\n",
       "state": "reused_exact_consensus",
       "use_translation": true,
       "reuse_sources": [
