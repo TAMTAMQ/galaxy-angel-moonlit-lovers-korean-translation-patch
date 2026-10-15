@@ -34,23 +34,23 @@ PlayStation 2용 『ギャラクシーエンジェル ムーンリットラヴ�
 
 | 항목 | 값 |
 | --- | --- |
-| ISO 크기 | `3,606,800,384 bytes` |
-| SHA-256 | `602dcc3b4f83c306422567159cd74a1b43135fde7a9b2d51045faef6adcfb345` |
+| ISO 크기 | `3,636,408,320 bytes` |
+| SHA-256 | `5fd91948715f769fb3352b3b1424dac61150f36b7daabbf578bca1ec2ba07473` |
 
 ## 2. 패치 적용
 
-1. [Releases](../../releases)에서 `galaxy_angel_moonlit_lovers_ps2_kr_v0.4.6.xdelta`를 받습니다.
+1. [Releases](../../releases)에서 `galaxy_angel_moonlit_lovers_ps2_kr_v0.4.7.xdelta`를 받습니다.
 2. xdelta3 또는 xdelta 패치를 지원하는 프로그램(예: Delta Patcher)에서 **원본 ISO를 Source로** 지정해 적용합니다.
 
    ```bash
    xdelta3 -d -s "Galaxy Angel - Moonlit Lovers (Japan).iso" \
-       galaxy_angel_moonlit_lovers_ps2_kr_v0.4.6.xdelta \
-       "Galaxy_Angel_Moonlit_Lovers_KO_v0.4.6.iso"
+       galaxy_angel_moonlit_lovers_ps2_kr_v0.4.7.xdelta \
+       "Galaxy_Angel_Moonlit_Lovers_KO_v0.4.7.iso"
    ```
 
 3. 결과 ISO의 SHA-256이 위 값과 같은지 확인하세요.
 
-패치 파일 자체의 SHA-256은 `856cb9e9f299b92c0c2b5d21e91a9e2593707631fe1018a30e46bb228cfbe640` 입니다.
+패치 파일 자체의 SHA-256은 `d771836ab05e1777d096d54fb8362ebdf4c44fccda520c61fd16e04f57e2c53a` 입니다.
 
 원본 게임 파일(ISO, BIOS 등)은 이 저장소에 포함되어 있지 않습니다. 정당하게 소유한 정품 이미지에만 적용하세요.
 
