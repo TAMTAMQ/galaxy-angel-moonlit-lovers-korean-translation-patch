@@ -146,7 +146,8 @@ def main() -> int:
 
     # The files on disk are the authority.  Do not derive this list from ASS
     # contents, a manifest, or an older ISO: those are allowed to be stale.
-    replacements = sorted(args.pss_dir.glob("GADAT*.PSS"))
+    subtitles_dir = Path("movie/subtitles")
+    replacements = sorted(p for p in args.pss_dir.glob("GADAT*.PSS") if (subtitles_dir / f"{p.stem}.ko.ass").is_file() and any(line.startswith("Dialogue:") for line in (subtitles_dir / f"{p.stem}.ko.ass").read_text(encoding="utf-8-sig").splitlines()))
     if not replacements:
         raise ValueError(f"no authoritative PSS files found in {args.pss_dir}")
 
