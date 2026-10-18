@@ -1,7 +1,11 @@
-# Issue #1 후속 검수 (2026-10-18)
+# Issue #1 후속 검수 (2026-10-18~19)
 
 v0.4.7 이후의 소스 수정과 로컬 테스트 ISO 검증 기록이다. 정식 릴리즈 완료를 뜻하지 않는다.
 기존 댓글의 1~6화 문구별 변경 내역은 유지하고, 아래 누락 수정과 검증 결과를 보충한다.
+
+반영 커밋: [문릿 5fd3b60](https://github.com/TAMTAMQ/galaxy-angel-moonlit-lovers-korean-translation-patch/commit/5fd3b60),
+[이터널 6dc72b7](https://github.com/TAMTAMQ/galaxy-angel-eternal-lovers-korean-translation-patch/commit/6dc72b7),
+[본편 7b9749f](https://github.com/TAMTAMQ/galaxy-angel-korean-translation-patch/commit/7b9749f).
 
 ## 전투 대사 창 넘침의 잔여 원인 수정
 
@@ -40,6 +44,7 @@ v0.4.7 이후의 소스 수정과 로컬 테스트 ISO 검증 기록이다. 정�
   SLG 281개, SLGRES 81개, SLGSTAGE 715개 리소스 일치.
 - SLGSTAGE 물리 stage-entry 87개: indexed/physical 일치.
 - FSTS 은행 크기: 리소스 끝이 은행 크기/다음 은행 경계를 넘지 않음.
+- PIDX/IDX 일치: SCENARIO 177개, SLG 4,102개, GADAT000 36개.
 - 최종 ISO SHA-256: `5f316b3fea419e0eb1bd193b8a90e1547d5f50eb0098eebc65c5d1fa6f686189`.
 
 ## 이슈를 아직 닫지 않는 이유
