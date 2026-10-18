@@ -31,7 +31,7 @@ import eternal_lovers_render_candidate_images as renderer
 import galaxy_angel_build as builder
 import ikusa_lz
 import moonlit_lovers_resources as resources
-from eternal_lovers_patch_remaining import encode_resource, merged_resources
+from eternal_lovers_patch_remaining import encode_resource, merged_resources, repack_container
 from galaxy_angel_gadat032 import decode_tex, encode_tex, tex_info
 
 
@@ -72,6 +72,7 @@ def compress_to_fit(
     capacity: int,
     codec: str,
     require_exact_pixels: bool = False,
+    allow_palette_reduction: bool = True,
 ):
     """Encode and compress, trying palette reductions only if the slot demands it.
 
@@ -82,7 +83,7 @@ def compress_to_fit(
     info = tex_info(original)
     replacement_hash = pixel_hash(replacement) if require_exact_pixels else None
     attempts: list[int | None] = [None]
-    if info.palette_colours:
+    if info.palette_colours and allow_palette_reduction:
         attempts += [limit for limit in (256, 128, 64, 32, 16, 8, 4) if limit <= info.palette_colours]
     best = None
     exact_pixel_candidate_seen = False
@@ -222,6 +223,8 @@ def main() -> None:
 
             boundaries = sorted(resource_map)
             written, skipped, unchanged, refitted = 0, [], 0, 0
+            planned = {}
+            needs_repack = False
             for entry in manifest:
                 manifest_offset = int(entry["resource_offset"])
                 stable_record = original_records.get(stem, {}).get(manifest_offset)
@@ -298,48 +301,46 @@ def main() -> None:
                     rebuilt, compressed, _colours = compress_to_fit(
                         original_raw,
                         replacement,
-                        capacity,
+                        current_capacity,
                         resource.codec,
                         require_exact_pixels=args.preserve_pixels,
+                        allow_palette_reduction=False,
                     )
-                except ValueError as error:
-                    if args.no_refit or args.preserve_pixels:
-                        raise ValueError(
-                            f"{stem}/{entry['png']}: current translated image cannot be "
-                            f"stored losslessly in its bank slot: {error}"
-                        ) from error
-                    # A mirror gets the same treatment as any other copy: refit()
-                    # re-renders it from the canonical SLG source with a smaller
-                    # label, so the picture stays the canonical one and only this
-                    # tight bank slot carries the shrunk draw.
-                    rebuilt, compressed = refit(
-                        args.project, entry, original_raw, capacity, resource.codec
+                except ValueError:
+                    # Keep native rendering and compact around fixed control streams.
+                    rebuilt, compressed, _colours = compress_to_fit(
+                        original_raw, replacement, len(container), resource.codec,
+                        require_exact_pixels=args.preserve_pixels,
+                        allow_palette_reduction=False,
                     )
-                    if rebuilt is None:
-                        skipped.append({"png": entry["png"], "reason": str(error)})
-                        continue
-                    refitted += 1
-
-                if len(compressed) > current_capacity:
-                    raise ValueError(
-                        f"{stem}/{entry['png']}: source-slot result exceeds current slot: "
-                        f"{len(compressed)}>{current_capacity}"
-                    )
-                cleared = max(len(compressed), resource.compressed_size)
-                container[offset : offset + cleared] = bytes(cleared)
-                container[offset : offset + len(compressed)] = compressed
-                for record in resource.record_positions:
-                    struct.pack_into("<II", container, record + 8, len(rebuilt), len(compressed))
-                resource.raw_size = len(rebuilt)
-                resource.compressed_size = len(compressed)
+                    needs_repack = True
+                planned[offset] = (compressed, len(rebuilt))
                 written += 1
 
+            if skipped:
+                raise ValueError(f"{stem}: authority images were skipped: {skipped}")
+            relocated = 0
+            if needs_repack:
+                container, _records, relocated = repack_container(bytes(container), resource_map, planned)
+                if len(container) != item.size:
+                    raise ValueError(f"{stem}: image repack changed the fixed container size")
+            else:
+                for offset, (compressed, raw_size) in planned.items():
+                    resource = resource_map[offset]
+                    cleared = max(len(compressed), resource.compressed_size)
+                    container[offset:offset + cleared] = bytes(cleared)
+                    container[offset:offset + len(compressed)] = compressed
+                    for record in resource.record_positions:
+                        struct.pack_into("<II", container, record + 8, raw_size, len(compressed))
             image[begin : begin + item.size] = bytes(container)
             report["containers"][stem] = {
                 "targets": len(manifest),
                 "written": written,
                 "already_translated": unchanged,
                 "redrawn_smaller_to_fit": refitted,
+                "capacity_palette_reductions": 0,
+                "repacked": needs_repack,
+                "relocated_resources": relocated,
                 "skipped": skipped,
             }
         image.flush()

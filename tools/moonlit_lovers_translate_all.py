@@ -1100,6 +1100,13 @@ def main() -> None:
         str(fsts_physical_report),
     ])
 
+    if image_reports:
+        run([
+            sys.executable, "-u", str(ROOT / "tools/verify_battle_authority_pixels.py"),
+            "--project", str(PROJECT), "--layout", "moonlit",
+            "--original-iso", str(original_iso), "--iso", str(output_iso),
+            "--report", str(BUILD / "battle_authority_pixels_report.json"),
+        ])
     final_digest = sha256(output_iso)
     report = {
         "schema": "moonlit-lovers-integrated-build/v1",
