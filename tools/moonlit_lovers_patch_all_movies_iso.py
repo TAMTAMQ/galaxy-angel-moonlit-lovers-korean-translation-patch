@@ -144,8 +144,7 @@ def main() -> int:
     ap.add_argument("--plan-only", action="store_true")
     args = ap.parse_args()
 
-    # The files on disk are the authority.  Do not derive this list from ASS
-    # contents, a manifest, or an older ISO: those are allowed to be stale.
+    # Use current PSS files only when their ASS contains dialogue, per user policy.
     subtitles_dir = Path("movie/subtitles")
     replacements = sorted(p for p in args.pss_dir.glob("GADAT*.PSS") if (subtitles_dir / f"{p.stem}.ko.ass").is_file() and any(line.startswith("Dialogue:") for line in (subtitles_dir / f"{p.stem}.ko.ass").read_text(encoding="utf-8-sig").splitlines()))
     if not replacements:
