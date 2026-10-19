@@ -129,7 +129,10 @@ def ordered_custom_chars(
     current = collect_custom_chars(translations)
     compatibility = load_compatibility_chars(compatibility_map)
     compatibility_set = set(compatibility)
-    ordered = compatibility + [char for char in current if char not in compatibility_set]
+    added = [char for char in current if char not in compatibility_set]
+    if compatibility_map is not None and added:
+        raise SystemExit(f"append new glyphs to the compatibility map before building: {''.join(added)}")
+    ordered = compatibility + added
     return ordered, len(current), len(compatibility)
 
 

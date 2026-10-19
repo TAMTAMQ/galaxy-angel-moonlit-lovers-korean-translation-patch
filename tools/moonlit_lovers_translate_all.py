@@ -740,6 +740,12 @@ def main() -> None:
         str(BUILD / "saveload_elf_strings_report.json"),
     ])
 
+    run([
+        sys.executable, "-u", str(ROOT / "tools/series_save_title_boundary.py"),
+        "--game", "moonlit", "--elf", str(font_elf),
+        "--report", str(BUILD / "save_title_boundary_report.json"),
+    ])
+
     if scenario_out.exists():
         shutil.rmtree(scenario_out)
     materialize_report = materializer.materialize(
