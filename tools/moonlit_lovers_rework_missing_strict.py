@@ -393,7 +393,7 @@ def render_score_name(original: Image.Image, text: str) -> tuple[Image.Image, np
 def battle_result_regions(name: str) -> list[tuple[tuple[int,int,int,int],str]]:
     if name == "block_01207800.png": header_y=35; rows=[76,110,144,178,212,246,280,313]; total_y=360
     else: header_y=51; rows=[87,121,155,189,223,257,291,324]; total_y=366
-    ships=["엘시오르","럭키 스타","쿵푸 파이터","트릭 마스터","해피 트리거","하베스터","샤프 슈터","기타"]
+    ships=["엘시오르","럭키 스타","쿵후 파이터","트릭 마스터","해피 트리거","하베스터","샤프 슈터","기타"]
     out=[((20,10,140,47),"전투 결과"),((155,header_y,235,header_y+30),"격추 수"),((230,header_y,305,header_y+30),"전투 평가"),((300,header_y,375,header_y+30),"보너스"),((385,header_y,430,header_y+30),"득점"),((440,header_y,525,header_y+30),"누적 격추 수"),((520,header_y,605,header_y+30),"누적 점수")]
     out += [((15,y,165,y+28),txt) for y,txt in zip(rows,ships)]
     out.append(((15,total_y,80,total_y+35),"합계"))
