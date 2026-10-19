@@ -321,9 +321,22 @@ def main() -> None:
                 raise ValueError(f"{stem}: authority images were skipped: {skipped}")
             relocated = 0
             if needs_repack:
-                container, _records, relocated = repack_container(bytes(container), resource_map, planned)
+                before = bytes(container)
+                fixed = {offset: offset for offset in resource_map if offset not in planned}
+                container, _records, relocated = repack_container(before, resource_map, planned, fixed_offsets=fixed)
                 if len(container) != item.size:
                     raise ValueError(f"{stem}: image repack changed the fixed container size")
+                after_map = merged_resources(bytes(container), stem)
+                after_records = {record: resource for resource in after_map.values() for record in resource.record_positions}
+                for offset in fixed:
+                    previous = resource_map[offset]
+                    for record in previous.record_positions:
+                        current = after_records[record]
+                        if (current.offset, current.raw_size, current.compressed_size) != (offset, previous.raw_size, previous.compressed_size):
+                            raise ValueError(f"{stem}: image repack changed an unrelated resource: {offset:#x}")
+                    end = offset + previous.compressed_size
+                    if container[offset:end] != before[offset:end]:
+                        raise ValueError(f"{stem}: image repack changed unrelated payload: {offset:#x}")
             else:
                 for offset, (compressed, raw_size) in planned.items():
                     resource = resource_map[offset]
